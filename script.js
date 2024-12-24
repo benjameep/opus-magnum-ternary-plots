@@ -61,19 +61,18 @@ fetch(`/data/solutions/${window.PUZZLE}.json`).then(r => r.json()).then(data => 
       solution.points = decodePoints(solution.shape);
       solution.$ = L.polygon(solution.points, {
         color: getColor(solution.color, true),
-        weight: 3,
+        weight: 1,
         opacity: 1,
-        fillColor: getColor(solution.color, false),
-        fillOpacity: 1,
+        fillOpacity: 0.6,
       }).addTo(map);
       solution.$.on('mouseover', function() {
         this.setStyle({
-          fillColor: getColor(solution.color, true)
+          fillOpacity: 0.9,
         });
       });
       solution.$.on('mouseout', function() {
         this.setStyle({
-          fillColor: getColor(solution.color, false)
+          fillOpacity: 0.6,
         });
       });
       solution.$.on('click', function() {
