@@ -10,7 +10,7 @@ function getColor(idx, highlighted=false) {
   console.assert(idx >= 0 && idx < 6, "idx out of range");
   console.assert(typeof highlighted === "boolean", "highlighted must be a boolean");
   idx = (idx * 2 + highlighted) * 6
-  return COLORS.slice(idx, idx+6);
+  return '#' + COLORS.slice(idx, idx+6);
 }
 
 function base64ToArrayBuffer(base64) {
@@ -59,9 +59,24 @@ fetch(`/data/solutions/${window.PUZZLE}.json`).then(r => r.json()).then(data => 
     const solution = data.solutions[i];
     try {
       solution.points = decodePoints(solution.shape);
-      solution.$ = L.polygon(solution.points, {color: "#" + getColor(solution.color, true), weight: 1}).addTo(map);
+      solution.$ = L.polygon(solution.points, {
+        color: getColor(solution.color, true),
+        weight: 3,
+        opacity: 1,
+        fillColor: getColor(solution.color, false),
+        fillOpacity: 1,
+      }).addTo(map);
+      solution.$.on('mouseover', function() {
+        this.setStyle({
+          fillColor: getColor(solution.color, true)
+        });
+      });
+      solution.$.on('mouseout', function() {
+        this.setStyle({
+          fillColor: getColor(solution.color, false)
+        });
+      });
       solution.$.on('click', function() {
-        this.setStyle({color: "#" + getColor(solution.color, true)});
         setPopup(solution.gif);
       });
     } catch(e) {
