@@ -57,25 +57,28 @@ function loadPuzzle(puzzle_id) {
       const solution = data.solutions[i];
       try {
         solution.points = decodePoints(solution.shape);
-        solution.$ = L.polygon(solution.points, {
+        const polygon = L.polygon(solution.points, {
           color: getColor(solution.color, true),
           weight: 1,
           opacity: 1,
           fillOpacity: 0.6,
         }).addTo(map);
-        solution.$.on('mouseover', function() {
+        polygon.on('mouseover', function() {
           this.setStyle({
             fillOpacity: 0.9,
           });
         });
-        solution.$.on('mouseout', function() {
+        polygon.on('mouseout', function() {
           this.setStyle({
             fillOpacity: 0.6,
           });
         });
-        solution.$.on('click', function() {
+        polygon.on('click', function() {
           setPopup(solution.gif);
         });
+        polygon.bindTooltip(`${solution.metrics.cycles}c / ${solution.metrics.area}a / ${solution.metrics.cost}g`,{
+          direction: 'center',
+        })
       } catch(e) {
         console.error(e, solution);
         continue;

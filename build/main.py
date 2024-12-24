@@ -70,11 +70,11 @@ if __name__ == '__main__':
     
     METRICS = ['cycles','cost','area']
     INCLUDE_OVERLAP = False
-    DENSITY = 1000
+    DENSITY = 1500
     
     json.dump(puzzles, (EXPORT_DIR / 'puzzles.json').open('w'))
 
-    for puzzle in tqdm(puzzles[:1]):
+    for puzzle in tqdm(puzzles):
         filepath = (EXPORT_DIR / f'solutions/{puzzle["id"]}.json')
         data = {
             'id': puzzle['id'],
