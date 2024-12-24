@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+    <!-- jQuery -->
+    <script
+    src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+    integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+    crossorigin="anonymous"></script>
+
+    <!-- Autocomplete.js -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/css/autoComplete.01.min.css">
+    <style>
+      body { margin: 0px; }
+
+      main {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        align-items: center;
+      }
+
+      header {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px;
+      }
+
+      h1 {
+        line-height: 0px;
+        display: inline-block;
+      }
+
+      #map {  
+        height: 100%;
+        width: 100vw;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+      .popup {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        z-index: 1000;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: rgba(0,0,0,0.2);
+      }
+      .popup-content {
+        max-width: 600px;
+        margin: auto;
+        box-shadow: 1px 3px 4px rgba(0,0,0,0.1);
+      }
+
+      #search {
+        flex-grow: 1;
+        flex-shrink: 1;
+        max-width: 300px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1></h1>
+        <input id="search" type="search" dir="ltr" spellcheck=false autocorrect="off" autocomplete="off" autocapitalize="off" maxlength="2048" tabindex="1">
+      </header>
+      </header>
+      <div id="map"></div>
+    </main>
+    <div class="popup hidden">
+      <div class="popup-content">
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.9/dist/autoComplete.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
