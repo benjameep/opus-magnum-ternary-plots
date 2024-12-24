@@ -47,43 +47,42 @@ $('.popup').click(function() {
   $('.popup').addClass('hidden');
 });
 
-window.PUZZLE = window.location.search.split('?')[1];
-if (!window.PUZZLE) {
-  window.PUZZLE = 'P060';
-}
-fetch(`/data/solutions/${window.PUZZLE}.json`).then(r => r.json()).then(data => {
-  $('h1').text(data.name);
-  console.log('last updated on', new Date(data.last_updated))
-
-  for(var i = 0; i < data.solutions.length; i++) {
-    const solution = data.solutions[i];
-    try {
-      solution.points = decodePoints(solution.shape);
-      solution.$ = L.polygon(solution.points, {
-        color: getColor(solution.color, true),
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.6,
-      }).addTo(map);
-      solution.$.on('mouseover', function() {
-        this.setStyle({
-          fillOpacity: 0.9,
-        });
-      });
-      solution.$.on('mouseout', function() {
-        this.setStyle({
+function loadPuzzle(puzzle_id) {
+  window.PUZZLE = puzzle_id;
+  fetch(`/data/solutions/${puzzle_id}.json`).then(r => r.json()).then(data => {
+    $('h1').text(data.name);
+    console.log('last updated on', new Date(data.last_updated))
+  
+    for(var i = 0; i < data.solutions.length; i++) {
+      const solution = data.solutions[i];
+      try {
+        solution.points = decodePoints(solution.shape);
+        solution.$ = L.polygon(solution.points, {
+          color: getColor(solution.color, true),
+          weight: 1,
+          opacity: 1,
           fillOpacity: 0.6,
+        }).addTo(map);
+        solution.$.on('mouseover', function() {
+          this.setStyle({
+            fillOpacity: 0.9,
+          });
         });
-      });
-      solution.$.on('click', function() {
-        setPopup(solution.gif);
-      });
-    } catch(e) {
-      console.error(e, solution);
-      continue;
+        solution.$.on('mouseout', function() {
+          this.setStyle({
+            fillOpacity: 0.6,
+          });
+        });
+        solution.$.on('click', function() {
+          setPopup(solution.gif);
+        });
+      } catch(e) {
+        console.error(e, solution);
+        continue;
+      }
     }
-  }
-})
+  });
+}
 
 fetch('/data/puzzles.json').then(r => r.json()).then(data => {
   window.autoCompleteJS = new autoComplete({
@@ -107,4 +106,14 @@ fetch('/data/puzzles.json').then(r => r.json()).then(data => {
       }
     }
   });
+  if (window.PUZZLE == undefined) {
+    // load a random puzzle
+    const random_puzzle = data[Math.floor(Math.random() * data.length)];
+    loadPuzzle(random_puzzle.id);
+  }
 })
+
+const puzzle_id = window.location.search.slice(1)
+if (puzzle_id) {
+  loadPuzzle(puzzle_id);
+}
