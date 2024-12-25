@@ -64,13 +64,9 @@ def process_solutions(
         })
     return solutions
 
-if __name__ == '__main__':
+def process_all_puzzles(metrics=['cycles','cost','area'], include_overlap=False, density=100):
     now = time.time() * 1000
     puzzles = api.list_puzzles()
-    
-    METRICS = ['cycles','cost','area']
-    INCLUDE_OVERLAP = False
-    DENSITY = 1500
     
     json.dump(puzzles, (EXPORT_DIR / 'puzzles.json').open('w'))
 
@@ -84,11 +80,20 @@ if __name__ == '__main__':
             'last_updated': now,
             'solutions': process_solutions(
                 puzzle['id'],
-                metrics=METRICS,
-                include_overlap=INCLUDE_OVERLAP,
-                density=DENSITY
+                metrics=metrics,
+                include_overlap=include_overlap,
+                density=density
             ),
-            'metrics': METRICS,
-            'include_overlap': INCLUDE_OVERLAP,
+            'metrics': metrics,
+            'include_overlap': include_overlap,
         }
         json.dump(data, filepath.open('w'))
+
+if __name__ == '__main__':    
+    process_all_puzzles(
+        metrics=['cycles','cost','area'],
+        include_overlap=False,
+        density=1500
+    )
+    
+    # process_solutions('P056')
