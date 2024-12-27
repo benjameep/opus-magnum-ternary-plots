@@ -53,13 +53,15 @@ function loadPuzzle(puzzle_id) {
     $('h1').text(data.name);
     const last_updated = (new Date(data.last_updated)).toLocaleDateString();
     $('.leaflet-control-attribution').append(` | <a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
+    const colors = d3.scaleSequential([-1, data.num_colors], d3.interpolateYlGnBu);
+    console.log(data.num_colors)
   
     for(var i = 0; i < data.solutions.length; i++) {
       const solution = data.solutions[i];
       try {
         solution.points = decodePoints(solution.shape);
         const polygon = L.polygon(solution.points, {
-          color: getColor(solution.color, true),
+          color: colors(solution.color),
           weight: 1,
           opacity: 1,
           fillOpacity: 0.6,
@@ -80,6 +82,7 @@ function loadPuzzle(puzzle_id) {
         polygon.bindTooltip(`${solution.metrics.cycles}c / ${solution.metrics.area}a / ${solution.metrics.cost}g`,{
           direction: 'center',
         })
+        // polygon.bindTooltip(`${solution.id}`,{direction: 'center',})
       } catch(e) {
         console.error(e, solution);
         continue;

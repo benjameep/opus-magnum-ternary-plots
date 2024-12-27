@@ -49,18 +49,19 @@ def process_solutions(
     df = get_frontier(df, metrics, include_overlap)
     scores = df[metrics].apply(linear_norm).to_numpy()
     # print(json.dumps(scores.tolist()))
-    shapes = get_polygons(scores, depth)
+    shapes, coloring = get_polygons(scores, depth)
     solutions = []
     for id, shape in shapes.items():
         row = df.iloc[id].to_dict()
         solutions.append({
+            'id': int(id),
             'gif': row['gif'],
             'categories': row['categories'],
             'metrics': {
                 metric: row[metric]
                 for metric in metrics
             },
-            'color': int(id) % 6,
+            'color': coloring[id],
             'shape': pack_points(to_yx_percent(shape)),
         })
     return solutions
@@ -73,18 +74,20 @@ def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False,
 
     for puzzle in tqdm(puzzles):
         filepath = (EXPORT_DIR / f'solutions/{puzzle["id"]}.json')
+        solutions = process_solutions(
+            puzzle['id'],
+            metrics=metrics,
+            include_overlap=include_overlap,
+            depth=depth
+        )
         data = {
             'id': puzzle['id'],
             'name': puzzle['name'],
             'collection': puzzle['collection'],
             'group': puzzle['group'],
             'last_updated': now,
-            'solutions': process_solutions(
-                puzzle['id'],
-                metrics=metrics,
-                include_overlap=include_overlap,
-                depth=depth
-            ),
+            'num_colors': max(s['color'] for s in solutions) + 1,
+            'solutions': solutions,
             'metrics': metrics,
             'include_overlap': include_overlap,
         }
@@ -97,4 +100,4 @@ if __name__ == '__main__':
         depth=24
     )
     
-    # process_solutions('P020', metrics=['area','cycles','cost'])
+    # solutions = process_solutions('P007', metrics=['area','cycles','cost'])

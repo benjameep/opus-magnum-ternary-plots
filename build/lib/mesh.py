@@ -3,6 +3,7 @@ import typing as t
 import numpy as np
 from collections import namedtuple, defaultdict
 from scipy.spatial import ConvexHull
+import networkx as nx
 
 SCORES = np.array([[]])
 
@@ -132,13 +133,12 @@ def contains_intersection(triangle: Triangle) -> bool:
     return not triple_side and (len(corners) == 3)
 
 def get_triangle_point(triangle: Triangle) -> TrianglePoint:
+    cats = []
+    for side in triangle:
+        cats += [side.p1.cat, *side.cats[1:-1]]
     return TrianglePoint(
         p = (triangle.s1.p1.p + triangle.s2.p1.p + triangle.s3.p1.p) / 3,
-        cats=list({
-            *triangle.s1.cats,
-            *triangle.s2.cats,
-            *triangle.s3.cats,
-        })
+        cats=cats
     )
 
 def iter_intersections(triangle, depth):
@@ -162,17 +162,23 @@ def get_polygons(scores, depth):
     global SCORES
     SCORES = scores
     root = construct_triangle((0.0,0.0),(0.0,1.0),(1.0,0.0), depth)
+    G = nx.Graph()
 
     cat_points = defaultdict(list)    
     for side in root:
         cat_points[side.p1.cat].append(side.p1.p)
         for i,point in enumerate(side.points):
+            G.add_edge(side.cats[i], side.cats[i+1])
             cat_points[side.cats[i]].append(point)
             cat_points[side.cats[i+1]].append(point)
     
     for intersection in iter_intersections(root, depth):
-        for cat in intersection.cats:
+        for cat in set(intersection.cats):
             cat_points[cat].append(intersection.p)
+        for edge in zip(intersection.cats, np.roll(intersection.cats, 1)):
+            G.add_edge(*edge)
+    
+    coloring = nx.coloring.greedy_color(G)
     
     polygons = {}
     for id, points in cat_points.items():
@@ -186,4 +192,4 @@ def get_polygons(scores, depth):
             hull.points[i] for i in hull.vertices
         ])
     
-    return polygons
+    return polygons, coloring
