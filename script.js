@@ -49,9 +49,10 @@ $('.popup').click(function() {
 
 function loadPuzzle(puzzle_id) {
   window.PUZZLE = puzzle_id;
-  fetch(`/data/solutions/${puzzle_id}.json`).then(r => r.json()).then(data => {
+  fetch(`./data/solutions/${puzzle_id}.json`).then(r => r.json()).then(data => {
     $('h1').text(data.name);
-    console.log('last updated on', new Date(data.last_updated))
+    const last_updated = (new Date(data.last_updated)).toLocaleDateString();
+    $('.leaflet-control-attribution').append(` | <a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
   
     for(var i = 0; i < data.solutions.length; i++) {
       const solution = data.solutions[i];
@@ -87,7 +88,7 @@ function loadPuzzle(puzzle_id) {
   });
 }
 
-fetch('/data/puzzles.json').then(r => r.json()).then(data => {
+fetch('./data/puzzles.json').then(r => r.json()).then(data => {
   window.autoCompleteJS = new autoComplete({
     placeHolder: "Search for Puzzle...",
     data: {

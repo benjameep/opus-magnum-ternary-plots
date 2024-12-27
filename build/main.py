@@ -1,5 +1,5 @@
 import lib.api as api
-from lib.get_shapes import get_shapes
+from lib.mesh import get_polygons
 import numpy as np
 import time
 from pathlib import Path
@@ -26,11 +26,11 @@ def linear_norm(s):
         return (s - s.min()) / (s.max() - s.min())
 
 SQRT3OVER2 = np.sqrt(3) / 2
-def to_yx_percent(shape, density):
-    shape = shape / density * 100
+def to_yx_percent(shape):
+    shape = shape * 100
     return np.array([
-        shape[:,0] * SQRT3OVER2,
-        shape[:,2] + shape[:,0] / 2,
+        shape[:,1] * SQRT3OVER2,
+        shape[:,0] + shape[:,1] / 2,
     ]).T
 
 import struct
@@ -41,14 +41,15 @@ def pack_points(points):
 
 def process_solutions(
             puzzle_id,
-            metrics=['cycles','cost','area'],
+            metrics=['area','cycles','cost'],
             include_overlap=False,
-            density=100
+            depth=24
         ):
     df = api.get_solutions(puzzle_id)
     df = get_frontier(df, metrics, include_overlap)
     scores = df[metrics].apply(linear_norm).to_numpy()
-    shapes = get_shapes(scores, density)
+    # print(json.dumps(scores.tolist()))
+    shapes = get_polygons(scores, depth)
     solutions = []
     for id, shape in shapes.items():
         row = df.iloc[id].to_dict()
@@ -60,11 +61,11 @@ def process_solutions(
                 for metric in metrics
             },
             'color': int(id) % 6,
-            'shape': pack_points(to_yx_percent(shape, density)),
+            'shape': pack_points(to_yx_percent(shape)),
         })
     return solutions
 
-def process_all_puzzles(metrics=['cycles','cost','area'], include_overlap=False, density=100):
+def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False, depth=24):
     now = time.time() * 1000
     puzzles = api.list_puzzles()
     
@@ -82,7 +83,7 @@ def process_all_puzzles(metrics=['cycles','cost','area'], include_overlap=False,
                 puzzle['id'],
                 metrics=metrics,
                 include_overlap=include_overlap,
-                density=density
+                depth=depth
             ),
             'metrics': metrics,
             'include_overlap': include_overlap,
@@ -91,9 +92,9 @@ def process_all_puzzles(metrics=['cycles','cost','area'], include_overlap=False,
 
 if __name__ == '__main__':    
     process_all_puzzles(
-        metrics=['cycles','cost','area'],
+        metrics=['area','cycles','cost'],
         include_overlap=False,
-        density=1500
+        depth=24
     )
     
-    # process_solutions('P056')
+    # process_solutions('P020', metrics=['area','cycles','cost'])
