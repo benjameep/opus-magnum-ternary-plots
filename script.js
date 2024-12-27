@@ -105,7 +105,7 @@ fetch('./data/puzzles.json').then(r => r.json()).then(data => {
       input: {
         selection(e) {
           const selection = e.detail.selection.value;
-          window.location = `/?${selection.id}`;
+          window.location.search = `?${selection.id}`;
         }
       }
     }
