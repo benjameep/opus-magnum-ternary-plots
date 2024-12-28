@@ -5,14 +5,6 @@ var map = L.map('map', {
   maxBounds: [[-50, -50], [150, 150]] // set panning bounds
 }).setView([40, 50], 3);
 
-COLORS = "a6cee31f78b4b2df8a33a02cfb9a99e31a1cfdbf6fff7f00cab2d66a3d9affff99b15928"
-function getColor(idx, highlighted=false) {
-  console.assert(idx >= 0 && idx < 6, "idx out of range");
-  console.assert(typeof highlighted === "boolean", "highlighted must be a boolean");
-  idx = (idx * 2 + highlighted) * 6
-  return '#' + COLORS.slice(idx, idx+6);
-}
-
 function base64ToArrayBuffer(base64) {
   var binaryString = atob(base64);
   var bytes = new Uint8Array(binaryString.length);
@@ -52,16 +44,14 @@ function loadPuzzle(puzzle_id) {
   fetch(`./data/solutions/${puzzle_id}.json`).then(r => r.json()).then(data => {
     $('h1').text(data.name);
     const last_updated = (new Date(data.last_updated)).toLocaleDateString();
-    $('.leaflet-control-attribution').append(` | <a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
-    const colors = d3.scaleSequential([-1, data.num_colors], d3.interpolateYlGnBu);
-    console.log(data.num_colors)
+    $('.leaflet-control-attribution').html(`<a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
   
     for(var i = 0; i < data.solutions.length; i++) {
       const solution = data.solutions[i];
       try {
         solution.points = decodePoints(solution.shape);
         const polygon = L.polygon(solution.points, {
-          color: colors(solution.color),
+          color: d3.schemeSet1[solution.color+1],
           weight: 1,
           opacity: 1,
           fillOpacity: 0.6,
