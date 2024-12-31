@@ -1,0 +1,35 @@
+{
+  "id": "P101",
+  "name": "Celestial Thread",
+  "collection": "Journal",
+  "group": "Journal VIII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/70g-7538c-8045a-7538i-T-ab50c27b.mp4", "categories": ["GC", "GA", "GX", "OGC", "TG"], "metrics": {"area": 8045, "cycles": 7538, "cost": 70}, "color": 1, "shape": "AAAAAAAAAAAAAAAAmaGSP7p/Bj1mJpE/2AgUP5Lhbz/MNJY/d3EtPw=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-80g-1328c-466a-1328i-27h-21.5w-8ad44a.mp4", "categories": [], "metrics": {"area": 466, "cycles": 1328, "cost": 80}, "color": 0, "shape": "ZLkvQqfoykHMNJY/d3EtP9gIFD+S4W8/yoPYQc1sL0KNtOFBbNkvQg=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-80g-1573c-176a-1573i-17h-14.5w-06a806.mp4", "categories": [], "metrics": {"area": 176, "cycles": 1573, "cost": 80}, "color": 2, "shape": "yoPYQc1sL0LYCBQ/kuFvP7p/Bj1mJpE/qUAEQJ62jkI="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-80g-1628c-174a-1628i-17h-14.5w-058a59.mp4", "categories": [], "metrics": {"area": 174, "cycles": 1628, "cost": 80}, "color": 0, "shape": "qUAEQJ62jkK6fwY9ZiaRPwAAAACZoZI/AAAAAIgOlEI="},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/110g-1324c-78a-1324i-8f95a694.mp4", "categories": ["HG"], "metrics": {"area": 78, "cycles": 1324, "cost": 110}, "color": 1, "shape": "AAAAAIgOlEIAAAAADmOtQsj8wUDL7LFCN58VQYm+pEKNtOFBbNkvQsqD2EHNbC9CqUAEQJ62jkI="},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/120g-1392c-64a-1392i-41f36cbd.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 64, "cycles": 1392, "cost": 120}, "color": 3, "shape": "AAAAAAAAyELnYaU/EYLGQgEY/T/9mMRCyPzBQMvssUIAAAAADmOtQg=="},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/220g-168c-92a-648i-923effc1.mp4", "categories": ["SUM"], "metrics": {"area": 92, "cycles": 168, "cost": 220}, "color": 2, "shape": "plqeQv/ZNkJkuS9Cp+jKQY204UFs2S9CN58VQYm+pEIehihBfo65Qg=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-220g-188c-89a-686i-10h-10.5w-29r-c34d90.mp4", "categories": [], "metrics": {"area": 89, "cycles": 188, "cost": 220}, "color": 0, "shape": "HoYoQX6OuUI3nxVBib6kQsj8wUDL7LFCARj9P/2YxEL99iFBuKq6Qg=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-225g-164c-92a-109i-7h-13w-25r-86d575.gif", "categories": ["SUM4"], "metrics": {"area": 92, "cycles": 164, "cost": 225}, "color": 1, "shape": "dk6mQsEIQEKmWp5C/9k2Qh6GKEF+jrlC/fYhQbiqukIWMCNCA0mXQhcbXEIT8oRC"},
+    {"gif": "https://files.mors.technology/Celestial-Thread-330g-157c-84a-730i-4h-13w-Infr-808a46.mp4", "categories": [], "metrics": {"area": 84, "cycles": 157, "cost": 330}, "color": 2, "shape": "ARj9P/2YxELnYaU/EYLGQoNZwEGZPKxC7B8ZQigBm0IWMCNCA0mXQv32IUG4qrpC"},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/410g-104c-124a-337i-944366da.mp4", "categories": [], "metrics": {"area": 124, "cycles": 104, "cost": 410}, "color": 3, "shape": "7B8ZQigBm0Kq6S5CWK2UQlOpUEIbKYpCFxtcQhPyhEIWMCNCA0mXQg=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-420g-95c-137a-136i-12h-12.5w-12r-61c094.gif", "categories": [], "metrics": {"area": 137, "cycles": 95, "cost": 420}, "color": 0, "shape": "kdarQu5rRkJ2TqZCwQhAQhcbXEIT8oRCU6lQQhspikKdW3BC8suBQsumhkKh+3JC9sylQnr/TUKcKahCrClLQmTDqEKabUpC"},
+    {"gif": "https://files.mors.technology/Celestial-Thread-445g-97c-129a-381i-11h-15w-12r-85809a.mp4", "categories": [], "metrics": {"area": 129, "cycles": 97, "cost": 445}, "color": 2, "shape": "qukuQlitlEKdW3BC8suBQlOpUEIbKYpC"},
+    {"gif": "https://files.mors.technology/Celestial-Thread-700g-76c-272a-939i-22h-20w-Infr-9b3db3.mp4", "categories": [], "metrics": {"area": 272, "cycles": 76, "cost": 700}, "color": 2, "shape": "kdarQu5rRkJjw6hCmm1KQmTDqEKabUpCSXisQqomR0I="},
+    {"gif": "https://i.imgur.com/D6AYNpq.gif", "categories": ["CG"], "metrics": {"area": 203, "cycles": 74, "cost": 755}, "color": 1, "shape": "gDStQgAASEJJeKxCqiZHQmTDqEKZbUpCY8OoQpptSkKcKahCrClLQn00rUIDAEhCgDStQgEASEI="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-765g-74c-176a-1001i-16h-12.5w-d67283.mp4", "categories": [], "metrics": {"area": 176, "cycles": 74, "cost": 765}, "color": 3, "shape": "nCmoQqwpS0L2zKVCev9NQn00rUIFAEhCfTStQgMASEJ7NK1CAwBIQnk0rUIDAEhC"},
+    {"gif": "https://files.mors.technology/Celestial-Thread-775g-74c-160a-1017i-13h-12.5w-48d16d.mp4", "categories": ["CX"], "metrics": {"area": 160, "cycles": 74, "cost": 775}, "color": 2, "shape": "9sylQnr/TULLpoZCoftyQk8Si0IlCG9CfTStQgUASEJ7NK1CAwBIQnk0rUIDAEhC"},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/825g-84c-114a-2535i-eb84a2b8.mp4", "categories": [], "metrics": {"area": 114, "cycles": 84, "cost": 825}, "color": 1, "shape": "TxKLQiUIb0LLpoZCoftyQp1bcELyy4FCqukuQlitlELsHxlCKAGbQoNZwEGZPKxCf++HQgAJc0Lq6opCfURvQg=="},
+    {"gif": "https://files.mors.technology/Celestial-Thread-865g-74c-156a-1029i-13h-12.5w-e88d24.gif", "categories": [], "metrics": {"area": 156, "cycles": 74, "cost": 865}, "color": 3, "shape": "6uqKQn1Eb0LGMa1CHgNIQk8Si0IlCG9C"},
+    {"gif": "https://files.mors.technology/CELESTIAL_THREAD/945g-74c-153a-986i-51435232.mp4", "categories": ["CA"], "metrics": {"area": 153, "cycles": 74, "cost": 945}, "color": 0, "shape": "6uqKQn1Eb0J/74dCAAlzQn00rUIFAEhCgDStQgEASEJ9NK1CAwBIQsYxrUIeA0hC"}
+  ]
+}

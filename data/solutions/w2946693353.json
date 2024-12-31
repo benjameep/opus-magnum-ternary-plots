@@ -1,0 +1,26 @@
+{
+  "id": "w2946693353",
+  "name": "Cool Earrings",
+  "collection": "Community",
+  "group": "Tournament 2023",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/6wAibtq.gif", "categories": ["GC"], "metrics": {"area": 44, "cycles": 489, "cost": 70}, "color": 2, "shape": "J7ugQaSYOUEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDZeXJZBFmRKQQ=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/70g-526c-28a-88i-10323d61.mp4", "categories": ["GX", "BG"], "metrics": {"area": 28, "cycles": 526, "cost": 70}, "color": 1, "shape": "0OaEQRioqkF0N5xBi3uhQV5clkEWZEpBq/BmNgAAyDYqyDtAyFIwQQ=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/70g-987c-22a-165i-8e7181e3.mp4", "categories": ["GA"], "metrics": {"area": 22, "cycles": 987, "cost": 70}, "color": 3, "shape": "AAAAAAAASDYAAAAAafPeQSrIO0DIUjBBq/BmNgAAyDY="},
+    {"gif": "https://i.imgur.com/wMAsOyb.gif", "categories": ["AG"], "metrics": {"area": 20, "cycles": 585, "cost": 80}, "color": 0, "shape": "0OaEQRioqkEqyDtAyFIwQQAAAABp895BAAAAAAAAyEKANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/110g-352c-20a-114i-T-cb1eadce.mp4", "categories": ["AC", "AX"], "metrics": {"area": 20, "cycles": 352, "cost": 110}, "color": 2, "shape": "sc9AQmigaUJ0N5xBi3uhQdDmhEEYqKpBgDQtNgAAyEIp5TdC/umSQg=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/120g-132c-34a-78i-T-48eb7289.mp4", "categories": [], "metrics": {"area": 34, "cycles": 132, "cost": 120}, "color": 0, "shape": "9bVZQghk+0Enu6BBpJg5QV5clkEWZEpBdDecQYt7oUGxz0BCaKBpQvZyd0L4d0dCURaAQtFlQEI="},
+    {"gif": "https://i.imgur.com/kGFxfz0.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 42, "cycles": 81, "cost": 160}, "color": 2, "shape": "9bVZQghk+0FRFoBC0WVAQmu5gULQTkFCUn6bQovHO0IS75tCkw40Qg=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/205g-95c-34a-52i-bce1c6e9.mp4", "categories": [], "metrics": {"area": 34, "cycles": 95, "cost": 205}, "color": 3, "shape": "9nJ3Qvh3R0JruYFC0E5BQlEWgELRZUBC"},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/320g-56c-32a-58i-ca1a9248.mp4", "categories": [], "metrics": {"area": 32, "cycles": 56, "cost": 320}, "color": 1, "shape": "Bh2lQkBESUJSfptCi8c7Qmu5gULQTkFC9nJ3Qvh3R0Kxz0BCaKBpQinlN0L+6ZJCI1+kQjQzUkI="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/340g-38c-54a-54i-e7fa1ee4.mp4", "categories": ["CG", "CX", "OCX", "RG"], "metrics": {"area": 54, "cycles": 38, "cost": 340}, "color": 0, "shape": "gDStQgAASEIS75tCkw40QlJ+m0KLxztCBh2lQkBESUKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/COOL_EARRINGS/510g-38c-44a-64i-ba6f2d40.mp4", "categories": ["CA"], "metrics": {"area": 44, "cycles": 38, "cost": 510}, "color": 2, "shape": "I1+kQjQzUkKANK1CAQBIQgYdpUJARElC"}
+  ]
+}

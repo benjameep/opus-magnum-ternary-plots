@@ -1,0 +1,32 @@
+{
+  "id": "w1698785238",
+  "name": "Virulent Vector",
+  "collection": "Community",
+  "group": "Tournament 2019",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Virulent-Vector-100g-1544c-68a-258i-9h-9w-258r-4767d4.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 68, "cycles": 1544, "cost": 100}, "color": 1, "shape": "qrOWQTiq0UEpNcNB6Wy+QT/pc0F40gxBAAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-100g-1959c-45a-327i-7h-7w-327r-a3fe15.mp4", "categories": ["GX"], "metrics": {"area": 45, "cycles": 1959, "cost": 100}, "color": 3, "shape": "qrOWQTiq0UGr8GY2AADINqvwZjYAgIk4KaeRQKoga0I="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-100g-2506c-43a-418i-7h-7w-418r-39cca3.mp4", "categories": ["BG"], "metrics": {"area": 43, "cycles": 2506, "cost": 100}, "color": 1, "shape": "q/BmNgCAiThbLbc/LPWMQimnkUCqIGtC"},
+    {"gif": "https://files.mors.technology/Virulent-Vector-100g-3585c-42a-598i-7h-7w-598r-f20cd0.mp4", "categories": ["GA"], "metrics": {"area": 42, "cycles": 3585, "cost": 100}, "color": 2, "shape": "AAAAAAAASDYAAAAA9mKfQlsttz8s9YxCq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/VIRULENT_VECTOR/120g-860c-109a-330i-T-3c0f99e1.mp4", "categories": ["TG"], "metrics": {"area": 109, "cycles": 860, "cost": 120}, "color": 2, "shape": "P+lzQXjSDEEpNcNB6Wy+Qe75MkJ5dQVCVWBLQrfW6kE="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-155g-923c-38a-225i-7h-6.5w-154r-0ffbdc.mp4", "categories": [], "metrics": {"area": 38, "cycles": 923, "cost": 155}, "color": 0, "shape": "XtRGQkg8S0Lu+TJCeXUFQik1w0HpbL5BqrOWQTiq0UEpp5FAqiBrQlsttz8s9YxCAAAAAPZin0IAAAAAQaOmQiy31kEsAqlC6nsFQmt3oULv50VCJtJaQg=="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-190g-1037c-36a-355i-7h-6.5w-173r-T-eb55ab.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 36, "cycles": 1037, "cost": 190}, "color": 1, "shape": "AAAAAAAAyEIst9ZBLAKpQgAAAABBo6ZC"},
+    {"gif": "https://i.imgur.com/AgJaVzF.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 87, "cycles": 192, "cost": 250}, "color": 3, "shape": "7lOfQtj5N0JVYEtCt9bqQe75MkJ5dQVCXtRGQkg8S0I="},
+    {"gif": "https://i.imgur.com/GyJR522.gif", "categories": [], "metrics": {"area": 76, "cycles": 157, "cost": 305}, "color": 1, "shape": "h3GjQm+6PELuU59C2Pk3Ql7URkJIPEtC7+dFQibSWkI8/ZhCOptUQlKGm0LNHFFCNrShQkTLQ0I="},
+    {"gif": "https://files.mors.technology/VIRULENT_VECTOR/400g-188c-56a-168i-92fa8004.mp4", "categories": [], "metrics": {"area": 56, "cycles": 188, "cost": 400}, "color": 2, "shape": "6nsFQmt3oUKIf5JCqNZmQjpnmEJN411CPP2YQjqbVELv50VCJtJaQg=="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-470g-85c-101a-145i-12h-10w-12r-fcfc8f.gif", "categories": ["RG", "ORG"], "metrics": {"area": 101, "cycles": 85, "cost": 470}, "color": 2, "shape": "h3GjQm+6PEI2tKFCRMtDQnfjq0K/hEdCeM2rQrPrRkLTGapCY2pEQg=="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-490g-85c-90a-145i-10h-10w-12r-58b02f.gif", "categories": [], "metrics": {"area": 90, "cycles": 85, "cost": 490}, "color": 0, "shape": "IzasQk2NSEJ346tCv4RHQja0oUJEy0NCUIabQswcUUJw95tCfJNRQg=="},
+    {"gif": "https://files.mors.technology/VIRULENT_VECTOR/490g-174c-59a-171i-e566cdfe.mp4", "categories": ["BR"], "metrics": {"area": 59, "cycles": 174, "cost": 490}, "color": 0, "shape": "OmeYQk3jXUKIf5JCqNZmQpLGmEIAl19CwmmYQn3nXUI="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-495g-107c-79a-169i-11h-9w-15r-b8a1f4.gif", "categories": [], "metrics": {"area": 79, "cycles": 107, "cost": 495}, "color": 3, "shape": "wmmYQn3nXUJw95tCfJNRQlKGm0LNHFFCUYabQswcUUJQhptCzBxRQjz9mEI6m1RCOmeYQk3jXUI="},
+    {"gif": "https://files.mors.technology/Virulent-Vector-500g-81c-173a-318i-14h-13w-12r-9c0df8.mp4", "categories": [], "metrics": {"area": 173, "cycles": 81, "cost": 500}, "color": 0, "shape": "0xmqQmNqREJ4zatCs+tGQhVSrEKO+kZC"},
+    {"gif": "https://files.mors.technology/VIRULENT_VECTOR/540g-85c-85a-300i-d0137b08.mp4", "categories": ["RA"], "metrics": {"area": 85, "cycles": 85, "cost": 540}, "color": 2, "shape": "wmmYQn3nXUKSxphCAJdfQlVrrEJK6EhCIzasQk2NSEJw95tCfJNRQg=="},
+    {"gif": "https://files.mors.technology/VIRULENT_VECTOR/580g-78c-145a-340i-32c26bef.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 145, "cycles": 78, "cost": 580}, "color": 1, "shape": "gDStQgAASEIVUqxCjvpGQnjNq0Kz60ZCd+OrQr+ER0IjNqxCTY1IQlVrrEJK6EhC"}
+  ]
+}

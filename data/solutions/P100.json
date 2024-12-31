@@ -1,0 +1,35 @@
+{
+  "id": "P100",
+  "name": "Explosive Victrite",
+  "collection": "Journal",
+  "group": "Journal VIII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Explosive-Victrite-50g-424c-33a-71i-6h-5.5w-71r-T-0ca04b.gif", "categories": ["GC", "TG"], "metrics": {"area": 33, "cycles": 424, "cost": 50}, "color": 0, "shape": "kRC0QbrrT0EAAAAAAAAAAAAAAAAAAEg2oHeLQdUdokE="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-50g-431c-32a-72i-6h-5.5w-72r-T-2cd756.gif", "categories": ["GX"], "metrics": {"area": 32, "cycles": 431, "cost": 50}, "color": 2, "shape": "oHeLQdUdokGr8GY2AADINg3pY0AZsaFBwAhWQWVO0UHqSHRBK3O/QQ=="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-50g-614c-29a-103i-6h-5.5w-103r-T-ee1602.gif", "categories": ["GA"], "metrics": {"area": 29, "cycles": 614, "cost": 50}, "color": 1, "shape": "AAAAAAAASDYAAAAAL7qsQQ3pY0AZsaFBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-70g-483c-17a-81i-5h-4.5w-81r-T-355bcc.gif", "categories": ["AG"], "metrics": {"area": 17, "cycles": 483, "cost": 70}, "color": 0, "shape": "gDQtNgAAyEIIHm1BTJULQsAIVkFlTtFBDeljQBmxoUEAAAAAL7qsQQAAAAAAAMhC"},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/80g-229c-27a-56i-bb7600bc.mp4", "categories": [], "metrics": {"area": 27, "cycles": 229, "cost": 80}, "color": 3, "shape": "qJ/IQQapZ0GRELRBuutPQaB3i0HVHaJB6kh0QStzv0E1E55BNPXEQQ=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/85g-221c-24a-53i-d3dad82a.mp4", "categories": [], "metrics": {"area": 24, "cycles": 221, "cost": 85}, "color": 1, "shape": "wAhWQWVO0UEIHm1BTJULQkr+iUEMcA1CWQWbQbQQ20E1E55BNPXEQepIdEErc79B"},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-100g-117c-25a-294i-5h-5w-19.34r-ac11e0.mp4", "categories": ["SUM"], "metrics": {"area": 25, "cycles": 117, "cost": 100}, "color": 0, "shape": "WQWbQbQQ20FAOzpCvpWDQuN2hEITLnFCGrmMQqAXWkLir5NC4/E8QmQcj0IPQCVCqJ/IQQapZ0E1E55BNPXEQQ=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/100g-127c-24a-49i-0a4de62e.mp4", "categories": [], "metrics": {"area": 24, "cycles": 127, "cost": 100}, "color": 3, "shape": "QDs6Qr6Vg0JZBZtBtBDbQUr+iUEMcA1CMrcJQvlAcEIWITZC1JGEQg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/105g-219c-17a-56i-8f4498eb.mp4", "categories": ["AX"], "metrics": {"area": 17, "cycles": 219, "cost": 105}, "color": 2, "shape": "MrcJQvlAcEJK/olBDHANQggebUFMlQtCq/BmNv//x0IIrsFBZ5ipQg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/125g-182c-18a-57i-6ff814fe.mp4", "categories": [], "metrics": {"area": 18, "cycles": 182, "cost": 125}, "color": 0, "shape": "CK7BQWeYqULLFMRBuLKrQh9tFkJgk5xCZYQ2QqSuhUIWITZC1JGEQjK3CUL5QHBC"},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-125g-217c-17a-341i-5h-4w-36.5r-01a3cc.mp4", "categories": ["AC"], "metrics": {"area": 17, "cycles": 217, "cost": 125}, "color": 1, "shape": "yxTEQbiyq0IIrsFBZ5ipQqvwZjb//8dCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/145g-123c-23a-51i-9ed718cf.mp4", "categories": [], "metrics": {"area": 23, "cycles": 123, "cost": 145}, "color": 1, "shape": "exKFQmpXdkLjdoRCEy5xQkA7OkK+lYNCFiE2QtSRhEJlhDZCpK6FQlzeRkJyl45C"},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/150g-93c-39a-49i-T-a6947ef1.mp4", "categories": [], "metrics": {"area": 39, "cycles": 93, "cost": 150}, "color": 1, "shape": "ZByPQg9AJULir5NC4/E8QrkEpUJc1ktCPnKoQg/OSUJjl6hCGPlEQl7bp0IQ00FC"},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/150g-164c-19a-52i-f00ebd47.mp4", "categories": [], "metrics": {"area": 19, "cycles": 164, "cost": 150}, "color": 2, "shape": "ZYQ2QqSuhUIfbRZCYJOcQlzeRkJyl45C"},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/160g-97c-30a-54i-af3e43a7.mp4", "categories": [], "metrics": {"area": 30, "cycles": 97, "cost": 160}, "color": 3, "shape": "gdmdQgpPVkK5BKVCXNZLQuKvk0Lj8TxCGrmMQqAXWkI="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-170g-98c-29a-55i-7h-5.5w-14r-8c5f1e.gif", "categories": ["RA"], "metrics": {"area": 29, "cycles": 98, "cost": 170}, "color": 2, "shape": "43aEQhMucUJ7EoVCald2QmJNl0KMSmFCgdmdQgpPVkIauYxCoBdaQg=="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-205g-89c-55a-48i-8h-8w-14r-9391cb.gif", "categories": ["CG"], "metrics": {"area": 55, "cycles": 89, "cost": 205}, "color": 0, "shape": "XtunQhDTQUJjl6hCGPlEQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-215g-89c-49a-147i-8h-6.5w-14r-23eb4e.mp4", "categories": ["CX"], "metrics": {"area": 49, "cycles": 89, "cost": 215}, "color": 2, "shape": "JHqpQpwXSkJ/NK1CAABIQmOXqEIY+URCPnKoQg/OSUI="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_VICTRITE/250g-89c-47a-159i-b844305c.mp4", "categories": ["CA"], "metrics": {"area": 47, "cycles": 89, "cost": 250}, "color": 1, "shape": "yLuqQpvaSkKANK1CAQBIQn80rUIAAEhCJHqpQpwXSkI="},
+    {"gif": "https://files.mors.technology/Explosive-Victrite-280g-92c-32a-165i-7h-6w-14r-4cb929.mp4", "categories": [], "metrics": {"area": 32, "cycles": 92, "cost": 280}, "color": 0, "shape": "Yk2XQoxKYULIu6pCm9pKQiR6qUKcF0pCPnKoQg/OSUK5BKVCXNZLQoHZnUIKT1ZC"}
+  ]
+}

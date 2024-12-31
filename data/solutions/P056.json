@@ -1,0 +1,40 @@
+{
+  "id": "P056",
+  "name": "Reactive Cinnabar",
+  "collection": "Journal",
+  "group": "Journal I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-30g-454c-26a-76i-6h-5w-76r-T-921a7d.gif", "categories": ["GC", "TG"], "metrics": {"area": 26, "cycles": 454, "cost": 30}, "color": 1, "shape": "DwA6QUrG1kAAAAAAAAAAAAAAAAAAAEg2NVwpQQ5EGkHsqi9BHF0RQQ=="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-30g-472c-23a-79i-5h-5.5w-79r-T-75ac87.gif", "categories": ["GA", "GX"], "metrics": {"area": 23, "cycles": 472, "cost": 30}, "color": 2, "shape": "AAAAAAAASDYAAAAA56XEQZUSSjfjpcRBNkZgQOJetUHg5fdAfBmNQTVcKUEORBpB"},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-40g-323c-25a-54i-5h-5.5w-54r-d4ec0b.gif", "categories": [], "metrics": {"area": 25, "cycles": 323, "cost": 40}, "color": 2, "shape": "DwA6QUrG1kDsqi9BHF0RQQs4TkE3QvpAYcNFQXZb5EA="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-45g-262c-31a-44i-6h-6w-44r-d0a1ac.gif", "categories": [], "metrics": {"area": 31, "cycles": 262, "cost": 45}, "color": 1, "shape": "YcNFQXZb5EALOE5BN0L6QCBmYkEktgJB"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/45g-329c-19a-55i-d218bb6e.mp4", "categories": ["BG"], "metrics": {"area": 19, "cycles": 329, "cost": 45}, "color": 3, "shape": "9L8CQcLTvkHg5fdAfBmNQTZGYEDiXrVB9d+GQIVIukE="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-50g-210c-20a-50i-5h-4.5w-35r-T-b0c642.gif", "categories": [], "metrics": {"area": 20, "cycles": 210, "cost": 50}, "color": 0, "shape": "XJ65QXpVVkEgZmJBJLYCQQs4TkE3QvpA7KovQRxdEUE1XClBDkQaQeDl90B8GY1B9L8CQcLTvkEeEhhBJ6rLQVyNhUEmleFB"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/50g-352c-17a-59i-8167becd.mp4", "categories": [], "metrics": {"area": 17, "cycles": 352, "cost": 50}, "color": 0, "shape": "NkZgQOJetUGVEko346XEQfXfhkCFSLpB"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/60g-309c-14a-52i-ab44d9fa.mp4", "categories": [], "metrics": {"area": 14, "cycles": 309, "cost": 60}, "color": 1, "shape": "HhIYQSeqy0H0vwJBwtO+QfXfhkCFSLpBlRJKN+OlxEEAAAAA56XEQQAAAAC3wEVC"},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-70g-99c-19a-40i-5h-4.5w-16r-T-1b7789.gif", "categories": ["SUM"], "metrics": {"area": 19, "cycles": 99, "cost": 70}, "color": 1, "shape": "XJ65QXpVVkFcjYVBJpXhQcHv2EGjNjdCALkTQkfvVULhWhxCXPNTQvu4QkIYBEdCVXdoQgoPIELUwVlCvXH7QQ=="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-70g-219c-13a-45i-3h-4w-37r-T-e75281.gif", "categories": ["AG"], "metrics": {"area": 13, "cycles": 219, "cost": 70}, "color": 3, "shape": "we/YQaM2N0JcjYVBJpXhQR4SGEEnqstBAAAAALfARUIAAAAAAADIQoA0LTYAAMhC"},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-80g-91c-19a-39i-5h-4.5w-15r-f240a5.gif", "categories": [], "metrics": {"area": 19, "cycles": 91, "cost": 80}, "color": 3, "shape": "VXdoQgoPIEL7uEJCGARHQjJ6Z0KSyj1CdAt5QuOzNEI="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-90g-75c-23a-38i-5h-5w-12r-T-172aec.gif", "categories": ["SUM4"], "metrics": {"area": 23, "cycles": 75, "cost": 90}, "color": 0, "shape": "dAt5QuOzNEIQvJFCahw9Qk4DmELeiDdCdueYQnxvNEL7XZhCOvAvQtTBWUK9cftBVXdoQgoPIEI="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-90g-169c-13a-254i-3h-4w-28.67r-T-913d30.mp4", "categories": ["AC", "AX"], "metrics": {"area": 13, "cycles": 169, "cost": 90}, "color": 2, "shape": "we/YQaM2N0KANC02AADIQjus4UFMbadCe8wNQplujUKnyhNC+T9eQgC5E0JH71VC"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/115g-75c-18a-38i-66c923b2.mp4", "categories": [], "metrics": {"area": 18, "cycles": 75, "cost": 115}, "color": 2, "shape": "tY2QQgHpQkIQvJFCahw9QnQLeULjszRCMnpnQpLKPUI="},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/120g-86c-16a-41i-617af847.mp4", "categories": [], "metrics": {"area": 16, "cycles": 86, "cost": 120}, "color": 3, "shape": "p8oTQvk/XkLhWhxCXPNTQgC5E0JH71VC"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/130g-75c-16a-38i-T-bc771704.mp4", "categories": [], "metrics": {"area": 16, "cycles": 75, "cost": 130}, "color": 0, "shape": "Q0WTQhCUYUK1jZBCAelCQjJ6Z0KSyj1C+7hCQhgER0LhWhxCXPNTQqfKE0L5P15Ce8wNQplujUIbtxBCSleQQruRW0KmnYhC7zyRQidLaEI="},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/130g-126c-14a-44i-T-78a46214.mp4", "categories": [], "metrics": {"area": 14, "cycles": 126, "cost": 130}, "color": 1, "shape": "e8wNQplujUI7rOFBTG2nQlnG8EFGP6VCG7cQQkpXkEI="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-160g-57c-26a-136i-5h-5.5w-9r-25787b.gif", "categories": [], "metrics": {"area": 26, "cycles": 57, "cost": 160}, "color": 2, "shape": "dueYQnxvNEJOA5hC3og3QtR7mkJQdDlC8rWaQhvhN0I="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-170g-57c-21a-136i-3h-5.5w-9r-6a7062.gif", "categories": ["HC", "HR"], "metrics": {"area": 21, "cycles": 57, "cost": 170}, "color": 1, "shape": "RmaiQhrnSkLUe5pCUHQ5Qk4DmELeiDdCELyRQmocPUK1jZBCAelCQkNFk0IQlGFCRgqUQquDYUI="},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/170g-87c-15a-46i-T-4279a6f3.mp4", "categories": [], "metrics": {"area": 15, "cycles": 87, "cost": 170}, "color": 2, "shape": "WcbwQUY/pUK7kVtCpp2IQhu3EEJKV5BC"},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-180g-50c-35a-78i-7h-6.5w-8r-376b5f.gif", "categories": ["CG"], "metrics": {"area": 35, "cycles": 50, "cost": 180}, "color": 1, "shape": "gDStQgAASEL7XZhCOvAvQnbnmEJ8bzRC8rWaQhvhN0J/NK1CAABIQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/190g-50c-28a-78i-04f86cc4.mp4", "categories": ["CX"], "metrics": {"area": 28, "cycles": 50, "cost": 190}, "color": 0, "shape": "1HuaQlB0OUJGZqJCGudKQh7tpUK7A0tCfzStQgAASELytZpCG+E3Qg=="},
+    {"gif": "https://files.mors.technology/REACTIVE_CINNABAR/200g-63c-19a-46i-69cefb3f.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 63, "cost": 200}, "color": 3, "shape": "DTiTQpcBZkJGCpRCq4NhQkNFk0IQlGFC7zyRQidLaEI="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-250g-52c-22a-84i-7h-6w-8r-b81b07.gif", "categories": ["RA"], "metrics": {"area": 22, "cycles": 52, "cost": 250}, "color": 2, "shape": "t9GnQhY4TkIe7aVCuwNLQkZmokIa50pCRgqUQquDYUINOJNClwFmQg=="},
+    {"gif": "https://files.mors.technology/Reactive-Cinnabar-255g-50c-25a-39i-6h-5.5w-8r-0392e3.gif", "categories": ["CA"], "metrics": {"area": 25, "cycles": 50, "cost": 255}, "color": 3, "shape": "t9GnQhY4TkKANK1CAQBIQn80rUIAAEhCHu2lQrsDS0I="}
+  ]
+}

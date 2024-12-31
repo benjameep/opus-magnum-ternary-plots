@@ -1,0 +1,27 @@
+{
+  "id": "w2565611826",
+  "name": "Ferrous Wheel",
+  "collection": "Community",
+  "group": "Best Of Weeklies 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/50g-1091c-82a-182i-T-f5cf6072.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 82, "cycles": 1091, "cost": 50}, "color": 0, "shape": "iQb0QWHjjEEAAAAAAAAAAAAAAAAAAEg2q/BmNwAAljdIGJhBucWaQQTmrUEQ3KNB"},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/50g-1151c-76a-192i-T-6ca27240.mp4", "categories": ["GX"], "metrics": {"area": 76, "cycles": 1151, "cost": 50}, "color": 3, "shape": "q/BmNwAAljf97BhBfKuDQUgYmEG5xZpB"},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/50g-1307c-70a-218i-T-b7fee44e.mp4", "categories": ["GA"], "metrics": {"area": 70, "cycles": 1307, "cost": 50}, "color": 2, "shape": "6nmaQABNhEH97BhBfKuDQavwZjcAAJY3AAAAAAAASDYAAAAA1M9AQQ=="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/60g-1066c-48a-178i-6bf9dd97.mp4", "categories": [], "metrics": {"area": 48, "cycles": 1066, "cost": 60}, "color": 1, "shape": "nmHRQQS+GEIE5q1BENyjQUgYmEG5xZpB/ewYQXyrg0HqeZpAAE2EQaBiFEEkK/5BPh6mQf7wMUI="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/60g-1713c-38a-286i-ed2e6dcc.mp4", "categories": [], "metrics": {"area": 38, "cycles": 1713, "cost": 60}, "color": 0, "shape": "AAAAANTPQEEAAAAAjuMoQqBiFEEkK/5B6nmaQABNhEE="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/70g-668c-59a-177i-T-7c79ce39.mp4", "categories": [], "metrics": {"area": 59, "cycles": 668, "cost": 70}, "color": 2, "shape": "EJdGQuVP5UGJBvRBYeOMQQTmrUEQ3KNBnmHRQQS+GEI="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/70g-1426c-32a-238i-T-3d77a3ef.mp4", "categories": ["BG"], "metrics": {"area": 32, "cycles": 1426, "cost": 70}, "color": 2, "shape": "Ph6mQf7wMUKgYhRBJCv+QQAAAACO4yhCAAAAAMyIgkLze3NB3o2CQg=="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/100g-1507c-25a-252i-8a68d48f.mp4", "categories": ["AG", "AC", "AX", "AI", "WG"], "metrics": {"area": 25, "cycles": 1507, "cost": 100}, "color": 3, "shape": "JbZ9QcsPqULze3NB3o2CQgAAAADMiIJCAAAAAAAAyEJYeVZBjYW4Qg=="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/120g-240c-36a-104i-f6760eef.mp4", "categories": [], "metrics": {"area": 36, "cycles": 240, "cost": 120}, "color": 0, "shape": "gRWeQiiKNkIQl0ZC5U/lQZ5h0UEEvhhCPh6mQf7wMULze3NB3o2CQiW2fUHLD6lCpTRwQiBvdEKanX1C0L9rQg=="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/130g-233c-36a-100i-c4fde21c.mp4", "categories": [], "metrics": {"area": 36, "cycles": 233, "cost": 130}, "color": 3, "shape": "mp19QtC/a0KlNHBCIG90QuyHekI7L29C"},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/140g-218c-37a-103i-722036ba.mp4", "categories": ["CG", "CX", "SUM", "RG"], "metrics": {"area": 37, "cycles": 218, "cost": 140}, "color": 2, "shape": "gDStQgAASEKBFZ5CKIo2QpqdfULQv2tC7Id6Qjsvb0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/FERROUS_WHEEL/180g-218c-34a-125i-689badb7.mp4", "categories": ["CA", "RA"], "metrics": {"area": 34, "cycles": 218, "cost": 180}, "color": 1, "shape": "WHlWQY2FuEKANK1CAQBIQuyHekI7L29CpTRwQiBvdEIltn1Byw+pQg=="}
+  ]
+}

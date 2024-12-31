@@ -1,0 +1,38 @@
+{
+  "id": "P017",
+  "name": "Explosive Phial",
+  "collection": "Campaign",
+  "group": "Chapter 2",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Explosive-Phial-60g-153c-19a-26i-5h-4.5w-26r-T-b5771d.gif", "categories": ["GC", "TG"], "metrics": {"area": 19, "cycles": 153, "cost": 60}, "color": 1, "shape": "VUsEQaHCmEAAAAAAAAAAAAAAAAAAAEg2a1YQNwAArzcqrudAkb9sQTKu50CSv2xB62f+QNFXHEE="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-60g-159c-17a-27i-4h-4w-27r-T-8e61d8.gif", "categories": [], "metrics": {"area": 17, "cycles": 159, "cost": 60}, "color": 3, "shape": "a1YQNwAArzezFcNAIB23QSqu50CRv2xB"},
+    {"gif": "https://files.mors.technology/Explosive-Phial-60g-185c-13a-31i-3h-4w-31r-T-3652c4.gif", "categories": ["GA", "GX"], "metrics": {"area": 13, "cycles": 185, "cost": 60}, "color": 2, "shape": "AAAAAAAASDYAAAAAsg6EQvHGp0ANEUJCsxXDQCAdt0FrVhA3AACvNw=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/80g-66c-20a-21i-T-5a14d171.mp4", "categories": [], "metrics": {"area": 20, "cycles": 66, "cost": 80}, "color": 3, "shape": "UnzQQQy9cEFVSwRBocKYQOtn/kDRVxxBXMS2Qcii4EE="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-80g-70c-17a-23i-5h-4.5w-12r-T-6c347e.gif", "categories": [], "metrics": {"area": 17, "cycles": 70, "cost": 80}, "color": 2, "shape": "XMS2Qcii4EHrZ/5A0VccQTKu50CSv2xBSZupQRBRLUJ8la9B6vcdQg=="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-80g-76c-15a-24i-4h-4w-13r-T-aa5dd0.gif", "categories": [], "metrics": {"area": 15, "cycles": 76, "cost": 80}, "color": 0, "shape": "SZupQRBRLUIyrudAkr9sQSqu50CRv2xBsxXDQCAdt0HxxqdADRFCQsLw/0CyBZRCttkYQZ/amkLwUDZBfYuWQi9plUEV4m1C7EKkQQAAUEI="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-80g-147c-11a-25i-3h-3.5w-25r-T-84853e.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 11, "cycles": 147, "cost": 80}, "color": 3, "shape": "wvD/QLIFlELxxqdADRFCQgAAAACyDoRCAAAAAAAAyEKYRp5A6knCQg=="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-100g-108c-12a-31i-4h-3.5w-18r-T-181f68.gif", "categories": [], "metrics": {"area": 12, "cycles": 108, "cost": 100}, "color": 1, "shape": "wvD/QLIFlEKYRp5A6knCQtv26kB+hb9C4NkLQd+3sEK22RhBn9qaQg=="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-110g-34c-21a-15i-5h-4.5w-5r-T-2d68df.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 21, "cycles": 34, "cost": 110}, "color": 0, "shape": "ljqOQlM7JEJSfNBBDL1wQVzEtkHIouBBfJWvQer3HUKEgOxBXsZUQvVN/0GoSltClgJiQopbbEIf9IBCv+VeQvrkk0KX1TlC5buUQvkiNUIBkJBCLKcnQg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/110g-39c-19a-105i-T-993f10f1.mp4", "categories": [], "metrics": {"area": 19, "cycles": 39, "cost": 110}, "color": 1, "shape": "hIDsQV7GVEJ8la9B6vcdQkmbqUEQUS1C7EKkQQAAUEI="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-120g-40c-17a-21i-4h-4w-6r-T-46f041.gif", "categories": [], "metrics": {"area": 17, "cycles": 40, "cost": 120}, "color": 2, "shape": "9U3/QahKW0KEgOxBXsZUQuxCpEEAAFBCL2mVQRXibUI="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/120g-63c-14a-26i-T-7460fab2.mp4", "categories": [], "metrics": {"area": 14, "cycles": 63, "cost": 120}, "color": 2, "shape": "8FA2QX2LlkK22RhBn9qaQuDZC0Hft7BCXecOQcc1sEI="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/130g-32c-60a-12i-T-c310e797.mp4", "categories": [], "metrics": {"area": 60, "cycles": 32, "cost": 130}, "color": 1, "shape": "ljqOQlM7JEIBkJBCLKcnQlmUkEIt8iZC"},
+    {"gif": "https://files.mors.technology/Explosive-Phial-140g-38c-15a-21i-4h-4w-6r-T-41e690.gif", "categories": [], "metrics": {"area": 15, "cycles": 38, "cost": 140}, "color": 1, "shape": "XecOQcc1sEKbOhlBEfG8QvVMKEJyapdC5RViQoIKcUKWAmJCiltsQvVN/0GoSltCL2mVQRXibULwUDZBfYuWQg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/140g-57c-14a-24i-T-2b67b8e2.mp4", "categories": [], "metrics": {"area": 14, "cycles": 57, "cost": 140}, "color": 0, "shape": "mzoZQRHxvEJd5w5BxzWwQuDZC0Hft7BC2/bqQH6Fv0I="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/160g-33c-19a-22i-67c23f27.mp4", "categories": [], "metrics": {"area": 19, "cycles": 33, "cost": 160}, "color": 2, "shape": "H/SAQr/lXkKWAmJCiltsQuUVYkKCCnFCIyp5QkkraUK92H9CR5RhQg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/200g-33c-17a-44i-T-4322deb2.mp4", "categories": [], "metrics": {"area": 17, "cycles": 33, "cost": 200}, "color": 3, "shape": "9UwoQnJql0Ip4FNCN9aKQsezb0KbDHlCIyp5QkkraULlFWJCggpxQg=="},
+    {"gif": "https://files.mors.technology/Explosive-Phial-240g-22c-80a-32i-11h-8.5w-3r-43b7bc.gif", "categories": ["CG", "RG"], "metrics": {"area": 80, "cycles": 22, "cost": 240}, "color": 2, "shape": "gDStQgAASEJZlJBCLfImQgGQkEIspydC5buUQvkiNUJ/NK1CAABIQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/Explosive-Phial-280g-22c-41a-40i-8h-5.5w-3r-1b5513.gif", "categories": [], "metrics": {"area": 41, "cycles": 22, "cost": 280}, "color": 3, "shape": "+uSTQpfVOUJ+NK1C//9HQuW7lEL5IjVC"},
+    {"gif": "https://i.imgur.com/3qfFetp.gif", "categories": [], "metrics": {"area": 27, "cycles": 22, "cost": 305}, "color": 1, "shape": "H/SAQr/lXkK52H9CRpRhQr3Yf0JHlGFCfzStQgAASEJ+NK1C//9HQvrkk0KX1TlC"},
+    {"gif": "https://i.imgur.com/JgktCwF.gif", "categories": [], "metrics": {"area": 26, "cycles": 22, "cost": 320}, "color": 0, "shape": "jXN9QnPHdkJ9NK1CAQBIQrnYf0JGlGFCIyp5QkkraULHs29Cmwx5Qg=="},
+    {"gif": "https://files.mors.technology/EXPLOSIVE_PHIAL/360g-24c-23a-80i-d156ac49.mp4", "categories": ["RA"], "metrics": {"area": 23, "cycles": 24, "cost": 360}, "color": 1, "shape": "DGJzQsu9gUKNc31Cc8d2Qsezb0KbDHlCKeBTQjfWikI="},
+    {"gif": "https://i.imgur.com/IaBxGnC.gif", "categories": [], "metrics": {"area": 25, "cycles": 22, "cost": 395}, "color": 3, "shape": "DGJzQsu9gUKANK1CAQBIQn80rUIAAEhCfTStQgEASEKNc31Cc8d2Qg=="}
+  ]
+}

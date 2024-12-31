@@ -1,0 +1,31 @@
+{
+  "id": "w2946683186",
+  "name": "Waste Reclamation",
+  "collection": "Community",
+  "group": "Tournament 2023",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/90g-639c-55a-721i-T-f59c9c03.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 55, "cycles": 639, "cost": 90}, "color": 2, "shape": "+kgKQYetn0AAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDcm8rhAFqTBQZbaCUGpwKhA"},
+    {"gif": "https://i.imgur.com/V3Ygurx.gif", "categories": ["GX"], "metrics": {"area": 54, "cycles": 641, "cost": 90}, "color": 3, "shape": "q/BmNgAAyDdwMqo/5R1bQibyuEAWpMFB"},
+    {"gif": "https://i.imgur.com/WmRgkei.gif", "categories": ["GA"], "metrics": {"area": 52, "cycles": 686, "cost": 90}, "color": 1, "shape": "AAAAAAAASDYAAAAA6U5CQqnulj8iVmBCcDKqP+UdW0Kr8GY2AADINw=="},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/110g-857c-27a-893i-T-6c709312.mp4", "categories": ["AG", "AC", "AX"], "metrics": {"area": 27, "cycles": 857, "cost": 110}, "color": 2, "shape": "AAAAAOlOQkIAAAAAAADIQnPvRT9yG8dC6mxsP0xUwkKp7pY/IlZgQg=="},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/120g-435c-34a-79i-54e6ae38.mp4", "categories": ["BG"], "metrics": {"area": 34, "cycles": 435, "cost": 120}, "color": 0, "shape": "6mxsP0xUwkLA75E/iYHDQryRTUBGGLRCltoJQanAqEAm8rhAFqTBQXAyqj/lHVtCqe6WPyJWYEI="},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/150g-502c-32a-133i-T-884d2e4c.mp4", "categories": ["WR"], "metrics": {"area": 32, "cycles": 502, "cost": 150}, "color": 1, "shape": "6mxsP0xUwkJz70U/chvHQr9XTz+UEMdC/DSDPybaxELA75E/iYHDQg=="},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/170g-94c-51a-47i-T-0db595fe.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 51, "cycles": 94, "cost": 170}, "color": 1, "shape": "L88tQp2yyEH6SApBh62fQJbaCUGpwKhAvJFNQEYYtEIjn7ZAVq+4QtNVokFzi5FC"},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/180g-89c-51a-42i-T-4eef1a52.mp4", "categories": [], "metrics": {"area": 51, "cycles": 89, "cost": 180}, "color": 3, "shape": "01WiQXOLkUIjn7ZAVq+4QhyrAkHfkb5CoBJfQa/mt0I="},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/190g-79c-54a-47i-T-c2d10dbf.mp4", "categories": [], "metrics": {"area": 54, "cycles": 79, "cost": 190}, "color": 0, "shape": "oBJfQa/mt0L1Fn9CUbl8QsSljEJjcWRCUOKTQhdxVkKlt5hC7QdNQhDen0JAPj5C6lKEQmLLGEIvzy1CnbLIQdNVokFzi5FC"},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/245g-231c-36a-79i-d78a5b56.mp4", "categories": [], "metrics": {"area": 36, "cycles": 231, "cost": 245}, "color": 0, "shape": "/DSDPybaxEK/V08/lBDHQiBbej/q3sZC"},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/250g-65c-1170a-12i-T-cd20764b.mp4", "categories": [], "metrics": {"area": 1170, "cycles": 65, "cost": 250}, "color": 2, "shape": "6lKEQmLLGEIQ3p9CQD4+QiwzpEIKmj1C"},
+    {"gif": "https://files.mors.technology/WASTE_RECLAMATION/250g-175c-37a-75i-T-e85cda4c.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 175, "cost": 250}, "color": 2, "shape": "IFt6P+rexkIcqwJB35G+QiOftkBWr7hCvJFNQEYYtELA75E/iYHDQvw0gz8m2sRC"},
+    {"gif": "https://i.imgur.com/IcIXE6t.gif", "categories": ["CG"], "metrics": {"area": 302, "cycles": 30, "cost": 1095}, "color": 1, "shape": "gDStQgAASEIsM6RCCpo9QhDen0JAPj5CpbeYQu0HTUJ9NK1CAgBIQoA0rUIBAEhC"},
+    {"gif": "https://i.imgur.com/CtF3GQc.gif", "categories": [], "metrics": {"area": 279, "cycles": 30, "cost": 1125}, "color": 4, "shape": "fjStQgAASEKlt5hC7QdNQlDik0IXcVZCfTStQgIASEI="},
+    {"gif": "https://i.imgur.com/1uD6UvZ.gif", "categories": ["CX"], "metrics": {"area": 277, "cycles": 30, "cost": 1130}, "color": 3, "shape": "fTStQgEASEJQ4pNCF3FWQsSljEJjcWRCfTStQgIASEJ9NK1CAQBIQg=="},
+    {"gif": "https://i.imgur.com/RkD6s02.gif", "categories": ["CA"], "metrics": {"area": 268, "cycles": 30, "cost": 1185}, "color": 2, "shape": "9RZ/QlG5fEKANK1CAQBIQn40rUIAAEhCxKWMQmNxZEI="}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "P078",
+  "name": "Vapor of Levity",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Vapor-of-Levity-80g-695c-76a-695i-9h-9w-232b45.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 76, "cycles": 695, "cost": 80}, "color": 0, "shape": "gDQtNgAAyDUdUAZALopWQXDck0E6MFRBvQagQVHIOEE="},
+    {"gif": "https://files.mors.technology/Vapor-of-Levity-80g-926c-75a-162i-9h-9w-3f8aae.mp4", "categories": ["GI_P", "GX_P"], "metrics": {"area": 75, "cycles": 926, "cost": 80}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAQBkQR1QBkAuilZBgDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/VAPOR_OF_LEVITY/100g-458c-73a-77i-dbfed603.mp4", "categories": [], "metrics": {"area": 73, "cycles": 458, "cost": 100}, "color": 2, "shape": "vQagQVHIOEFw3JNBOjBUQcxG3EFGRYZBAfncQUIof0E="},
+    {"gif": "https://files.mors.technology/VAPOR_OF_LEVITY/110g-398c-61a-67i-67c8340f.mp4", "categories": [], "metrics": {"area": 61, "cycles": 398, "cost": 110}, "color": 1, "shape": "AAAAAAEAZEEAAAAAAADIQlN9N0L4B5NChEtHQhE8eELfeipCkqPrQcxG3EFGRYZBcNyTQTowVEEdUAZALopWQQ=="},
+    {"gif": "https://i.imgur.com/njOUtE9.mp4", "categories": [], "metrics": {"area": 74, "cycles": 306, "cost": 120}, "color": 0, "shape": "gls4Qq7g1EEB+dxBQih/QcxG3EFGRYZB33oqQpKj60E="},
+    {"gif": "https://files.mors.technology/Vapor-of-Levity-190g-87c-71a-44i-9h-9w-14r-b00edb.gif", "categories": ["SUM_P"], "metrics": {"area": 71, "cycles": 87, "cost": 190}, "color": 2, "shape": "UYieQrsON0KCWzhCruDUQd96KkKSo+tBhEtHQhE8eEKOpJpC5IZLQg=="},
+    {"gif": "https://files.mors.technology/VAPOR_OF_LEVITY/275g-59c-75a-44i-626820a5.mp4", "categories": [], "metrics": {"area": 75, "cycles": 59, "cost": 275}, "color": 1, "shape": "UYieQrsON0KOpJpC5IZLQo6Pm0LY/ktCvnioQsiIQkI="},
+    {"gif": "https://files.mors.technology/VAPOR_OF_LEVITY/310g-72c-69a-53i-T-0239a2c9.mp4", "categories": [], "metrics": {"area": 69, "cycles": 72, "cost": 310}, "color": 0, "shape": "ZpugQgiMVkKOj5tC2P5LQo6kmkLkhktChEtHQhE8eEJTfTdC+AeTQg=="},
+    {"gif": "https://files.mors.technology/VAPOR_OF_LEVITY/325g-54c-74a-88i-badc932f.mp4", "categories": ["CG_P"], "metrics": {"area": 74, "cycles": 54, "cost": 325}, "color": 2, "shape": "vnioQsiIQkKOj5tC2P5LQmaboEIIjFZCgDStQgAASEI="}
+  ]
+}

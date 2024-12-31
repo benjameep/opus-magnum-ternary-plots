@@ -1,0 +1,24 @@
+{
+  "id": "P082",
+  "name": "Parade-Rocket Fuel",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Parade-Rocket-Fuel-60g-524c-70a-524i-8h-10.5w-T-e61547.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 70, "cycles": 524, "cost": 60}, "color": 0, "shape": "AAAAAAAAAAAAAAAAEc1ZQXejuUBueyhBDQDIQLrwZkA="},
+    {"gif": "https://files.mors.technology/Parade-Rocket-Fuel-70g-301c-70a-301i-8h-10.5w-f45b6c.gif", "categories": [], "metrics": {"area": 70, "cycles": 301, "cost": 70}, "color": 2, "shape": "zA2jQRb8E0JTitpBoaC7QWO6v0F1Y11BDQDIQLrwZkB3o7lAbnsoQQ=="},
+    {"gif": "https://i.imgur.com/PNxFLcD.mp4", "categories": [], "metrics": {"area": 67, "cycles": 419, "cost": 70}, "color": 1, "shape": "AAAAAPDwmEFnn6FBfKcaQkD1oUEtyRlCzA2jQRb8E0J3o7lAbnsoQQAAAAARzVlB"},
+    {"gif": "https://files.mors.technology/PARADE_ROCKET_FUEL/80g-467c-65a-467i-T-3d0a0db3.mp4", "categories": [], "metrics": {"area": 65, "cycles": 467, "cost": 80}, "color": 0, "shape": "AAAAAPDwmEEAAAAAAADIQqgfpkGpBbBCZ5+hQXynGkI="},
+    {"gif": "https://files.mors.technology/PARADE_ROCKET_FUEL/115g-97c-76a-190i-5a429302.mp4", "categories": [], "metrics": {"area": 76, "cycles": 97, "cost": 115}, "color": 1, "shape": "Y7q/QXVjXUFTitpBoaC7QfJiaULqvgZC"},
+    {"gif": "https://files.mors.technology/Parade-Rocket-Fuel-140g-76c-69a-48i-8h-10.5w-12.5r-T-891854.gif", "categories": [], "metrics": {"area": 69, "cycles": 76, "cost": 140}, "color": 0, "shape": "QPWhQS3JGULLhSFCV1+ZQkYfnkKRallCxG6fQrMhQkIDh59C1DQ4QvJiaULqvgZCU4raQaGgu0HMDaNBFvwTQg=="},
+    {"gif": "https://files.mors.technology/PARADE_ROCKET_FUEL/140g-118c-68a-31i-T-10e6918f.mp4", "categories": [], "metrics": {"area": 68, "cycles": 118, "cost": 140}, "color": 2, "shape": "y4UhQldfmUJA9aFBLckZQmefoUF8pxpCqB+mQakFsEI="},
+    {"gif": "https://i.imgur.com/XU3K2CN.gif", "categories": ["CG_P", "CX_P"], "metrics": {"area": 78, "cycles": 47, "cost": 335}, "color": 1, "shape": "gDStQgAASEIDh59C1DQ4QsRun0KzIUJCH5yoQl1OTUI="},
+    {"gif": "https://files.mors.technology/Parade-Rocket-Fuel-335g-48c-77a-192i-8h-10.5w-5b6e56.gif", "categories": [], "metrics": {"area": 77, "cycles": 48, "cost": 335}, "color": 2, "shape": "xG6fQrMhQkJGH55CkWpZQh+cqEJdTk1C"}
+  ]
+}

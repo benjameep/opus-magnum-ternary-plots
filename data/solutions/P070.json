@@ -1,0 +1,39 @@
+{
+  "id": "P070",
+  "name": "Wheel Representation",
+  "collection": "Journal",
+  "group": "Journal IV",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-434c-41a-291i-8h-7w-72.75r-0ee473.mp4", "categories": ["GC"], "metrics": {"area": 41, "cycles": 434, "cost": 80}, "color": 1, "shape": "PBbtQNXhiEAAAAAAAAAAAAAAAAAAAEg2q/DmNgAAyDdfXtdAGCiSQSTM5EChxlJB"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-463c-37a-311i-7h-6w-77.75r-88aac5.mp4", "categories": [], "metrics": {"area": 37, "cycles": 463, "cost": 80}, "color": 2, "shape": "X17XQBgokkGr8GY2AABIN6vwZjYAAMg3btecQG1XoUEYwNVAiFudQQ=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-607c-25a-406i-6h-4.5w-101.5r-2c776e.mp4", "categories": ["GX"], "metrics": {"area": 25, "cycles": 607, "cost": 80}, "color": 3, "shape": "S/JCQCeS5UFu15xAbVehQWtWEDcAAOE3q/DmNgAAyDer8GY2AADIN6vwZjYAAEg4"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-667c-23a-443i-5h-4w-110.75r-0057e3.mp4", "categories": [], "metrics": {"area": 23, "cycles": 667, "cost": 80}, "color": 2, "shape": "S/JCQCeS5UGr8GY2AABIOBIuSz9dyNxBPSMYQGltBkI="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-783c-22a-524i-5h-4w-131r-9a28fd.mp4", "categories": ["GA"], "metrics": {"area": 22, "cycles": 783, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAA3GLyQRIuSz9dyNxBq/BmNgAASDc="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/90g-730c-19a-490i-4095385b.mp4", "categories": [], "metrics": {"area": 19, "cycles": 730, "cost": 90}, "color": 3, "shape": "PSMYQGltBkISLks/XcjcQQAAAADcYvJBAAAAAORIn0I="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-120g-413c-18a-456i-4h-4.5w-68.75r-T-38238b.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 18, "cycles": 413, "cost": 120}, "color": 1, "shape": "sOB/QRrZgUIYwNVAiFudQW7XnEBtV6FBS/JCQCeS5UE9IxhAaW0GQgAAAADkSJ9CAAAAAAAAyEKNympBLw63Qg=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-130g-161c-45a-562i-8h-6.5w-27.25r-26a6cb.mp4", "categories": [], "metrics": {"area": 45, "cycles": 161, "cost": 130}, "color": 2, "shape": "PBbtQNXhiEAkzORAocZSQU78NEHw+9BA"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-140g-127c-41a-336i-6h-7w-64c289.mp4", "categories": [], "metrics": {"area": 41, "cycles": 127, "cost": 140}, "color": 0, "shape": "GMDVQIhbnUGw4H9BGtmBQpwQq0GVh35C4ONkQQpSLkEcm0lBYMvoQE78NEHw+9BAJMzkQKHGUkFfXtdAGCiSQQ=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-145g-112c-45a-54i-7h-7w-18r-6fd72b.gif", "categories": [], "metrics": {"area": 45, "cycles": 112, "cost": 145}, "color": 2, "shape": "HJtJQWDL6EDg42RBClIuQRMWa0EjugdB"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-155g-87c-45a-54i-7h-7w-14r-19b2c9.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 45, "cycles": 87, "cost": 155}, "color": 1, "shape": "ExZrQSO6B0Hg42RBClIuQZwQq0GVh35CH3EQQkf0iEKJBV1CUTKIQqbBi0KJn25CR1ePQh6+SEJVxIFC560bQlb4fEJmDRJC"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-275g-125c-33a-67i-7h-3.5w-20r-bbcf0e.gif", "categories": [], "metrics": {"area": 33, "cycles": 125, "cost": 275}, "color": 2, "shape": "m9MIQmaAoEIfcRBCR/SIQpwQq0GVh35CsOB/QRrZgUKNympBLw63Qg=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-310g-107c-36a-65i-8h-3.5w-17r-c2a58c.gif", "categories": [], "metrics": {"area": 36, "cycles": 107, "cost": 310}, "color": 0, "shape": "m9MIQmaAoEKJBV1CUTKIQh9xEEJH9IhC"},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/315g-72c-61a-59i-5a9650df.mp4", "categories": [], "metrics": {"area": 61, "cycles": 72, "cost": 315}, "color": 3, "shape": "R1ePQh6+SEKmwYtCiZ9uQj+BlEJ4hWRCWeKVQrq1VkI="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/420g-37c-141a-51i-T-58350a71.mp4", "categories": ["TC"], "metrics": {"area": 141, "cycles": 37, "cost": 420}, "color": 2, "shape": "Vvh8QmYNEkJVxIFC560bQjfZkEKzQSdC"},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/430g-36c-133a-52i-d82ccb28.mp4", "categories": [], "metrics": {"area": 133, "cycles": 36, "cost": 430}, "color": 0, "shape": "MNenQjzOQUI32ZBCs0EnQlXEgULnrRtCR1ePQh6+SEJZ4pVCurVWQjugpEJwjEdCwA+mQivaRULru6ZCUMBEQg=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-895g-29c-142a-451i-13h-12.5w-5.84r-a57c9e.mp4", "categories": [], "metrics": {"area": 142, "cycles": 29, "cost": 895}, "color": 2, "shape": "67umQlDARELAD6ZCK9pFQsWTp0LUTkZC"},
+    {"gif": "https://i.imgur.com/D58CY6u.gif", "categories": [], "metrics": {"area": 157, "cycles": 28, "cost": 920}, "color": 1, "shape": "U5GsQpRDR0Iw16dCPM5BQuu7pkJQwERCxZOnQtRORkKHHqlC9shHQmRHqkIuoEhCul+sQn8tSEIWhaxCI7dHQg=="},
+    {"gif": "https://files.mors.technology/Wheel-Representation-940g-29c-132a-478i-13h-12w-7r-edda4a.mp4", "categories": [], "metrics": {"area": 132, "cycles": 29, "cost": 940}, "color": 3, "shape": "O6CkQnCMR0KHHqlC9shHQsWTp0LUTkZCwA+mQivaRUI="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/975g-29c-127a-476i-77991497.mp4", "categories": [], "metrics": {"area": 127, "cycles": 29, "cost": 975}, "color": 2, "shape": "fKSqQoD1SkJkR6pCLqBIQoceqUL2yEdCO6CkQnCMR0JZ4pVCurVWQj+BlEJ4hWRC"},
+    {"gif": "https://i.imgur.com/4vS6vgl.gif", "categories": [], "metrics": {"area": 144, "cycles": 28, "cost": 1065}, "color": 0, "shape": "ul+sQn8tSEJkR6pCLqBIQnykqkKA9UpCXzqsQtQgSUKlX6xChy5IQg=="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/1450g-27c-211a-561i-eb7b37f6.mp4", "categories": ["CG"], "metrics": {"area": 211, "cycles": 27, "cost": 1450}, "color": 0, "shape": "U5GsQpRDR0IWhaxCI7dHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/1515g-27c-193a-570i-990990a1.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 193, "cycles": 27, "cost": 1515}, "color": 2, "shape": "pV+sQocuSEJ/NK1CAABIQhaFrEIjt0dCul+sQn8tSEI="},
+    {"gif": "https://files.mors.technology/WHEEL_REPRESENTATION/1560g-27c-189a-578i-d393a3e5.mp4", "categories": ["CA"], "metrics": {"area": 189, "cycles": 27, "cost": 1560}, "color": 1, "shape": "XzqsQtQgSUKANK1CAQBIQn80rUIAAEhCpV+sQocuSEI="}
+  ]
+}

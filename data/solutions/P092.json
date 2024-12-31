@@ -1,0 +1,29 @@
+{
+  "id": "P092",
+  "name": "Lamplight Gas",
+  "collection": "Journal",
+  "group": "Journal VI",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Lamplight-Gas-50g-276c-60a-276i-9h-9w-T-0f03ec.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 60, "cycles": 276, "cost": 50}, "color": 0, "shape": "p6DPQWa/b0EAAAAAAAAAAAAAAAD9/z9BfE0ZQdy2oEE="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/65g-165c-55a-28i-1e078e4a.mp4", "categories": [], "metrics": {"area": 55, "cycles": 165, "cost": 65}, "color": 1, "shape": "5uIxQspnzUGnoM9BZr9vQXxNGUHctqBB9zQmQRE+rkFEoilC8yTaQQ=="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/65g-415c-49a-70i-185c0c2b.mp4", "categories": [], "metrics": {"area": 49, "cycles": 415, "cost": 65}, "color": 2, "shape": "WyX9QBW7IUL3NCZBET6uQXxNGUHctqBBAAAAAP3/P0EAAAAAVlUFQg=="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/80g-129c-49a-34i-33f96509.mp4", "categories": [], "metrics": {"area": 49, "cycles": 129, "cost": 80}, "color": 0, "shape": "RKIpQvMk2kH3NCZBET6uQVsl/UAVuyFC/rahQZTlTUIZotNBkLdPQnfhOUJg6klCNgwvQvFs8EE="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/85g-531c-45a-78i-361ec1df.mp4", "categories": [], "metrics": {"area": 45, "cycles": 531, "cost": 85}, "color": 1, "shape": "AAAAAFZVBUIAAAAAAADIQvcNyED5x8BCVcHsQIscrULtyR5B39RsQl4l/UAVuyFC"},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/90g-187c-47a-35i-T-66b9297e.mp4", "categories": [], "metrics": {"area": 47, "cycles": 187, "cost": 90}, "color": 2, "shape": "XiX9QBW7IULtyR5B39RsQv62oUGU5U1C"},
+    {"gif": "https://files.mors.technology/Lamplight-Gas-95g-75c-53a-22i-9h-9w-11r-43fb17.gif", "categories": ["SUM_P"], "metrics": {"area": 53, "cycles": 75, "cost": 95}, "color": 2, "shape": "5uIxQspnzUFEoilC8yTaQTYML0LxbPBBD7WPQkJhRUITPIVCndgZQg=="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/95g-81c-51a-24i-ada02c5c.mp4", "categories": [], "metrics": {"area": 51, "cycles": 81, "cost": 95}, "color": 1, "shape": "NgwvQvFs8EF34TlCYOpJQmYQa0IgGmFCA7WHQu5maULmkpNCXhJQQg+1j0JCYUVC"},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/110g-95c-49a-24i-T-6f29a6a0.mp4", "categories": [], "metrics": {"area": 49, "cycles": 95, "cost": 110}, "color": 0, "shape": "A7WHQu5maUJmEGtCIBphQouyhEIxxnZCEzyFQmIndkI="},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/110g-141c-46a-35i-T-25865717.mp4", "categories": [], "metrics": {"area": 46, "cycles": 141, "cost": 110}, "color": 3, "shape": "VcHsQIscrUIZotNBkLdPQv62oUGU5U1C7ckeQd/UbEI="},
+    {"gif": "https://files.mors.technology/Lamplight-Gas-115g-56c-57a-129i-9h-9w-8f6f7c.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 57, "cycles": 56, "cost": 115}, "color": 0, "shape": "gDStQgAASEITPIVCndgZQg+1j0JCYUVC5pKTQl4SUEJEg6pCq+xJQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/115g-124c-46a-29i-fad69459.mp4", "categories": [], "metrics": {"area": 46, "cycles": 124, "cost": 115}, "color": 2, "shape": "i7KEQjHGdkJmEGtCIBphQnfhOUJg6klCGaLTQZC3T0JVwexAixytQvcNyED5x8BC"},
+    {"gif": "https://files.mors.technology/LAMPLIGHT_GAS/180g-57c-53a-282i-3933db1b.mp4", "categories": [], "metrics": {"area": 53, "cycles": 57, "cost": 180}, "color": 2, "shape": "RYOqQtobS0JEg6pCq+xJQuaSk0JeElBCA7WHQu5maUITPIVCYid2Qg=="},
+    {"gif": "https://files.mors.technology/Lamplight-Gas-200g-56c-55a-137i-9h-9w-5aa0e6.mp4", "categories": [], "metrics": {"area": 55, "cycles": 56, "cost": 200}, "color": 1, "shape": "RYOqQtobS0KANK1CAQBIQkSDqkKr7ElC"}
+  ]
+}

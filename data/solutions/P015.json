@@ -1,0 +1,40 @@
+{
+  "id": "P015",
+  "name": "Stamina Potion",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Stamina-Potion-60g-193c-28a-194i-6h-6w-32.34r-cda4f4.mp4", "categories": ["GC", "GX", "BG"], "metrics": {"area": 28, "cycles": 193, "cost": 60}, "color": 1, "shape": "gDQtNgAAyDXL2OhAKRD4QVaGZ0G/qwVB"},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/60g-327c-23a-55i-0ebfa230.mp4", "categories": ["GA"], "metrics": {"area": 23, "cycles": 327, "cost": 60}, "color": 2, "shape": "F9KgP47VD0J2EulAowz7QcvY6EApEPhBgDQtNgAAyDUAAAAAAAAAAAAAAACOEv9B"},
+    {"gif": "https://files.mors.technology/Stamina-Potion-70g-95c-26a-27i-6h-5w-16r-T-95346e.gif", "categories": ["TG"], "metrics": {"area": 26, "cycles": 95, "cost": 70}, "color": 0, "shape": "PycVQjc6rEFWhmdBv6sFQcvY6EApEPhBdhLpQKMM+0HE3ItBb6aWQqtMjUGJ6ZZCIs+jQQl+k0KyDh1CSaBGQitlMEIHpyVCricoQjhm8EE="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/70g-285c-19a-48i-T-2dafc7e8.mp4", "categories": [], "metrics": {"area": 19, "cycles": 285, "cost": 70}, "color": 1, "shape": "xNyLQW+mlkJ2EulAowz7QRfSoD+O1Q9CxS5FQBNbsEJQglpBMXOhQg=="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-70g-489c-18a-496i-5h-5w-82.67r-T-46639a.mp4", "categories": ["AG"], "metrics": {"area": 18, "cycles": 489, "cost": 70}, "color": 3, "shape": "gDQtNgAAyELFLkVAE1uwQhfSoD+O1Q9CAAAAAI4S/0EAAAAAAADIQg=="},
+    {"gif": "https://i.imgur.com/hdYWx8V.mp4", "categories": ["SUM"], "metrics": {"area": 41, "cycles": 43, "cost": 90}, "color": 2, "shape": "MDadQkyINUI/JxVCNzqsQa4nKEI4ZvBBeqV3QnIFMUJcsppCN2M/QtUYm0KsBz9C"},
+    {"gif": "https://files.mors.technology/Stamina-Potion-90g-51c-33a-92i-6h-5.5w-T-10e91e.mp4", "categories": [], "metrics": {"area": 33, "cycles": 51, "cost": 90}, "color": 1, "shape": "ricoQjhm8EErZTBCB6clQvjQZUKv0zVCeqV3QnIFMUI="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-100g-54c-27a-130i-6h-5w-9.5r-T-357746.mp4", "categories": [], "metrics": {"area": 27, "cycles": 54, "cost": 100}, "color": 2, "shape": "sg4dQkmgRkKfXU1CMtyBQpZdW0JGjYBCxVNuQuYfcUL40GVCr9M1QitlMEIHpyVC"},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/100g-59c-26a-21i-T-4a3bbe34.mp4", "categories": [], "metrics": {"area": 26, "cycles": 59, "cost": 100}, "color": 3, "shape": "sg4dQkmgRkIiz6NBCX6TQp9dTUIy3IFC"},
+    {"gif": "https://files.mors.technology/Stamina-Potion-110g-43c-30a-119i-7h-5.5w-7.84r-T-be81fc.mp4", "categories": [], "metrics": {"area": 30, "cycles": 43, "cost": 110}, "color": 0, "shape": "+NBlQq/TNULFU25C5h9xQp8ydkI1jGxC6xyYQrsFRkJcsppCN2M/Qnqld0JyBTFC"},
+    {"gif": "https://files.mors.technology/Stamina-Potion-110g-267c-18a-74i-5h-5w-45r-T-304737.gif", "categories": ["AC", "AX"], "metrics": {"area": 18, "cycles": 267, "cost": 110}, "color": 0, "shape": "gDQtNgAAyEIEVSVBdRG8QttNSkHQX69CUIJaQTFzoULFLkVAE1uwQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/120g-214c-19a-58i-d71ab23b.mp4", "categories": [], "metrics": {"area": 19, "cycles": 214, "cost": 120}, "color": 2, "shape": "q0yNQYnplkLE3ItBb6aWQlCCWkExc6FC201KQdBfr0IkY4xBSPCYQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/150g-65c-23a-29i-T-eca65513.mp4", "categories": [], "metrics": {"area": 23, "cycles": 65, "cost": 150}, "color": 1, "shape": "JGOMQUjwmEL6bTFCzseUQlRwTELO+4xC7tZYQix8hUKWXVtCRo2AQp9dTUIy3IFCIs+jQQl+k0KrTI1BiemWQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/160g-29c-50a-20i-T-33c0dccb.mp4", "categories": ["RG"], "metrics": {"area": 50, "cycles": 29, "cost": 160}, "color": 0, "shape": "MDadQkyINULVGJtCrAc/Qr2ipUKb7kJC/5unQvCAQkK5bqZCAS5AQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/180g-81c-21a-39i-bfb6c9c6.mp4", "categories": [], "metrics": {"area": 21, "cycles": 81, "cost": 180}, "color": 3, "shape": "BFUlQXURvEL6bTFCzseUQiRjjEFI8JhC201KQdBfr0I="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-185g-27c-73a-46i-11h-9.5w-4r-ad826c.gif", "categories": ["CG"], "metrics": {"area": 73, "cycles": 27, "cost": 185}, "color": 1, "shape": "uW6mQgEuQEL/m6dC8IBCQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/190g-28c-36a-28i-T-e519f86f.mp4", "categories": [], "metrics": {"area": 36, "cycles": 28, "cost": 190}, "color": 1, "shape": "MxenQg8/RUK9oqVCm+5CQtUYm0KsBz9CXLKaQjdjP0LrHJhCuwVGQl1knUJBxUdCnuukQjjhR0I="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/190g-34c-29a-29i-f97729b9.mp4", "categories": [], "metrics": {"area": 29, "cycles": 34, "cost": 190}, "color": 3, "shape": "nzJ2QjWMbELFU25C5h9xQpZdW0JGjYBC7tZYQix8hUIdtl1CmP2DQqgMbEI82nlC"},
+    {"gif": "https://files.mors.technology/Stamina-Potion-195g-27c-44a-54i-8h-7w-4r-f7ef5e.gif", "categories": [], "metrics": {"area": 44, "cycles": 27, "cost": 195}, "color": 3, "shape": "MxenQg8/RUJ+NK1C//9HQv+bp0LwgEJCvaKlQpvuQkI="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/205g-29c-30a-52i-d05d94d9.mp4", "categories": [], "metrics": {"area": 30, "cycles": 29, "cost": 205}, "color": 2, "shape": "qAxsQjzaeUJdZJ1CQcVHQuscmEK7BUZCnzJ2QjWMbEI="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-210g-27c-36a-48i-8h-6.5w-4r-31b8a9.gif", "categories": ["CX"], "metrics": {"area": 36, "cycles": 27, "cost": 210}, "color": 2, "shape": "qvWoQiYtS0J/NK1CAABIQn40rUL//0dCMxenQg8/RUKe66RCOOFHQg=="},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/215g-28c-30a-62i-3a45797c.mp4", "categories": [], "metrics": {"area": 30, "cycles": 28, "cost": 215}, "color": 0, "shape": "B+aoQrFiS0Kq9ahCJi1LQp7rpEI44UdCXWSdQkHFR0KoDGxCPNp5Qh22XUKY/YNCe+WLQid2bkJ2eaNCaDxTQg=="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-250g-27c-34a-54i-7h-6.5w-4r-21db68.gif", "categories": [], "metrics": {"area": 34, "cycles": 27, "cost": 250}, "color": 1, "shape": "B+aoQrFiS0JlNK1CFABIQqr1qEImLUtC"},
+    {"gif": "https://files.mors.technology/STAMINA_POTION/255g-30c-29a-62i-add33689.mp4", "categories": ["RA"], "metrics": {"area": 29, "cycles": 30, "cost": 255}, "color": 2, "shape": "VHBMQs77jEJ75YtCJ3ZuQh22XUKY/YNC7tZYQix8hUI="},
+    {"gif": "https://files.mors.technology/Stamina-Potion-295g-27c-32a-81i-7h-6.5w-4r-228f7a.gif", "categories": ["CA"], "metrics": {"area": 32, "cycles": 27, "cost": 295}, "color": 3, "shape": "dnmjQmg8U0KANK1CAQBIQn80rUIAAEhCZTStQhQASEIH5qhCsWJLQg=="}
+  ]
+}

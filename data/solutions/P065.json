@@ -1,0 +1,42 @@
+{
+  "id": "P065",
+  "name": "Lubricating Filament",
+  "collection": "Journal",
+  "group": "Journal III",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/40g-590c-1122a-590i-3f2f7689.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 1122, "cycles": 590, "cost": 40}, "color": 0, "shape": "WXJjQQBRA0EAAAAAAAAAAAAAAAAAAEg2vekNQfURFEHvL1dB9DMMQQ=="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-40g-800c-416a-814i-27h-23.5w-989ca3.mp4", "categories": ["GX"], "metrics": {"area": 416, "cycles": 800, "cost": 40}, "color": 2, "shape": "q/BmNgAAyDYkjdE/5PCMQaPUuUARvHRBvekNQfURFEE="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-40g-826c-412a-840i-26h-24w-be71f4.mp4", "categories": ["GA"], "metrics": {"area": 412, "cycles": 826, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAAwbqVQSSN0T/k8IxBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/75g-565c-90a-565i-d3b4c249.mp4", "categories": ["HG"], "metrics": {"area": 90, "cycles": 565, "cost": 75}, "color": 0, "shape": "AAAAAMA7qEJRZRg/jcOzQoO8Vz/9z7NCQJywQG/Yo0Gj1LlAEbx0QSSN0T/k8IxBAAAAAMG6lUE="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-80g-272c-749a-77i-31h-28w-Infr-T-60557a.mp4", "categories": [], "metrics": {"area": 749, "cycles": 272, "cost": 80}, "color": 2, "shape": "WXJjQQBRA0HvL1dB9DMMQQoDiUEqNR5B"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-90g-808c-84a-818i-4h-15.5w-1a8bc9.mp4", "categories": ["AG"], "metrics": {"area": 84, "cycles": 808, "cost": 90}, "color": 2, "shape": "UWUYP43Ds0IAAAAAwDuoQgAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/95g-177c-97a-41i-ccb52af8.mp4", "categories": ["SUM4"], "metrics": {"area": 97, "cycles": 177, "cost": 95}, "color": 1, "shape": "9JCaQQNlj0JWY0ZCDmTpQbQEPUJ2QtpBCgOJQSo1HkHvL1dB9DMMQb3pDUH1ERRBo9S5QBG8dEFAnLBAb9ijQQ=="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/95g-189c-91a-39i-12c48fc1.mp4", "categories": [], "metrics": {"area": 91, "cycles": 189, "cost": 95}, "color": 2, "shape": "9JCaQQNlj0JAnLBAb9ijQYO8Vz/9z7NCrrV8P8f9vUK0hzJAHlfBQqYbGEHBTbFC864vQZw+rUI="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/100g-586c-84a-586i-2b444e15.mp4", "categories": [], "metrics": {"area": 84, "cycles": 586, "cost": 100}, "color": 3, "shape": "rrV8P8f9vUKDvFc//c+zQlFlGD+Nw7NCq/BmNv3/x0IHRXw/uh2+Qg=="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/110g-220c-89a-43i-71d00fa6.mp4", "categories": [], "metrics": {"area": 89, "cycles": 220, "cost": 110}, "color": 4, "shape": "tIcyQB5XwUKutXw/x/29QgdFfD+6Hb5CzOIKQFrFw0I="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-115g-151c-529a-58i-28h-27.5w-23r-ba966d.gif", "categories": [], "metrics": {"area": 529, "cycles": 151, "cost": 115}, "color": 2, "shape": "tAQ9QnZC2kFWY0ZCDmTpQY0oU0Ih0/NB"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-135g-131c-96a-443i-5h-17w-Infr-d683e1.mp4", "categories": ["SUM"], "metrics": {"area": 96, "cycles": 131, "cost": 135}, "color": 0, "shape": "jShTQiHT80FWY0ZCDmTpQfSQmkEDZY9C864vQZw+rULXR9pBiCKfQqSzMULMZ4ZCSos2QpwRhEKq+4FCyf4tQqwBVUJx9fVB"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-140g-346c-84a-611i-4h-15.5w-48ee04.mp4", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 84, "cycles": 346, "cost": 140}, "color": 1, "shape": "zOIKQFrFw0IHRXw/uh2+QqvwZjb9/8dCgDQtNgAAyEIauwFAzajFQkLmB0CxE8VC"},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/150g-132c-93a-70i-8f8da596.mp4", "categories": [], "metrics": {"area": 93, "cycles": 132, "cost": 150}, "color": 3, "shape": "LjhSQdrEtELXR9pBiCKfQvOuL0GcPq1CphsYQcFNsUI="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-155g-139c-91a-70i-4h-16.5w-21r-c18bf9.gif", "categories": [], "metrics": {"area": 91, "cycles": 139, "cost": 155}, "color": 0, "shape": "QuYHQLETxUJDJQ5AdW/FQr41qUDn5MFCLjhSQdrEtEKmGxhBwU2xQrSHMkAeV8FCzOIKQFrFw0I="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/180g-87c-543a-135i-b0e69fcf.mp4", "categories": [], "metrics": {"area": 543, "cycles": 87, "cost": 180}, "color": 2, "shape": "rAFVQnH19UGq+4FCyf4tQnrpl0KbmjVCbNSYQt88NUKwTplC6+M0QjqvlkLW/i1C"},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/180g-223c-88a-82i-T-bcff370d.mp4", "categories": [], "metrics": {"area": 88, "cycles": 223, "cost": 180}, "color": 2, "shape": "QuYHQLETxUIauwFAzajFQkMlDkB1b8VC"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-240g-73c-899a-146i-37h-32.5w-10r-ba60a1.gif", "categories": ["RG"], "metrics": {"area": 899, "cycles": 73, "cost": 240}, "color": 1, "shape": "Oq+WQtb+LUKwTplC6+M0QnHXnkIYajdC"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-260g-105c-94a-440i-3h-17w-Infr-23b916.gif", "categories": ["HC"], "metrics": {"area": 94, "cycles": 105, "cost": 260}, "color": 1, "shape": "vjWpQOfkwUIr6Q9C33SeQkZwEEJ2OZ5CIHElQogtlEKkszFCzGeGQtdH2kGIIp9CLjhSQdrEtEI="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/270g-75c-142a-150i-e435c847.mp4", "categories": ["RA"], "metrics": {"area": 142, "cycles": 75, "cost": 270}, "color": 1, "shape": "eumXQpuaNUKq+4FCyf4tQkqLNkKcEYRCed+ZQgR7XEK9yptCR6NYQrLQmkI8mUdC"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-300g-76c-128a-168i-6h-19.5w-10r-8c9246.gif", "categories": [], "metrics": {"area": 128, "cycles": 76, "cost": 300}, "color": 3, "shape": "pLMxQsxnhkIgcSVCiC2UQoHJmUKSrVxCed+ZQgR7XEJKizZCnBGEQg=="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/325g-61c-430a-127i-9e367f74.mp4", "categories": ["CG"], "metrics": {"area": 430, "cycles": 61, "cost": 325}, "color": 0, "shape": "gDStQgAASEJx155CGGo3QrBOmULr4zRCbNSYQt88NUJ/NK1CAABIQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/330g-61c-336a-370i-d5d32186.mp4", "categories": [], "metrics": {"area": 336, "cycles": 61, "cost": 330}, "color": 4, "shape": "stCaQjyZR0J+NK1C//9HQmzUmELfPDVCeumXQpuaNUI="},
+    {"gif": "https://files.mors.technology/LUBRICATING_FILAMENT/340g-61c-314a-374i-678deb72.mp4", "categories": ["CX"], "metrics": {"area": 314, "cycles": 61, "cost": 340}, "color": 3, "shape": "vcqbQkejWEJ/NK1CAABIQn40rUL//0dCstCaQjyZR0I="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-370g-76c-122a-182i-8h-18.5w-10r-75374c.gif", "categories": [], "metrics": {"area": 122, "cycles": 76, "cost": 370}, "color": 0, "shape": "gcmZQpKtXEIgcSVCiC2UQkZwEEJ2OZ5Ct/oSQhuSnUJz/JhCyVhfQg=="},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-390g-77c-121a-181i-8h-18.5w-10r-0be5bc.gif", "categories": [], "metrics": {"area": 121, "cycles": 77, "cost": 390}, "color": 2, "shape": "K+kPQt90nkK3+hJCG5KdQkZwEEJ2OZ5C"},
+    {"gif": "https://files.mors.technology/Lubricating-Filament-530g-61c-276a-421i-25h-16.5w-7029c3.gif", "categories": ["CA"], "metrics": {"area": 276, "cycles": 61, "cost": 530}, "color": 2, "shape": "c/yYQslYX0KANK1CAQBIQn80rUIAAEhCvcqbQkejWEJ535lCBHtcQoHJmUKSrVxC"}
+  ]
+}

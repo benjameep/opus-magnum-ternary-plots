@@ -1,0 +1,36 @@
+{
+  "id": "P033",
+  "name": "Sword Alloy",
+  "collection": "Campaign",
+  "group": "Chapter 4",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Sword-Alloy-65g-936c-231a-941i-18h-17w-7a2cba.mp4", "categories": ["GC"], "metrics": {"area": 231, "cycles": 936, "cost": 65}, "color": 1, "shape": "JJ2bQfivM0EAAAAAAAAAAAAAAAAAAEg2UrGGQWkfpkFGGZJB8iygQQ=="},
+    {"gif": "https://files.mors.technology/Sword-Alloy-65g-1149c-137a-1154i-15h-15w-2725d0.mp4", "categories": ["GA", "GX"], "metrics": {"area": 137, "cycles": 1149, "cost": 65}, "color": 3, "shape": "AAAAAAAASDYAAAAAfcvXQTf1VUEsONRBUrGGQWkfpkE="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/80g-742c-236a-104i-721f9160.mp4", "categories": [], "metrics": {"area": 236, "cycles": 742, "cost": 80}, "color": 2, "shape": "JJ2bQfivM0FGGZJB8iygQUvaoUEsQJxBBF6rQbvgRUE="},
+    {"gif": "https://files.mors.technology/Sword-Alloy-100g-1023c-48a-1028i-4h-9.5w-3c3168.mp4", "categories": ["AG"], "metrics": {"area": 48, "cycles": 1023, "cost": 100}, "color": 2, "shape": "N/VVQSw41EEAAAAAfcvXQQAAAAAAAMhCgDQtNgAAyEJpIwNB/RWTQsAzIEEFvHZC"},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/120g-286c-247a-45i-427275ad.mp4", "categories": [], "metrics": {"area": 247, "cycles": 286, "cost": 120}, "color": 1, "shape": "BF6rQbvgRUFL2qFBLECcQV6WJUJxLvJBZXZVQjh89kE="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/140g-312c-63a-50i-577595b2.mp4", "categories": [], "metrics": {"area": 63, "cycles": 312, "cost": 140}, "color": 0, "shape": "XpYlQnEu8kFL2qFBLECcQUYZkkHyLKBBUrGGQWkfpkE39VVBLDjUQcAzIEEFvHZCap3qQZciW0LyGSFCLtIFQpOcJUJAOvJB"},
+    {"gif": "https://files.mors.technology/Sword-Alloy-145g-636c-48a-1180i-4h-10w-f76bef.mp4", "categories": ["AC", "AX"], "metrics": {"area": 48, "cycles": 636, "cost": 145}, "color": 0, "shape": "aSMDQf0Vk0KANC02AADIQoWkEkG/ar1CzlITQfQYu0I="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/150g-216c-176a-48i-37484d6c.mp4", "categories": [], "metrics": {"area": 176, "cycles": 216, "cost": 150}, "color": 2, "shape": "k5wlQkA68kGo/mRCiBIGQp9IZEJp8ARCRNhhQj1kAkJldlVCOHz2QV6WJUJxLvJB"},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/150g-303c-58a-49i-ba9849e8.mp4", "categories": [], "metrics": {"area": 58, "cycles": 303, "cost": 150}, "color": 1, "shape": "aSMDQf0Vk0LOUhNB9Bi7Qu0aZ0GLwrNCdheeQfmsqUJqnepBlyJbQsAzIEEFvHZC"},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/160g-299c-58a-47i-T-38cfe6d4.mp4", "categories": [], "metrics": {"area": 58, "cycles": 299, "cost": 160}, "color": 2, "shape": "wDUdQYSnvELtGmdBi8KzQs5SE0H0GLtChaQSQb9qvUI="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/180g-156c-311a-46i-fda582ee.mp4", "categories": [], "metrics": {"area": 311, "cycles": 156, "cost": 180}, "color": 1, "shape": "9GuQQonDJkJE2GFCPWQCQp9IZEJp8ARCC8qOQuRNJkI="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/180g-157c-253a-46i-db81e0ea.mp4", "categories": [], "metrics": {"area": 253, "cycles": 157, "cost": 180}, "color": 3, "shape": "C8qOQuRNJkKfSGRCafAEQqj+ZEKIEgZCkgqOQkhTJkI="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/180g-162c-75a-425i-eaa5e7b9.mp4", "categories": [], "metrics": {"area": 75, "cycles": 162, "cost": 180}, "color": 1, "shape": "8hkhQi7SBUIZdIBCPGdVQouYi0L2yEZCG4+PQkgWQEKSCo5CSFMmQqj+ZEKIEgZCk5wlQkA68kE="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/180g-169c-67a-441i-5dca2b5f.mp4", "categories": ["SUM"], "metrics": {"area": 67, "cycles": 169, "cost": 180}, "color": 3, "shape": "GXSAQjxnVULyGSFCLtIFQmqd6kGXIltCdheeQfmsqUKzqklCCOaAQg=="},
+    {"gif": "https://files.mors.technology/Sword-Alloy-255g-100c-158a-674i-17h-14w-Infr-46acb9.mp4", "categories": ["CG", "CX"], "metrics": {"area": 158, "cycles": 100, "cost": 255}, "color": 0, "shape": "gDStQgAASEL0a5BCicMmQgvKjkLkTSZCkgqOQkhTJkIbj49CSBZAQhSNlUIXJUdCQh+ZQqORSkLJC6tCnu1JQns0rUIGAEhCgDStQgEASEI="},
+    {"gif": "https://files.mors.technology/SWORD_ALLOY/260g-122c-81a-51i-0d539157.mp4", "categories": ["RA"], "metrics": {"area": 81, "cycles": 122, "cost": 260}, "color": 3, "shape": "G4+PQkgWQEKLmItC9shGQhSNlUIXJUdC"},
+    {"gif": "https://files.mors.technology/Sword-Alloy-270g-122c-71a-53i-7h-10.5w-16r-58a22b.gif", "categories": [], "metrics": {"area": 71, "cycles": 122, "cost": 270}, "color": 2, "shape": "W+iUQo6dUUJCH5lCo5FKQhSNlUIXJUdCi5iLQvbIRkIZdIBCPGdVQrOqSUII5oBC"},
+    {"gif": "https://files.mors.technology/Sword-Alloy-280g-100c-155a-56i-16h-14w-Infr-459032.mp4", "categories": [], "metrics": {"area": 155, "cycles": 100, "cost": 280}, "color": 3, "shape": "ezStQgYASELJC6tCnu1JQl1fq0KU+ElC"},
+    {"gif": "https://files.mors.technology/Sword-Alloy-335g-112c-64a-63i-7h-11w-16r-f15237.gif", "categories": [], "metrics": {"area": 64, "cycles": 112, "cost": 335}, "color": 0, "shape": "KsyXQie4YEJb6JRCjp1RQrOqSUII5oBCdheeQfmsqULtGmdBi8KzQsA1HUGEp7xC"},
+    {"gif": "https://files.mors.technology/Sword-Alloy-340g-100c-153a-650i-16h-14w-Infr-a14622.mp4", "categories": ["CA"], "metrics": {"area": 153, "cycles": 100, "cost": 340}, "color": 2, "shape": "TnCrQicKSkKANK1CAQBIQns0rUIGAEhCXV+rQpT4SUI="},
+    {"gif": "https://files.mors.technology/Sword-Alloy-345g-103c-80a-64i-7h-10.5w-16r-ff1cc8.gif", "categories": [], "metrics": {"area": 80, "cycles": 103, "cost": 345}, "color": 1, "shape": "KsyXQie4YEJOcKtCJwpKQl1fq0KU+ElCyQurQp7tSUJCH5lCo5FKQlvolEKOnVFC"}
+  ]
+}

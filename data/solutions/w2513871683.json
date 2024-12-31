@@ -1,0 +1,31 @@
+{
+  "id": "w2513871683",
+  "name": "Horn Silver",
+  "collection": "Community",
+  "group": "Best Of Weeklies 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/9BE8L4O.mp4", "categories": ["GC", "GI", "OGC", "TG"], "metrics": {"area": 40939, "cycles": 2807, "cost": 40}, "color": 1, "shape": "CcotQausyEAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDY9KutARRe8QA=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/40g-3795c-1489a-634i-T-17dcf62b.mp4", "categories": [], "metrics": {"area": 1489, "cycles": 3795, "cost": 40}, "color": 2, "shape": "q/BmNgAAyDYcGzBAtOsZQnGMRUAABxVCPSrrQEUXvEA="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/40g-5345c-462a-892i-T-5ce9c1db.mp4", "categories": ["GA", "GX"], "metrics": {"area": 462, "cycles": 5345, "cost": 40}, "color": 0, "shape": "AAAAAAAASDYAAAAAr+KhQhwbMEC06xlCq/BmNgAAyDY="},
+    {"gif": "https://i.imgur.com/CDkpDKn.gif", "categories": ["WG"], "metrics": {"area": 169, "cycles": 2736, "cost": 80}, "color": 1, "shape": "AAAAAK/ioUIAAAAA3emtQlwZ7D3YTKtCcYxFQAAHFUIcGzBAtOsZQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/110g-833c-36a-139i-deb72e5b.mp4", "categories": ["BG"], "metrics": {"area": 36, "cycles": 833, "cost": 110}, "color": 0, "shape": "udnvQU16ikEJyi1Bq6zIQD0q60BFF7xAcYxFQAAHFUJcGew92EyrQpH7BT5ebMJCLw2UPx7JwkI="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/110g-1418c-29a-237i-687183eb.mp4", "categories": [], "metrics": {"area": 29, "cycles": 1418, "cost": 110}, "color": 3, "shape": "kfsFPl5swkJcGew92EyrQgAAAADd6a1CAAAAAPi4xkI="},
+    {"gif": "https://i.imgur.com/gr4U2ne.gif", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 27, "cycles": 859, "cost": 120}, "color": 2, "shape": "AAAAAAAAyEIwGx4+W9LHQgdYEz9ghsZCLw2UPx7JwkKR+wU+XmzCQgAAAAD4uMZC"},
+    {"gif": "https://files.mors.technology/HORN_SILVER/190g-222c-51a-96i-3982f29d.mp4", "categories": [], "metrics": {"area": 51, "cycles": 222, "cost": 190}, "color": 1, "shape": "gWtJQmiU6EG52e9BTXqKQS8NlD8eycJCB1gTP2CGxkKzilY/4DPGQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/235g-91c-55a-62i-1e292438.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 55, "cycles": 91, "cost": 235}, "color": 0, "shape": "gWtJQmiU6EGzilY/4DPGQnUY7T9z3MVCGCWZQE95wkKTfaJCvaA7Qg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/310g-71c-64a-64i-3f336f7b.mp4", "categories": [], "metrics": {"area": 64, "cycles": 71, "cost": 310}, "color": 1, "shape": "k32iQr2gO0IYJZlAT3nCQpmTdUHsRrZC8qcYQgSnmkLV16hClfZCQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/315g-204c-36a-650i-e8544ba6.mp4", "categories": ["BC"], "metrics": {"area": 36, "cycles": 204, "cost": 315}, "color": 3, "shape": "MBsePlvSx0J1GO0/c9zFQrOKVj/gM8ZCB1gTP2CGxkI="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/645g-36c-158a-264i-1850141e.mp4", "categories": [], "metrics": {"area": 158, "cycles": 36, "cost": 645}, "color": 0, "shape": "1deoQpX2QkLypxhCBKeaQlqVjUKhrWtCNcagQgE8VUL+kaxCWkRHQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/745g-36c-122a-432i-dcd0f654.mp4", "categories": [], "metrics": {"area": 122, "cycles": 36, "cost": 745}, "color": 2, "shape": "WpWNQqGta0LypxhCBKeaQpmTdUHsRrZC51dOQg5vjEJEtl9CNlSHQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/1250g-27c-326a-394i-f54eaa71.mp4", "categories": ["CG"], "metrics": {"area": 326, "cycles": 27, "cost": 1250}, "color": 2, "shape": "/pGsQlpER0I1xqBCATxVQm80rUITAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/1330g-27c-225a-405i-81b4f707.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 225, "cycles": 27, "cost": 1330}, "color": 1, "shape": "RLZfQjZUh0JvNK1CEwBIQjXGoEIBPFVCWpWNQqGta0I="},
+    {"gif": "https://files.mors.technology/HORN_SILVER/1355g-27c-224a-409i-f57d7219.mp4", "categories": ["CA"], "metrics": {"area": 224, "cycles": 27, "cost": 1355}, "color": 0, "shape": "51dOQg5vjEKANK1CAQBIQm80rUITAEhCRLZfQjZUh0I="}
+  ]
+}

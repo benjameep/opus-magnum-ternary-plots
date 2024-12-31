@@ -1,0 +1,39 @@
+{
+  "id": "P034",
+  "name": "Stain Remover",
+  "collection": "Campaign",
+  "group": "Chapter 4",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Stain-Remover-75g-507c-33a-85i-6h-6.5w-85r-a4028c.gif", "categories": ["GC", "BG"], "metrics": {"area": 33, "cycles": 507, "cost": 75}, "color": 2, "shape": "hJozQWtjz0AAAAAAAAAAAAAAAAAAAEg2s0qgQdzcikEiDKBBN697QQ=="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/75g-513c-31a-86i-49544af6.mp4", "categories": [], "metrics": {"area": 31, "cycles": 513, "cost": 75}, "color": 3, "shape": "a1YQNwAAFjdeVqlBuIMGQrNKoEHc3IpB"},
+    {"gif": "https://files.mors.technology/Stain-Remover-75g-555c-27a-93i-6h-6w-93r-177fc8.gif", "categories": ["GA", "GX"], "metrics": {"area": 27, "cycles": 555, "cost": 75}, "color": 1, "shape": "AAAAAAAASDYAAAAADBd8Qu7k/0CJMolCXdmrQYOHYEK5Q7pBgZQ/Ql5WqUG4gwZCa1YQNwAAFjc="},
+    {"gif": "https://i.imgur.com/0ZA3jBd.gif", "categories": ["TG"], "metrics": {"area": 57, "cycles": 409, "cost": 80}, "color": 1, "shape": "hJozQWtjz0AiDKBBN697QVSpvEH02FlB"},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/105g-214c-41a-54i-38528f28.mp4", "categories": [], "metrics": {"area": 41, "cycles": 214, "cost": 105}, "color": 0, "shape": "Qa4HQqqrnEFUqbxB9NhZQSIMoEE3r3tBs0qgQdzcikFeVqlBuIMGQrlDukGBlD9CSEEBQoi1NEI="},
+    {"gif": "https://files.mors.technology/Stain-Remover-110g-674c-22a-113i-5h-5.5w-113r-1cf462.gif", "categories": ["AG"], "metrics": {"area": 22, "cycles": 674, "cost": 110}, "color": 2, "shape": "7uT/QIkyiUIAAAAADBd8QgAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/120g-146c-44a-50i-T-d34ac585.mp4", "categories": [], "metrics": {"area": 44, "cycles": 146, "cost": 120}, "color": 3, "shape": "Qa4HQqqrnEFIQQFCiLU0QnZ0IkJkhj5CrEVWQpBr90E="},
+    {"gif": "https://files.mors.technology/Stain-Remover-130g-128c-44a-46i-8h-6.5w-20r-T-a49435.gif", "categories": ["SUM"], "metrics": {"area": 44, "cycles": 128, "cost": 130}, "color": 1, "shape": "rEVWQpBr90F2dCJCZIY+Qsa0Q0JGHVFCmHZXQnhpT0KjvHdCPnBIQopOiULveiVCOiSGQq7kGkI="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/140g-420c-22a-682i-T-f9545fde.mp4", "categories": ["AC", "AX"], "metrics": {"area": 22, "cycles": 420, "cost": 140}, "color": 0, "shape": "YI7EQcj7g0Jd2atBg4dgQu7k/0CJMolCgDQtNgAAyELyppZBV0GyQqOQm0EBPa9C"},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/145g-169c-33a-52i-f1e415c5.mp4", "categories": [], "metrics": {"area": 33, "cycles": 169, "cost": 145}, "color": 2, "shape": "YI7EQcj7g0LGtENCRh1RQnZ0IkJkhj5CSEEBQoi1NEK5Q7pBgZQ/Ql3Zq0GDh2BC"},
+    {"gif": "https://files.mors.technology/Stain-Remover-200g-78c-48a-434i-7h-8w-12r-T-af6bc4.mp4", "categories": [], "metrics": {"area": 48, "cycles": 78, "cost": 200}, "color": 2, "shape": "ik6JQu96JUKjvHdCPnBIQoDthEI5p05CfweOQqlNSEITeJdC4Qc7QoyxlEKjPjVC"},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/210g-60c-90a-41i-T-f87c5f87.mp4", "categories": ["RG"], "metrics": {"area": 90, "cycles": 60, "cost": 210}, "color": 0, "shape": "GxmiQrssO0I6JIZCruQaQopOiULveiVCjLGUQqM+NUI="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/210g-124c-29a-67i-70ea08f1.mp4", "categories": [], "metrics": {"area": 29, "cycles": 124, "cost": 210}, "color": 3, "shape": "mHZXQnhpT0LGtENCRh1RQmCOxEHI+4NCo5CbQQE9r0IKRwxC5FebQg=="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/230g-56c-78a-49i-T-cef974ef.mp4", "categories": [], "metrics": {"area": 78, "cycles": 56, "cost": 230}, "color": 1, "shape": "tnenQvxfQUIbGaJCuyw7QoyxlEKjPjVCE3iXQuEHO0I0mJlCTew7Qg=="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/230g-104c-30a-69i-daaf2bca.mp4", "categories": [], "metrics": {"area": 30, "cycles": 104, "cost": 230}, "color": 0, "shape": "mHZXQnhpT0IKRwxC5FebQtLLH0Lu3plCeMNPQhkGjEK08lJCmciKQshEckJhf3VCYM55Qg/FbEJ1v31C+hpnQoDthEI5p05Co7x3Qj5wSEI="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/250g-118c-29a-67i-32719a0b.mp4", "categories": [], "metrics": {"area": 29, "cycles": 118, "cost": 250}, "color": 1, "shape": "8qaWQVdBskLSyx9C7t6ZQgpHDELkV5tCo5CbQQE9r0I="},
+    {"gif": "https://files.mors.technology/Stain-Remover-280g-51c-52a-57i-8h-7.5w-8r-3db271.gif", "categories": ["CG"], "metrics": {"area": 52, "cycles": 51, "cost": 280}, "color": 3, "shape": "tnenQvxfQUI0mJlCTew7QoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Stain-Remover-285g-51c-48a-57i-8h-8w-8r-7fe97e.gif", "categories": ["CX"], "metrics": {"area": 48, "cycles": 51, "cost": 285}, "color": 0, "shape": "0JumQjnxTEJ/NK1CAABIQjSYmUJN7DtCE3iXQuEHO0J/B45CqU1IQrWZn0JOHk1C"},
+    {"gif": "https://i.imgur.com/DFl7HRj.gif", "categories": [], "metrics": {"area": 39, "cycles": 55, "cost": 310}, "color": 3, "shape": "db99QvoaZ0K1mZ9CTh5NQn8HjkKpTUhCgO2EQjmnTkI="},
+    {"gif": "https://i.imgur.com/LokElk8.gif", "categories": [], "metrics": {"area": 38, "cycles": 54, "cost": 330}, "color": 1, "shape": "0JumQjnxTEK1mZ9CTh5NQnW/fUL6GmdCYM55Qg/FbEIkgqZCDRlNQg=="},
+    {"gif": "https://i.imgur.com/PIaK2az.gif", "categories": [], "metrics": {"area": 37, "cycles": 54, "cost": 350}, "color": 3, "shape": "zAGjQpTGU0IkgqZCDRlNQmDOeUIPxWxCyERyQmF/dUJciYpCIwhwQg=="},
+    {"gif": "https://i.imgur.com/hGi3XT2.gif", "categories": ["RA"], "metrics": {"area": 36, "cycles": 57, "cost": 360}, "color": 1, "shape": "gUlTQrUBi0JciYpCIwhwQshEckJhf3VCtPJSQpnIikI="},
+    {"gif": "https://files.mors.technology/STAIN_REMOVER/360g-80c-33a-67i-740136df.mp4", "categories": [], "metrics": {"area": 33, "cycles": 80, "cost": 360}, "color": 2, "shape": "tPJSQpnIikJ4w09CGQaMQoFJU0K1AYtC"},
+    {"gif": "https://files.mors.technology/Stain-Remover-420g-51c-41a-67i-7h-7w-8r-84db99.gif", "categories": ["CA"], "metrics": {"area": 41, "cycles": 51, "cost": 420}, "color": 2, "shape": "zAGjQpTGU0KANK1CAQBIQn80rUIAAEhC0JumQjnxTEIkgqZCDRlNQg=="}
+  ]
+}

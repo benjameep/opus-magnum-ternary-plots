@@ -1,0 +1,40 @@
+{
+  "id": "w2788066865",
+  "name": "Soothing Salve",
+  "collection": "Community",
+  "group": "Tournament 2022",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/zeqwyAK.gif", "categories": ["GC"], "metrics": {"area": 50, "cycles": 744, "cost": 80}, "color": 2, "shape": "ReeYQMGOMEAAAAAAAAAAAAAAAAAAAEg2we52QPreIUE="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/80g-776c-46a-794i-b1bdfa93.mp4", "categories": [], "metrics": {"area": 46, "cycles": 776, "cost": 80}, "color": 3, "shape": "q/BmNgAASDeAqU9AcbuSQcHudkD63iFB"},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/80g-1054c-32a-1092i-acba4fa9.mp4", "categories": ["GA", "GX"], "metrics": {"area": 32, "cycles": 1054, "cost": 80}, "color": 1, "shape": "AAAAAAAASDYAAAAAqysXQsZKL0CWiRZC0ApsQANV/UGAqU9AcbuSQavwZjYAAEg3"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-90g-1049c-28a-175i-7h-5w-175r-ce4070.gif", "categories": [], "metrics": {"area": 28, "cycles": 1049, "cost": 90}, "color": 0, "shape": "xkovQJaJFkIAAAAAqysXQgAAAACSJIFCVbksQEVxNUI="},
+    {"gif": "https://files.mors.technology/Soothing-Salve-95g-892c-29a-150i-6h-5.5w-150r-5bb1e6.gif", "categories": [], "metrics": {"area": 29, "cycles": 892, "cost": 95}, "color": 3, "shape": "5UiMQE27HULQCmxAA1X9QcZKL0CWiRZCVbksQEVxNUI="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/100g-368c-43a-922i-T-6a649e90.mp4", "categories": ["TG"], "metrics": {"area": 43, "cycles": 368, "cost": 100}, "color": 0, "shape": "bVBpQTm0BkFF55hAwY4wQMHudkD63iFBgKlPQHG7kkHQCmxAA1X9QeVIjEBNux1CWZfaQMhLSELyfRlB3zJaQurOPUE6Ly9CaMNjQTNJrUE="},
+    {"gif": "https://files.mors.technology/Soothing-Salve-120g-742c-24a-742i-6h-5.5w-e309b7.mp4", "categories": ["AG"], "metrics": {"area": 24, "cycles": 742, "cost": 120}, "color": 2, "shape": "WZfaQMhLSELlSIxATbsdQlW5LEBFcTVCAAAAAJIkgUIAAAAAAADIQoA0LTYAAMhC"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-135g-193c-46a-94i-7h-6w-32r-bceef3.gif", "categories": [], "metrics": {"area": 46, "cycles": 193, "cost": 135}, "color": 3, "shape": "aMNjQTNJrUHqzj1BOi8vQjBhjUGlTy1C"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-145g-124c-52a-47i-9h-8.5w-20r-e2356e.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 52, "cycles": 124, "cost": 145}, "color": 1, "shape": "mFs+QmbO20FtUGlBObQGQWjDY0EzSa1BMGGNQaVPLUKu9rtBk2pmQgrq5UH/3mhC3YgaQkmrYUKilyxCAVw2Qg=="},
+    {"gif": "https://files.mors.technology/Soothing-Salve-145g-190c-43a-100i-7h-6.5w-32r-09d5c1.gif", "categories": [], "metrics": {"area": 43, "cycles": 190, "cost": 145}, "color": 2, "shape": "sBVwQbjdo0JdPL9BaCFuQq72u0GTamZCMGGNQaVPLULqzj1BOi8vQvJ9GUHfMlpC"},
+    {"gif": "https://i.imgur.com/MyhOff3.gif", "categories": ["AC", "AX"], "metrics": {"area": 24, "cycles": 550, "cost": 150}, "color": 1, "shape": "WZfaQMhLSEKANC02AADIQhBNOkENjrpC3lNwQXRApEKwFXBBuN2jQvJ9GUHfMlpC"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-155g-127c-50a-54i-7h-8w-20r-b50b74.gif", "categories": [], "metrics": {"area": 50, "cycles": 127, "cost": 155}, "color": 3, "shape": "XTy/QWghbkIK6uVB/95oQq72u0GTamZC"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-170g-104c-54a-299i-9h-9w-7fbd9c.mp4", "categories": [], "metrics": {"area": 54, "cycles": 104, "cost": 170}, "color": 3, "shape": "opcsQgFcNkLdiBpCSathQuqeOEKIOG5C"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-175g-97c-56a-232i-9h-9w-0bc813.mp4", "categories": [], "metrics": {"area": 56, "cycles": 97, "cost": 175}, "color": 2, "shape": "uR8+QgCrcUIReI5Cz1A1QjMUjUJl5yJCmFs+QmbO20GilyxCAVw2QuqeOEKIOG5C"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-195g-122c-45a-66i-9h-8w-20r-be809b.gif", "categories": [], "metrics": {"area": 45, "cycles": 122, "cost": 195}, "color": 0, "shape": "uR8+QgCrcULqnjhCiDhuQt2IGkJJq2FCCurlQf/eaEJdPL9BaCFuQrAVcEG43aNC3lNwQXRApEI4autBUgWmQn27N0IH9pJCIWpHQvz6h0I="},
+    {"gif": "https://files.mors.technology/Soothing-Salve-210g-118c-46a-70i-9h-8w-19r-2b1155.gif", "categories": [], "metrics": {"area": 46, "cycles": 118, "cost": 210}, "color": 2, "shape": "IWpHQvz6h0J9uzdCB/aSQu4jTUL1x4xC"},
+    {"gif": "https://files.mors.technology/Soothing-Salve-215g-87c-68a-47i-10h-9.5w-13r-70a421.gif", "categories": [], "metrics": {"area": 68, "cycles": 87, "cost": 215}, "color": 0, "shape": "AFSaQukzMkIzFI1CZeciQhF4jkLPUDVCioebQvDvRUJN8JpCCgM6Qg=="},
+    {"gif": "https://files.mors.technology/Soothing-Salve-215g-90c-55a-48i-9h-8w-14r-fb616f.gif", "categories": [], "metrics": {"area": 55, "cycles": 90, "cost": 215}, "color": 1, "shape": "EXiOQs9QNUK5Hz5CAKtxQiFqR0L8+odC7iNNQvXHjEKL1JxCc+haQtPpnEIyHVRCioebQvDvRUI="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/355g-201c-36a-888i-c25b9cb7.mp4", "categories": ["BC"], "metrics": {"area": 36, "cycles": 201, "cost": 355}, "color": 2, "shape": "EE06QQ2OukI4autBUgWmQt5TcEF0QKRC"},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/565g-40c-172a-212i-b506b40d.mp4", "categories": [], "metrics": {"area": 172, "cycles": 40, "cost": 565}, "color": 1, "shape": "AFSaQukzMkJN8JpCCgM6QiD/oEKipj5CV6mgQhKEOUI="},
+    {"gif": "https://i.imgur.com/xPA7PzK.gif", "categories": [], "metrics": {"area": 166, "cycles": 40, "cost": 570}, "color": 2, "shape": "RpilQqSoTUIg/6BCoqY+Qk3wmkIKAzpCioebQvDvRULT6ZxCMh1UQg=="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/600g-37c-182a-149i-14af422b.mp4", "categories": [], "metrics": {"area": 182, "cycles": 37, "cost": 600}, "color": 0, "shape": "tvCqQoRiRUJXqaBCEoQ5QiD/oEKipj5CRpilQqSoTUJc5adCZiFOQidOqkIwWUtCYveqQuPjSEI="},
+    {"gif": "https://i.imgur.com/ikNxAjL.gif", "categories": [], "metrics": {"area": 161, "cycles": 40, "cost": 665}, "color": 3, "shape": "i9ScQnPoWkJc5adCZiFOQkaYpUKkqE1C0+mcQjIdVEI="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/875g-33c-250a-186i-1d9fb742.mp4", "categories": ["CG", "CX"], "metrics": {"area": 250, "cycles": 33, "cost": 875}, "color": 1, "shape": "tvCqQoRiRUJi96pC4+NIQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/SOOTHING_SALVE/1010g-33c-234a-244i-1b4305ac.mp4", "categories": ["CA"], "metrics": {"area": 234, "cycles": 33, "cost": 1010}, "color": 2, "shape": "J06qQjBZS0KANK1CAQBIQmL3qkLj40hC"}
+  ]
+}

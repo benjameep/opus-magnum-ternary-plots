@@ -1,0 +1,31 @@
+{
+  "id": "P058",
+  "name": "Lambent II/IX",
+  "collection": "Journal",
+  "group": "Journal I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Lambent-II-IX-50g-956c-50a-160i-9h-7.5w-160r-db9b88.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 50, "cycles": 956, "cost": 50}, "color": 1, "shape": "wpKkQWgIPkEAAAAAAAAAAAAAAAAAAEg2RV2fQV6vqUGG7rhBN2O3QQ0m1EEWJ7pB"},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-50g-1082c-33a-181i-6h-6w-181r-b778bf.mp4", "categories": ["GX"], "metrics": {"area": 33, "cycles": 1082, "cost": 50}, "color": 0, "shape": "RV2fQV6vqUGr8GY2AADINs3/hz9HlXRB2HwVQT2WzkHBu0JBFOPRQQ=="},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/50g-216i-1292c-32a-6h-6w-216r-32a-6h-6w-7b5f075a.mp4", "categories": ["GA"], "metrics": {"area": 32, "cycles": 1292, "cost": 50}, "color": 2, "shape": "AAAAAAAASDYAAAAA7NN5Qc3/hz9HlXRBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/60g-1203c-25a-1207i-T-fa6ff8ef.mp4", "categories": ["AG", "AX"], "metrics": {"area": 25, "cycles": 1203, "cost": 60}, "color": 1, "shape": "2HwVQT2WzkHN/4c/R5V0QQAAAADs03lBAAAAAAAAyEKANC02AADIQmtWEDf6/8dC"},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/70g-986c-28a-165i-cc4447dd.mp4", "categories": [], "metrics": {"area": 28, "cycles": 986, "cost": 70}, "color": 2, "shape": "g3J6Qdz3BkKG7rhBN2O3QUVdn0Fer6lBwbtCQRTj0UE="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-70g-1058c-25a-177i-6h-5.5w-177r-7b5d56.mp4", "categories": ["AI"], "metrics": {"area": 25, "cycles": 1058, "cost": 70}, "color": 3, "shape": "g3J6Qdz3BkLBu0JBFOPRQdh8FUE9ls5Ba1YQN/r/x0I="},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/100g-591c-80a-186i-06822c8f.mp4", "categories": [], "metrics": {"area": 80, "cycles": 591, "cost": 100}, "color": 2, "shape": "G8wEQlJXmUHCkqRBaAg+QQ0m1EEWJ7pBpZfaQYnOv0E="},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/100g-842c-25a-208i-T-877d6f50.mp4", "categories": ["AC"], "metrics": {"area": 25, "cycles": 842, "cost": 100}, "color": 0, "shape": "gDQtNgAAyELB571B65asQnPoA0JksC9CpZfaQYnOv0ENJtRBFie6QYbuuEE3Y7dBg3J6Qdz3BkJrVhA3+v/HQg=="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-220g-152c-62a-113i-10h-8.5w-24r-a3dda6.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 62, "cycles": 152, "cost": 220}, "color": 1, "shape": "HLWTQtGOKkIbzARCUleZQaWX2kGJzr9Bc+gDQmSwL0IYKltCKXxdQn+UXUL4rFxCMKqNQkvMOEI="},
+    {"gif": "https://files.mors.technology/LAMBENT_II_IX/290g-284c-37a-974i-T-92a0561f.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 284, "cost": 290}, "color": 3, "shape": "Ka8oQhhOl0IYKltCKXxdQnPoA0JksC9Cwee9QeuWrEI="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-355g-99c-66a-124i-11h-7.5w-16r-5f2d65.gif", "categories": ["RG"], "metrics": {"area": 66, "cycles": 99, "cost": 355}, "color": 2, "shape": "HLWTQtGOKkIwqo1CS8w4QiWHpkIVB0NCZTSfQm/VN0I="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-360g-98c-71a-120i-11h-8w-16r-ba90b3.gif", "categories": ["CG"], "metrics": {"area": 71, "cycles": 98, "cost": 360}, "color": 3, "shape": "ZTSfQm/VN0Ilh6ZCFQdDQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-380g-98c-59a-117i-9h-8.5w-16r-4a82e8.gif", "categories": ["CX"], "metrics": {"area": 59, "cycles": 98, "cost": 380}, "color": 0, "shape": "fzStQgAASEIlh6ZCFQdDQjCqjUJLzDhCf5RdQvisXEJCc59CshZNQg=="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-470g-98c-53a-126i-8h-7.5w-16r-98161a.gif", "categories": [], "metrics": {"area": 53, "cycles": 98, "cost": 470}, "color": 3, "shape": "iSOqQspCSkJ+NK1CAABIQkNzn0KxFk1CQnOfQrIWTUI="},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-545g-99c-47a-117i-8h-7.5w-16r-2d6f44.gif", "categories": ["RA"], "metrics": {"area": 47, "cycles": 99, "cost": 545}, "color": 2, "shape": "iSOqQspCSkJDc59CsRZNQn+UXUL4rFxCGCpbQil8XUIpryhCGE6XQm76qULcuUtC"},
+    {"gif": "https://files.mors.technology/Lambent-II-IX-575g-98c-50a-115i-8h-7.5w-16r-569367.gif", "categories": ["CA"], "metrics": {"area": 50, "cycles": 98, "cost": 575}, "color": 1, "shape": "bvqpQty5S0KANK1CAQBIQn80rUIAAEhCfjStQgAASEKJI6pCykJKQg=="}
+  ]
+}

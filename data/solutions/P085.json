@@ -1,0 +1,34 @@
+{
+  "id": "P085",
+  "name": "Suture Thread",
+  "collection": "Journal",
+  "group": "Journal V",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Suture-Thread-40g-328c-307a-334i-17h-18.5w-8a27cf.mp4", "categories": ["GC"], "metrics": {"area": 307, "cycles": 328, "cost": 40}, "color": 1, "shape": "UUriQRamgkGANC02AADINavw5jUAAEg2q/BmNgAAyDa9o8JBVkmSQQ=="},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/40g-340c-299a-56i-f33cc126.mp4", "categories": [], "metrics": {"area": 299, "cycles": 340, "cost": 40}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAABINqvw5jUAAEg2gDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/Suture-Thread-40g-377c-112a-388i-15h-11w-fa88e5.gif", "categories": ["GX"], "metrics": {"area": 112, "cycles": 377, "cost": 40}, "color": 0, "shape": "vaPCQVZJkkGr8GY2AADINqvwZjYAAC84ZYHFP96LSkGM5CtA0GBpQW6nREEJj/FBpapsQQXk9kEAeIlBfwf2QTDawUFPIqNB"},
+    {"gif": "https://files.mors.technology/Suture-Thread-40g-388c-111a-404i-14h-12w-abb3af.gif", "categories": [], "metrics": {"area": 111, "cycles": 388, "cost": 40}, "color": 3, "shape": "ZYHFP96LSkGr8GY2AAAvOInz4D5hpi5B"},
+    {"gif": "https://files.mors.technology/Suture-Thread-40g-423c-110a-433i-14h-11w-3d7c83.mp4", "categories": ["GA"], "metrics": {"area": 110, "cycles": 423, "cost": 40}, "color": 2, "shape": "AAAAACVCJkGJ8+A+YaYuQavwZjYAAMg2q/DmNQAASDYAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/45g-480c-57a-70i-1935810b.mp4", "categories": [], "metrics": {"area": 57, "cycles": 480, "cost": 45}, "color": 3, "shape": "jOQrQNBgaUHcAfNABvckQm6nREEJj/FB"},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/45g-487c-56a-71i-7e377128.mp4", "categories": [], "metrics": {"area": 56, "cycles": 487, "cost": 45}, "color": 1, "shape": "AAAAACVCJkEAAAAAYxV0QtwB80AG9yRCjOQrQNBgaUFlgcU/3otKQYnz4D5hpi5B"},
+    {"gif": "https://files.mors.technology/Suture-Thread-60g-377c-44a-382i-5h-9.5w-fafb67.mp4", "categories": ["AG"], "metrics": {"area": 44, "cycles": 377, "cost": 60}, "color": 2, "shape": "gDQtNgAAyEKlqmxBBeT2QW6nREEJj/FB3AHzQAb3JEIAAAAAYxV0QgAAAAAAAMhC"},
+    {"gif": "https://files.mors.technology/Suture-Thread-65g-340c-44a-345i-5h-9.5w-63097d.mp4", "categories": ["AC", "AX"], "metrics": {"area": 44, "cycles": 340, "cost": 65}, "color": 3, "shape": "gDQtNgAAyEKqZItAWPjCQr4krUCQy79CAHiJQX8H9kGlqmxBBeT2QQ=="},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/90g-113c-163a-37i-T-4ce5f15d.mp4", "categories": [], "metrics": {"area": 163, "cycles": 113, "cost": 90}, "color": 3, "shape": "jMZQQsIS8UFRSuJBFqaCQb2jwkFWSZJBMNrBQU8io0Fha05CfQv/QQ=="},
+    {"gif": "https://files.mors.technology/Suture-Thread-100g-106c-53a-258i-4h-9.5w-b7f14b.mp4", "categories": [], "metrics": {"area": 53, "cycles": 106, "cost": 100}, "color": 1, "shape": "db9UQp5CCEJha05CfQv/QTDawUFPIqNBAHiJQX8H9kG+JK1AkMu/Qvw/wkCDy75C"},
+    {"gif": "https://files.mors.technology/Suture-Thread-125g-76c-54a-250i-5h-10.5w-Infr-d83866.mp4", "categories": ["SUM"], "metrics": {"area": 54, "cycles": 76, "cost": 125}, "color": 0, "shape": "db9UQp5CCEL8P8JAg8u+Qrbn6kFGWKBCYUUYQlIik0KH83FC7j0tQsi0dUKQdCBC"},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/130g-58c-186a-36i-T-2b443a8c.mp4", "categories": ["RG"], "metrics": {"area": 186, "cycles": 58, "cost": 130}, "color": 2, "shape": "tQyeQgCANkKMxlBCwhLxQWFrTkJ9C/9Bdb9UQp5CCELItHVCkHQgQt7WlEKUsDZC"},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/145g-60c-69a-37i-584f686f.mp4", "categories": ["RA"], "metrics": {"area": 69, "cycles": 60, "cost": 145}, "color": 1, "shape": "h/NxQu49LUJWP49CziJNQl2blkKOOkVC3taUQpSwNkLItHVCkHQgQg=="},
+    {"gif": "https://files.mors.technology/Suture-Thread-145g-62c-59a-38i-5h-10w-9r-ebcc20.gif", "categories": [], "metrics": {"area": 59, "cycles": 62, "cost": 145}, "color": 3, "shape": "h/NxQu49LUJhRRhCUiKTQsxgUkI4dIBCVj+PQs4iTUI="},
+    {"gif": "https://files.mors.technology/Suture-Thread-175g-49c-121a-33i-15h-11.5w-Infr-5f5538.gif", "categories": ["CG"], "metrics": {"area": 121, "cycles": 49, "cost": 175}, "color": 0, "shape": "gDStQgAASEK1DJ5CAIA2Qt7WlEKUsDZCXZuWQo46RUKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/Suture-Thread-215g-49c-59a-34i-7h-11w-8r-cd0a99.gif", "categories": ["CX"], "metrics": {"area": 59, "cycles": 49, "cost": 215}, "color": 2, "shape": "zGBSQjh0gEJ/NK1CAABIQl2blkKOOkVCVj+PQs4iTUI="},
+    {"gif": "https://files.mors.technology/Suture-Thread-225g-49c-57a-36i-6h-10.5w-8r-425124.gif", "categories": ["CA"], "metrics": {"area": 57, "cycles": 49, "cost": 225}, "color": 1, "shape": "0WQdQniQmkKANK1CAQBIQn80rUIAAEhCzGBSQjh0gEJhRRhCUiKTQrbn6kFGWKBC"},
+    {"gif": "https://files.mors.technology/SUTURE_THREAD/250g-57c-53a-37i-T-c37c08f2.mp4", "categories": [], "metrics": {"area": 53, "cycles": 57, "cost": 250}, "color": 2, "shape": "qmSLQFj4wkLRZB1CeJCaQrbn6kFGWKBC/D/CQIPLvkK+JK1AkMu/Qg=="}
+  ]
+}

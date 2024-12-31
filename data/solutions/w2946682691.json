@@ -1,0 +1,31 @@
+{
+  "id": "w2946682691",
+  "name": "End Game",
+  "collection": "Community",
+  "group": "Tournament 2023",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/END_GAME/50g-1373c-15192a-229i-T-616d1322.mp4", "categories": ["GC", "GI", "TG"], "metrics": {"area": 15192, "cycles": 1373, "cost": 50}, "color": 1, "shape": "QO0RQXCAqEAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYlgQ9B9N2oQA=="},
+    {"gif": "https://i.imgur.com/CedbGl8.mp4", "categories": [], "metrics": {"area": 3490, "cycles": 1390, "cost": 50}, "color": 2, "shape": "JYEPQfTdqECr8GY2AADINrv6ZEAUCiRBiK+wQCUgPkE="},
+    {"gif": "https://files.mors.technology/END_GAME/50g-2328c-381a-2328i-T-090968ca.mp4", "categories": ["GA", "GX"], "metrics": {"area": 381, "cycles": 2328, "cost": 50}, "color": 0, "shape": "AAAAAAAASDYAAAAAJRktQrv6ZEAUCiRBq/BmNgAAyDY="},
+    {"gif": "https://i.imgur.com/HRgJn8q.gif", "categories": ["AG", "AC", "AX"], "metrics": {"area": 26, "cycles": 1560, "cost": 70}, "color": 1, "shape": "iK+wQCUgPkG7+mRAFAokQQAAAAAlGS1CAAAAAAAAyEIbNqw8yvnHQq1XN0Cqp5JC"},
+    {"gif": "https://files.mors.technology/END_GAME/110g-933c-27a-1601i-T-fa678f61.mp4", "categories": [], "metrics": {"area": 27, "cycles": 933, "cost": 110}, "color": 3, "shape": "rVc3QKqnkkIbNqw8yvnHQjKgbT5nu8dC0ISMP1Vpw0L27TdADK+UQg=="},
+    {"gif": "https://files.mors.technology/END_GAME/120g-147c-218a-49i-f8afaa83.mp4", "categories": ["SUM4"], "metrics": {"area": 218, "cycles": 147, "cost": 120}, "color": 0, "shape": "LE9OQrU57kFA7RFBcICoQCWBD0H03ahAiK+wQCUgPkGtVzdAqqeSQvbtN0AMr5RCz7foQI7WsUKWFZxBh9SlQr7EfEKJbUpCK419Qku4REI="},
+    {"gif": "https://files.mors.technology/END_GAME/140g-339c-71a-144i-f5b56af1.mp4", "categories": [], "metrics": {"area": 71, "cycles": 339, "cost": 140}, "color": 1, "shape": "9u03QAyvlELQhIw/VWnDQs1ODkDPB8NCJCTnQB80uULPt+hAjtaxQg=="},
+    {"gif": "https://files.mors.technology/END_GAME/150g-147c-185a-61i-2fae42dc.mp4", "categories": ["SUM"], "metrics": {"area": 185, "cycles": 147, "cost": 150}, "color": 2, "shape": "AeANQW1Gt0KWFZxBh9SlQs+36ECO1rFCJCTnQB80uUI="},
+    {"gif": "https://files.mors.technology/END_GAME/180g-63c-2509a-12i-T-54b0aaed.mp4", "categories": [], "metrics": {"area": 2509, "cycles": 63, "cost": 180}, "color": 1, "shape": "LE9OQrU57kErjX1CS7hEQiZ1oUJpbzpC"},
+    {"gif": "https://files.mors.technology/END_GAME/250g-101c-170a-78i-e50df22b.mp4", "categories": [], "metrics": {"area": 170, "cycles": 101, "cost": 250}, "color": 1, "shape": "gRaJQj7DXkK+xHxCiW1KQpYVnEGH1KVCAeANQW1Gt0JzyBRCGvScQg=="},
+    {"gif": "https://files.mors.technology/END_GAME/260g-51c-1743a-18i-T-a89d8993.mp4", "categories": [], "metrics": {"area": 1743, "cycles": 51, "cost": 260}, "color": 2, "shape": "vsR8QoltSkKBFolCPsNeQjDzqEIrFkNCJnWhQmlvOkIrjX1CS7hEQg=="},
+    {"gif": "https://files.mors.technology/END_GAME/260g-423c-36a-1466i-T-546cc0fd.mp4", "categories": [], "metrics": {"area": 36, "cycles": 423, "cost": 260}, "color": 2, "shape": "MqBtPme7x0IgvHk/od/GQqvBpT+p7MVCzU4OQM8Hw0LQhIw/VWnDQg=="},
+    {"gif": "https://files.mors.technology/END_GAME/435g-123c-59a-169i-46f978b7.mp4", "categories": [], "metrics": {"area": 59, "cycles": 123, "cost": 435}, "color": 0, "shape": "zU4OQM8Hw0KrwaU/qezFQiUpCUB8hsVCySoUQlQ6nUJzyBRCGvScQgHgDUFtRrdCJCTnQB80uUI="},
+    {"gif": "https://files.mors.technology/END_GAME/445g-129c-58a-185i-02f91599.mp4", "categories": [], "metrics": {"area": 58, "cycles": 129, "cost": 445}, "color": 1, "shape": "ILx5P6HfxkIlKQlAfIbFQqvBpT+p7MVC"},
+    {"gif": "https://files.mors.technology/END_GAME/780g-24c-545a-200i-dd39108c.mp4", "categories": [], "metrics": {"area": 545, "cycles": 24, "cost": 780}, "color": 3, "shape": "6HirQsj/RUIw86hCKxZDQoEWiUI+w15Cc8gUQhr0nELJKhRCVDqdQpZDjkJIumtC"},
+    {"gif": "https://files.mors.technology/END_GAME/1020g-19c-696a-215i-96da5585.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 696, "cycles": 19, "cost": 1020}, "color": 0, "shape": "6HirQsj/RUKWQ45CSLprQoA0rUIAAEhC"}
+  ]
+}

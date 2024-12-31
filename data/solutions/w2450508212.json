@@ -1,0 +1,39 @@
+{
+  "id": "w2450508212",
+  "name": "Improved Explosive Phial",
+  "collection": "Community",
+  "group": "Tournament 2021",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-60g-397c-1721a-397i-50h-48w-T-692387.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 1721, "cycles": 397, "cost": 60}, "color": 0, "shape": "VSWpQBNQQ0AAAAAAAAAAAAAAAAAAAEg2xFMtQKiiKEA="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-60g-476c-1065a-476i-32h-34w-T-dc4f68.mp4", "categories": [], "metrics": {"area": 1065, "cycles": 476, "cost": 60}, "color": 3, "shape": "dsWeNwAArzePLQtAVrc1QMRTLUCooihA"},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-60g-621c-411a-621i-25h-21.5w-T-0a1a2b.mp4", "categories": ["GA", "GX"], "metrics": {"area": 411, "cycles": 621, "cost": 60}, "color": 2, "shape": "AAAAAAAASDYAAAAAgm4mQdUAUD4MaSVBjy0LQFa3NUB2xZ43AACvNw=="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-70g-203c-124a-203i-14h-12.5w-T-b9ab24.mp4", "categories": [], "metrics": {"area": 124, "cycles": 203, "cost": 70}, "color": 1, "shape": "i42/Qa0vXUFVJalAE1BDQMRTLUCooihAjy0LQFa3NUDVAFA+DGklQaQtCj+zxNtBZEJ1QDqt/EEnUTFBxpoOQg=="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-70g-540c-102a-540i-12h-10w-T-f7ba18.mp4", "categories": [], "metrics": {"area": 102, "cycles": 540, "cost": 70}, "color": 0, "shape": "pC0KP7PE20HVAFA+DGklQQAAAACCbiZBAAAAAAXbDEIQZp4+niEDQg=="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-75g-209c-81a-209i-10h-9.5w-758ca0.gif", "categories": [], "metrics": {"area": 81, "cycles": 209, "cost": 75}, "color": 3, "shape": "btO/QJCgRUInUTFBxpoOQmRCdUA6rfxB"},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-75g-223c-75a-223i-10h-9w-59aba7.mp4", "categories": [], "metrics": {"area": 75, "cycles": 223, "cost": 75}, "color": 2, "shape": "g8ihQOiqUUJu079AkKBFQmRCdUA6rfxBpC0KP7PE20EQZp4+niEDQg=="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-80g-291c-36a-146i-7h-5.5w-48.67r-T-18f49b.gif", "categories": [], "metrics": {"area": 36, "cycles": 291, "cost": 80}, "color": 1, "shape": "g8ihQOiqUUIQZp4+niEDQgAAAAAF2wxCAAAAACAgnkJgXas+ZjOkQoLr9j7mTqVCa/jUP8UKpUI="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-100g-104c-34a-204i-7h-7.5w-19.17r-60999f.mp4", "categories": [], "metrics": {"area": 34, "cycles": 104, "cost": 100}, "color": 0, "shape": "gq8YQl5OsEGLjb9BrS9dQSdRMUHGmg5CbtO/QJCgRUKDyKFA6KpRQmv41D/FCqVCN1PwP509ukJr8ldAXly+QlRpTUEnZZtC"},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-100g-298c-21a-151i-5h-5w-50.34r-T-6ca1d7.gif", "categories": [], "metrics": {"area": 21, "cycles": 298, "cost": 100}, "color": 3, "shape": "N1PwP509ukJr+NQ/xQqlQoLr9j7mTqVCOYgNP8eBvUIAAKc/lZm9Qg=="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-100g-402c-19a-402i-4h-4.5w-T-210dd6.mp4", "categories": [], "metrics": {"area": 19, "cycles": 402, "cost": 100}, "color": 4, "shape": "YF2rPmYzpEJY4Mc+roS/QjmIDT/Hgb1Cguv2PuZOpUI="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-100g-551c-17a-277i-5h-4.5w-92.34r-T-d79a04.mp4", "categories": ["AG", "BG"], "metrics": {"area": 17, "cycles": 551, "cost": 100}, "color": 2, "shape": "YF2rPmYzpEIAAAAAICCeQgAAAAAAAMhCgDQtNgAAyELFO3g+KCvEQljgxz6uhL9C"},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-110g-471c-17a-490i-4h-4.5w-763170.mp4", "categories": [], "metrics": {"area": 17, "cycles": 471, "cost": 110}, "color": 3, "shape": "xTt4PigrxEK1X/U34//HQvzRbz7essRC"},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-115g-308c-18a-155i-4h-5w-51.67r-1ddb9d.gif", "categories": [], "metrics": {"area": 18, "cycles": 308, "cost": 115}, "color": 0, "shape": "xTt4PigrxEL80W8+3rLEQmtwYz80o8FCAACnP5WZvUI5iA0/x4G9Qljgxz6uhL9C"},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/120g-72c-38a-33i-d9830631.mp4", "categories": [], "metrics": {"area": 38, "cycles": 72, "cost": 120}, "color": 3, "shape": "gq8YQl5OsEFUaU1BJ2WbQvLIoEEXPYVCA04nQtcvwUE="},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/140g-45c-42a-109i-T-d81f87f1.mp4", "categories": [], "metrics": {"area": 42, "cycles": 45, "cost": 140}, "color": 2, "shape": "DE+fQjX0N0IDTidC1y/BQfLIoEEXPYVCLvrMQRbcqUIkefpBR3iiQg=="},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/140g-50c-36a-115i-T-5d50b023.mp4", "categories": ["SUM"], "metrics": {"area": 36, "cycles": 50, "cost": 140}, "color": 1, "shape": "LvrMQRbcqULyyKBBFz2FQlRpTUEnZZtCa/JXQF5cvkIrPFlACn+/QnUPuEC5W8FCDzO0QY79rUI="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-140g-193c-19a-147i-5h-5w-32r-T-fb59f2.gif", "categories": [], "metrics": {"area": 19, "cycles": 193, "cost": 140}, "color": 2, "shape": "OT5oPym6xUIrPFlACn+/QmvyV0BeXL5CN1PwP509ukIAAKc/lZm9QmtwYz80o8FC"},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/140g-259c-17a-225i-T-8f114987.mp4", "categories": ["AC", "AX"], "metrics": {"area": 17, "cycles": 259, "cost": 140}, "color": 1, "shape": "OT5oPym6xUJrcGM/NKPBQvzRbz7essRCtV/1N+P/x0KANC02AADIQsT+9z7ScMdC"},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/220g-134c-19a-155i-T-9a8edbd5.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 134, "cost": 220}, "color": 0, "shape": "xP73PtJwx0J1D7hAuVvBQis8WUAKf79COT5oPym6xUI="},
+    {"gif": "https://files.mors.technology/Improved-Explosive-Phial-240g-34c-56a-26i-11h-9w-5r-d725b1.gif", "categories": [], "metrics": {"area": 56, "cycles": 34, "cost": 240}, "color": 1, "shape": "DE+fQjX0N0IkefpBR3iiQtpiCUJfrp5C5xRPQj3JiEKj2qZCnapAQg=="},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/490g-22c-69a-193i-9bb426c7.mp4", "categories": ["CG"], "metrics": {"area": 69, "cycles": 22, "cost": 490}, "color": 2, "shape": "o9qmQp2qQELnFE9CPcmIQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/515g-22c-65a-193i-62e2dba9.mp4", "categories": ["CX"], "metrics": {"area": 65, "cycles": 22, "cost": 515}, "color": 3, "shape": "2mIJQl+unkJwNK1CEQBIQucUT0I9yYhC"},
+    {"gif": "https://files.mors.technology/IMPROVED_EXPLOSIVE_PHIAL/535g-22c-64a-197i-2d9071d3.mp4", "categories": ["CA"], "metrics": {"area": 64, "cycles": 22, "cost": 535}, "color": 0, "shape": "DzO0QY79rUKANK1CAQBIQnA0rUIRAEhC2mIJQl+unkIkefpBR3iiQi76zEEW3KlC"}
+  ]
+}

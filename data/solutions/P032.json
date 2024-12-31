@@ -1,0 +1,38 @@
+{
+  "id": "P032",
+  "name": "Invisible Ink",
+  "collection": "Campaign",
+  "group": "Chapter 4",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Invisible-Ink-80g-400c-45a-67i-8h-7w-67r-405d2b.gif", "categories": ["GC"], "metrics": {"area": 45, "cycles": 400, "cost": 80}, "color": 0, "shape": "3c28QSQDWkEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYmU6NBAd+EQW+FuUHYCnJB"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-80g-436c-29a-73i-6h-5.5w-73r-dbffdb.gif", "categories": [], "metrics": {"area": 29, "cycles": 436, "cost": 80}, "color": 3, "shape": "a1YQNwAAFjeRMZxB6Ra3QSZTo0EB34RB"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-80g-453c-26a-76i-5h-5w-76r-88957c.gif", "categories": ["GX"], "metrics": {"area": 26, "cycles": 453, "cost": 80}, "color": 1, "shape": "q/BmNgAAyDaYgShAijXQQazhkUFgKgJCq3GbQft690GRMZxB6Ra3QWtWEDcAABY3"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-80g-985c-20a-165i-5h-4.5w-165r-5f9f18.mp4", "categories": ["GA"], "metrics": {"area": 20, "cycles": 985, "cost": 80}, "color": 3, "shape": "AAAAAAAASDYAAAAAHTBkQpiBKECKNdBBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/90g-466c-18a-78i-22868cfa.mp4", "categories": ["AG", "BG"], "metrics": {"area": 18, "cycles": 466, "cost": 90}, "color": 2, "shape": "gDQtNgAAyEKs4ZFBYCoCQpiBKECKNdBBAAAAAB0wZEIAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/100g-244c-45a-75i-562b89d8.mp4", "categories": [], "metrics": {"area": 45, "cycles": 244, "cost": 100}, "color": 1, "shape": "6KkkQiMjvkHdzbxBJANaQW+FuUHYCnJBrKQcQtBdzEE="},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/100g-254c-31a-101i-T-a67fe568.mp4", "categories": ["TG"], "metrics": {"area": 31, "cycles": 254, "cost": 100}, "color": 2, "shape": "rKQcQtBdzEFvhblB2ApyQSZTo0EB34RBkTGcQekWt0GrcZtB+3r3Qb9nGEJwIwNC"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-120g-229c-18a-76i-4h-5w-38r-T-02abd6.gif", "categories": ["AC", "AX"], "metrics": {"area": 18, "cycles": 229, "cost": 120}, "color": 0, "shape": "rOGRQWAqAkKANC02AADIQuOOkkGe2LJCMZYnQoZfZUJRBilCgf4sQtVBJ0JdBB5Cv2cYQnAjA0KrcZtB+3r3QQ=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-140g-115c-38a-74i-6h-7w-19r-T-fc2bd4.gif", "categories": [], "metrics": {"area": 38, "cycles": 115, "cost": 140}, "color": 3, "shape": "QZN4QtWDD0LoqSRCIyO+QaykHELQXcxBv2cYQnAjA0LVQSdCXQQeQg=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-160g-92c-32a-242i-5h-5.5w-15.17r-T-2212f9.mp4", "categories": ["SUM"], "metrics": {"area": 32, "cycles": 92, "cost": 160}, "color": 1, "shape": "QZN4QtWDD0LVQSdCXQQeQlEGKUKB/ixC02ljQgzBaEJn+5ZCce0xQvbllEIRGS1ChAmTQq7IKUI="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-160g-109c-28a-60i-6h-5w-18r-T-240144.gif", "categories": [], "metrics": {"area": 28, "cycles": 109, "cost": 160}, "color": 3, "shape": "UQYpQoH+LEIxlidChl9lQsWYXUIS2ntCHsNgQm3qeELTaWNCDMFoQg=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-180g-84c-32a-64i-6h-6w-14r-T-30ab1d.gif", "categories": [], "metrics": {"area": 32, "cycles": 84, "cost": 180}, "color": 2, "shape": "Z/uWQnHtMULTaWNCDMFoQh7DYEJt6nhCfvqVQr1eRkJdi5pCYxs6QqOymELXFjVC"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-180g-147c-20a-72i-5h-5w-24r-T-0bc1f5.gif", "categories": [], "metrics": {"area": 20, "cycles": 147, "cost": 180}, "color": 1, "shape": "j8tQQt25i0LFmF1CEtp7QjGWJ0KGX2VC446SQZ7YskI="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-210g-66c-103a-43i-12h-11w-8r-T-62eb6c.gif", "categories": ["RG"], "metrics": {"area": 103, "cycles": 66, "cost": 210}, "color": 2, "shape": "hAmTQq7IKUL25ZRCERktQkpZmELP6i9C"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-220g-62c-85a-43i-12h-10.5w-8r-172b7a.gif", "categories": [], "metrics": {"area": 85, "cycles": 62, "cost": 220}, "color": 0, "shape": "3xuiQuwvO0JKWZhCz+ovQvbllEIRGS1CZ/uWQnHtMUKjsphC1xY1QmbGn0Id+jpC"},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/230g-61c-68a-37i-d6ffd725.mp4", "categories": [], "metrics": {"area": 68, "cycles": 61, "cost": 230}, "color": 1, "shape": "ZsafQh36OkKjsphC1xY1Ql2LmkJjGzpCKGieQh8CPEI="},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/270g-56c-40a-46i-747eeabd.mp4", "categories": [], "metrics": {"area": 40, "cycles": 56, "cost": 270}, "color": 3, "shape": "dh6iQqeUQUIoaJ5CHwI8Ql2LmkJjGzpCfvqVQr1eRkLLgJtCJAFKQg=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-280g-50c-64a-52i-10h-6.5w-8r-6505a1.gif", "categories": ["CG"], "metrics": {"area": 64, "cycles": 50, "cost": 280}, "color": 2, "shape": "gDStQgAASELfG6JC7C87QmbGn0Id+jpCKGieQh8CPEJ2HqJCp5RBQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/280g-60c-32a-66i-T-194e8d08.mp4", "categories": [], "metrics": {"area": 32, "cycles": 60, "cost": 280}, "color": 0, "shape": "IoGbQnPhSkLLgJtCJAFKQn76lUK9XkZCHsNgQm3qeELFmF1CEtp7Qo/LUELduYtCMChuQgBAg0K/+JNCuqNeQhjxmUJ2E1JC"},
+    {"gif": "https://files.mors.technology/INVISIBLE_INK/310g-50c-40a-52i-6bb21c50.mp4", "categories": [], "metrics": {"area": 40, "cycles": 50, "cost": 310}, "color": 1, "shape": "y4CbQiQBSkIigZtCc+FKQn00rUICAEhCfzStQgAASEJ2HqJCp5RBQg=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-320g-50c-38a-52i-6h-7w-8r-f2a4c7.gif", "categories": ["CX"], "metrics": {"area": 38, "cycles": 50, "cost": 320}, "color": 4, "shape": "fjStQgAASEIigZtCc+FKQhjxmUJ2E1JCfTStQgIASEI="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-340g-50c-36a-52i-6h-6.5w-8r-122a78.gif", "categories": [], "metrics": {"area": 36, "cycles": 50, "cost": 340}, "color": 2, "shape": "fTStQgEASEIY8ZlCdhNSQr/4k0K6o15CfTStQgIASEJ9NK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/Invisible-Ink-400g-50c-34a-64i-5h-5.5w-8r-8a5966.gif", "categories": ["CA"], "metrics": {"area": 34, "cycles": 50, "cost": 400}, "color": 3, "shape": "MChuQgBAg0KANK1CAQBIQn80rUIAAEhCfjStQgAASEK/+JNCuqNeQg=="}
+  ]
+}

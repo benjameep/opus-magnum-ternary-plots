@@ -1,0 +1,40 @@
+{
+  "id": "w3210177679",
+  "name": "Latch-Hook Fireworks",
+  "collection": "Community",
+  "group": "Tournament 2024",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/80g-1971c-247a-2003i-T-0efc1793.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 247, "cycles": 1971, "cost": 80}, "color": 3, "shape": "PgquP3A/Y0AjDDBAWEzUP2IfI0CUW7w/gDQtNgAAyDWr8OY1AABINqvwZjYAAEg3"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/80g-3291c-41a-3291i-T-e0593e75.mp4", "categories": ["GX"], "metrics": {"area": 41, "cycles": 3291, "cost": 80}, "color": 0, "shape": "TwyTPzMQBUI+h64/k0p0QD4Krj9wP2NAq/BmNgAASDer8GY2AYBUOXbFnjgALEk7d3BqP3skEUKXVn0/VQUPQg=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/80g-3783c-37a-3783i-T-a4f545ed.mp4", "categories": [], "metrics": {"area": 37, "cycles": 3783, "cost": 80}, "color": 4, "shape": "EFhjP5PzEkJ3cGo/eyQRQqvw5jb//2A5q/BmNgGAVDmr8GY2AQBhOQ=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/80g-4040c-35a-667i-T-0374e16f.mp4", "categories": ["GI"], "metrics": {"area": 35, "cycles": 4040, "cost": 80}, "color": 1, "shape": "+dfIPuusP0IQWGM/k/MSQoA0LTYAAMg1AAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/80g-5189c-32a-870i-T-45eeccf0.mp4", "categories": ["GA", "BG"], "metrics": {"area": 32, "cycles": 5189, "cost": 80}, "color": 2, "shape": "AAAAABJEg0KO6Ds+PeRpQvnXyD7rrD9Cq/BmNgAASDer8OY1AABINgAAAAAAAEg2"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/90g-711c-1439a-711i-4615cfba.mp4", "categories": [], "metrics": {"area": 1439, "cycles": 711, "cost": 90}, "color": 2, "shape": "hasUQlmrq0FiHyNAlFu8PyMMMEBYTNQ/y66BQfNiHEGCuwtCPQqlQQ=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/90g-822c-63a-835i-8e932d35.mp4", "categories": [], "metrics": {"area": 63, "cycles": 822, "cost": 90}, "color": 1, "shape": "y66BQfNiHEEjDDBAWEzUPz4Krj9wP2NAPoeuP5NKdEBqLcRA/0uJQQ=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/90g-941c-46a-956i-67eb1fa4.mp4", "categories": [], "metrics": {"area": 46, "cycles": 941, "cost": 90}, "color": 2, "shape": "ai3EQP9LiUE+h64/k0p0QE8Mkz8zEAVCoWJgQF1GI0I="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/90g-2730c-27a-456i-e7edb8e6.mp4", "categories": [], "metrics": {"area": 27, "cycles": 2730, "cost": 90}, "color": 3, "shape": "jug7Pj3kaUKXVn0/VQUPQndwaj97JBFCEFhjP5PzEkL518g+66w/Qg=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/95g-741c-44a-125i-97128512.mp4", "categories": [], "metrics": {"area": 44, "cycles": 741, "cost": 95}, "color": 0, "shape": "grsLQj0KpUHLroFB82IcQWotxED/S4lBoWJgQF1GI0I7aBdB2yydQu7JRkGPqZVC"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/100g-1273c-21a-213i-T-14cf7961.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 21, "cycles": 1273, "cost": 100}, "color": 1, "shape": "oWJgQF1GI0JPDJM/MxAFQpdWfT9VBQ9Cjug7Pj3kaUIAAAAAEkSDQgAAAAAAAMhCC9KjP62FxkIYhMBA+AGvQjtoF0HbLJ1C"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/180g-788c-23a-204i-T-47e5cd7d.mp4", "categories": [], "metrics": {"area": 23, "cycles": 788, "cost": 180}, "color": 0, "shape": "GITAQPgBr0IL0qM/rYXGQm1B1D/RFcZCepUOQFZow0I="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/200g-152c-49a-458i-T-110f67bf.mp4", "categories": ["SUM"], "metrics": {"area": 49, "cycles": 152, "cost": 200}, "color": 1, "shape": "eG2lQvQEP0KFqxRCWaurQYK7C0I9CqVB7slGQY+plULV4rhBRlyYQimTBEJMVpZCXDSlQqsvQUI="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/260g-259c-26a-133i-T-83202daf.mp4", "categories": [], "metrics": {"area": 26, "cycles": 259, "cost": 260}, "color": 2, "shape": "a5UOQFZow0LV4rhBRlyYQu7JRkGPqZVCO2gXQdssnUIYhMBA+AGvQoGVDkBUaMNC"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/280g-229c-26a-107i-T-4a0f0668.mp4", "categories": [], "metrics": {"area": 26, "cycles": 229, "cost": 280}, "color": 3, "shape": "5w2TQUjGskIpkwRCTFaWQtXiuEFGXJhCgZUOQFRow0JtQdQ/0RXGQg=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/395g-121c-34a-105i-78d613b2.mp4", "categories": [], "metrics": {"area": 34, "cycles": 121, "cost": 395}, "color": 0, "shape": "Z3qlQggSREJcNKVCqy9BQimTBEJMVpZC5w2TQUjGskKKzn5CIuN8Qi0ykUIgc2RCbvCbQmVFVEL3QaRCezdHQg=="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/585g-104c-47a-288i-f4f5432c.mp4", "categories": [], "metrics": {"area": 47, "cycles": 104, "cost": 585}, "color": 1, "shape": "LTKRQiBzZEKKzn5CIuN8QjcDh0LWGXRCN+uLQgmmbEI="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/740g-55c-490a-18i-T-3a34410e.mp4", "categories": ["RI"], "metrics": {"area": 490, "cycles": 55, "cost": 740}, "color": 2, "shape": "34OqQtfkREJ4baVC9AQ/Qlw0pUKrL0FCZ3qlQggSREKI16ZCGBRFQg=="},
+    {"gif": "https://i.imgur.com/y0ryxTr.gif", "categories": [], "metrics": {"area": 188, "cycles": 61, "cost": 805}, "color": 3, "shape": "90GkQns3R0KI16ZCGBRFQmd6pUIIEkRC"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1105g-33c-127a-1092i-2af801ff.mp4", "categories": [], "metrics": {"area": 127, "cycles": 33, "cost": 1105}, "color": 1, "shape": "w+GsQnagR0Lfg6pC1+REQojXpkIYFEVC90GkQns3R0Ju8JtCZUVUQvIhrEIiw0hCK3asQihQSEI="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1145g-33c-117a-1188i-16bb30c8.mp4", "categories": [], "metrics": {"area": 117, "cycles": 33, "cost": 1145}, "color": 2, "shape": "8iGsQiLDSEJu8JtCZUVUQi0ykUIgc2RCN+uLQgmmbEIV46pCXo1KQiI4q0LCIEpC"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1185g-33c-116a-1212i-6aa1ca5a.mp4", "categories": [], "metrics": {"area": 116, "cycles": 33, "cost": 1185}, "color": 0, "shape": "FeOqQl6NSkI364tCCaZsQjcDh0LWGXRCehaqQnuZS0I="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1245g-32c-152a-594i-67c2148e.mp4", "categories": [], "metrics": {"area": 152, "cycles": 32, "cost": 1245}, "color": 2, "shape": "w+GsQnagR0IrdqxCKFBIQtz1rEKrt0dC"},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1415g-32c-131a-622i-a16a9538.mp4", "categories": [], "metrics": {"area": 131, "cycles": 32, "cost": 1415}, "color": 1, "shape": "WD6rQtZDSkIiOKtCwiBKQhXjqkJejUpCehaqQnuZS0I="},
+    {"gif": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/1430g-31c-155a-932i-03682fd4.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 155, "cycles": 31, "cost": 1430}, "color": 0, "shape": "gDStQgAASELc9axCq7dHQit2rEIoUEhC8iGsQiLDSEIiOKtCwiBKQlg+q0LWQ0pC"}
+  ]
+}

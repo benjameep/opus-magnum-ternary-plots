@@ -1,0 +1,31 @@
+{
+  "id": "P080",
+  "name": "Viscous Sludge",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Viscous-Sludge-60g-304c-51a-102i-9h-9w-51r-T-21ce6a.gif", "categories": ["GC_P", "GX_P"], "metrics": {"area": 51, "cycles": 304, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAQCgQSuqkkHFTsxB/3OsQbchR0E="},
+    {"gif": "https://i.imgur.com/sS4UQAn.gif", "categories": [], "metrics": {"area": 51, "cycles": 131, "cost": 80}, "color": 0, "shape": "/3OsQbchR0ErqpJBxU7MQampvUE+GgRCQ8YEQjXaEkJRf2xCf9ghQl5UcULG+hxCg24mQsMtwEE="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/80g-293c-46a-99i-T-cc3dd1ab.mp4", "categories": [], "metrics": {"area": 46, "cycles": 293, "cost": 80}, "color": 1, "shape": "AAAAAJ7YGUJRFdlAlTerQgcStkEf4E5Cqam9QT4aBEIrqpJBxU7MQQAAAAABAKBB"},
+    {"gif": "https://i.imgur.com/tIEbDyZ.gif", "categories": ["SUM_P"], "metrics": {"area": 58, "cycles": 100, "cost": 90}, "color": 1, "shape": "g24mQsMtwEFeVHFCxvocQgJIi0Iu2StCMDqPQndiJUI="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/90g-733c-45a-245i-2790a46d.mp4", "categories": [], "metrics": {"area": 45, "cycles": 733, "cost": 90}, "color": 2, "shape": "AAAAAJ7YGUIAAAAAAADIQuqVx0BPzMBC2rzYQD2JrEJRFdlAlTerQg=="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/100g-149c-47a-77i-T-4e464c8d.mp4", "categories": [], "metrics": {"area": 47, "cycles": 149, "cost": 100}, "color": 2, "shape": "BxK2QR/gTkKAoLxB/shQQjqMyUFd3U9CQ8YEQjXaEkKpqb1BPhoEQg=="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/110g-88c-58a-49i-T-3131132d.mp4", "categories": [], "metrics": {"area": 58, "cycles": 88, "cost": 110}, "color": 0, "shape": "NSWTQqjoKUIwOo9Cd2IlQgJIi0Iu2StC34yNQt2lLkIcm5JCpCwsQg=="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/110g-99c-51a-49i-T-f87fb4ab.mp4", "categories": [], "metrics": {"area": 51, "cycles": 99, "cost": 110}, "color": 2, "shape": "UX9sQn/YIUI6rZFC12JHQtQ/k0KmWTtC34yNQt2lLkICSItCLtkrQl5UcULG+hxC"},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/110g-116c-47a-57i-T-14affb4a.mp4", "categories": [], "metrics": {"area": 47, "cycles": 116, "cost": 110}, "color": 1, "shape": "OozJQV3dT0LkFV1CmC2IQlHJk0LZWWVCV/mTQn6LY0I6rZFC12JHQlF/bEJ/2CFCQ8YEQjXaEkI="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/110g-178c-46a-92i-89b5acc8.mp4", "categories": [], "metrics": {"area": 46, "cycles": 178, "cost": 110}, "color": 3, "shape": "gKC8Qf7IUEIHErZBH+BOQlEV2UCVN6tC2rzYQD2JrEI="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/120g-142c-46a-78i-65c797ec.mp4", "categories": [], "metrics": {"area": 46, "cycles": 142, "cost": 120}, "color": 0, "shape": "6pXHQE/MwELkFV1CmC2IQjqMyUFd3U9CgKC8Qf7IUELavNhAPYmsQg=="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/135g-76c-57a-62i-49694f04.mp4", "categories": [], "metrics": {"area": 57, "cycles": 76, "cost": 135}, "color": 1, "shape": "HJuSQqQsLELfjI1C3aUuQtQ/k0KmWTtC9ZqTQmj7OkI="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/175g-55c-60a-63i-de93b7bc.mp4", "categories": [], "metrics": {"area": 60, "cycles": 55, "cost": 175}, "color": 2, "shape": "0viiQg4vPEI1JZNCqOgpQhybkkKkLCxC9ZqTQmj7OkI="},
+    {"gif": "https://files.mors.technology/Viscous-Sludge-225g-46c-56a-152i-9h-9w-7r-d6cd9e.gif", "categories": ["RG_P", "ORG_P"], "metrics": {"area": 56, "cycles": 46, "cost": 225}, "color": 0, "shape": "Oq2RQtdiR0JX+ZNCfotjQmfrqkKfzUhCa9+rQid2RkLS+KJCDi88QvWak0Jo+zpC1D+TQqZZO0I="},
+    {"gif": "https://files.mors.technology/Viscous-Sludge-270g-45c-57a-64i-9h-9w-7r-f1bcb6.gif", "categories": ["CG_P", "CI_P", "CX_P", "RI_P", "ORX_P"], "metrics": {"area": 57, "cycles": 45, "cost": 270}, "color": 1, "shape": "a9+rQid2RkJn66pCn81IQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/300g-45c-56a-68i-6b3a960d.mp4", "categories": [], "metrics": {"area": 56, "cycles": 45, "cost": 300}, "color": 2, "shape": "UcmTQtlZZUKANK1CAQBIQmfrqkKfzUhCV/mTQn6LY0I="}
+  ]
+}

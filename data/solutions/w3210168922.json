@@ -1,0 +1,35 @@
+{
+  "id": "w3210168922",
+  "name": "Local Anaesthetic",
+  "collection": "Community",
+  "group": "Tournament 2024",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/50g-731c-85a-122i-T-f1c2ada1.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 85, "cycles": 731, "cost": 50}, "color": 2, "shape": "AAAAAAAAAAAAAAAAz/kMQV4QBED6OUNBEf84QWJ6mkHuxjxB2y+YQcXBh0Eg1UBBJR5+QQe3EkE="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/80g-1365c-35a-229i-f0eaea8b.mp4", "categories": [], "metrics": {"area": 35, "cycles": 1365, "cost": 80}, "color": 0, "shape": "XhAEQPo5Q0EAAAAAz/kMQQAAAAAgUD1BLdPVP8WCdUE="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/85g-1477c-29a-1491i-377169f7.mp4", "categories": [], "metrics": {"area": 29, "cycles": 1477, "cost": 85}, "color": 2, "shape": "AAAAACBQPUEAAAAAip2YQu4shT/8ppNC53EPQGV2LkIt09U/xYJ1QQ=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/90g-403c-111a-114i-T-97c88ca7.mp4", "categories": [], "metrics": {"area": 111, "cycles": 403, "cost": 90}, "color": 0, "shape": "JR5+QQe3EkHFwYdBINVAQXoupkHnH0NBFGenQclMQUE="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/90g-907c-31a-152i-T-68d64c21.mp4", "categories": [], "metrics": {"area": 31, "cycles": 907, "cost": 90}, "color": 1, "shape": "8qWgQH9BtEIVW5hBODN6QhH/OEFieppBXhAEQPo5Q0Et09U/xYJ1QedxD0Bldi5CbFqJQLANp0I="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/90g-1281c-29a-1351i-b40a3093.mp4", "categories": [], "metrics": {"area": 29, "cycles": 1281, "cost": 90}, "color": 3, "shape": "bFqJQLANp0LncQ9AZXYuQu4shT/8ppNC"},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/105g-1390c-28a-232i-45530a1b.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 28, "cycles": 1390, "cost": 105}, "color": 0, "shape": "AAAAAAAAyELnw49A9c/CQvKloEB/QbRCbFqJQLANp0LuLIU//KaTQgAAAACKnZhC"},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/130g-175c-61a-62i-T-47678ea9.mp4", "categories": [], "metrics": {"area": 61, "cycles": 175, "cost": 130}, "color": 3, "shape": "fey2QatCYEF6LqZB5x9DQcXBh0Eg1UBB7sY8QdsvmEE="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/140g-114c-90a-283i-8f7399b6.mp4", "categories": [], "metrics": {"area": 90, "cycles": 114, "cost": 140}, "color": 1, "shape": "JhBLQiB66kEUZ6dByUxBQXoupkHnH0NBfey2QatCYEGENThCCdbhQQ=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/140g-126c-56a-384i-T-531e9613.mp4", "categories": ["SUM"], "metrics": {"area": 56, "cycles": 126, "cost": 140}, "color": 0, "shape": "hDU4QgnW4UF97LZBq0JgQe7GPEHbL5hBEf84QWJ6mkEVW5hBODN6QkICskFeMo9CtNkVQu69nELRHIZC4SN1QrM/jELtamdCEMyPQm0dXkI="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/150g-141c-55a-375i-T-9dbf00c4.mp4", "categories": [], "metrics": {"area": 55, "cycles": 141, "cost": 150}, "color": 1, "shape": "9RvUQXpiqUK02RVC7r2cQkICskFeMo9C"},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/155g-763c-31a-214i-70af7b4e.mp4", "categories": [], "metrics": {"area": 31, "cycles": 763, "cost": 155}, "color": 2, "shape": "58OPQPXPwkL1G9RBemKpQkICskFeMo9CFVuYQTgzekLypaBAf0G0Qg=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/160g-88c-75a-39i-2ae9744a.mp4", "categories": ["IG", "IC", "IA", "SUM4", "OIC"], "metrics": {"area": 75, "cycles": 88, "cost": 160}, "color": 2, "shape": "EMyPQm0dXkJGAadC0GdBQr9IpELysj1CJhBLQiB66kGENThCCdbhQQ=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/180g-86c-116a-266i-T-cb22f3d1.mp4", "categories": ["TC"], "metrics": {"area": 116, "cycles": 86, "cost": 180}, "color": 0, "shape": "v0ikQvKyPUJGAadC0GdBQrVup0KXVUFC"},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/495g-66c-75a-649i-97214ef4.mp4", "categories": [], "metrics": {"area": 75, "cycles": 66, "cost": 495}, "color": 1, "shape": "EMyPQm0dXkKzP4xC7WpnQpJPqkJWwkpClqWqQnMCSEKcpapC5QFIQgr+p0IY+0FCtW6nQpdVQUJGAadC0GdBQg=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/560g-66c-74a-697i-0db01bbb.mp4", "categories": [], "metrics": {"area": 74, "cycles": 66, "cost": 560}, "color": 2, "shape": "kk+qQlbCSkKzP4xC7WpnQtEchkLhI3VCKE+qQgdYS0I="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/600g-60c-128a-562i-26d5101b.mp4", "categories": [], "metrics": {"area": 128, "cycles": 60, "cost": 600}, "color": 0, "shape": "Cv6nQhj7QUKcpapC5QFIQld5rEK4X0dCtnSsQooiR0I="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/725g-59c-152a-316i-0f85e8c8.mp4", "categories": ["CG"], "metrics": {"area": 152, "cycles": 59, "cost": 725}, "color": 1, "shape": "tnSsQooiR0JXeaxCuF9HQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/760g-59c-114a-345i-854b72c6.mp4", "categories": [], "metrics": {"area": 114, "cycles": 59, "cost": 760}, "color": 2, "shape": "lqWqQnMCSEJ/NK1CAABIQld5rEK4X0dCnKWqQuUBSEI="},
+    {"gif": "https://files.mors.technology/LOCAL_ANAESTHETIC/785g-59c-110a-333i-5c6222c6.mp4", "categories": ["CA", "CX", "OCX"], "metrics": {"area": 110, "cycles": 59, "cost": 785}, "color": 0, "shape": "KE+qQgdYS0KANK1CAQBIQn80rUIAAEhClqWqQnMCSEKST6pCVsJKQg=="}
+  ]
+}

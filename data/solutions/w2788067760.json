@@ -1,0 +1,39 @@
+{
+  "id": "w2788067760",
+  "name": "Potent Painkillers",
+  "collection": "Community",
+  "group": "Tournament 2022",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/70g-1341c-78a-1356i-1e9ea86e.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 78, "cycles": 1341, "cost": 70}, "color": 1, "shape": "gDQtNgAAyDV28u8/JTdPQUBR1z+JoHg/"},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/70g-2631c-36a-439i-0e28ad6b.mp4", "categories": ["GX"], "metrics": {"area": 36, "cycles": 2631, "cost": 70}, "color": 2, "shape": "5ZQyP3QY4EGt+QNAPXvRQTJdGEA3W7pBAUMlQLu1nEF28u8/JTdPQYA0LTYAAMg1AAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/70g-2823c-35a-471i-a04b0661.mp4", "categories": ["GA"], "metrics": {"area": 35, "cycles": 2823, "cost": 70}, "color": 0, "shape": "AAAAAAAASDYAAAAAcfYGQuWUMj90GOBB"},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/80g-765c-82a-250i-T-d40f07e5.mp4", "categories": ["TG"], "metrics": {"area": 82, "cycles": 765, "cost": 80}, "color": 0, "shape": "zF5xQe9aC0FAUdc/iaB4P3by7z8lN09BAUMlQLu1nEHBVzRAsgKrQSl8SkASPLxBBjIYQZ2n/EGIFyZBWg7uQQ=="},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/80g-2363c-35a-394i-22a97250.mp4", "categories": ["WG"], "metrics": {"area": 35, "cycles": 2363, "cost": 80}, "color": 3, "shape": "AUMlQLu1nEEyXRhAN1u6QcFXNECyAqtB"},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/80g-2577c-31a-430i-afccb61d.mp4", "categories": ["AG"], "metrics": {"area": 31, "cycles": 2577, "cost": 80}, "color": 3, "shape": "gDQtNgAAyEKt+QNAPXvRQeWUMj90GOBBAAAAAHH2BkIAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-90g-2229c-31a-372i-6h-5.5w-372r-cbd96a.mp4", "categories": ["AI"], "metrics": {"area": 31, "cycles": 2229, "cost": 90}, "color": 1, "shape": "rfkDQD170UGr8GY29P/HQsjG6j80qYdCxY5MQDU2BkIpfEpAEjy8QcFXNECyAqtBMl0YQDdbukE="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-130g-997c-40a-1873i-7h-7w-166.17r-119956.mp4", "categories": [], "metrics": {"area": 40, "cycles": 997, "cost": 130}, "color": 2, "shape": "+i8dQe6nvEIOUEFBgQy6QgYyGEGdp/xBKXxKQBI8vEHFjkxANTYGQqXX1EC5pYtC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-130g-1382c-32a-386i-6h-6w-231r-cc16a2.mp4", "categories": [], "metrics": {"area": 32, "cycles": 1382, "cost": 130}, "color": 3, "shape": "xY5MQDU2BkLIxuo/NKmHQqXX1EC5pYtC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-140g-1391c-31a-2566i-6h-6.5w-237.67r-847ee1.mp4", "categories": ["AC", "AX", "BC", "BR"], "metrics": {"area": 31, "cycles": 1391, "cost": 140}, "color": 0, "shape": "+i8dQe6nvEKl19RAuaWLQsjG6j80qYdCq/BmNvT/x0KANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-190g-170c-75a-138i-8h-9.5w-28r-90c83a.gif", "categories": ["SUM"], "metrics": {"area": 75, "cycles": 170, "cost": 190}, "color": 2, "shape": "y8Y/Qshx3UHMXnFB71oLQYgXJkFaDu5But15QZE8JkLDCDtCcZ4LQg=="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-195g-306c-60a-140i-10h-6w-50r-ab302a.gif", "categories": [], "metrics": {"area": 60, "cycles": 306, "cost": 195}, "color": 1, "shape": "WnSOQemUrUL+ZKNBl8uHQrrdeUGRPCZCiBcmQVoO7kEGMhhBnaf8QQ5QQUGBDLpCTe2AQRlktUI="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-210g-158c-70a-138i-8h-9w-26r-b850f0.gif", "categories": [], "metrics": {"area": 70, "cycles": 158, "cost": 210}, "color": 0, "shape": "wwg7QnGeC0K63XlBkTwmQv5ko0GXy4dC5IEHQi7iiEJyahRCRKCGQjDkU0I0VVVC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-230g-158c-69a-150i-7h-9.5w-26r-e5d271.gif", "categories": [], "metrics": {"area": 69, "cycles": 158, "cost": 230}, "color": 1, "shape": "cmoUQkSghkLkgQdCLuKIQsojEkIklopC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-240g-124c-82a-667i-10h-10w-320a0a.mp4", "categories": [], "metrics": {"area": 82, "cycles": 124, "cost": 240}, "color": 1, "shape": "zjucQi5nNELLxj9CyHHdQcMIO0JxngtCMORTQjRVVUKHoVZCURdYQmJ9iUJE2l9C"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-240g-149c-70a-174i-9h-8.5w-24r-70a537.gif", "categories": [], "metrics": {"area": 70, "cycles": 149, "cost": 240}, "color": 2, "shape": "yiMSQiSWikLg8CpCU6eWQvYXQEIgjJBCh6FWQlEXWEIw5FNCNFVVQnJqFEJEoIZC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-240g-257c-62a-220i-8h-8w-42r-d85fd5.gif", "categories": [], "metrics": {"area": 62, "cycles": 257, "cost": 240}, "color": 0, "shape": "WnSOQemUrUJN7YBBGWS1Qh6IkEF/I7NC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-250g-172c-66a-128i-10h-7.5w-28r-78d91b.gif", "categories": [], "metrics": {"area": 66, "cycles": 172, "cost": 250}, "color": 3, "shape": "4PAqQlOnlkLKIxJCJJaKQuSBB0Iu4ohC/mSjQZfLh0JadI5B6ZStQh6IkEF/I7NC"},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-275g-131c-74a-749i-10h-7.5w-d0fff9.mp4", "categories": [], "metrics": {"area": 74, "cycles": 131, "cost": 275}, "color": 3, "shape": "GoeBQixvekJifYlCRNpfQoehVkJRF1hC9hdAQiCMkEI="},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/595g-80c-101a-215i-e91b5cb6.mp4", "categories": [], "metrics": {"area": 101, "cycles": 80, "cost": 595}, "color": 0, "shape": "OyOdQmdyNULOO5xCLmc0QmJ9iUJE2l9CGoeBQixvekIgiZtCJGdcQg=="},
+    {"gif": "https://i.imgur.com/mSdjtB3.gif", "categories": ["WC", "WR"], "metrics": {"area": 123, "cycles": 66, "cost": 715}, "color": 1, "shape": "OyOdQmdyNUIgiZtCJGdcQjZHp0IE2E5Cwl+mQrocQEI="},
+    {"gif": "https://files.mors.technology/Potent-Painkillers-1270g-40c-254a-174i-20h-18.5w-6r-f8daff.gif", "categories": [], "metrics": {"area": 254, "cycles": 40, "cost": 1270}, "color": 0, "shape": "wl+mQrocQEI2R6dCBNhOQjQXrULUIUhCPBatQlEASEKrFK1CP9tHQg=="},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/2490g-39c-528a-1389i-f001fd34.mp4", "categories": ["CG", "CI", "CX"], "metrics": {"area": 528, "cycles": 39, "cost": 2490}, "color": 1, "shape": "qxStQj/bR0I8Fq1CUQBIQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/POTENT_PAINKILLERS/2510g-39c-524a-1418i-64a2a95d.mp4", "categories": ["CA"], "metrics": {"area": 524, "cycles": 39, "cost": 2510}, "color": 2, "shape": "NBetQtQhSEKANK1CAQBIQjwWrUJRAEhC"}
+  ]
+}

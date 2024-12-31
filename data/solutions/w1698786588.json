@@ -1,0 +1,26 @@
+{
+  "id": "w1698786588",
+  "name": "Dwarven Fire Wine",
+  "collection": "Community",
+  "group": "Tournament 2019",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/DWARVEN_FIRE_WINE/110g-1499c-74a-252i-T-f5b91da4.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 74, "cycles": 1499, "cost": 110}, "color": 0, "shape": "AAAAAAAAAAAAAAAAtglzQavw5jW2CXNBJAscQJR5D0FZa1RA9mwrQP5eWEAC2Pk/"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-120g-435c-73a-75i-11h-9w-73r-7aa731.gif", "categories": [], "metrics": {"area": 73, "cycles": 435, "cost": 120}, "color": 2, "shape": "OvI3Qn5yFEK3ikBCQbEIQjGM6UG71oZB/l5YQALY+T9Za1RA9mwrQA=="},
+    {"gif": "https://i.imgur.com/UnyBi6Y.gif", "categories": [], "metrics": {"area": 72, "cycles": 447, "cost": 120}, "color": 1, "shape": "OvI3Qn5yFEJZa1RA9mwrQCQLHECUeQ9BWzfHQJUrt0Es/eVBc0iGQg=="},
+    {"gif": "https://files.mors.technology/DWARVEN_FIRE_WINE/120g-771c-70a-131i-a97e8dc4.mp4", "categories": [], "metrics": {"area": 70, "cycles": 771, "cost": 120}, "color": 3, "shape": "WzfHQJUrt0EkCxxAlHkPQavw5jW2CXNB"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-130g-350c-81a-101i-11h-9w-57r-T-38f2bf.gif", "categories": [], "metrics": {"area": 81, "cycles": 350, "cost": 130}, "color": 1, "shape": "MYzpQbvWhkG3ikBCQbEIQiDmYUI9bAJC"},
+    {"gif": "https://files.mors.technology/DWARVEN_FIRE_WINE/130g-977c-66a-163i-T-b1495389.mp4", "categories": [], "metrics": {"area": 66, "cycles": 977, "cost": 130}, "color": 2, "shape": "AAAAAAAAyEJE9epBMxamQiz95UFzSIZCWzfHQJUrt0Gr8OY1tglzQQAAAAC2CXNB"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-215g-154c-73a-49i-11h-9w-25r-e6337d.gif", "categories": [], "metrics": {"area": 73, "cycles": 154, "cost": 215}, "color": 0, "shape": "RPXqQTMWpkK46pdC3ZRgQllulkKG5kFCn1+WQp5wQUIfoHhCQosPQiDmYUI9bAJCt4pAQkGxCEI68jdCfnIUQiz95UFzSIZC"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-255g-86c-88a-48i-11h-9w-12r-7080a4.gif", "categories": [], "metrics": {"area": 88, "cycles": 86, "cost": 255}, "color": 2, "shape": "H6B4QkKLD0KfX5ZCnnBBQuDNoEJCrjlC"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-345g-56c-86a-41i-11h-9w-8r-3fadd1.gif", "categories": [], "metrics": {"area": 86, "cycles": 56, "cost": 345}, "color": 1, "shape": "czmrQoK2RULgzaBCQq45Qp9flkKecEFCWW6WQobmQUJLUKZCI/VPQn6wqUI+D0xC"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-350g-61c-84a-44i-11h-9w-9r-8c461c.gif", "categories": [], "metrics": {"area": 84, "cycles": 61, "cost": 350}, "color": 2, "shape": "uOqXQt2UYEJLUKZCI/VPQllulkKG5kFC"},
+    {"gif": "https://files.mors.technology/Dwarven-Fire-Wine-445g-51c-90a-257i-11h-9w-c51b31.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 90, "cycles": 51, "cost": 445}, "color": 0, "shape": "czmrQoK2RUJ+sKlCPg9MQoA0rUIAAEhC"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "P081",
+  "name": "Eyedrops of Revelation",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Eyedrops-of-Revelation-100g-513c-69a-86i-9h-8w-86r-e6f8f1.gif", "categories": ["GC_P", "GX_P"], "metrics": {"area": 69, "cycles": 513, "cost": 100}, "color": 1, "shape": "+iGjQZRePEEAAAAAAAAAAAAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/Eyedrops-of-Revelation-130g-364c-69a-104i-9h-8w-61r-T-ea9a80.gif", "categories": [], "metrics": {"area": 69, "cycles": 364, "cost": 130}, "color": 0, "shape": "+iGjQZRePEGANC02AADIQjzv/0EdD6NCDrcGQioJe0Lp2N1Baoa5QVz9wUEAAGBB"},
+    {"gif": "https://files.mors.technology/Eyedrops-of-Revelation-175g-187c-74a-99i-9h-8w-29r-03bbe5.gif", "categories": ["SUM_P"], "metrics": {"area": 74, "cycles": 187, "cost": 175}, "color": 2, "shape": "XP3BQQAAYEHp2N1Baoa5QWmQdUJtNiRCvh1+Qsy2EkI="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_REVELATION/180g-191c-72a-91i-T-16f98638.mp4", "categories": [], "metrics": {"area": 72, "cycles": 191, "cost": 180}, "color": 1, "shape": "aZB1Qm02JELp2N1Baoa5QQ63BkIqCXtCPi5DQv6nj0I7WGpCvVmEQg=="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_REVELATION/200g-223c-71a-97i-T-a6285aa5.mp4", "categories": [], "metrics": {"area": 71, "cycles": 223, "cost": 200}, "color": 2, "shape": "DrcGQioJe0I87/9BHQ+jQj4uQ0L+p49C"},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_REVELATION/310g-112c-76a-89i-27654a82.mp4", "categories": [], "metrics": {"area": 76, "cycles": 112, "cost": 310}, "color": 0, "shape": "O1hqQr1ZhEI56Z1C+KhZQjnpnUL4qFlC/0yJQpGKHkK+HX5CzLYSQmmQdUJtNiRC"},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_REVELATION/330g-104c-78a-95i-8b8e86b1.mp4", "categories": ["RG_P"], "metrics": {"area": 78, "cycles": 104, "cost": 330}, "color": 1, "shape": "/0yJQpGKHkI56Z1C+KhZQpyTokIvujtC"},
+    {"gif": "https://files.mors.technology/Eyedrops-of-Revelation-370g-100c-79a-587i-9h-8w-bdf454.gif", "categories": ["CG_P", "CX_P"], "metrics": {"area": 79, "cycles": 100, "cost": 370}, "color": 2, "shape": "gDStQgAASEKck6JCL7o7QjnpnUL4qFlCOemdQvioWUI="}
+  ]
+}

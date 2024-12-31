@@ -1,0 +1,31 @@
+{
+  "id": "w2788066123",
+  "name": "Flake Salt",
+  "collection": "Community",
+  "group": "Tournament 2022",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/UyMvQfD.gif", "categories": ["GC", "OGC"], "metrics": {"area": 63, "cycles": 994, "cost": 40}, "color": 0, "shape": "iKsgQpqGuUEAAAAAAAAAAAAAAAAAAEg289oQQgg2yUE="},
+    {"gif": "https://i.imgur.com/3h4KAO5.gif", "categories": [], "metrics": {"area": 51, "cycles": 1053, "cost": 40}, "color": 3, "shape": "a1YQOAAAyDesDg1Ct4DSQfPaEEIINslB"},
+    {"gif": "https://i.imgur.com/NDo2Ajg.gif", "categories": ["GA", "GX"], "metrics": {"area": 39, "cycles": 1138, "cost": 40}, "color": 2, "shape": "2iT4QeSRMkKsDg1Ct4DSQWtWEDgAAMg3AAAAAAAASDYAAAAAuG1dQv2PBECTXm5CAEqKQX8PaEI="},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/55g-1732c-36a-289i-9c4a179d.mp4", "categories": ["BG"], "metrics": {"area": 36, "cycles": 1732, "cost": 55}, "color": 0, "shape": "AAAAALhtXUIAAAAA5hGCQv2PBECTXm5C"},
+    {"gif": "https://files.mors.technology/Flake-Salt-70g-1143c-34a-191i-6h-6.5w-191r-T-c81740.mp4", "categories": [], "metrics": {"area": 34, "cycles": 1143, "cost": 70}, "color": 1, "shape": "AAAAAFqHjkImFJxAJY+YQkxDVUG/QIdCAEqKQX8PaEL9jwRAk15uQgAAAADmEYJC"},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/80g-1329c-33a-222i-334025fd.mp4", "categories": [], "metrics": {"area": 33, "cycles": 1329, "cost": 80}, "color": 0, "shape": "AAAAAFqHjkIAAAAA5DisQiYUnEAlj5hC"},
+    {"gif": "https://files.mors.technology/Flake-Salt-95g-230c-45a-98i-8h-6.5w-38r-e885c3.gif", "categories": ["CG", "CX", "SUM", "SUM4", "RG"], "metrics": {"area": 45, "cycles": 230, "cost": 95}, "color": 1, "shape": "gDStQgAASEKIqyBCmoa5QfPaEEIINslBrA4NQreA0kHaJPhB5JEyQsPQBEJXTDxCgDStQgEASEI="},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/100g-565c-34a-128i-T-00f28cb8.mp4", "categories": [], "metrics": {"area": 34, "cycles": 565, "cost": 100}, "color": 0, "shape": "2iT4QeSRMkIASopBfw9oQkxDVUG/QIdCOk15QZQskULkQ8tBiVyNQi/U0UET1oxCbawHQstdWULD0ARCV0w8Qg=="},
+    {"gif": "https://files.mors.technology/Flake-Salt-105g-846c-32a-1216i-6h-6w-141.17r-c5eab9.mp4", "categories": ["AG"], "metrics": {"area": 32, "cycles": 846, "cost": 105}, "color": 2, "shape": "Ok15QZQskUJMQ1VBv0CHQiYUnEAlj5hCAAAAAOQ4rEIAAAAAAADIQoA0LTYAAMhC"},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/115g-230c-39a-99i-74b049bf.mp4", "categories": [], "metrics": {"area": 39, "cycles": 230, "cost": 115}, "color": 2, "shape": "odo/Qho5hEJ/NK1CAABIQsPQBEJXTDxCbawHQstdWUI="},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/120g-362c-35a-126i-ceb4f7a7.mp4", "categories": [], "metrics": {"area": 35, "cycles": 362, "cost": 120}, "color": 3, "shape": "kYf6QQ6ZlkJtrAdCy11ZQi/U0UET1oxC"},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/125g-351c-35a-134i-da163309.mp4", "categories": [], "metrics": {"area": 35, "cycles": 351, "cost": 125}, "color": 0, "shape": "odo/Qho5hEKRh/pBDpmWQg3EA0LMYJtCxzU/QmA/h0I="},
+    {"gif": "https://files.mors.technology/Flake-Salt-125g-600c-32a-1014i-6h-6w-100.17r-a51cde.mp4", "categories": [], "metrics": {"area": 32, "cycles": 600, "cost": 125}, "color": 3, "shape": "q/BmNv//x0LkQ8tBiVyNQjpNeUGULJFC"},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/130g-570c-32a-163i-eb5586e5.mp4", "categories": ["AC", "AX", "WC", "OAC", "WR"], "metrics": {"area": 32, "cycles": 570, "cost": 130}, "color": 1, "shape": "gDQtNgAAyELI/QBCbsOiQg3EA0LMYJtCkYf6QQ6ZlkIv1NFBE9aMQuRDy0GJXI1Cq/BmNv//x0I="},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/140g-230c-38a-108i-26991a05.mp4", "categories": ["CA", "RA"], "metrics": {"area": 38, "cycles": 230, "cost": 140}, "color": 3, "shape": "7H1RQmCGi0KANK1CAQBIQn80rUIAAEhCodo/Qho5hELHNT9CYD+HQg=="},
+    {"gif": "https://files.mors.technology/FLAKE_SALT/150g-325c-35a-128i-3963e379.mp4", "categories": [], "metrics": {"area": 35, "cycles": 325, "cost": 150}, "color": 2, "shape": "yP0AQm7DokLsfVFCYIaLQsc1P0JgP4dCDcQDQsxgm0I="}
+  ]
+}

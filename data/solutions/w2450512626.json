@@ -1,0 +1,34 @@
+{
+  "id": "w2450512626",
+  "name": "Quintessential Stabilizer",
+  "collection": "Community",
+  "group": "Tournament 2021",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-110g-1215c-58a-203i-9h-7.5w-203r-f27bd4.gif", "categories": ["GC", "OGC"], "metrics": {"area": 58, "cycles": 1215, "cost": 110}, "color": 1, "shape": "7/QmQPrIwD8AAAAAAAAAAAAAAAAAAEg2xAdPQDCp9kA="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-110g-1375c-32a-230i-6h-6w-230r-036171.mp4", "categories": ["GA", "GX"], "metrics": {"area": 32, "cycles": 1375, "cost": 110}, "color": 0, "shape": "AAAAAAAASDYAAAAAk04pQlU7E0Cb5ipCfnSNQHDCVUHEB09AMKn2QA=="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-120g-1376c-30a-1389i-6h-6w-231.5r-1ab1e0.mp4", "categories": ["AG"], "metrics": {"area": 30, "cycles": 1376, "cost": 120}, "color": 2, "shape": "gDQtNgAAyEJVOxNAm+YqQgAAAACTTilCAAAAAAAAyEI="},
+    {"gif": "https://i.imgur.com/MdKsFwc.gif", "categories": ["TG"], "metrics": {"area": 73, "cycles": 843, "cost": 130}, "color": 2, "shape": "4KhKQd8C6kDv9CZA+sjAP8QHT0AwqfZAfnSNQHDCVUEa0CFBdq6yQQ=="},
+    {"gif": "https://i.imgur.com/aZu2SmD.gif", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 30, "cycles": 1011, "cost": 150}, "color": 1, "shape": "GtAhQXauskF+dI1AcMJVQVU7E0Cb5ipCgDQtNgAAyELZAm5ArbTDQqSeJ0FdPBRC"},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-345g-118c-66a-109i-10h-9.5w-19r-6563ef.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 66, "cycles": 118, "cost": 345}, "color": 0, "shape": "xpiMQuBYIkLgqEpB3wLqQBrQIUF2rrJBpJ4nQV08FEKaI8lB1PeqQon0fkIyzXxCDneBQkgPeUJ/ZodCw/RgQt27jEICM0hCC5+MQtp6IkJknYxCbmkiQg=="},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/350g-397c-37a-1694i-7ef1235f.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 397, "cost": 350}, "color": 2, "shape": "pJ4nQV08FELZAm5ArbTDQpojyUHU96pC"},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-860g-49c-230a-92i-15h-16w-4r-T-2db43f.gif", "categories": ["RG", "ORG"], "metrics": {"area": 230, "cycles": 49, "cost": 860}, "color": 2, "shape": "xpiMQuBYIkJknYxCbmkiQom5jEK2fiJCi7mMQrZ+IkI="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-920g-41c-176a-102i-11h-16w-4r-T-f50dc0.gif", "categories": [], "metrics": {"area": 176, "cycles": 41, "cost": 920}, "color": 3, "shape": "C5+MQtp6IkKJuYxCtn4iQmSdjEJuaSJC"},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/960g-94c-83a-1182i-ba2854a9.mp4", "categories": ["HC"], "metrics": {"area": 83, "cycles": 94, "cost": 960}, "color": 2, "shape": "DneBQkgPeUKJ9H5CMs18QteQgULsY3pC"},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/980g-33c-160a-240i-T-8bf89103.mp4", "categories": ["TC"], "metrics": {"area": 160, "cycles": 33, "cost": 980}, "color": 1, "shape": "HVmoQkJkQkKLuYxCtn4iQom5jEK2fiJCC5+MQtp6IkLdu4xCAjNIQvOdokK4AE1Chm6pQo6+SkI="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-1100g-31c-184a-264i-11h-14.5w-4r-07066d.gif", "categories": [], "metrics": {"area": 184, "cycles": 31, "cost": 1100}, "color": 0, "shape": "HVmoQkJkQkKGbqlCjr5KQl1/qkJdIEtCguisQr9XSELl7axCoStIQjnwrELxDkhCBfOsQvvcR0Ku8KxCsLFHQg=="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-1140g-37c-128a-264i-13h-11w-4r-709fa4.gif", "categories": [], "metrics": {"area": 128, "cycles": 37, "cost": 1140}, "color": 3, "shape": "kKyhQqqcT0LznaJCuABNQt27jEICM0hCf2aHQsP0YEI="},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/1190g-37c-126a-264i-c29a3742.mp4", "categories": ["RA"], "metrics": {"area": 126, "cycles": 37, "cost": 1190}, "color": 1, "shape": "DneBQkgPeULXkIFC7GN6Qv/voEJXKlZCkKyhQqqcT0J/ZodCw/RgQg=="},
+    {"gif": "https://files.mors.technology/Quintessential-Stabilizer-1280g-34c-136a-272i-11h-13w-4r-711997.gif", "categories": [], "metrics": {"area": 136, "cycles": 34, "cost": 1280}, "color": 2, "shape": "/++gQlcqVkJdf6pCXSBLQoZuqUKOvkpC852iQrgATUKQrKFCqpxPQg=="},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/2230g-30c-372a-960i-2ed55e81.mp4", "categories": ["CG"], "metrics": {"area": 372, "cycles": 30, "cost": 2230}, "color": 3, "shape": "rvCsQrCxR0IF86xC+9xHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/2310g-30c-340a-988i-733023db.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 340, "cycles": 30, "cost": 2310}, "color": 2, "shape": "OfCsQvEOSEJ/NK1CAABIQgXzrEL73EdC"},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/2350g-30c-336a-972i-525e6e80.mp4", "categories": [], "metrics": {"area": 336, "cycles": 30, "cost": 2350}, "color": 3, "shape": "5e2sQqErSEJ+NK1CAABIQjnwrELxDkhC"},
+    {"gif": "https://files.mors.technology/QUINTESSENTIAL_STABILIZER/2440g-30c-332a-976i-b63ed0a6.mp4", "categories": ["CA"], "metrics": {"area": 332, "cycles": 30, "cost": 2440}, "color": 1, "shape": "guisQr9XSEKANK1CAQBIQn80rUIAAEhCfjStQgAASELl7axCoStIQg=="}
+  ]
+}

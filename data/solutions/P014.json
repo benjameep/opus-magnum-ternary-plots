@@ -1,0 +1,32 @@
+{
+  "id": "P014",
+  "name": "Health Tonic",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/30g-130c-28a-22i-T-cf994af1.mp4", "categories": ["GC", "TG"], "metrics": {"area": 28, "cycles": 130, "cost": 30}, "color": 1, "shape": "4o4SQhM7qUEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYUpRBCfG6pQQ=="},
+    {"gif": "https://files.mors.technology/Health-Tonic-30g-131c-21a-22i-5h-5w-22r-T-21fc6f.gif", "categories": ["GX"], "metrics": {"area": 21, "cycles": 131, "cost": 30}, "color": 0, "shape": "FKUQQnxuqUGr8GY2AADINsMR10DTuOdBv4QIQSpr9EEQKIRBS30GQmFvnUHKQglC"},
+    {"gif": "https://files.mors.technology/Health-Tonic-30g-323c-18a-395i-4h-4.5w-56.43r-T-1b6582.mp4", "categories": ["GA"], "metrics": {"area": 18, "cycles": 323, "cost": 30}, "color": 2, "shape": "AAAAAAAASDYAAAAAAQAWQgUMr0A4Z/xBwxHXQNO450Gr8GY2AADINg=="},
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/40g-194c-16a-33i-010f8fe3.mp4", "categories": [], "metrics": {"area": 16, "cycles": 194, "cost": 40}, "color": 3, "shape": "wxHXQNO450EFDK9AOGf8Qb+ECEEqa/RB"},
+    {"gif": "https://files.mors.technology/Health-Tonic-50g-49c-18a-16i-5h-5w-8r-T-bdf23b.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 18, "cycles": 49, "cost": 50}, "color": 2, "shape": "YW+dQcpCCUKwH+RBMORGQssIiEIIW0VCyhePQoY8KkIvK4xCVdohQuKOEkITO6lBFKUQQnxuqUE="},
+    {"gif": "https://files.mors.technology/Health-Tonic-50g-129c-14a-22i-5h-4w-22r-T-c395ff.gif", "categories": [], "metrics": {"area": 14, "cycles": 129, "cost": 50}, "color": 3, "shape": "sB/kQTDkRkJhb51BykIJQhAohEFLfQZCeSTYQT31W0I="},
+    {"gif": "https://files.mors.technology/Health-Tonic-50g-154c-13a-26i-4h-4w-26r-T-312734.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 13, "cycles": 154, "cost": 50}, "color": 1, "shape": "eSTYQT31W0IQKIRBS30GQr+ECEEqa/RBBQyvQDhn/EEAAAAAAQAWQgAAAAAAAMhCpqylQUMWsEI3Wr9BVy6mQg=="},
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/60g-42c-22a-13i-T-24e6a166.mp4", "categories": [], "metrics": {"area": 22, "cycles": 42, "cost": 60}, "color": 0, "shape": "LyuMQlXaIULKF49ChjwqQitIkUJQKylCURiQQvViJkI="},
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/70g-36c-27a-11i-T-9ca02845.mp4", "categories": [], "metrics": {"area": 27, "cycles": 36, "cost": 70}, "color": 2, "shape": "URiQQvViJkIrSJFCUCspQmE/lEJ6LitCYT+UQnsuK0I="},
+    {"gif": "https://files.mors.technology/Health-Tonic-70g-48c-15a-16i-5h-4.5w-8r-T-1bfdfd.gif", "categories": [], "metrics": {"area": 15, "cycles": 48, "cost": 70}, "color": 0, "shape": "+j+IQqHwRULLCIhCCFtFQrAf5EEw5EZCeSTYQT31W0I3Wr9BVy6mQt1v2kGpeKhCerBXQmG8iUJ8nmNCYxSEQg=="},
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/80g-31c-20a-13i-T-a6880e95.mp4", "categories": [], "metrics": {"area": 20, "cycles": 31, "cost": 80}, "color": 1, "shape": "NbecQmeTPEJhP5RCei4rQitIkUJQKylCyhePQoY8KkLLCIhCCFtFQvo/iEKh8EVCEl6RQrTiS0I="},
+    {"gif": "https://files.mors.technology/Health-Tonic-90g-26c-26a-12i-6h-5.5w-4r-T-f21bf9.gif", "categories": ["CG", "TC", "RG"], "metrics": {"area": 26, "cycles": 26, "cost": 90}, "color": 0, "shape": "gDStQgAASEJhP5RCey4rQmE/lEJ6LitCNbecQmeTPEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/Health-Tonic-90g-37c-16a-16i-5h-4.5w-6r-T-45a9a9.gif", "categories": [], "metrics": {"area": 16, "cycles": 37, "cost": 90}, "color": 2, "shape": "TCSSQv8/TkISXpFCtOJLQvo/iEKh8EVCfJ5jQmMUhEKbbmtCkb+BQg=="},
+    {"gif": "https://files.mors.technology/HEALTH_TONIC/90g-91c-14a-28i-T-f780cbd3.mp4", "categories": [], "metrics": {"area": 14, "cycles": 91, "cost": 90}, "color": 2, "shape": "pqylQUMWsELdb9pBqXioQjdav0FXLqZC"},
+    {"gif": "https://files.mors.technology/Health-Tonic-100g-26c-20a-15i-5h-4.5w-4r-T-3b9761.gif", "categories": ["CX"], "metrics": {"area": 20, "cycles": 26, "cost": 100}, "color": 3, "shape": "TCSSQv8/TkJ/NK1CAABIQjW3nEJnkzxCEl6RQrTiS0I="},
+    {"gif": "https://files.mors.technology/Health-Tonic-110g-36c-16a-16i-5h-4.5w-6r-T-8342c4.gif", "categories": [], "metrics": {"area": 16, "cycles": 36, "cost": 110}, "color": 3, "shape": "RypmQpuOhUKbbmtCkb+BQnyeY0JjFIRCerBXQmG8iUI="},
+    {"gif": "https://files.mors.technology/Health-Tonic-130g-26c-17a-32i-5h-4.5w-4r-T-00f8d3.gif", "categories": ["CA", "RA"], "metrics": {"area": 17, "cycles": 26, "cost": 130}, "color": 1, "shape": "RypmQpuOhUKANK1CAQBIQn80rUIAAEhCTCSSQv8/TkKbbmtCkb+BQg=="}
+  ]
+}

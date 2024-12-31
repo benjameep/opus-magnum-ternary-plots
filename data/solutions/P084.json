@@ -1,0 +1,22 @@
+{
+  "id": "P084",
+  "name": "Reconstructed Solvent",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-115g-491c-58a-92i-9h-9w-82r-6a23a0.gif", "categories": ["GC_P", "GI_P", "GX_P"], "metrics": {"area": 58, "cycles": 491, "cost": 115}, "color": 0, "shape": "MWYCQm+SlkEAAAAAAAAAAAAAAAAWNodAt18kQY2Ag0EqtN5B8m71QQ=="},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-120g-562c-57a-104i-9h-9w-94r-6281e1.gif", "categories": [], "metrics": {"area": 57, "cycles": 562, "cost": 120}, "color": 1, "shape": "t18kQY2Ag0FcJN9BjIQyQk9P6EERaylCKrTeQfJu9UE="},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-120g-766c-56a-138i-9h-9w-128r-720483.gif", "categories": [], "metrics": {"area": 56, "cycles": 766, "cost": 120}, "color": 2, "shape": "AAAAABY2h0AAAAAAAADIQpVFtUHv1a1CXCTfQYyEMkK3XyRBjYCDQQ=="},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/160g-188c-58a-63i-0b2da45a.mp4", "categories": [], "metrics": {"area": 58, "cycles": 188, "cost": 160}, "color": 2, "shape": "jMp/Ql6uE0IxZgJCb5KWQSq03kHybvVBT0/oQRFrKUI="},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-210g-116c-57a-59i-9h-9w-19r-c6c021.gif", "categories": ["SUM_P"], "metrics": {"area": 57, "cycles": 116, "cost": 210}, "color": 0, "shape": "jMp/Ql6uE0JPT+hBEWspQlwk30GMhDJClUW1Qe/VrUJnCJNCnThmQv5yl0I//DtC1lySQkgBKUI="},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-265g-75c-59a-67i-9h-9w-12r-98a351.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 59, "cycles": 75, "cost": 265}, "color": 1, "shape": "1lySQkgBKUL+cpdCP/w7QoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/285g-75c-58a-67i-d9dda754.mp4", "categories": [], "metrics": {"area": 58, "cycles": 75, "cost": 285}, "color": 2, "shape": "ZwiTQp04ZkKANK1CAQBIQv5yl0I//DtC"}
+  ]
+}

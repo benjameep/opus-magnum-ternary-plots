@@ -1,0 +1,38 @@
+{
+  "id": "P068",
+  "name": "Ablative Crystal",
+  "collection": "Journal",
+  "group": "Journal III",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Ablative-Crystal-75g-987c-89a-165i-11h-9w-165r-1eab5b.gif", "categories": ["GC"], "metrics": {"area": 89, "cycles": 987, "cost": 75}, "color": 0, "shape": "3iTsQHpWiEAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDbWBANBkr7PQA=="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-75g-988c-88a-165i-11h-9w-165r-9d024c.mp4", "categories": [], "metrics": {"area": 88, "cycles": 988, "cost": 75}, "color": 2, "shape": "a1YQNwAAFje6pgtBatU1Qb3fD0Gx8wpB1gQDQZK+z0A="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-75g-1099c-55a-184i-9h-7.5w-184r-610073.mp4", "categories": ["GX"], "metrics": {"area": 55, "cycles": 1099, "cost": 75}, "color": 1, "shape": "jZgaQRSq10G6pgtBatU1QWtWEDcAABY3q/BmNgAAyDar8GY2AQB6OHn3TUBRuRJCTyoaQcdP5UE="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-75g-1551c-46a-259i-8h-6.5w-259r-905cf6.mp4", "categories": [], "metrics": {"area": 46, "cycles": 1551, "cost": 75}, "color": 3, "shape": "q/BmNgEAejigpyk/49tCQlOR1T9aLjVCefdNQFG5EkI="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-75g-2228c-44a-372i-7h-7.5w-372r-39a78d.mp4", "categories": ["GA"], "metrics": {"area": 44, "cycles": 2228, "cost": 75}, "color": 2, "shape": "AAAAAAAASDYAAAAASIFcQqCnKT/j20JCq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/135g-365c-167a-105i-64ea3179.mp4", "categories": [], "metrics": {"area": 167, "cycles": 365, "cost": 135}, "color": 1, "shape": "TktmQdz1BEHeJOxAelaIQNYEA0GSvs9Avd8PQbHzCkE="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-150g-1134c-33a-325i-7h-6.5w-189r-4efefd.mp4", "categories": ["AG", "AC", "AX"], "metrics": {"area": 33, "cycles": 1134, "cost": 150}, "color": 1, "shape": "HSPfP1oZsEJTkdU/Wi41QqCnKT/j20JCAAAAAEiBXEIAAAAAAADIQkEDez8o3sZC"},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-155g-876c-34a-252i-7h-6.5w-146r-4fbe8d.mp4", "categories": [], "metrics": {"area": 34, "cycles": 876, "cost": 155}, "color": 0, "shape": "U5HVP1ouNUIdI98/WhmwQvjxIEE+V/hBTyoaQcdP5UF5901AUbkSQg=="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/180g-147c-88a-366i-1baab5f5.mp4", "categories": ["SUM"], "metrics": {"area": 88, "cycles": 147, "cost": 180}, "color": 0, "shape": "jZgaQRSq10FY9ktCVdRaQtJlekKTfWFCE7aDQnMxXEJoLoRCNztQQlXwIUKm/bpBTktmQdz1BEG93w9BsfMKQbqmC0Fq1TVB"},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/190g-136c-98a-493i-00db01bb.mp4", "categories": [], "metrics": {"area": 98, "cycles": 136, "cost": 190}, "color": 2, "shape": "VfAhQqb9ukFoLoRCNztQQsAuj0IuOVdCz7KRQl00K0IDWZFCRNUnQg=="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-195g-666c-34a-247i-7h-6.5w-111r-42d7bf.mp4", "categories": [], "metrics": {"area": 34, "cycles": 666, "cost": 195}, "color": 3, "shape": "LEPSQbemqUL48SBBPlf4QR0j3z9aGbBCQQN7PyjexkI="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-200g-151c-84a-75i-10h-8.5w-23r-c428ed.mp4", "categories": ["SUM4"], "metrics": {"area": 84, "cycles": 151, "cost": 200}, "color": 3, "shape": "0mV6QpN9YUJY9ktCVdRaQoFjckJGB4JCbR6EQjlxd0I="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-200g-174c-74a-72i-9h-8.5w-27r-e009fd.gif", "categories": [], "metrics": {"area": 74, "cycles": 174, "cost": 200}, "color": 2, "shape": "LEPSQbemqUKBY3JCRgeCQlj2S0JV1FpCjZgaQRSq10FPKhpBx0/lQfjxIEE+V/hB"},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-205g-140c-92a-485i-9h-11w-21.17r-41aac7.mp4", "categories": [], "metrics": {"area": 92, "cycles": 140, "cost": 205}, "color": 3, "shape": "E7aDQnMxXEK1hI1CsZZsQm7XjkKSD2tCwC6PQi45V0JoLoRCNztQQg=="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-205g-146c-87a-509i-8h-10w-22.17r-6d7d4c.mp4", "categories": [], "metrics": {"area": 87, "cycles": 146, "cost": 205}, "color": 1, "shape": "tYSNQrGWbEITtoNCczFcQtJlekKTfWFCbR6EQjlxd0I="},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-525g-74c-178a-88i-13h-14w-10r-cef5d2.gif", "categories": [], "metrics": {"area": 178, "cycles": 74, "cost": 525}, "color": 0, "shape": "A1mRQkTVJ0LPspFCXTQrQo8Xk0Ll2ClC"},
+    {"gif": "https://files.mors.technology/Ablative-Crystal-665g-50c-171a-156i-13h-14w-6r-187dcf.mp4", "categories": [], "metrics": {"area": 171, "cycles": 50, "cost": 665}, "color": 1, "shape": "bteOQpIPa0ISr6ZCsIdPQtTBpkLSLUVCOrOmQht9QEKPF5NC5dgpQs+ykUJdNCtCwC6PQi45V0I="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/1010g-37c-235a-1140i-eea81898.mp4", "categories": [], "metrics": {"area": 235, "cycles": 37, "cost": 1010}, "color": 2, "shape": "OrOmQht9QELUwaZC0i1FQscGrUL/60dC7wWtQjrKR0I="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/1015g-37c-233a-1152i-10632c12.mp4", "categories": [], "metrics": {"area": 233, "cycles": 37, "cost": 1015}, "color": 0, "shape": "xwatQv/rR0LUwaZC0i1FQhKvpkKwh09CMP+sQo89SEJ3Ba1CvxtIQnIHrUI5DEhCFgetQtn1R0I="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/1995g-36c-423a-883i-7c143a32.mp4", "categories": ["CG"], "metrics": {"area": 423, "cycles": 36, "cost": 1995}, "color": 1, "shape": "gDStQgAASELvBa1COspHQscGrUL/60dCFgetQtn1R0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/2010g-36c-419a-887i-60eff2a2.mp4", "categories": ["CX"], "metrics": {"area": 419, "cycles": 36, "cost": 2010}, "color": 3, "shape": "cgetQjkMSEJ/NK1CAABIQn00rUL//0dCFgetQtn1R0I="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/2225g-36c-395a-948i-cbe2b21c.mp4", "categories": [], "metrics": {"area": 395, "cycles": 36, "cost": 2225}, "color": 4, "shape": "cgetQjkMSEJ3Ba1CvxtIQn40rUIAAEhCfjStQgAASEJ9NK1C//9HQg=="},
+    {"gif": "https://files.mors.technology/ABLATIVE_CRYSTAL/2345g-36c-388a-944i-c7372388.mp4", "categories": ["CA"], "metrics": {"area": 388, "cycles": 36, "cost": 2345}, "color": 2, "shape": "MP+sQo89SEKANK1CAQBIQn80rUIAAEhCfjStQgAASEJ3Ba1CvxtIQg=="}
+  ]
+}

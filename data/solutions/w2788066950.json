@@ -1,0 +1,38 @@
+{
+  "id": "w2788066950",
+  "name": "Lubricating Solvents",
+  "collection": "Community",
+  "group": "Tournament 2022",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-586c-73a-98i-10h-9w-98r-T-16d280.gif", "categories": ["GC", "GI", "OGC", "TG"], "metrics": {"area": 73, "cycles": 586, "cost": 40}, "color": 2, "shape": "iYs3Qojw00EAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDakYgdCq1zLQQ=="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-705c-52a-118i-8h-8w-118r-T-f95db7.gif", "categories": [], "metrics": {"area": 52, "cycles": 705, "cost": 40}, "color": 0, "shape": "vpipOABAgzjWmQRCKtPTQaRiB0KrXMtB"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-770c-43a-770i-7h-7w-T-ed9ec6.mp4", "categories": [], "metrics": {"area": 43, "cycles": 770, "cost": 40}, "color": 3, "shape": "q/BmNwAASDe6HuVBWZXfQVKoBEKZPdpB1pkEQirT00G+mKk4AECDOA=="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-783c-42a-783i-7h-7w-T-5bb0d2.mp4", "categories": ["GX"], "metrics": {"area": 42, "cycles": 783, "cost": 40}, "color": 0, "shape": "lyoyQENezUF3FqBBCRjyQboe5UFZld9Bq/BmNwAASDer8GY2AADINqvwZjYAAEg4"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-1347c-40a-1347i-7h-7w-T-500af6.mp4", "categories": [], "metrics": {"area": 40, "cycles": 1347, "cost": 40}, "color": 3, "shape": "q/BmNgAASDid4KE/PfjTQXiYH0AMbNBBlyoyQENezUE="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-40g-3341c-37a-557i-7h-6w-557r-T-6fe874.mp4", "categories": ["GA"], "metrics": {"area": 37, "cycles": 3341, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAAl4IOQp3goT89+NNBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-50g-651c-36a-109i-6h-6.5w-109r-973571.gif", "categories": [], "metrics": {"area": 36, "cycles": 651, "cost": 50}, "color": 2, "shape": "dxagQQkY8kH53SBCvEVzQgTeLUI6qDVCUqgEQpk92kG6HuVBWZXfQQ=="},
+    {"gif": "https://files.mors.technology/LUBRICATING_SOLVENTS/50g-773c-32a-129i-412ece6d.mp4", "categories": ["BG"], "metrics": {"area": 32, "cycles": 773, "cost": 50}, "color": 1, "shape": "+d0gQrxFc0J3FqBBCRjyQZcqMkBDXs1BeJgfQAxs0EETF3xAdpskQj+qzEE4pHFCub8fQs+ngUI="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-50g-1095c-31a-183i-7h-6w-183r-fcd90c.gif", "categories": [], "metrics": {"area": 31, "cycles": 1095, "cost": 50}, "color": 2, "shape": "Exd8QHabJEJ4mB9ADGzQQZ3goT89+NNBAAAAAJeCDkIAAAAAHqMfQg=="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-60g-364c-50a-61i-8h-7.5w-61r-T-b286a1.gif", "categories": [], "metrics": {"area": 50, "cycles": 364, "cost": 60}, "color": 1, "shape": "BN4tQjqoNUJndmVCRXENQlpeVUJ2YPZBiYs3Qojw00GkYgdCq1zLQdaZBEIq09NBUqgEQpk92kE="},
+    {"gif": "https://i.imgur.com/u26EAkW.gif", "categories": ["HG"], "metrics": {"area": 26, "cycles": 912, "cost": 70}, "color": 3, "shape": "ub8fQs+ngUI/qsxBOKRxQmkTBkKPTJ5CrEElQhT4jEI="},
+    {"gif": "https://files.mors.technology/LUBRICATING_SOLVENTS/70g-1203c-21a-201i-b85a5b9c.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 21, "cycles": 1203, "cost": 70}, "color": 0, "shape": "P6rMQTikcUITF3xAdpskQgAAAAAeox9CAAAAAAAAyELLbf1BsmujQmkTBkKPTJ5C"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-100g-52c-108a-88i-12h-10.5w-8.67r-T-0fe65e.mp4", "categories": ["SUM"], "metrics": {"area": 108, "cycles": 52, "cost": 100}, "color": 2, "shape": "CSapQuNQQ0JaXlVCdmD2QWd2ZUJFcQ1CEaKYQh4rPEIg66FC0MRBQnSyp0IgmUNC"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-100g-131c-46a-44i-7h-6.5w-22r-T-8c326c.gif", "categories": [], "metrics": {"area": 46, "cycles": 131, "cost": 100}, "color": 0, "shape": "Z3ZlQkVxDUIE3i1COqg1QvndIEK8RXNCub8fQs+ngUKsQSVCFPiMQs8GWkKZk4FCctOYQlbAT0J/6JhCNZ9PQlQvmkKlH0ZCEaKYQh4rPEI="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-140g-55c-66a-21i-10h-7.5w-9r-T-bfa074.gif", "categories": [], "metrics": {"area": 66, "cycles": 55, "cost": 140}, "color": 3, "shape": "IOuhQtDEQUIRophCHis8QlQvmkKlH0ZCm8OhQlGIRUI="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-160g-38c-72a-20i-10h-9.5w-6r-T-649007.gif", "categories": [], "metrics": {"area": 72, "cycles": 38, "cost": 160}, "color": 0, "shape": "m8OhQlGIRUIsaaRCtcNIQvh/qEKRM0hC+C2pQjbWR0J0sqdCIJlDQiDroULQxEFC"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-160g-51c-60a-24i-9h-8w-8r-T-7eda5d.gif", "categories": [], "metrics": {"area": 60, "cycles": 51, "cost": 160}, "color": 1, "shape": "LGmkQrXDSEKbw6FCUYhFQlQvmkKlH0ZCf+iYQjWfT0I="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-180g-28c-88a-16i-11h-9.5w-4r-T-10aa4a.gif", "categories": ["RG"], "metrics": {"area": 88, "cycles": 28, "cost": 180}, "color": 1, "shape": "dc+sQlOLR0IJJqlC41BDQnSyp0IgmUNC+C2pQjbWR0LezaxCma9HQg=="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-240g-36c-51a-30i-9h-6w-6r-T-beddec.gif", "categories": [], "metrics": {"area": 51, "cycles": 36, "cost": 240}, "color": 3, "shape": "FsmnQhdySkL4f6hCkTNIQixppEK1w0hCf+iYQjWfT0Jy05hCVsBPQg=="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-250g-26c-109a-27i-13h-9w-4r-T-6340f4.gif", "categories": ["CG", "TC"], "metrics": {"area": 109, "cycles": 26, "cost": 250}, "color": 0, "shape": "dc+sQlOLR0LezaxCma9HQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-280g-26c-57a-32i-9h-6w-4r-d761e2.gif", "categories": ["CA", "CX", "RA"], "metrics": {"area": 57, "cycles": 26, "cost": 280}, "color": 2, "shape": "Z2apQspkTEKANK1CAQBIQt7NrEKZr0dC+C2pQjbWR0L4f6hCkTNIQhbJp0IXckpC"},
+    {"gif": "https://files.mors.technology/Lubricating-Solvents-280g-37c-44a-32i-8h-7w-6r-T-941717.gif", "categories": [], "metrics": {"area": 44, "cycles": 37, "cost": 280}, "color": 1, "shape": "Z2apQspkTEIWyadCF3JKQnLTmEJWwE9CzwZaQpmTgUKbc21CInSDQg=="},
+    {"gif": "https://files.mors.technology/LUBRICATING_SOLVENTS/305g-158c-37a-554i-ca9f6b5d.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 158, "cost": 305}, "color": 2, "shape": "y239QbJro0Kbc21CInSDQs8GWkKZk4FCrEElQhT4jEJpEwZCj0yeQg=="}
+  ]
+}

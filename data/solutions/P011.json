@@ -1,0 +1,27 @@
+{
+  "id": "P011",
+  "name": "Waterproof Sealant",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-30g-113c-16a-19i-5h-4.5w-19r-T-d13490.gif", "categories": ["GC", "BG", "TG"], "metrics": {"area": 16, "cycles": 113, "cost": 30}, "color": 2, "shape": "WsShQd7KOkEAAAAAAAAAAAAAAAAAAEg2Sz+LQSp5WEE="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-30g-125c-9a-21i-3h-3.5w-21r-T-0573e9.gif", "categories": ["GA", "GX"], "metrics": {"area": 9, "cycles": 125, "cost": 30}, "color": 1, "shape": "AAAAAAAASDYAAAAAVVWFQsCQKUGuMWNCPRZxQUpOGkJLP4tBKnlYQQ=="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-50g-48c-10a-15i-4h-3.5w-8r-T-a9ff2a.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 10, "cycles": 48, "cost": 50}, "color": 0, "shape": "pkOMQdOMM0JKMVZCG4sJQm8YRUITluNBWsShQd7KOkFLP4tBKnlYQT0WcUFKThpC"},
+    {"gif": "https://files.mors.technology/WATERPROOF_SEALANT/50g-65c-9a-16i-T-be845b20.mp4", "categories": [], "metrics": {"area": 9, "cycles": 65, "cost": 50}, "color": 2, "shape": "pkOMQdOMM0I9FnFBSk4aQsCQKUGuMWNCZSw8QUwgfEI="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-50g-106c-8a-18i-3h-3w-18r-T-0b98c5.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 8, "cycles": 106, "cost": 50}, "color": 0, "shape": "AAAAAAAAyEJmLDxBdGu6QmUsPEFMIHxCwJApQa4xY0IAAAAAVVWFQg=="},
+    {"gif": "https://files.mors.technology/WATERPROOF_SEALANT/60g-43c-9a-67i-T-ff2e96cd.mp4", "categories": [], "metrics": {"area": 9, "cycles": 43, "cost": 60}, "color": 1, "shape": "ZSw8QUwgfEJmLDxBdGu6QssWJEKvoZhC329aQrtmDUJKMVZCG4sJQqZDjEHTjDNC"},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-70g-33c-17a-7i-5h-4.5w-5r-T-63ec50.gif", "categories": [], "metrics": {"area": 17, "cycles": 33, "cost": 70}, "color": 2, "shape": "wuyEQgZ9GUJvGEVCE5bjQUoxVkIbiwlC329aQrtmDUKjkINCMBogQg=="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-80g-32c-10a-13i-4h-3.5w-5r-T-cb29f4.gif", "categories": [], "metrics": {"area": 10, "cycles": 32, "cost": 80}, "color": 0, "shape": "o5CDQjAaIELfb1pCu2YNQssWJEKvoZhCwuyEQvuCdkK8Yo5CER5PQvdHjEKlfi5C"},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-90g-27c-18a-75i-5h-4.5w-4.5r-T-5bfbd3.gif", "categories": [], "metrics": {"area": 18, "cycles": 27, "cost": 90}, "color": 1, "shape": "kVCdQsGmNULC7IRCBn0ZQqOQg0IwGiBC90eMQqV+LkLpL5NCcIoyQusvk0JxijJC"},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-100g-26c-16a-12i-4h-4.5w-4r-T-31af5c.gif", "categories": ["CG", "BC", "TC"], "metrics": {"area": 16, "cycles": 26, "cost": 100}, "color": 0, "shape": "kVCdQsGmNULpL5NCcIoyQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-105g-26c-13a-30i-3h-3.5w-4r-3ae90a.gif", "categories": ["CX"], "metrics": {"area": 13, "cycles": 26, "cost": 105}, "color": 2, "shape": "vGKOQhEeT0J/NK1CAABIQusvk0JxijJC90eMQqV+LkI="},
+    {"gif": "https://files.mors.technology/Waterproof-Sealant-120g-26c-12a-32i-4h-3.5w-4r-a77e36.gif", "categories": ["CA", "RA"], "metrics": {"area": 12, "cycles": 26, "cost": 120}, "color": 1, "shape": "wuyEQvuCdkKANK1CAQBIQn80rUIAAEhCvGKOQhEeT0I="}
+  ]
+}

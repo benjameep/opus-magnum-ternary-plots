@@ -1,0 +1,39 @@
+{
+  "id": "P108",
+  "name": "Embalming Fluid",
+  "collection": "Journal",
+  "group": "Journal IX",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/100g-1540c-80a-1552i-845439e0.mp4", "categories": ["GC"], "metrics": {"area": 80, "cycles": 1540, "cost": 100}, "color": 0, "shape": "1hYcQX48tECANC02AADINavw5jUAAEg2q/BmNgAASDf43hhBaBalQQ=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-100g-1614c-75a-1628i-10h-9.5w-271.34r-244731.mp4", "categories": [], "metrics": {"area": 75, "cycles": 1614, "cost": 100}, "color": 4, "shape": "UWElQbEA+EH43hhBaBalQWtWEDcAAK83q/DmNgAAljer8GY2AABIN6vwZjYAAJY3"},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-100g-2067c-55a-345i-7h-8w-345r-105d1f.mp4", "categories": [], "metrics": {"area": 55, "cycles": 2067, "cost": 100}, "color": 2, "shape": "laJYQaYSVEJZU15BeuBAQlFhJUGxAPhBgDQtNgAAyDUAAAAAAAAAAAAAAAAAAEg2"},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/100g-2348c-46a-392i-f8a4b821.mp4", "categories": ["GX"], "metrics": {"area": 46, "cycles": 2348, "cost": 100}, "color": 1, "shape": "a1YQNwAArzer8OY2AACWN6vwZjYAAJY3Hpe+QIKfmkKxtsdAndqdQgZhD0HaU6xC9bhPQWMrjUKVolhBphJUQg=="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/100g-2696c-43a-450i-4bae097e.mp4", "categories": ["GA"], "metrics": {"area": 43, "cycles": 2696, "cost": 100}, "color": 3, "shape": "AAAAADTCckIel75Agp+aQqvwZjYAAEg3q/DmNQAASDYAAAAAAABINg=="},
+    {"gif": "https://i.imgur.com/sxHhgaV.gif", "categories": ["TG"], "metrics": {"area": 84, "cycles": 1146, "cost": 120}, "color": 1, "shape": "HmzMQewLbEHWFhxBfjy0QPjeGEFoFqVBUWElQbEA+EFZU15BeuBAQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-120g-2904c-40a-2916i-7h-6.5w-486r-855bb7.mp4", "categories": [], "metrics": {"area": 40, "cycles": 2904, "cost": 120}, "color": 2, "shape": "AAAAADTCckIAAAAAntWuQrG2x0Cd2p1CHpe+QIKfmkI="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/150g-2835c-39a-780i-T-6c67e350.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 39, "cycles": 2835, "cost": 150}, "color": 0, "shape": "BmEPQdpTrEKxtsdAndqdQgAAAACe1a5CAAAAAAAAyEKAA+tACoW/QkWZA0FxY7VC"},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-280g-190c-79a-177i-10h-10w-30r-783f9f.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 79, "cycles": 190, "cost": 280}, "color": 0, "shape": "VsaRQoFTKEIebMxB7AtsQVlTXkF64EBClaJYQaYSVEL1uE9BYyuNQsTo1kFXNotCD4V0QslpgUKooIlC1hRxQpjFk0I9NllC"},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-365g-150c-101a-1072i-14h-11w-25r-c9f9ae.mp4", "categories": [], "metrics": {"area": 101, "cycles": 150, "cost": 365}, "color": 2, "shape": "VsaRQoFTKEKYxZNCPTZZQhcpn0LKX0RCkT6gQsgIOUI="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/475g-295c-61a-476i-649bbeba.mp4", "categories": [], "metrics": {"area": 61, "cycles": 295, "cost": 475}, "color": 2, "shape": "RZkDQXFjtULE6NZBVzaLQvW4T0FjK41CBmEPQdpTrEI="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/495g-271c-61a-1458i-ec9aa9d7.mp4", "categories": ["BC"], "metrics": {"area": 61, "cycles": 271, "cost": 495}, "color": 1, "shape": "gAPrQAqFv0IPhXRCyWmBQsTo1kFXNotCRZkDQXFjtUI="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/805g-61c-181a-170i-5140cb0f.mp4", "categories": [], "metrics": {"area": 181, "cycles": 61, "cost": 805}, "color": 0, "shape": "kT6gQsgIOUIXKZ9Cyl9EQmv9p0KNc0VCKrOpQuXKREL7HKpCB25EQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-915g-56c-177a-1280i-14h-13.5w-16r-188a59.mp4", "categories": [], "metrics": {"area": 177, "cycles": 56, "cost": 915}, "color": 1, "shape": "+xyqQgduREIqs6lC5cpEQj+eq0JCjEZCd/SrQnWORkI="},
+    {"gif": "https://files.mors.technology/EMBALMING_FLUID/920g-56c-167a-579i-9ccc2154.mp4", "categories": [], "metrics": {"area": 167, "cycles": 56, "cost": 920}, "color": 3, "shape": "m7yqQry8RkI/nqtCQoxGQiqzqULlykRCa/2nQo1zRULmpapCGsBGQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-990g-56c-127a-1230i-14h-12w-9.34r-a5aa7e.mp4", "categories": [], "metrics": {"area": 127, "cycles": 56, "cost": 990}, "color": 1, "shape": "x2arQssmSULmpapCGsBGQmv9p0KNc0VCFymfQspfREKYxZNCPTZZQqigiULWFHFCerapQlQITEIZHatCp85JQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1025g-54c-150a-1126i-16h-12w-92da10.mp4", "categories": [], "metrics": {"area": 150, "cycles": 54, "cost": 1025}, "color": 0, "shape": "m7yqQry8RkKzS6xC6IhHQthRrEJmfEdC4lisQnVUR0IDVKxCGzVHQmYlrEL1xkZCd/SrQnWORkI/nqtCQoxGQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1030g-54c-147a-1154i-15h-12w-f798ec.mp4", "categories": [], "metrics": {"area": 147, "cycles": 54, "cost": 1030}, "color": 2, "shape": "5qWqQhrARkLHZqtCyyZJQkjwq0KPlEhCs0usQuiIR0KbvKpCvLxGQg=="},
+    {"gif": "https://i.imgur.com/3htP02t.gif", "categories": ["CG"], "metrics": {"area": 194, "cycles": 53, "cost": 1090}, "color": 2, "shape": "ZiWsQvXGRkIDVKxCGzVHQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://i.imgur.com/b4sv4o0.gif", "categories": [], "metrics": {"area": 175, "cycles": 53, "cost": 1100}, "color": 3, "shape": "ezStQvz/R0IDVKxCGzVHQuJYrEJ1VEdCezStQvz/R0J7NK1C/f9HQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1110g-53c-163a-1176i-15h-15w-c99ceb.mp4", "categories": [], "metrics": {"area": 163, "cycles": 53, "cost": 1110}, "color": 4, "shape": "ezStQvz/R0LiWKxCdVRHQthRrEJmfEdCezStQvz/R0J9NK1C/v9HQg=="},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1120g-53c-156a-1161i-14h-14.5w-eda0da.mp4", "categories": ["CX"], "metrics": {"area": 156, "cycles": 53, "cost": 1120}, "color": 1, "shape": "SPCrQo+USEJ/NK1CAABIQn00rUL+/0dCezStQv3/R0LYUaxCZnxHQrNLrELoiEdC"},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1230g-53c-145a-1293i-12h-12.5w-15.34r-30103f.mp4", "categories": ["CA"], "metrics": {"area": 145, "cycles": 53, "cost": 1230}, "color": 0, "shape": "73CrQmwJSkKANK1CAQBIQn80rUIAAEhCSPCrQo+USELHZqtCyyZJQhkdq0KnzklC"},
+    {"gif": "https://files.mors.technology/Embalming-Fluid-1240g-54c-136a-1145i-14h-13.5w-0041ce.mp4", "categories": [], "metrics": {"area": 136, "cycles": 54, "cost": 1240}, "color": 2, "shape": "erapQlQITELvcKtCbAlKQhkdq0KnzklC"}
+  ]
+}

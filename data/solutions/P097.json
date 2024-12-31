@@ -1,0 +1,31 @@
+{
+  "id": "P097",
+  "name": "Assassin's Filament",
+  "collection": "Journal",
+  "group": "Journal VII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Assassins-Filament-40g-653c-1104a-659i-31h-36.5w-1288a6.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 1104, "cycles": 653, "cost": 40}, "color": 0, "shape": "uXAIQTeMnUAAAAAAAAAAAAAAAAAAAEg2kiwRQSh06EA="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-40g-743c-348a-759i-25h-21.5w-50ed2c.mp4", "categories": ["GA", "GX"], "metrics": {"area": 348, "cycles": 743, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAAI9UxQtEyf0BZMy1CXpZ3QbDkaEGSLBFBKHToQA=="},
+    {"gif": "https://i.imgur.com/z7A5bnu.gif", "categories": ["TG"], "metrics": {"area": 1211, "cycles": 508, "cost": 50}, "color": 1, "shape": "9LW9QSIPW0G5cAhBN4ydQJIsEUEodOhAXpZ3QbDkaEE="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-115g-661c-107a-921i-6h-15.5w-fc6e68.mp4", "categories": [], "metrics": {"area": 107, "cycles": 661, "cost": 115}, "color": 1, "shape": "0TJ/QFkzLUIAAAAAI9UxQgAAAAALkrlCQ8EwPyPHtELtJn9AlAQyQg=="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-125g-478c-107a-801i-6h-15.5w-6eb818.mp4", "categories": [], "metrics": {"area": 107, "cycles": 478, "cost": 125}, "color": 2, "shape": "9vmqQFUYmkLtJn9AlAQyQkPBMD8jx7RCQFY9P0qlwUI="},
+    {"gif": "https://files.mors.technology/ASSASSIN_S_FILAMENT/125g-617c-105a-955i-bd9dc675.mp4", "categories": ["AG", "AC", "AX"], "metrics": {"area": 105, "cycles": 617, "cost": 125}, "color": 0, "shape": "QFY9P0qlwUJDwTA/I8e0QgAAAAALkrlCAAAAAAAAyELPxA4/JVvHQg=="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-130g-172c-145a-610i-5h-17w-Infr-bbbac7.mp4", "categories": ["SUM"], "metrics": {"area": 145, "cycles": 172, "cost": 130}, "color": 0, "shape": "nwBeQlQsAEL0tb1BIg9bQV6Wd0Gw5GhB0TJ/QFkzLULtJn9AlAQyQvb5qkBVGJpCLcjTQFbNskI="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-135g-427c-107a-762i-6h-15.5w-8136fc.mp4", "categories": [], "metrics": {"area": 107, "cycles": 427, "cost": 135}, "color": 3, "shape": "LcjTQFbNskL2+apAVRiaQkBWPT9KpcFCz8QOPyVbx0LVWiBAWxvFQqy3tkB4K7tC"},
+    {"gif": "https://files.mors.technology/Assassins-Filament-210g-101c-139a-473i-10h-18w-fa7afc.mp4", "categories": [], "metrics": {"area": 139, "cycles": 101, "cost": 210}, "color": 1, "shape": "UIGjQW5CqkLyOYVC0QM1QsomZkLH4ARCnwBeQlQsAEItyNNAVs2yQqy3tkB4K7tCEYdqQf7KskI="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-245g-73c-438a-65i-29h-23.5w-10r-25886b.gif", "categories": ["RG"], "metrics": {"area": 438, "cycles": 73, "cost": 245}, "color": 0, "shape": "yiZmQsfgBELyOYVC0QM1Qs6giUJ6hTVCR4aQQu7hJkI="},
+    {"gif": "https://files.mors.technology/Assassins-Filament-280g-62c-452a-71i-30h-24.5w-10r-3a51b1.gif", "categories": ["CG"], "metrics": {"area": 452, "cycles": 62, "cost": 280}, "color": 1, "shape": "R4aQQu7hJkLOoIlCeoU1QoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/ASSASSIN_S_FILAMENT/325g-62c-147a-72i-9c7f872a.mp4", "categories": ["CX"], "metrics": {"area": 147, "cycles": 62, "cost": 325}, "color": 2, "shape": "UIGjQW5CqkJ/NK1CAABIQs6giUJ6hTVC8jmFQtEDNUI="},
+    {"gif": "https://files.mors.technology/ASSASSIN_S_FILAMENT/380g-117c-122a-89i-2ae1e2fd.mp4", "categories": [], "metrics": {"area": 122, "cycles": 117, "cost": 380}, "color": 2, "shape": "1VogQFsbxUIBkkJBRvW5QhM5S0HxzbhCK7BpQaeJtEIRh2pB/sqyQqy3tkB4K7tC"},
+    {"gif": "https://files.mors.technology/Assassins-Filament-390g-62c-140a-79i-7h-16w-10r-ac5277.gif", "categories": ["CA"], "metrics": {"area": 140, "cycles": 62, "cost": 390}, "color": 0, "shape": "KvHqQcsWpkKANK1CAQBIQn80rUIAAEhCUIGjQW5CqkIRh2pB/sqyQiuwaUGnibRCQG2BQSIws0I="},
+    {"gif": "https://files.mors.technology/ASSASSIN_S_FILAMENT/455g-72c-134a-80i-69c62d7c.mp4", "categories": [], "metrics": {"area": 134, "cycles": 72, "cost": 455}, "color": 3, "shape": "EzlLQfHNuEJAbYFBIjCzQiuwaUGnibRC"},
+    {"gif": "https://files.mors.technology/ASSASSIN_S_FILAMENT/470g-68c-135a-457i-eb54a16b.mp4", "categories": [], "metrics": {"area": 135, "cycles": 68, "cost": 470}, "color": 1, "shape": "AZJCQUb1uUIq8epByxamQkBtgUEiMLNCEzlLQfHNuEI="}
+  ]
+}

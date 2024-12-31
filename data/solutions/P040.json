@@ -1,0 +1,33 @@
+{
+  "id": "P040",
+  "name": "Unstable Compound",
+  "collection": "Campaign",
+  "group": "Chapter 5",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Unstable-Compound-60g-610c-51a-102i-8h-6.5w-102r-T-b6d4da.gif", "categories": ["GC", "TG"], "metrics": {"area": 51, "cycles": 610, "cost": 60}, "color": 0, "shape": "m46EQU8QGUEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYla3VBjSFUQWengUEUhS5B"},
+    {"gif": "https://files.mors.technology/Unstable-Compound-60g-628c-41a-105i-7h-7w-105r-T-b6ff40.gif", "categories": ["GX"], "metrics": {"area": 41, "cycles": 628, "cost": 60}, "color": 2, "shape": "JWt1QY0hVEGr8GY2AADINrQPx0A+LdtBEtU6QX88+EEAj2FBiTiiQQ=="},
+    {"gif": "https://files.mors.technology/Unstable-Compound-60g-676c-39a-113i-7h-7w-113r-T-996cfd.mp4", "categories": ["GA"], "metrics": {"area": 39, "cycles": 676, "cost": 60}, "color": 1, "shape": "AAAAAAAASDYAAAAAVlXVQbQPx0A+LdtBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/75g-663c-29a-111i-6b5af7e5.mp4", "categories": [], "metrics": {"area": 29, "cycles": 663, "cost": 75}, "color": 0, "shape": "EtU6QX88+EG0D8dAPi3bQQAAAABWVdVBAAAAAO5pLEJFypk/EXU7QpMGNEFw3kpC"},
+    {"gif": "https://files.mors.technology/Unstable-Compound-100g-691c-22a-116i-6h-4.5w-116r-9371a0.gif", "categories": [], "metrics": {"area": 22, "cycles": 691, "cost": 100}, "color": 2, "shape": "kwY0QXDeSkJFypk/EXU7QtSvIUA0FcVCW/NqQT0Lt0IwGXZBgUayQtuydkGcNKtC"},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/100g-932c-21a-156i-d44cd89a.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 21, "cycles": 932, "cost": 100}, "color": 1, "shape": "AAAAAO5pLEIAAAAAAADIQtSvIUA0FcVCRcqZPxF1O0I="},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/110g-239c-46a-67i-1eaba43c.mp4", "categories": [], "metrics": {"area": 46, "cycles": 239, "cost": 110}, "color": 2, "shape": "9C+eQbOoNkGbjoRBTxAZQWengUEUhS5B86uUQVkeSEE7j5hBEJ9DQQ=="},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/110g-242c-41a-67i-0ecc0947.mp4", "categories": [], "metrics": {"area": 41, "cycles": 242, "cost": 110}, "color": 3, "shape": "86uUQVkeSEFnp4FBFIUuQSVrdUGNIVRBAI9hQYk4okE="},
+    {"gif": "https://files.mors.technology/Unstable-Compound-120g-181c-38a-63i-7h-6.5w-30r-c42e14.gif", "categories": [], "metrics": {"area": 38, "cycles": 181, "cost": 120}, "color": 1, "shape": "kwY0QXDeSkLbsnZBnDSrQtMFhUH3rKdCO4+YQRCfQ0Hzq5RBWR5IQQCPYUGJOKJBEtU6QX88+EE="},
+    {"gif": "https://files.mors.technology/Unstable-Compound-125g-150c-39a-62i-7h-6.5w-25r-58e9fe.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 39, "cycles": 150, "cost": 125}, "color": 3, "shape": "0wWFQfesp0IwFWpCCXksQj7IY0KXggNC9C+eQbOoNkE7j5hBEJ9DQQ=="},
+    {"gif": "https://files.mors.technology/Unstable-Compound-160g-118c-50a-462i-9h-7w-19r-2b935e.mp4", "categories": [], "metrics": {"area": 50, "cycles": 118, "cost": 160}, "color": 2, "shape": "PshjQpeCA0IwFWpCCXksQuKmlUKn1kBC/IuYQreTN0Iw7ZNCks8qQg=="},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/175g-120c-39a-76i-654d230d.mp4", "categories": [], "metrics": {"area": 39, "cycles": 120, "cost": 175}, "color": 0, "shape": "4qaVQqfWQEIwFWpCCXksQtMFhUH3rKdC27J2QZw0q0IwGXZBgUayQsidu0GA66xCer1nQjYahUKxZ3tCjEJ5Qk0ShEI4CW1C+ZGVQlJOQUI="},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/280g-82c-128a-64i-82b54b18.mp4", "categories": ["RG"], "metrics": {"area": 128, "cycles": 82, "cost": 280}, "color": 0, "shape": "MO2TQpLPKkL8i5hCt5M3QptZoEIAKDlC"},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/310g-159c-37a-649i-330503f4.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 159, "cost": 310}, "color": 1, "shape": "W/NqQT0Lt0LInbtBgOusQjAZdkGBRrJC"},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/415g-63c-75a-80i-af04e7c5.mp4", "categories": ["CG"], "metrics": {"area": 75, "cycles": 63, "cost": 415}, "color": 1, "shape": "gDStQgAASEKbWaBCACg5QvyLmEK3kzdC4qaVQqfWQEL5kZVCUk5BQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/Unstable-Compound-455g-63c-59a-85i-8h-8w-10r-31e058.gif", "categories": ["CX"], "metrics": {"area": 59, "cycles": 63, "cost": 455}, "color": 3, "shape": "TRKEQjgJbUJ/NK1CAABIQvmRlUJSTkFC"},
+    {"gif": "https://files.mors.technology/UNSTABLE_COMPOUND/525g-77c-51a-82i-6f5bbd5d.mp4", "categories": ["RA"], "metrics": {"area": 51, "cycles": 77, "cost": 525}, "color": 1, "shape": "sWd7QoxCeUJ6vWdCNhqFQlvReUKExH9C"},
+    {"gif": "https://files.mors.technology/Unstable-Compound-555g-63c-56a-178i-9h-8w-10r-f5a536.gif", "categories": ["CA"], "metrics": {"area": 56, "cycles": 63, "cost": 555}, "color": 2, "shape": "W9F5QoTEf0KANK1CAQBIQn80rUIAAEhCTRKEQjgJbUKxZ3tCjEJ5Qg=="}
+  ]
+}

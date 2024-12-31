@@ -1,0 +1,28 @@
+{
+  "id": "P013",
+  "name": "Hangover Cure",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Hangover-Cure-40g-124c-21a-21i-5h-4.5w-21r-T-dabdab.gif", "categories": ["GC", "TG"], "metrics": {"area": 21, "cycles": 124, "cost": 40}, "color": 2, "shape": "asbbQT7GfUEAAAAAAAAAAAAAAAAAAEg22c+vQZkDg0E="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-40g-147c-10a-25i-4h-3.5w-25r-T-34a29f.gif", "categories": ["GA", "GX"], "metrics": {"area": 10, "cycles": 147, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAAsT5UQkjnGkHZxE1CshGeQZFHA0LZz69BmQODQQ=="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-60g-54c-11a-17i-3h-3.5w-9r-T-3fe6d6.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 11, "cycles": 54, "cost": 60}, "color": 0, "shape": "x3iEQhr3GEJqxttBPsZ9QdnPr0GZA4NBshGeQZFHA0IDhw5CYL5sQjHPJUIh0ntCfOWEQvF1QUJqJYlCG7YwQg=="},
+    {"gif": "https://files.mors.technology/HANGOVER_CURE/60g-81c-9a-22i-T-30221e95.mp4", "categories": [], "metrics": {"area": 9, "cycles": 81, "cost": 60}, "color": 3, "shape": "A4cOQmC+bEKyEZ5BkUcDQkjnGkHZxE1CQLh3QROIpEI="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-60g-140c-8a-24i-3h-3w-24r-T-43c014.gif", "categories": ["AG", "AC", "AX"], "metrics": {"area": 8, "cycles": 140, "cost": 60}, "color": 0, "shape": "QLh3QROIpEJI5xpB2cRNQgAAAACxPlRCAAAAAAAAyEIqCW9BxL+2QkKbdUEp6rFC"},
+    {"gif": "https://files.mors.technology/Hangover-Cure-70g-49c-13a-15i-4h-4w-8r-T-8180b3.gif", "categories": [], "metrics": {"area": 13, "cycles": 49, "cost": 70}, "color": 1, "shape": "x3iEQhr3GEJqJYlCG7YwQl69j0Lx+SVC"},
+    {"gif": "https://files.mors.technology/HANGOVER_CURE/70g-73c-9a-20i-T-0b7057c6.mp4", "categories": [], "metrics": {"area": 9, "cycles": 73, "cost": 70}, "color": 2, "shape": "Mc8lQiHSe0IDhw5CYL5sQkC4d0ETiKRCQpt1QSnqsUK3MfhBMF2bQg=="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-80g-71c-9a-18i-3h-3w-12r-T-8135db.gif", "categories": [], "metrics": {"area": 9, "cycles": 71, "cost": 80}, "color": 3, "shape": "z9rWQQj9qEK3MfhBMF2bQkKbdUEp6rFCKglvQcS/tkI="},
+    {"gif": "https://files.mors.technology/HANGOVER_CURE/100g-39c-13a-16i-T-15c5d1ba.mp4", "categories": ["RG", "BR"], "metrics": {"area": 13, "cycles": 39, "cost": 100}, "color": 2, "shape": "Xr2PQvH5JUJqJYlCG7YwQnzlhELxdUFC6sanQpEeR0L136dC0TZFQqgro0LBaTxC"},
+    {"gif": "https://files.mors.technology/Hangover-Cure-110g-38c-18a-18i-4h-4.5w-6r-b0350d.gif", "categories": ["CG"], "metrics": {"area": 18, "cycles": 38, "cost": 110}, "color": 1, "shape": "qCujQsFpPEL136dC0TZFQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-120g-38c-15a-22i-4h-4w-6r-T-bf11ff.gif", "categories": ["CX", "BC"], "metrics": {"area": 15, "cycles": 38, "cost": 120}, "color": 0, "shape": "ZaepQs9YSUJ/NK1CAABIQvXfp0LRNkVC6sanQpEeR0I="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-120g-39c-10a-18i-3h-3.5w-6r-T-5a93ae.gif", "categories": ["RA"], "metrics": {"area": 10, "cycles": 39, "cost": 120}, "color": 1, "shape": "ZaepQs9YSULqxqdCkR5HQnzlhELxdUFCMc8lQiHSe0K3MfhBMF2bQs/a1kEI/ahCRkipQpSHTEI="},
+    {"gif": "https://files.mors.technology/Hangover-Cure-155g-38c-13a-18i-3h-4w-6r-e2138a.gif", "categories": ["CA"], "metrics": {"area": 13, "cycles": 38, "cost": 155}, "color": 2, "shape": "RkipQpSHTEKANK1CAQBIQn80rUIAAEhCZaepQs9YSUI="}
+  ]
+}

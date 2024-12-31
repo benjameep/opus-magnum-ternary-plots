@@ -1,0 +1,36 @@
+{
+  "id": "P087",
+  "name": "Blood-Stanching Powder",
+  "collection": "Journal",
+  "group": "Journal V",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-40g-904c-128a-151i-13h-11.5w-151r-T-22596d.gif", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 128, "cycles": 904, "cost": 40}, "color": 2, "shape": "GxWPQaY3JUEAAAAAAAAAAAAAAAAAAEg2pBWJQddXM0E="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-40g-947c-71a-158i-10h-9w-158r-T-0727e8.mp4", "categories": ["GA", "GX"], "metrics": {"area": 71, "cycles": 947, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAAZ/VJQQ6fYEHCaNRBXEyGQeajzkEb4I9BTk2hQaQViUHXVzNB"},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-70g-1155c-38a-193i-6h-6.5w-193r-f138c5.mp4", "categories": [], "metrics": {"area": 38, "cycles": 1155, "cost": 70}, "color": 3, "shape": "AAAAAGf1SUEAAAAAoTa6Qn1JJEDTI61CDp9gQcJo1EE="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-130g-719c-38a-1342i-6h-6.5w-120.34r-a7f7fe.mp4", "categories": [], "metrics": {"area": 38, "cycles": 719, "cost": 130}, "color": 0, "shape": "iaDgQdtklEIhsOBBqgtsQs6WqUHoBhdCXEyGQeajzkEOn2BBwmjUQX1JJEDTI61CSCRzQHuNs0JFWtBA+3i2QuzcDkHalrdC"},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/135g-246c-95a-86i-a3d08b99.mp4", "categories": [], "metrics": {"area": 95, "cycles": 246, "cost": 135}, "color": 0, "shape": "jJsVQoLArEEbFY9BpjclQaQViUHXVzNBG+CPQU5NoUE8EwpCl1O3QYbYEkLMVLhB"},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/155g-863c-37a-1464i-68620f2a.mp4", "categories": ["AG", "AX"], "metrics": {"area": 37, "cycles": 863, "cost": 155}, "color": 2, "shape": "SCRzQHuNs0J9SSRA0yOtQgAAAAChNrpCAAAAAAAAyEKANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-165g-188c-72a-90i-9h-8w-31r-a2724b.gif", "categories": [], "metrics": {"area": 72, "cycles": 188, "cost": 165}, "color": 2, "shape": "zpapQegGF0I8EwpCl1O3QRvgj0FOTaFBXEyGQeajzkE="},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/170g-163c-95a-83i-7b2f6af3.mp4", "categories": [], "metrics": {"area": 95, "cycles": 163, "cost": 170}, "color": 3, "shape": "jJsVQoLArEGG2BJCzFS4QfbtgUJzOxlCaJGBQrycFUI="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-175g-163c-71a-497i-8h-8w-26.84r-5de865.mp4", "categories": ["SUM"], "metrics": {"area": 71, "cycles": 163, "cost": 175}, "color": 1, "shape": "zpapQegGF0IhsOBBqgtsQkr7IkJtyGdCr2eGQmeXJ0L27YFCczsZQobYEkLMVLhBPBMKQpdTt0E="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-175g-695c-38a-1309i-6h-6w-117.17r-5a1565.mp4", "categories": [], "metrics": {"area": 38, "cycles": 695, "cost": 175}, "color": 3, "shape": "on3nQVKWpkKJoOBB22SUQuzcDkHalrdC0hwbQUPOvEI="},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/175g-797c-37a-1398i-b49eac56.mp4", "categories": [], "metrics": {"area": 37, "cycles": 797, "cost": 175}, "color": 3, "shape": "q/BmNv//x0JFWtBA+3i2Qkgkc0B7jbNC"},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/185g-785c-37a-1368i-4f9002f5.mp4", "categories": ["AC"], "metrics": {"area": 37, "cycles": 785, "cost": 185}, "color": 1, "shape": "0hwbQUPOvELs3A5B2pa3QkVa0ED7eLZCq/BmNv//x0KANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/235g-137c-69a-95i-c0f6ad29.mp4", "categories": [], "metrics": {"area": 69, "cycles": 137, "cost": 235}, "color": 0, "shape": "r2eGQmeXJ0JK+yJCbchnQq01ZUL6AH5CU2l1QvdYc0KtjY1C7qdYQiL+kEJiaU9CQ3mUQhN0REI="},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/275g-175c-61a-90i-b2be803b.mp4", "categories": [], "metrics": {"area": 61, "cycles": 175, "cost": 275}, "color": 2, "shape": "iaDgQdtklEKifedBUpamQmpJNULCqpNCrTVlQvoAfkJK+yJCbchnQiGw4EGqC2xC"},
+    {"gif": "https://i.imgur.com/CzYg19m.gif", "categories": ["RG"], "metrics": {"area": 125, "cycles": 78, "cost": 310}, "color": 2, "shape": "uMKqQmktRUJokYFCvJwVQvbtgUJzOxlCr2eGQmeXJ0JDeZRCE3REQtoKqUJzwkVC"},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/465g-74c-111a-128i-351285f6.mp4", "categories": ["CG"], "metrics": {"area": 111, "cycles": 74, "cost": 465}, "color": 3, "shape": "uMKqQmktRULaCqlCc8JFQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-520g-74c-87a-137i-12h-10w-12r-668f38.gif", "categories": ["CX"], "metrics": {"area": 87, "cycles": 74, "cost": 520}, "color": 1, "shape": "Iv6QQmJpT0J/NK1CAABIQtoKqUJzwkVCQ3mUQhN0REI="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-540g-74c-85a-131i-11h-10w-12r-b1d69a.gif", "categories": [], "metrics": {"area": 85, "cycles": 74, "cost": 540}, "color": 2, "shape": "ZAaWQhb0VUJ+NK1CAABIQiL+kEJiaU9CrY2NQu6nWEI="},
+    {"gif": "https://files.mors.technology/Blood-Stanching-Powder-580g-74c-83a-133i-10h-10w-12r-3cd812.gif", "categories": ["CA"], "metrics": {"area": 83, "cycles": 74, "cost": 580}, "color": 0, "shape": "EUukQmFKUkKANK1CAQBIQn80rUIAAEhCfjStQgAASEJkBpZCFvRVQpXbokJs5VJC"},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/695g-81c-72a-134i-349195b2.mp4", "categories": [], "metrics": {"area": 72, "cycles": 81, "cost": 695}, "color": 1, "shape": "U2l1QvdYc0KV26JCbOVSQmQGlkIW9FVCrY2NQu6nWEI="},
+    {"gif": "https://files.mors.technology/BLOOD_STANCHING_POWDER/770g-82c-70a-544i-3739aab7.mp4", "categories": ["RA"], "metrics": {"area": 70, "cycles": 82, "cost": 770}, "color": 3, "shape": "akk1QsKqk0IRS6RCYUpSQpXbokJs5VJCU2l1QvdYc0KtNWVC+gB+Qg=="}
+  ]
+}

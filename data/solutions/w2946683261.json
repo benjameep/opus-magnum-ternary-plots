@@ -1,0 +1,36 @@
+{
+  "id": "w2946683261",
+  "name": "Hydroponic Solution",
+  "collection": "Community",
+  "group": "Tournament 2023",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/40g-628c-68a-105i-T-39451dc7.mp4", "categories": ["GC", "GX", "OGC", "TG"], "metrics": {"area": 68, "cycles": 628, "cost": 40}, "color": 0, "shape": "6vRAQM9NTEIeJi1BUfqDQuaMYkFLFINCGWEMQjer5UGvURVCQiSxQS8XDkJyEqRBAAAAAAAAAAAAAAAAAABINqvwZjYAgLs4"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/40g-897c-62a-150i-T-5246e9f0.mp4", "categories": [], "metrics": {"area": 62, "cycles": 897, "cost": 40}, "color": 3, "shape": "1fkcQDSkTkLq9EBAz01MQqvw5jYBAOE4q/BmNgCAuzir8GY2///gOA=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/40g-1346c-54a-225i-T-894e6cb2.mp4", "categories": [], "metrics": {"area": 54, "cycles": 1346, "cost": 40}, "color": 4, "shape": "1fkcQDSkTkKr8OY2AQDhOKvwZjb//+A445gOP1b1iEI="},
+    {"gif": "https://i.imgur.com/rYw2ijs.gifv", "categories": ["GA"], "metrics": {"area": 50, "cycles": 2687, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAADyuWQtCm6j5mUJBC45gOP1b1iEKr8GY2AIC7OA=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/50g-814c-48a-136i-25c8caa2.mp4", "categories": [], "metrics": {"area": 48, "cycles": 814, "cost": 50}, "color": 1, "shape": "HiYtQVH6g0Lq9EBAz01MQtX5HEA0pE5C45gOP1b1iELQpuo+ZlCQQlOGJUBDIphCLMpAQGcBmUI="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/55g-854c-45a-143i-8675a1b6.mp4", "categories": ["HG"], "metrics": {"area": 45, "cycles": 854, "cost": 55}, "color": 3, "shape": "U4YlQEMimEJV8jlAImiZQizKQEBnAZlC"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/80g-646c-36a-108i-a8b1a0ef.mp4", "categories": ["BG"], "metrics": {"area": 36, "cycles": 646, "cost": 80}, "color": 2, "shape": "yptIQMOApUJSNRtBELGuQi1vKEFj4adC5oxiQUsUg0IeJi1BUfqDQizKQEBnAZlCVfI5QCJomUI="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/80g-1212c-28a-1225i-56d6adeb.mp4", "categories": ["AG", "AX"], "metrics": {"area": 28, "cycles": 1212, "cost": 80}, "color": 0, "shape": "yptIQMOApUJV8jlAImiZQlOGJUBDIphC0KbqPmZQkEIAAAAADyuWQgAAAAAAAMhCgDQtNgAAyEIc+Lc/+afBQg=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/85g-1175c-28a-1175i-4455ac4c.mp4", "categories": ["AC"], "metrics": {"area": 28, "cycles": 1175, "cost": 85}, "color": 2, "shape": "HPi3P/mnwUKANC02AADIQgImnT8VlcZC"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/90g-251c-865a-17i-T-0bb958bc.mp4", "categories": [], "metrics": {"area": 865, "cycles": 251, "cost": 90}, "color": 2, "shape": "LxcOQnISpEGvURVCQiSxQUoQKkIia8dBIRA2Qm860kE="},
+    {"gif": "https://i.imgur.com/Li495ax.gif", "categories": [], "metrics": {"area": 30, "cycles": 735, "cost": 95}, "color": 1, "shape": "UjUbQRCxrkLKm0hAw4ClQhz4tz/5p8FCAiadPxWVxkIZtV5AXPvDQkU6GEHHObJC"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/100g-216c-92a-83i-0ca9ede8.mp4", "categories": [], "metrics": {"area": 92, "cycles": 216, "cost": 100}, "color": 3, "shape": "GWEMQjer5UFKECpCImvHQa9RFUJCJLFB"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/120g-109c-54a-20i-T-074cac6d.mp4", "categories": ["SUM4"], "metrics": {"area": 54, "cycles": 109, "cost": 120}, "color": 1, "shape": "isN6QlDHEEIhEDZCbzrSQUoQKkIia8dBGWEMQjer5UHmjGJBSxSDQi1vKEFj4adCOxWEQYq5q0KY/xNCIcKWQg=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/125g-99c-56a-41i-fe0a3520.mp4", "categories": ["SUM"], "metrics": {"area": 56, "cycles": 99, "cost": 125}, "color": 0, "shape": "isN6QlDHEEKY/xNCIcKWQv0dIUL/GpdCl61/Qt56dEJYQ4RCJWduQkNTmkLSGktCygyfQrOnN0I="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/125g-128c-52a-56i-7437ee92.mp4", "categories": [], "metrics": {"area": 52, "cycles": 128, "cost": 125}, "color": 0, "shape": "9jZ+QeXSrUI7FYRBirmrQi1vKEFj4adCUjUbQRCxrkJFOhhBxzmyQg=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/130g-109c-53a-56i-86f10e4c.mp4", "categories": [], "metrics": {"area": 53, "cycles": 109, "cost": 130}, "color": 2, "shape": "OxWEQYq5q0L2Nn5B5dKtQkXd20GjAqdC/R0hQv8al0KY/xNCIcKWQg=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/140g-92c-69a-18i-T-5ff48c1e.mp4", "categories": [], "metrics": {"area": 69, "cycles": 92, "cost": 140}, "color": 1, "shape": "ygyfQrOnN0JDU5pC0hpLQlS/o0JGFD1C"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/235g-206c-37a-101i-196d7a37.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 206, "cost": 235}, "color": 3, "shape": "xV6+Qb2FrEJF3dtBowKnQvY2fkHl0q1CRToYQcc5skIZtV5AXPvDQg=="},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/315g-39c-91a-50i-ba0834d8.mp4", "categories": ["CG", "CX", "RG"], "metrics": {"area": 91, "cycles": 39, "cost": 315}, "color": 3, "shape": "gDStQgAASEJUv6NCRhQ9QkNTmkLSGktCWEOEQiVnbkLr5ZpCU61ZQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/390g-40c-77a-55i-T-a1d8de7b.mp4", "categories": ["TC"], "metrics": {"area": 77, "cycles": 40, "cost": 390}, "color": 2, "shape": "l61/Qt56dELr5ZpCU61ZQlhDhEIlZ25C"},
+    {"gif": "https://files.mors.technology/HYDROPONIC_SOLUTION/545g-39c-57a-132i-fa36ebf1.mp4", "categories": ["CA", "RA"], "metrics": {"area": 57, "cycles": 39, "cost": 545}, "color": 1, "shape": "xV6+Qb2FrEKANK1CAQBIQuvlmkJTrVlCl61/Qt56dEL9HSFC/xqXQkXd20GjAqdC"}
+  ]
+}

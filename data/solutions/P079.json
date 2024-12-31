@@ -1,0 +1,24 @@
+{
+  "id": "P079",
+  "name": "Abrasive Particles",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Abrasive-Particles-70g-407c-63a-68i-7h-12w-68r-6609b8.gif", "categories": ["GC_P"], "metrics": {"area": 63, "cycles": 407, "cost": 70}, "color": 0, "shape": "GKWhQcWmOkEAAAAAAAAAAAAAAAAAAEg2NL2TQXBltEHpmZlBv6qxQQ=="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/70g-419c-62a-70i-2ad2f454.mp4", "categories": [], "metrics": {"area": 62, "cycles": 419, "cost": 70}, "color": 2, "shape": "NL2TQXBltEEAAAAAAABINgAAAAArLvlBQ/iuQGRzIEI="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-370c-61a-62i-T-59870113.mp4", "categories": [], "metrics": {"area": 61, "cycles": 370, "cost": 80}, "color": 1, "shape": "Q/iuQGRzIEKTL0pBk2i5QkNDTEE0QrlC7zCbQeH8xEHpmZlBv6qxQTS9k0FwZbRB"},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-496c-60a-83i-T-195f39cd.mp4", "categories": [], "metrics": {"area": 60, "cycles": 496, "cost": 80}, "color": 0, "shape": "AAAAACsu+UEAAAAAAADIQpMvSkGTaLlCQ/iuQGRzIEI="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/110g-151c-65a-39i-5aa424e4.mp4", "categories": [], "metrics": {"area": 65, "cycles": 151, "cost": 110}, "color": 2, "shape": "FF0IQoh1nUEYpaFBxaY6QemZmUG/qrFB7zCbQeH8xEE="},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-120g-121c-63a-33i-7h-12w-20r-T-315bb4.gif", "categories": ["SUM_P"], "metrics": {"area": 63, "cycles": 121, "cost": 120}, "color": 0, "shape": "FF0IQoh1nUHvMJtB4fzEQUNDTEE0QrlCN6WbQrVGXEI27JtCkQBHQg6tm0LDrEBCWMaXQiFBL0I="},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-200g-99c-76a-62i-7h-12w-15r-a74ae3.gif", "categories": [], "metrics": {"area": 76, "cycles": 99, "cost": 200}, "color": 2, "shape": "WMaXQiFBL0IOrZtCw6xAQmcxn0L60TdC"},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-270g-87c-78a-63i-7h-12w-13r-192302.gif", "categories": ["CG_P", "RG_P"], "metrics": {"area": 78, "cycles": 87, "cost": 270}, "color": 1, "shape": "gDStQgAASEJnMZ9C+tE3Qg6tm0LDrEBCNuybQpEAR0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-280g-87c-77a-65i-7h-12w-13r-7a993b.gif", "categories": [], "metrics": {"area": 77, "cycles": 87, "cost": 280}, "color": 2, "shape": "N6WbQrVGXEKANK1CAQBIQjbsm0KRAEdC"}
+  ]
+}

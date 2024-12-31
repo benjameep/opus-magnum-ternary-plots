@@ -1,0 +1,32 @@
+{
+  "id": "P089",
+  "name": "Tonic of Hydration",
+  "collection": "Journal",
+  "group": "Journal V",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-40g-963c-48a-161i-8h-7w-161r-cbf0a0.mp4", "categories": ["GC"], "metrics": {"area": 48, "cycles": 963, "cost": 40}, "color": 1, "shape": "ZkJYQf22+UAAAAAAAAAAAAAAAAAAAEg2xeRjQWEF6kE="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-40g-981c-46a-164i-8h-7w-164r-7db28b.mp4", "categories": ["GA", "GX"], "metrics": {"area": 46, "cycles": 981, "cost": 40}, "color": 0, "shape": "xeRjQWEF6kEAAAAAAABINgAAAADeQepBFWBJQC9XK0JGbfFArPRTQviXRkFZHkxC6PxuQaj1MUI="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-70g-1507c-31a-252i-6h-6w-252r-T-1003af.mp4", "categories": ["AG"], "metrics": {"area": 31, "cycles": 1507, "cost": 70}, "color": 2, "shape": "FWBJQC9XK0IAAAAA3kHqQQAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-80g-1285c-31a-215i-6h-6w-215r-T-d588a4.mp4", "categories": ["AC", "AX", "AI"], "metrics": {"area": 31, "cycles": 1285, "cost": 80}, "color": 1, "shape": "FWBJQC9XK0KANC02AADIQmpgTkDJRsRCRm3xQKz0U0I="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/120g-921c-33a-230i-5c466623.mp4", "categories": [], "metrics": {"area": 33, "cycles": 921, "cost": 120}, "color": 3, "shape": "+JdGQVkeTEJGbfFArPRTQmpgTkDJRsRCxnBiQB7qw0IITmRAnqfDQg=="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-140g-175c-74a-118i-9h-9.5w-28r-T-56f309.gif", "categories": ["SUM"], "metrics": {"area": 74, "cycles": 175, "cost": 140}, "color": 2, "shape": "pbRkQhQLBEJmQlhB/bb5QMXkY0FhBepB6PxuQaj1MULHoWJCKZRtQg=="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-220g-115c-90a-112i-10h-10.5w-18r-baf98e.gif", "categories": [], "metrics": {"area": 90, "cycles": 115, "cost": 220}, "color": 0, "shape": "K9CQQkA3J0KltGRCFAsEQsehYkIplG1C/YJzQsSwe0IuIXRC7SJ8QvxIgkIzBHBC"},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/255g-261c-37a-144i-0f6dfe42.mp4", "categories": ["BR"], "metrics": {"area": 37, "cycles": 261, "cost": 255}, "color": 1, "shape": "/YJzQsSwe0LHoWJCKZRtQuj8bkGo9TFC+JdGQVkeTEIITmRAnqfDQg=="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/280g-260c-37a-877i-682a1a9a.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 260, "cost": 280}, "color": 2, "shape": "LiF0Qu0ifEL9gnNCxLB7QghOZECep8NCxnBiQB7qw0LwOnBCyaaCQg=="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/360g-75c-106a-216i-50f312a3.mp4", "categories": [], "metrics": {"area": 106, "cycles": 75, "cost": 360}, "color": 1, "shape": "K9CQQkA3J0L8SIJCMwRwQrBjnUJGNVNCY82mQnTMSELlCKhCAyVGQurKqEKr50JC"},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/715g-63c-127a-297i-1f981255.mp4", "categories": [], "metrics": {"area": 127, "cycles": 63, "cost": 715}, "color": 3, "shape": "5QioQgMlRkJjzaZCdMxIQm2/qEJUjkhC"},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/780g-59c-155a-580i-affd889a.mp4", "categories": [], "metrics": {"area": 155, "cycles": 59, "cost": 780}, "color": 0, "shape": "6sqoQqvnQkLlCKhCAyVGQm2/qEJUjkhCHl6rQigfSkKIQ6xCPhZJQvVErELkO0hC/iasQsFIR0L85KtClHxGQg=="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/865g-63c-102a-298i-66f0f994.mp4", "categories": [], "metrics": {"area": 102, "cycles": 63, "cost": 865}, "color": 2, "shape": "sbehQsBDVUIeXqtCKB9KQm2/qEJUjkhCY82mQnTMSEKwY51CRjVTQg=="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/870g-64c-100a-297i-c13707c4.mp4", "categories": ["RA"], "metrics": {"area": 100, "cycles": 64, "cost": 870}, "color": 3, "shape": "8DpwQsmmgkKxt6FCwENVQrBjnUJGNVNC/EiCQjMEcEIuIXRC7SJ8Qg=="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-960g-57c-237a-249i-18h-15w-9r-8a7d38.gif", "categories": ["CG"], "metrics": {"area": 237, "cycles": 57, "cost": 960}, "color": 1, "shape": "/OSrQpR8RkL+JqxCwUhHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-990g-57c-213a-542i-18h-15w-9r-d34b46.gif", "categories": ["CX"], "metrics": {"area": 213, "cycles": 57, "cost": 990}, "color": 3, "shape": "9USsQuQ7SEJ/NK1CAABIQv4mrELBSEdC"},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-1035g-57c-207a-568i-18h-15w-9r-b0ba95.gif", "categories": ["CA"], "metrics": {"area": 207, "cycles": 57, "cost": 1035}, "color": 2, "shape": "iEOsQj4WSUKANK1CAQBIQn80rUIAAEhC9USsQuQ7SEI="}
+  ]
+}

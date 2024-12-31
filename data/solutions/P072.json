@@ -1,0 +1,31 @@
+{
+  "id": "P072",
+  "name": "Universal Compound",
+  "collection": "Journal",
+  "group": "Journal IV",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/140g-989c-54a-177i-18f72592.mp4", "categories": ["GC", "GI"], "metrics": {"area": 54, "cycles": 989, "cost": 140}, "color": 2, "shape": "PX+SQQMpKUEAAAAAAAAAAAAAAAAAAEg2zmGiQQTr4kE="},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/140g-1156c-45a-205i-320e0cc4.mp4", "categories": ["BG"], "metrics": {"area": 45, "cycles": 1156, "cost": 140}, "color": 3, "shape": "zmGiQQTr4kF2xZ43AADhN5USyjcAABY4T9a7QQrYGUI="},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/140g-1180c-44a-205i-25ecdc42.mp4", "categories": ["GX"], "metrics": {"area": 44, "cycles": 1180, "cost": 140}, "color": 0, "shape": "J2UQQZjqZ0I7T8lBYWguQk/Wu0EK2BlCdsWeNwAA4Ter8GY2AADINuQfrD9jsFFC"},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/140g-2049c-43a-364i-a4b88c14.mp4", "categories": ["GA"], "metrics": {"area": 43, "cycles": 2049, "cost": 140}, "color": 3, "shape": "AAAAAAAASDYAAAAAEDpqQuQfrD9jsFFCq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/Universal-Compound-160g-576c-61a-184i-9h-8w-96r-ee7c3c.mp4", "categories": [], "metrics": {"area": 61, "cycles": 576, "cost": 160}, "color": 1, "shape": "+8c3QlU21EE9f5JBAykpQc5hokEE6+JBT9a7QQrYGUI7T8lBYWguQvAa40G2QThC38pDQvrkQEJQNEZCsfw9Qg=="},
+    {"gif": "https://files.mors.technology/Universal-Compound-160g-1318c-40a-232i-8h-7w-220r-0c3929.mp4", "categories": [], "metrics": {"area": 40, "cycles": 1318, "cost": 160}, "color": 1, "shape": "J2UQQZjqZ0LkH6w/Y7BRQgAAAAAQOmpCAAAAABqHnUI="},
+    {"gif": "https://files.mors.technology/Universal-Compound-180g-478c-67a-368i-10h-7.5w-79r-5e6486.mp4", "categories": [], "metrics": {"area": 67, "cycles": 478, "cost": 180}, "color": 2, "shape": "+8c3QlU21EFQNEZCsfw9QrlKYEITgClCFZBhQpA6AkI="},
+    {"gif": "https://files.mors.technology/Universal-Compound-195g-898c-38a-241i-7h-6.5w-150r-5a7dc0.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 38, "cycles": 898, "cost": 195}, "color": 3, "shape": "8BrjQbZBOEI7T8lBYWguQidlEEGY6mdCAAAAABqHnUIAAAAAAADIQgv3TEE7NblC"},
+    {"gif": "https://files.mors.technology/Universal-Compound-210g-389c-73a-173i-9h-8w-65r-50c89e.mp4", "categories": [], "metrics": {"area": 73, "cycles": 389, "cost": 210}, "color": 1, "shape": "FZBhQpA6AkK5SmBCE4ApQpUTb0IGYCNCaBJmQgPVBEI="},
+    {"gif": "https://files.mors.technology/Universal-Compound-235g-597c-40a-230i-7h-6.5w-99r-cd2e7b.mp4", "categories": [], "metrics": {"area": 40, "cycles": 597, "cost": 235}, "color": 2, "shape": "l/5QQgcvdkLfykNC+uRAQvAa40G2QThCC/dMQTs1uUKyBTFC6OWUQg=="},
+    {"gif": "https://files.mors.technology/Universal-Compound-245g-291c-85a-155i-11h-9w-47r-f84d45.gif", "categories": ["SUM4"], "metrics": {"area": 85, "cycles": 291, "cost": 245}, "color": 2, "shape": "aBJmQgPVBEKVE29CBmAjQqdNkkLB7yhC"},
+    {"gif": "https://files.mors.technology/Universal-Compound-300g-235c-63a-1062i-8h-8w-39.34r-f1779a.mp4", "categories": ["SUM"], "metrics": {"area": 63, "cycles": 235, "cost": 300}, "color": 0, "shape": "38pDQvrkQEKX/lBCBy92Qge7kUJ8jFJCo9eZQgQhQUIXfptCHIwzQqdNkkLB7yhClRNvQgZgI0K5SmBCE4ApQlA0RkKx/D1C"},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/365g-194c-73a-163i-5e0bd0be.mp4", "categories": ["CG"], "metrics": {"area": 73, "cycles": 194, "cost": 365}, "color": 1, "shape": "F36bQhyMM0Kj15lCBCFBQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/380g-194c-67a-161i-7298fe21.mp4", "categories": ["CX"], "metrics": {"area": 67, "cycles": 194, "cost": 380}, "color": 2, "shape": "R1ijQku7TEJ/NK1CAABIQqPXmUIEIUFCB7uRQnyMUkI="},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/460g-194c-60a-176i-6e71ed9f.mp4", "categories": ["CA"], "metrics": {"area": 60, "cycles": 194, "cost": 460}, "color": 0, "shape": "LV+oQr+UTUKANK1CAQBIQn80rUIAAEhCR1ijQku7TEI="},
+    {"gif": "https://files.mors.technology/UNIVERSAL_COMPOUND/475g-197c-56a-183i-b355dba6.mp4", "categories": ["RA"], "metrics": {"area": 56, "cycles": 197, "cost": 475}, "color": 1, "shape": "sgUxQujllEItX6hCv5RNQkdYo0JLu0xCB7uRQnyMUkKX/lBCBy92Qg=="}
+  ]
+}

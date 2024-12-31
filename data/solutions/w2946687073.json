@@ -1,0 +1,32 @@
+{
+  "id": "w2946687073",
+  "name": "Bicrystal Transceiver",
+  "collection": "Community",
+  "group": "Tournament 2023",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/60g-4014c-5264a-673i-T-77716870.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 5264, "cycles": 4014, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAsbiBP+hsQkDOgOA/"},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/70g-1726c-67a-291i-190767b4.mp4", "categories": [], "metrics": {"area": 67, "cycles": 1726, "cost": 70}, "color": 0, "shape": "N5gIQtG5nUHobEJAzoDgPwAAAACxuIE/AAAAAIa8pUIqqbM88YumQiVQlz8gI69CXuZuQN+GsELQXCVBLDifQg=="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/110g-3141c-24a-524i-9d114d47.mp4", "categories": ["HG"], "metrics": {"area": 24, "cycles": 3141, "cost": 110}, "color": 1, "shape": "KqmzPPGLpkKgKtY8jYzGQl/u3z7GT8NCqEeHP4LiukIlUJc/ICOvQg=="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/110g-8281c-23a-16639i-d84434e6.mp4", "categories": ["AG"], "metrics": {"area": 23, "cycles": 8281, "cost": 110}, "color": 2, "shape": "gDQtNgAAyEKgKtY8jYzGQiqpszzxi6ZCAAAAAIa8pUIAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/115g-1987c-32a-332i-64cd82c4.mp4", "categories": ["WC", "WR"], "metrics": {"area": 32, "cycles": 1987, "cost": 115}, "color": 3, "shape": "FLYkQH9ptkJe5m5A34awQiVQlz8gI69CqEeHP4LiukI="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/140g-1806c-25a-1118i-T-e89ef9bf.mp4", "categories": [], "metrics": {"area": 25, "cycles": 1806, "cost": 140}, "color": 2, "shape": "2PngPrU4xEIUtiRAf2m2QqhHhz+C4rpCX+7fPsZPw0I="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/140g-2409c-23a-3889i-T-62c89450.mp4", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 23, "cycles": 2409, "cost": 140}, "color": 0, "shape": "2PngPrU4xEJf7t8+xk/DQqAq1jyNjMZCgDQtNgAAyEI7kMk96eLHQg=="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/155g-640c-91a-260i-5ed199ac.mp4", "categories": [], "metrics": {"area": 91, "cycles": 640, "cost": 155}, "color": 2, "shape": "CBBXQjtV+EE3mAhC0bmdQdBcJUEsOJ9C4IApQTTgn0I="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/180g-1035c-24a-9111i-T-888726ef.mp4", "categories": [], "metrics": {"area": 24, "cycles": 1035, "cost": 180}, "color": 1, "shape": "4IApQTTgn0LQXCVBLDifQl7mbkDfhrBCFLYkQH9ptkLY+eA+tTjEQjuQyT3p4sdCqrhlQPbaw0Jmc69AVW3AQg=="},
+    {"gif": "https://i.imgur.com/T3VMAaR.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 56, "cycles": 259, "cost": 230}, "color": 0, "shape": "m52jQlXtPEIIEFdCO1X4QeCAKUE04J9CZnOvQFVtwEJw6O5AaES/Qp05+kCF+L5CNCsDQoUiokIDXh5CEKKZQuqVh0LD/2dC"},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/260g-248c-61a-207i-bd44302f.mp4", "categories": [], "metrics": {"area": 61, "cycles": 248, "cost": 260}, "color": 2, "shape": "6pWHQsP/Z0IDXh5CEKKZQg+sbUJNCoFClOJtQj75gEI="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/350g-385c-48a-263i-e3e0e798.mp4", "categories": [], "metrics": {"area": 48, "cycles": 385, "cost": 350}, "color": 1, "shape": "nTn6QIX4vkJw6O5AaES/Qu+o8UClR79C"},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/390g-565c-37a-313i-931126eb.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 565, "cost": 390}, "color": 2, "shape": "qrhlQPbaw0LvqPFApUe/QnDo7kBoRL9CZnOvQFVtwEI="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/510g-200c-79a-310i-2f601be7.mp4", "categories": [], "metrics": {"area": 79, "cycles": 200, "cost": 510}, "color": 1, "shape": "aq8RQr3xnUIPrG1CTQqBQgNeHkIQoplCNCsDQoUiokI="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/550g-103c-212a-1181i-f022462d.mp4", "categories": ["RG", "ORG", "ORX"], "metrics": {"area": 212, "cycles": 103, "cost": 550}, "color": 1, "shape": "xmWsQksRR0KbnaNCVe08QuqVh0LD/2dClOJtQj75gEL4ZKRChzlQQg=="},
+    {"gif": "https://i.imgur.com/hDKTjG0.gif", "categories": ["CG", "CI"], "metrics": {"area": 193, "cycles": 88, "cost": 935}, "color": 2, "shape": "xmWsQksRR0L4ZKRChzlQQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://i.imgur.com/c9KR3qa.gif", "categories": ["CA", "CX", "OCX", "RA"], "metrics": {"area": 131, "cycles": 88, "cost": 1045}, "color": 0, "shape": "aq8RQr3xnUKANK1CAQBIQvhkpEKHOVBClOJtQj75gEIPrG1CTQqBQg=="}
+  ]
+}

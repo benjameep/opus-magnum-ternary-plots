@@ -1,0 +1,22 @@
+{
+  "id": "w2450512232",
+  "name": "Emergency Antidote",
+  "collection": "Community",
+  "group": "Tournament 2021",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/EMERGENCY_ANTIDOTE/130g-1315c-85a-1315i-79060581.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 85, "cycles": 1315, "cost": 130}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQjqbCkLg/J9C3NwCQnREK0Jk/NRBWO91QQ=="},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-310g-187c-102a-157i-9h-12w-30r-f85fbc.gif", "categories": ["SUM_P"], "metrics": {"area": 102, "cycles": 187, "cost": 310}, "color": 0, "shape": "ZPzUQVjvdUHc3AJCdEQrQt05hELVbUBCzjaQQtOkQkIsbZRC8VEzQjYIlkL7PS1C"},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-325g-187c-101a-157i-9h-12w-30r-5bb671.gif", "categories": [], "metrics": {"area": 101, "cycles": 187, "cost": 325}, "color": 3, "shape": "zjaQQtOkQkLdOYRC1W1AQkXqj0Irs0RC"},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-360g-192c-98a-151i-9h-12w-31r-1104e1.gif", "categories": [], "metrics": {"area": 98, "cycles": 192, "cost": 360}, "color": 2, "shape": "3NwCQnREK0I6mwpC4PyfQm60kUIswWdCTwSTQtQLV0JF6o9CK7NEQt05hELVbUBC"},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-445g-129c-105a-970i-9h-12w-21.17r-97a62e.mp4", "categories": [], "metrics": {"area": 105, "cycles": 129, "cost": 445}, "color": 2, "shape": "NgiWQvs9LUIsbZRC8VEzQudtl0IC2y5C"},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-450g-127c-105a-924i-9h-12w-20.34r-0d0a3b.mp4", "categories": [], "metrics": {"area": 105, "cycles": 127, "cost": 450}, "color": 1, "shape": "Ow+iQlQhO0LnbZdCAtsuQixtlELxUTNCzjaQQtOkQkJF6o9CK7NEQk8Ek0LUC1dC"},
+    {"gif": "https://files.mors.technology/Emergency-Antidote-565g-105c-106a-892i-9h-12w-7208a2.mp4", "categories": [], "metrics": {"area": 106, "cycles": 105, "cost": 565}, "color": 0, "shape": "gDStQgAASEI7D6JCVCE7Qk8Ek0LUC1dCbrSRQizBZ0I="}
+  ]
+}

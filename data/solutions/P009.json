@@ -1,0 +1,27 @@
+{
+  "id": "P009",
+  "name": "Face Powder",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Face-Powder-40g-82c-7a-14i-3h-3w-14r-T-b7d246.gif", "categories": ["GC", "GA", "GX", "AG", "BG", "TG"], "metrics": {"area": 7, "cycles": 82, "cost": 40}, "color": 0, "shape": "RO97QVx0EUEAAAAAAAAAAAAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/Face-Powder-50g-54c-7a-9i-3h-3w-9r-T-310466.gif", "categories": ["AC", "AX", "BC", "BR"], "metrics": {"area": 7, "cycles": 54, "cost": 50}, "color": 1, "shape": "RO97QVx0EUGANC02AADIQgoCH0FMhrxCcFpWQeyVrkIvYZZBh7yRQuH4sUEsgU1B"},
+    {"gif": "https://files.mors.technology/Face-Powder-60g-36c-9a-12i-3h-3w-6r-T-ed6405.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 9, "cycles": 36, "cost": 60}, "color": 0, "shape": "4fixQSyBTUEvYZZBh7yRQiI55EHi4ZFCCQIfQioueULxjRdCAQCvQQ=="},
+    {"gif": "https://files.mors.technology/Face-Powder-70g-28c-12a-8i-4h-4w-4r-T-79454c.gif", "categories": ["RG"], "metrics": {"area": 12, "cycles": 28, "cost": 70}, "color": 3, "shape": "8Y0XQgEAr0EJAh9CKi55QiGlVUIsE2VCfOWLQsROQEILOZVCxE4sQg=="},
+    {"gif": "https://files.mors.technology/Face-Powder-70g-38c-8a-10i-3h-3w-6r-T-431a65.gif", "categories": [], "metrics": {"area": 8, "cycles": 38, "cost": 70}, "color": 3, "shape": "IjnkQeLhkUIvYZZBh7yRQnBaVkHsla5CIjnkQeLhkUI="},
+    {"gif": "https://files.mors.technology/Face-Powder-80g-32c-9a-13i-4h-3w-5r-T-145c31.gif", "categories": [], "metrics": {"area": 9, "cycles": 32, "cost": 80}, "color": 1, "shape": "BwIfQiwueUIiOeRB4uGRQiI55EHi4ZFC36jtQQzql0JTXwhCw9CQQg=="},
+    {"gif": "https://files.mors.technology/Face-Powder-80g-36c-8a-12i-3h-3w-6r-T-0656ec.gif", "categories": [], "metrics": {"area": 8, "cycles": 36, "cost": 80}, "color": 2, "shape": "36jtQQzql0IiOeRB4uGRQnBaVkHsla5CCgIfQUyGvEK0o45BammzQg=="},
+    {"gif": "https://files.mors.technology/Face-Powder-90g-26c-13a-12i-4h-4w-4r-T-a3118d.gif", "categories": ["CG", "TC"], "metrics": {"area": 13, "cycles": 26, "cost": 90}, "color": 0, "shape": "CzmVQsROLEJ85YtCxE5AQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Face-Powder-95g-26c-11a-22i-4h-3.5w-4r-282b67.gif", "categories": ["CX"], "metrics": {"area": 11, "cycles": 26, "cost": 95}, "color": 1, "shape": "IaVVQiwTZUKLC2hCyM14Qq8HfUJxenNCfzStQgAASEJ85YtCxE5AQg=="},
+    {"gif": "https://files.mors.technology/Face-Powder-95g-27c-10a-24i-4h-4w-4r-f14f98.gif", "categories": [], "metrics": {"area": 10, "cycles": 27, "cost": 95}, "color": 2, "shape": "iwtoQsjNeEIhpVVCLBNlQgkCH0IqLnlCBwIfQiwueUJTXwhCw9CQQg=="},
+    {"gif": "https://files.mors.technology/Face-Powder-120g-27c-9a-22i-2h-3.5w-4r-T-3fbd44.gif", "categories": ["RA"], "metrics": {"area": 9, "cycles": 27, "cost": 120}, "color": 0, "shape": "tXxyQgAAgkKvB31CcXpzQosLaELIzXhCU18IQsPQkELfqO1BDOqXQrSjjkFqabNC"},
+    {"gif": "https://files.mors.technology/Face-Powder-130g-26c-10a-24i-4h-3.5w-4r-626132.gif", "categories": ["CA"], "metrics": {"area": 10, "cycles": 26, "cost": 130}, "color": 2, "shape": "tXxyQgAAgkKANK1CAQBIQn80rUIAAEhCrwd9QnF6c0I="}
+  ]
+}

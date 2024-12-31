@@ -1,0 +1,22 @@
+{
+  "id": "P076",
+  "name": "Silver Paint",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Silver-Paint-95g-1037c-68a-295i-9h-11w-172r-5c5aa8.mp4", "categories": ["GC_P"], "metrics": {"area": 68, "cycles": 1037, "cost": 95}, "color": 1, "shape": "AAAAAAAAAAAAAAAAFvmsQU7JiUAaGh9A"},
+    {"gif": "https://i.imgur.com/fuMlnG7.mp4", "categories": [], "metrics": {"area": 67, "cycles": 459, "cost": 100}, "color": 0, "shape": "a6U0QpyX0EFOyYlAGhofQAAAAAAW+axBAAAAAAjWUUKMKApBI3yFQigNL0JgNWlC"},
+    {"gif": "https://files.mors.technology/SILVER_PAINT/120g-795c-66a-269i-T-a2722b5d.mp4", "categories": [], "metrics": {"area": 66, "cycles": 795, "cost": 120}, "color": 1, "shape": "jCgKQSN8hUIAAAAACNZRQgAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/SILVER_PAINT/140g-237c-69a-149i-T-727fc349.mp4", "categories": [], "metrics": {"area": 69, "cycles": 237, "cost": 140}, "color": 1, "shape": "nr2XQg43L0JrpTRCnJfQQSgNL0JgNWlC9bFMQrJZiEI2AVdC+O6JQtjel0KUomBC"},
+    {"gif": "https://files.mors.technology/SILVER_PAINT/140g-452c-66a-175i-T-2f2436e8.mp4", "categories": [], "metrics": {"area": 66, "cycles": 452, "cost": 140}, "color": 2, "shape": "gDQtNgAAyEL7zk5CrkyMQvWxTEKyWYhCKA0vQmA1aUKMKApBI3yFQg=="},
+    {"gif": "https://files.mors.technology/SILVER_PAINT/160g-304c-68a-140i-T-7f9049f7.mp4", "categories": [], "metrics": {"area": 68, "cycles": 304, "cost": 160}, "color": 0, "shape": "+85OQq5MjEI2AVdC+O6JQvWxTEKyWYhC"},
+    {"gif": "https://files.mors.technology/Silver-Paint-230g-160c-74a-143i-9h-11w-24r-7fc18e.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 74, "cycles": 160, "cost": 230}, "color": 0, "shape": "nr2XQg43L0LY3pdClKJgQoA0rUIAAEhC"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "P016",
+  "name": "Hair Product",
+  "collection": "Campaign",
+  "group": "Chapter 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Hair-Product-30g-159c-14a-27i-4h-4w-27r-T-1d0f8f.gif", "categories": ["GC", "BG", "TG"], "metrics": {"area": 14, "cycles": 159, "cost": 30}, "color": 0, "shape": "uPjdQcQngEEAAAAAAAAAAAAAAAAAAEg2ly+fQT9erUE="},
+    {"gif": "https://files.mors.technology/HAIR_PRODUCT/30g-172c-12a-29i-T-691ef427.mp4", "categories": [], "metrics": {"area": 12, "cycles": 172, "cost": 30}, "color": 2, "shape": "q/BmNwAAljfzco5BfmTCQaNrmEEBALhBly+fQT9erUE="},
+    {"gif": "https://files.mors.technology/Hair-Product-30g-182c-11a-31i-4h-3.5w-31r-T-cb6b16.gif", "categories": ["GA", "GX"], "metrics": {"area": 11, "cycles": 182, "cost": 30}, "color": 1, "shape": "AAAAAAAASDYAAAAAAAAQQuNdgkHZ09VB83KOQX5kwkGr8GY3AACWNw=="},
+    {"gif": "https://files.mors.technology/Hair-Product-40g-153c-9a-26i-3h-3w-26r-84d345.gif", "categories": ["WG"], "metrics": {"area": 9, "cycles": 153, "cost": 40}, "color": 2, "shape": "412CQdnT1UEAAAAAAAAQQgAAAADEw1NCLrsoQQRVUkI="},
+    {"gif": "https://files.mors.technology/Hair-Product-50g-89c-10a-15i-3h-3.5w-15r-0dc87e.gif", "categories": [], "metrics": {"area": 10, "cycles": 89, "cost": 50}, "color": 1, "shape": "o2uYQQEAuEH2sxBC/K4uQm2hJEKFpw9CFz77QREOkUG4+N1BxCeAQZcvn0E/Xq1B"},
+    {"gif": "https://files.mors.technology/Hair-Product-50g-97c-9a-24i-3h-3w-16r-T-233496.gif", "categories": [], "metrics": {"area": 9, "cycles": 97, "cost": 50}, "color": 0, "shape": "9rMQQvyuLkKja5hBAQC4QfNyjkF+ZMJB412CQdnT1UEuuyhBBFVSQvvKj0HLPrNCHIq2QRenrUJ/QOFBg8iTQg=="},
+    {"gif": "https://files.mors.technology/Hair-Product-50g-153c-8a-26i-3h-3w-26r-T-1a2293.gif", "categories": ["AG", "AC", "AX"], "metrics": {"area": 8, "cycles": 153, "cost": 50}, "color": 1, "shape": "+8qPQcs+s0IuuyhBBFVSQgAAAADEw1NCAAAAAAAAyEI="},
+    {"gif": "https://files.mors.technology/Hair-Product-60g-60c-14a-18i-4h-4w-10r-T-3bc002.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 14, "cycles": 60, "cost": 60}, "color": 0, "shape": "Fz77QREOkUFtoSRChacPQoqAdkK3bStCwuyEQgZ9GUI="},
+    {"gif": "https://files.mors.technology/Hair-Product-70g-61c-10a-24i-3h-3.5w-10r-T-b68d82.gif", "categories": [], "metrics": {"area": 10, "cycles": 61, "cost": 70}, "color": 2, "shape": "f0DhQYPIk0KKgHZCt20rQm2hJEKFpw9C9rMQQvyuLkI="},
+    {"gif": "https://files.mors.technology/Hair-Product-80g-50c-14a-22i-4h-4w-8r-T-1a0161.gif", "categories": ["CG", "CX", "BC", "TC", "RG", "BR"], "metrics": {"area": 14, "cycles": 50, "cost": 80}, "color": 2, "shape": "gDStQgAASELC7IRCBn0ZQoqAdkK3bStCjymRQp/nSUKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/HAIR_PRODUCT/80g-56c-10a-23i-T-cdc35d74.mp4", "categories": [], "metrics": {"area": 10, "cycles": 56, "cost": 80}, "color": 1, "shape": "jymRQp/nSUKKgHZCt20rQn9A4UGDyJNCHIq2QRenrUJ+K4FC8th6QvazkEKBqFRC"},
+    {"gif": "https://files.mors.technology/Hair-Product-100g-50c-12a-19i-4h-3.5w-8r-T-17f491.gif", "categories": ["CA"], "metrics": {"area": 12, "cycles": 50, "cost": 100}, "color": 0, "shape": "QiaiQhbEVEKANK1CAQBIQo8pkUKf50lC9rOQQoGoVEI="},
+    {"gif": "https://files.mors.technology/Hair-Product-110g-51c-11a-22i-4h-3w-8r-89a660.gif", "categories": ["RA", "WR"], "metrics": {"area": 11, "cycles": 51, "cost": 110}, "color": 2, "shape": "fiuBQvLYekJCJqJCFsRUQvazkEKBqFRC"}
+  ]
+}

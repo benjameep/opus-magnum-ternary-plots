@@ -1,0 +1,20 @@
+{
+  "id": "P083",
+  "name": "Special Amaro",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Special-Amaro-60g-333c-73a-97i-7h-11w-54r-T-839bc0.gif", "categories": ["GC_P"], "metrics": {"area": 73, "cycles": 333, "cost": 60}, "color": 2, "shape": "gDQtNgAAyDXHRBtB8cC7QfbpAkKWKpdB"},
+    {"gif": "https://files.mors.technology/Special-Amaro-60g-436c-72a-69i-7h-11w-72r-T-0534a6.gif", "categories": ["GI_P", "GX_P"], "metrics": {"area": 72, "cycles": 436, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAVc7uQcdEG0HxwLtBgDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/Special-Amaro-140g-152c-68a-60i-7h-11w-24r-T-0c7a0e.gif", "categories": ["SUM_P"], "metrics": {"area": 68, "cycles": 152, "cost": 140}, "color": 0, "shape": "AAAAAFXO7kEAAAAAAADIQlMwkEJTgWlCVICRQpBRQ0L9FIxCtMAhQvbpAkKWKpdBx0QbQfHAu0E="},
+    {"gif": "https://files.mors.technology/Special-Amaro-260g-113c-72a-78i-7h-11w-18r-f17478.gif", "categories": ["CG_P"], "metrics": {"area": 72, "cycles": 113, "cost": 260}, "color": 1, "shape": "/RSMQrTAIUJUgJFCkFFDQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/SPECIAL_AMARO/295g-113c-71a-75i-ed48dbd3.mp4", "categories": [], "metrics": {"area": 71, "cycles": 113, "cost": 295}, "color": 2, "shape": "UzCQQlOBaUKANK1CAQBIQlSAkUKQUUNC"}
+  ]
+}

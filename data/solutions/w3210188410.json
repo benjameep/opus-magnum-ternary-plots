@@ -1,0 +1,37 @@
+{
+  "id": "w3210188410",
+  "name": "Thermal Fuse",
+  "collection": "Community",
+  "group": "Tournament 2024",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://www.youtube.com/watch?v=oNOUqOB_y1o", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 857, "cycles": 4293, "cost": 70}, "color": 1, "shape": "AAAAAAAAAAAAAAAAacXpP+BsOj8lBbI/QwmvP6RFfD9VFcE/E/RePw=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/80g-380c-254a-380i-df1a0829.mp4", "categories": [], "metrics": {"area": 254, "cycles": 380, "cost": 80}, "color": 3, "shape": "yvVTQh7A9EFVFcE/E/ReP0MJrz+kRXw/MMQsQh0A+UE="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/80g-434c-173a-434i-df05e3df.mp4", "categories": [], "metrics": {"area": 173, "cycles": 434, "cost": 80}, "color": 0, "shape": "MMQsQh0A+UFDCa8/pEV8P+BsOj8lBbI/dJ2hQSJUGkJanO9BkHYVQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/80g-496c-163a-496i-9213156f.mp4", "categories": [], "metrics": {"area": 163, "cycles": 496, "cost": 80}, "color": 2, "shape": "AAAAALY0w0HGI4pBstsdQnSdoUEiVBpC4Gw6PyUFsj8AAAAAacXpPw=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/105g-851c-63a-851i-878276c3.mp4", "categories": ["AG"], "metrics": {"area": 63, "cycles": 851, "cost": 105}, "color": 0, "shape": "xiOKQbLbHUIAAAAAtjTDQQAAAAAAAMhCgDQtNgAAyEJWiItBIpGGQu/3lUEsiFhCYmWWQYIuVUI="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/120g-301c-99a-38i-T-f41a74d7.mp4", "categories": [], "metrics": {"area": 99, "cycles": 301, "cost": 120}, "color": 1, "shape": "xiOKQbLbHUJiZZZBgi5VQrz5r0GAildC1FjCQdDVR0JanO9BkHYVQnSdoUEiVBpC"},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/130g-323c-86a-41i-T-94838e55.mp4", "categories": [], "metrics": {"area": 86, "cycles": 323, "cost": 130}, "color": 3, "shape": "7yOoQfXEckK8+a9BgIpXQmJllkGCLlVC7/eVQSyIWEI="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/130g-366c-82a-373i-T-971a087e.mp4", "categories": [], "metrics": {"area": 82, "cycles": 366, "cost": 130}, "color": 2, "shape": "7/eVQSyIWEJWiItBIpGGQlepoUGtoolCY0ijQXCkiEJoJqRBZqKHQu8jqEH1xHJC"},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/140g-116c-100a-38i-5ab1d375.mp4", "categories": [], "metrics": {"area": 100, "cycles": 116, "cost": 140}, "color": 2, "shape": "RndoQto2BkLK9VNCHsD0QTDELEIdAPlBWpzvQZB2FULUWMJB0NVHQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/140g-243c-87a-31i-T-4571395d.mp4", "categories": [], "metrics": {"area": 87, "cycles": 243, "cost": 140}, "color": 3, "shape": "aCakQWaih0JjSKNBcKSIQl1LpEErM4hC"},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/145g-99c-96a-208i-2b6ed7fe.mp4", "categories": ["SUM"], "metrics": {"area": 96, "cycles": 99, "cost": 145}, "color": 0, "shape": "ZnmjQobDPEJGd2hC2jYGQtRYwkHQ1UdCvPmvQYCKV0LvI6hB9cRyQmgmpEFmoodCXUukQSsziEIj8X9CdNV5QpOsm0KJ5VVCk5GiQmISTEI="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/150g-500c-63a-834i-0a050317.mp4", "categories": ["AC", "AX", "AI", "OAC"], "metrics": {"area": 63, "cycles": 500, "cost": 150}, "color": 3, "shape": "4uiiQeVYjEJXqaFBraKJQlaIi0EikYZCgDQtNgAAyEJ2FCRBlii8Qg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/160g-113c-88a-39i-4c9ce1d9.mp4", "categories": [], "metrics": {"area": 88, "cycles": 113, "cost": 160}, "color": 1, "shape": "FRfCQZc1p0Kqzc1Be0uqQjF3akLMUIRCI/F/QnTVeUJdS6RBKzOIQmNIo0FwpIhCV6mhQa2iiULi6KJB5ViMQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/160g-420c-65a-741i-d8fbc26a.mp4", "categories": [], "metrics": {"area": 65, "cycles": 420, "cost": 160}, "color": 0, "shape": "4uiiQeVYjEJ2FCRBlii8QgflvEFDvKxCFRfCQZc1p0I="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/175g-291c-74a-481i-f573f2e5.mp4", "categories": [], "metrics": {"area": 74, "cycles": 291, "cost": 175}, "color": 2, "shape": "FRfCQZc1p0IH5bxBQ7ysQqrNzUF7S6pC"},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/300g-35c-269a-162i-8aeb97d0.mp4", "categories": [], "metrics": {"area": 269, "cycles": 35, "cost": 300}, "color": 1, "shape": "ZnmjQobDPEKTkaJCYhJMQkRwpkILdkxCALSoQvlTS0IJ06hCZzVLQvJaqkJMRElCNRqsQgm6RkI="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/400g-54c-123a-20i-7d1c2c25.mp4", "categories": ["RA"], "metrics": {"area": 123, "cycles": 54, "cost": 400}, "color": 4, "shape": "RHCmQgt2TEKTkaJCYhJMQpOsm0KJ5VVCMJ+kQsvNTkI="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/435g-29c-288a-173i-c4b7b3b5.mp4", "categories": [], "metrics": {"area": 288, "cycles": 29, "cost": 435}, "color": 0, "shape": "NRqsQgm6RkLyWqpCTERJQp5+rEL6LUdC"},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/450g-54c-111a-209i-fc1cc0af.mp4", "categories": ["HC"], "metrics": {"area": 111, "cycles": 54, "cost": 450}, "color": 2, "shape": "3T2dQtduWkIwn6RCy81OQpOsm0KJ5VVCI/F/QnTVeUIxd2pCzFCEQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/505g-27c-280a-136i-68e204b5.mp4", "categories": ["CG", "CX", "OCX"], "metrics": {"area": 280, "cycles": 27, "cost": 505}, "color": 2, "shape": "gDStQgAASEKefqxC+i1HQvJaqkJMRElCCdOoQmc1S0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/570g-42c-133a-64i-f4a14ea3.mp4", "categories": [], "metrics": {"area": 133, "cycles": 42, "cost": 570}, "color": 3, "shape": "okKoQrO1TUIAtKhC+VNLQkRwpkILdkxCMJ+kQsvNTkLdPZ1C125aQg=="},
+    {"gif": "https://files.mors.technology/THERMAL_FUSE/685g-27c-228a-158i-e1b162fc.mp4", "categories": ["CA"], "metrics": {"area": 228, "cycles": 27, "cost": 685}, "color": 0, "shape": "okKoQrO1TUKANK1CAQBIQgnTqEJnNUtCALSoQvlTS0I="}
+  ]
+}

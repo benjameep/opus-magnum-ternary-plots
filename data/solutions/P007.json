@@ -1,0 +1,28 @@
+{
+  "id": "P007",
+  "name": "Stabilized Water",
+  "collection": "Campaign",
+  "group": "Chapter 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Stabilized-Water-40g-77c-9a-13i-3h-3w-13r-T-19232d.gif", "categories": ["GC", "TG"], "metrics": {"area": 9, "cycles": 77, "cost": 40}, "color": 0, "shape": "pGtVQc5v9kAAAAAAAAAAAAAAAAAAAEg2YIctQQAAIEE="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-40g-82c-7a-14i-3h-3w-14r-T-cee856.gif", "categories": ["GA", "GX", "AG", "BG"], "metrics": {"area": 7, "cycles": 82, "cost": 40}, "color": 2, "shape": "YIctQQAAIEEAAAAAAABINgAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-50g-54c-7a-9i-3h-3w-9r-T-4a54b4.gif", "categories": ["AC", "AX", "BC", "BR"], "metrics": {"area": 7, "cycles": 54, "cost": 50}, "color": 1, "shape": "gDQtNgAAyEK+/ttBFz+oQsYL7kEN0oRCxgvuQQ/SaEIjfcxBwZwPQv9MgUGGISdBKuRvQVSACkGka1VBzm/2QGCHLUEAACBB"},
+    {"gif": "https://files.mors.technology/Stabilized-Water-60g-34c-11a-5i-3h-3.5w-5r-15f086.gif", "categories": ["SUM4"], "metrics": {"area": 11, "cycles": 34, "cost": 60}, "color": 2, "shape": "s2MOQs1qpEEq5G9BVIAKQf9MgUGGISdBz6f9QTjvo0GzYw5CzWqkQQ=="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-60g-35c-9a-12i-3h-2.5w-6r-T-283433.gif", "categories": ["SUM"], "metrics": {"area": 9, "cycles": 35, "cost": 60}, "color": 3, "shape": "/0yBQYYhJ0EjfcxBwZwPQs+n/UE476NB"},
+    {"gif": "https://files.mors.technology/Stabilized-Water-70g-28c-9a-8i-3h-3w-4r-T-defd9b.gif", "categories": [], "metrics": {"area": 9, "cycles": 28, "cost": 70}, "color": 0, "shape": "/CV3QsBUYkI1SXNCIAkzQhHnVkK0lw5Cs2MOQs1qpEHPp/1BOO+jQSN9zEHBnA9CxgvuQQ/SaEJyqQFCnKF9QsboKkIu85FCb3BqQpq3e0I="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-70g-38c-8a-10i-3h-3w-6r-T-703600.gif", "categories": [], "metrics": {"area": 8, "cycles": 38, "cost": 70}, "color": 3, "shape": "xgvuQQ/SaELGC+5BDdKEQnKpAUKcoX1C"},
+    {"gif": "https://files.mors.technology/Stabilized-Water-80g-22c-15a-6i-4h-3.5w-3r-T-2f5cae.gif", "categories": [], "metrics": {"area": 15, "cycles": 22, "cost": 80}, "color": 1, "shape": "wnaHQpRrHEKzYw5CzWqkQbNjDkLNaqRBEedWQrSXDkJIY4VCf7MdQg=="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-80g-36c-8a-12i-3h-3w-6r-T-a3f109.gif", "categories": [], "metrics": {"area": 8, "cycles": 36, "cost": 80}, "color": 2, "shape": "xugqQi7zkUJyqQFCnKF9QsYL7kEN0oRCvv7bQRc/qEKF+SZCbsyXQg=="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-90g-21c-13a-16i-4h-3.5w-3r-T-8e28ea.gif", "categories": [], "metrics": {"area": 13, "cycles": 21, "cost": 90}, "color": 3, "shape": "NUlzQiAJM0JIY4VCf7MdQhHnVkK0lw5C"},
+    {"gif": "https://files.mors.technology/Stabilized-Water-120g-27c-9a-22i-2h-3.5w-4r-T-7e97c5.gif", "categories": [], "metrics": {"area": 9, "cycles": 27, "cost": 120}, "color": 3, "shape": "cHBqQsBShEJvcGpCmrd7QsboKkIu85FChfkmQm7Ml0I="},
+    {"gif": "https://files.mors.technology/Stabilized-Water-140g-15c-13a-60i-3h-3.5w-2r-73c2f2.gif", "categories": ["CG", "CA", "CX", "RA"], "metrics": {"area": 13, "cycles": 15, "cost": 140}, "color": 2, "shape": "gDStQgAASELCdodClGscQkhjhUJ/sx1CNUlzQiAJM0L8JXdCwFRiQu/Qi0LijW5C"},
+    {"gif": "https://files.mors.technology/Stabilized-Water-160g-19c-11a-24i-3h-3w-3r-T-b3b5c5.gif", "categories": [], "metrics": {"area": 11, "cycles": 19, "cost": 160}, "color": 1, "shape": "cHBqQsBShELv0ItC4o1uQvwld0LAVGJCb3BqQpq3e0I="}
+  ]
+}

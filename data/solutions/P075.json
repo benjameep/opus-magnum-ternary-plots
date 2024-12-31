@@ -1,0 +1,22 @@
+{
+  "id": "P075",
+  "name": "Fragrant Powders",
+  "collection": "Campaign",
+  "group": "Production Alchemy",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-521c-55a-918i-7h-11w-T-26d1a6.mp4", "categories": ["GC_P"], "metrics": {"area": 55, "cycles": 521, "cost": 60}, "color": 0, "shape": "gDQtNgAAyDVrVO1B6r/RQSXK8UFfZdFBcXMEQvDwmEE="},
+    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-636c-50a-636i-7h-11w-T-382fa4.mp4", "categories": [], "metrics": {"area": 50, "cycles": 636, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAADIQn1vGUL9tJtCa1TtQeq/0UGANC02AADINQ=="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/100g-418c-52a-123i-T-10cc55ac.mp4", "categories": [], "metrics": {"area": 52, "cycles": 418, "cost": 100}, "color": 1, "shape": "fW8ZQv20m0Jm3yxCkRiWQp6L/kFs/uZBJcrxQV9l0UFrVO1B6r/RQQ=="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/120g-269c-55a-116i-T-e6111d94.mp4", "categories": [], "metrics": {"area": 55, "cycles": 269, "cost": 120}, "color": 2, "shape": "4jUOQuU1pEFxcwRC8PCYQSXK8UFfZdFBnov+QWz+5kE="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/150g-157c-55a-58i-c6e7de7b.mp4", "categories": ["SUM_P"], "metrics": {"area": 55, "cycles": 157, "cost": 150}, "color": 0, "shape": "4jUOQuU1pEGei/5BbP7mQWbfLEKRGJZCMylrQmkdhELY3pRCdNE1QiR2lEK2bStC"},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/180g-144c-56a-55i-T-3c9fbbfb.mp4", "categories": ["RG_P", "RI_P"], "metrics": {"area": 56, "cycles": 144, "cost": 180}, "color": 1, "shape": "JHaUQrZtK0LY3pRCdNE1QsOnmEJsRTBC"},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/260g-116c-56a-545i-T-6fe7b34b.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 56, "cycles": 116, "cost": 260}, "color": 2, "shape": "gDStQgAASELDp5hCbEUwQtjelEJ00TVCMylrQmkdhEI="}
+  ]
+}

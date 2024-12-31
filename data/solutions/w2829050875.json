@@ -1,0 +1,31 @@
+{
+  "id": "w2829050875",
+  "name": "Nightmare Fuel",
+  "collection": "Community",
+  "group": "Best Of Weeklies 1",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/75g-993c-110a-166i-049b2997.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 110, "cycles": 993, "cost": 75}, "color": 1, "shape": "A4O5QeY1VkEAAAAAAAAAAAAAAAAAAEg2yTt6QXYX0UGjbYFB5PfQQQ=="},
+    {"gif": "https://i.imgur.com/pBtcsPJ.gif", "categories": ["GX"], "metrics": {"area": 57, "cycles": 1383, "cost": 75}, "color": 2, "shape": "yTt6QXYX0UGr8GY2AADINqvwZjYAAC84BlK5QDIaNkI="},
+    {"gif": "https://i.imgur.com/k6jBgk4.gif", "categories": [], "metrics": {"area": 51, "cycles": 1677, "cost": 75}, "color": 3, "shape": "BlK5QDIaNkKr8GY2AAAvOB4ukECJLTJC6+ypQLKyPEI="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/75g-2679c-35a-448i-d22b760d.mp4", "categories": ["GA"], "metrics": {"area": 35, "cycles": 2679, "cost": 75}, "color": 0, "shape": "HdEyQB3OVUIeLpBAiS0yQqvwZjYAAMg2AAAAAAAASDYAAAAAmxghQg=="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/100g-3042c-28a-3042i-409f3d8e.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "OAC"], "metrics": {"area": 28, "cycles": 3042, "cost": 100}, "color": 2, "shape": "AAAAAJsYIUIAAAAAAADIQnkxIEAZHMVCHdEyQB3OVUI="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/120g-2259c-31a-2325i-3cebbaf8.mp4", "categories": ["HC"], "metrics": {"area": 31, "cycles": 2259, "cost": 120}, "color": 1, "shape": "6+ypQLKyPEIeLpBAiS0yQh3RMkAdzlVCeTEgQBkcxUK1yCpALuvEQg=="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/215g-793c-37a-287i-c44c3744.mp4", "categories": ["BG", "BC", "HR", "BR"], "metrics": {"area": 37, "cycles": 793, "cost": 215}, "color": 0, "shape": "4NEHQs7KoEKjbYFB5PfQQck7ekF2F9FBBlK5QDIaNkLr7KlAsrI8QrXIKkAu68RC"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/260g-251c-82a-183i-T-771f6d30.mp4", "categories": ["TG"], "metrics": {"area": 82, "cycles": 251, "cost": 260}, "color": 2, "shape": "4NEHQs7KoEKddzRCU+eTQo7BG0KQ+8NBwbMFQs5imkEDg7lB5jVWQaNtgUHk99BB"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/275g-216c-108a-151i-50c3ccfb.mp4", "categories": [], "metrics": {"area": 108, "cycles": 216, "cost": 275}, "color": 0, "shape": "wbMFQs5imkGOwRtCkPvDQbFVJELlwb1B"},
+    {"gif": "https://i.imgur.com/M3stI5C.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 96, "cycles": 151, "cost": 315}, "color": 1, "shape": "nXc0QlPnk0Kt8ZdC1IxgQhodnkIxbz1CpGuYQgAAMEKxVSRC5cG9QY7BG0KQ+8NB"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/320g-150c-99a-136i-ad011e14.mp4", "categories": [], "metrics": {"area": 99, "cycles": 150, "cost": 320}, "color": 2, "shape": "pGuYQgAAMEIaHZ5CMW89QlQpn0KnyDdC"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/1085g-51c-188a-398i-22699f4e.mp4", "categories": [], "metrics": {"area": 188, "cycles": 51, "cost": 1085}, "color": 0, "shape": "rfGXQtSMYEKyUahCTaRNQuF8qULiUUlCQdKpQjXjR0IhRqpCLNhFQjvlqUKoLURCVCmfQqfIN0IaHZ5CMW89Qg=="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/1785g-31c-416a-1024i-531f4583.mp4", "categories": [], "metrics": {"area": 416, "cycles": 31, "cost": 1785}, "color": 2, "shape": "O+WpQqgtREIhRqpCLNhFQon4q0Iok0ZC"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/2070g-28c-297a-901i-5702a6e2.mp4", "categories": ["CG"], "metrics": {"area": 297, "cycles": 28, "cost": 2070}, "color": 1, "shape": "gDStQgAASEKJ+KtCKJNGQiFGqkIs2EVCQdKpQjXjR0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/2080g-28c-295a-899i-9732860f.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 295, "cycles": 28, "cost": 2080}, "color": 3, "shape": "4XypQuJRSUJ/NK1CAABIQkHSqUI140dC"},
+    {"gif": "https://files.mors.technology/NIGHTMARE_FUEL/2130g-28c-290a-718i-aeb9c93a.mp4", "categories": ["CA", "CI"], "metrics": {"area": 290, "cycles": 28, "cost": 2130}, "color": 2, "shape": "slGoQk2kTUKANK1CAQBIQn80rUIAAEhC4XypQuJRSUI="}
+  ]
+}

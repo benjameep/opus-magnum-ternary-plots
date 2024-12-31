@@ -1,0 +1,35 @@
+{
+  "id": "w2501727721",
+  "name": "Potent Potables",
+  "collection": "Community",
+  "group": "Tournament 2020",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Potent-Potables-40g-479c-37a-80i-6h-6.5w-80r-T-0f5624.gif", "categories": ["GC", "GI", "GX", "OGC", "TG"], "metrics": {"area": 37, "cycles": 479, "cost": 40}, "color": 1, "shape": "u5SSQdRBKUEAAAAAAAAAAAAAAAAAAEg2R+2WQMdg7kHA8AFBg3gOQj2bEEHBfRJC6nMVQcLAE0JKhINBGSKMQQ=="},
+    {"gif": "https://files.mors.technology/Potent-Potables-40g-892c-27a-149i-6h-5.5w-149r-T-ce43c1.gif", "categories": ["GA"], "metrics": {"area": 27, "cycles": 892, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAAJ9UOQoK4l0CvYPdBR+2WQMdg7kE="},
+    {"gif": "https://files.mors.technology/Potent-Potables-50g-568c-30a-95i-6h-6w-95r-dce6ee.gif", "categories": [], "metrics": {"area": 30, "cycles": 568, "cost": 50}, "color": 3, "shape": "wPABQYN4DkJH7ZZAx2DuQYK4l0CvYPdBfta3QEMXCEI="},
+    {"gif": "https://files.mors.technology/POTENT_POTABLES/60g-800c-20a-134i-T-70b5b573.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 20, "cycles": 800, "cost": 60}, "color": 0, "shape": "fta3QEMXCEKCuJdAr2D3QQAAAAAn1Q5CAAAAAAAAyEL7XPk/H8DFQksEhkATOqFC"},
+    {"gif": "https://files.mors.technology/Potent-Potables-65g-579c-24a-97i-5h-5.5w-97r-e38a0a.gif", "categories": [], "metrics": {"area": 24, "cycles": 579, "cost": 65}, "color": 3, "shape": "PZsQQcF9EkKlbxVBXh0UQupzFUHCwBNC"},
+    {"gif": "https://files.mors.technology/Potent-Potables-70g-609c-21a-102i-5h-4.5w-102r-65e518.gif", "categories": [], "metrics": {"area": 21, "cycles": 609, "cost": 70}, "color": 2, "shape": "fta3QEMXCEJLBIZAEzqhQhiYIEGJJlZCpW8VQV4dFEI9mxBBwX0SQsDwAUGDeA5C"},
+    {"gif": "https://files.mors.technology/Potent-Potables-95g-148c-34a-46i-6h-6w-25r-717c86.gif", "categories": [], "metrics": {"area": 34, "cycles": 148, "cost": 95}, "color": 2, "shape": "u5SSQdRBKUFKhINBGSKMQXUb30Ggz4BB"},
+    {"gif": "https://files.mors.technology/Potent-Potables-100g-131c-30a-57i-6h-6w-22r-cddddf.gif", "categories": [], "metrics": {"area": 30, "cycles": 131, "cost": 100}, "color": 0, "shape": "V11NQrxVY0KKKjlCK3byQbXlDkLqAKVBdRvfQaDPgEFKhINBGSKMQepzFUHCwBNCpW8VQV4dFEIYmCBBiSZWQnlVh0Fbd7RC7TUqQkvdlkI="},
+    {"gif": "https://files.mors.technology/Potent-Potables-100g-439c-21a-125i-5h-4.5w-73r-T-e46a2c.gif", "categories": [], "metrics": {"area": 21, "cycles": 439, "cost": 100}, "color": 1, "shape": "eVWHQVt3tEIYmCBBiSZWQksEhkATOqFC+1z5Px/AxUI="},
+    {"gif": "https://files.mors.technology/POTENT_POTABLES/110g-108c-48a-44i-3a342c38.mp4", "categories": [], "metrics": {"area": 48, "cycles": 108, "cost": 110}, "color": 2, "shape": "teUOQuoApUGKKjlCK3byQUXLS0JvcOxBx1RKQsSh6UE="},
+    {"gif": "https://files.mors.technology/POTENT_POTABLES/130g-85c-72a-42i-d5435249.mp4", "categories": [], "metrics": {"area": 72, "cycles": 85, "cost": 130}, "color": 0, "shape": "x1RKQsSh6UFFy0tCb3DsQffvVUKaCPdB"},
+    {"gif": "https://files.mors.technology/Potent-Potables-135g-80c-40a-42i-8h-6w-13r-846e74.gif", "categories": ["SUM", "SUM4"], "metrics": {"area": 40, "cycles": 80, "cost": 135}, "color": 1, "shape": "iio5Qit28kFXXU1CvFVjQgPLjUKT5WdCWLyRQmfiXkKdLZVCTPRVQt+PiEIvsB1C9+9VQpoI90FFy0tCb3DsQQ=="},
+    {"gif": "https://files.mors.technology/Potent-Potables-165g-67c-51a-36i-7h-7w-11r-9b0f8b.gif", "categories": [], "metrics": {"area": 51, "cycles": 67, "cost": 165}, "color": 2, "shape": "34+IQi+wHUKdLZVCTPRVQhvfmEIZvU5ClG2dQrzxQUKpd5pCegI5Qtltk0KIPCpC"},
+    {"gif": "https://files.mors.technology/Potent-Potables-165g-88c-35a-50i-7h-6.5w-14r-e50b96.gif", "categories": [], "metrics": {"area": 35, "cycles": 88, "cost": 165}, "color": 2, "shape": "9yGLQupXb0IDy41Ck+VnQlddTUK8VWNC7TUqQkvdlkI="},
+    {"gif": "https://files.mors.technology/Potent-Potables-250g-43c-115a-68i-13h-11.5w-6r-T-60fcd6.gif", "categories": ["TC"], "metrics": {"area": 115, "cycles": 43, "cost": 250}, "color": 0, "shape": "2W2TQog8KkKpd5pCegI5QmNXm0JsXzNC"},
+    {"gif": "https://files.mors.technology/Potent-Potables-320g-30c-124a-35i-13h-12w-4r-409597.gif", "categories": ["RG", "ORG"], "metrics": {"area": 124, "cycles": 30, "cost": 320}, "color": 1, "shape": "oC+rQimrRUJjV5tCbF8zQql3mkJ6AjlClG2dQrzxQUItwqpCwAtGQg=="},
+    {"gif": "https://files.mors.technology/Potent-Potables-425g-28c-121a-279i-13h-12w-4.84r-ef5274.gif", "categories": ["CG"], "metrics": {"area": 121, "cycles": 28, "cost": 425}, "color": 2, "shape": "oC+rQimrRUItwqpCwAtGQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/Potent-Potables-470g-28c-73a-309i-7h-9.5w-4.84r-8fa4b6.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 73, "cycles": 28, "cost": 470}, "color": 0, "shape": "G9+YQhm9TkJ/NK1CAABIQi3CqkLAC0ZClG2dQrzxQUI="},
+    {"gif": "https://files.mors.technology/POTENT_POTABLES/535g-28c-66a-310i-4dc3fd22.mp4", "categories": ["CA"], "metrics": {"area": 66, "cycles": 28, "cost": 535}, "color": 3, "shape": "W1+jQo1aU0KANK1CAQBIQn80rUIAAEhCG9+YQhm9TkKdLZVCTPRVQli8kUJn4l5C"},
+    {"gif": "https://files.mors.technology/POTENT_POTABLES/575g-29c-64a-540i-d07257ac.mp4", "categories": ["RA"], "metrics": {"area": 64, "cycles": 29, "cost": 575}, "color": 0, "shape": "9yGLQupXb0JbX6NCjVpTQli8kUJn4l5CA8uNQpPlZ0I="}
+  ]
+}

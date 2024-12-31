@@ -1,0 +1,25 @@
+{
+  "id": "P091b",
+  "name": "Hexstabilized Salt",
+  "collection": "Journal",
+  "group": "Journal VI",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/HEXSTABILIZED_SALT/50g-932c-61a-932i-T-6573277f.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 61, "cycles": 932, "cost": 50}, "color": 0, "shape": "gDQtNgAAyDWIpSVBH7K9QSGRZEEeS8BBW0+aQYsuMkE="},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-50g-1202c-59a-465i-9h-9w-66.43r-T-e58828.mp4", "categories": [], "metrics": {"area": 59, "cycles": 1202, "cost": 50}, "color": 1, "shape": "AAAAAAAAAAAAAAAACdbRQYilJUEfsr1BgDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-85g-438c-60a-211i-9h-9w-25.58r-3aff59.mp4", "categories": [], "metrics": {"area": 60, "cycles": 438, "cost": 85}, "color": 1, "shape": "s00KQvuyn0FbT5pBiy4yQSGRZEEeS8BBCTCuQSaT5EE42dNB21DsQQ=="},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-120g-225c-59a-32i-9h-9w-12r-59637f.mp4", "categories": ["SUM_P"], "metrics": {"area": 59, "cycles": 225, "cost": 120}, "color": 2, "shape": "mbhvQi1nCkKzTQpC+7KfQTjZ00HbUOxBr/lbQvhPSkI="},
+    {"gif": "https://i.imgur.com/Y1STWWB.mp4", "categories": [], "metrics": {"area": 49, "cycles": 649, "cost": 130}, "color": 2, "shape": "AAAAAAAAyEL/GURC72OPQgkwrkEmk+RBIZFkQR5LwEGIpSVBH7K9QQAAAAAJ1tFB"},
+    {"gif": "https://files.mors.technology/HEXSTABILIZED_SALT/135g-370c-53a-222i-3e7b99a6.mp4", "categories": [], "metrics": {"area": 53, "cycles": 370, "cost": 135}, "color": 0, "shape": "ONnTQdtQ7EEJMK5BJpPkQf8ZRELvY49Chu19QgxlfUJPAn5CPkp1Qq/5W0L4T0pC"},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-160g-153c-60a-459i-9h-9w-8.43r-7baddc.mp4", "categories": [], "metrics": {"area": 60, "cycles": 153, "cost": 160}, "color": 1, "shape": "96ygQkKIOUKZuG9CLWcKQq/5W0L4T0pCTwJ+Qj5KdUJTSYNC9RJwQg=="},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-290g-112c-61a-169i-9h-9w-6.15r-09a1d5.mp4", "categories": [], "metrics": {"area": 61, "cycles": 112, "cost": 290}, "color": 0, "shape": "eGWqQrzBREL3rKBCQog5QlNJg0L1EnBC/6KEQpXLcUI="},
+    {"gif": "https://files.mors.technology/Hexstabilized-Salt-295g-138c-60a-185i-9h-9w-7.43r-b1e027.mp4", "categories": [], "metrics": {"area": 60, "cycles": 138, "cost": 295}, "color": 2, "shape": "/6KEQpXLcUJTSYNC9RJwQk8CfkI+SnVChu19QgxlfUJxc4RCEA93Qg=="},
+    {"gif": "https://files.mors.technology/HEXSTABILIZED_SALT/320g-110c-61a-168i-37584c18.mp4", "categories": ["CG_P", "RG_P"], "metrics": {"area": 61, "cycles": 110, "cost": 320}, "color": 1, "shape": "gDStQgAASEJ4ZapCvMFEQv+ihEKVy3FCcXOEQhAPd0I="}
+  ]
+}

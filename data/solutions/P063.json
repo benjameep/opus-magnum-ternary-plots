@@ -1,0 +1,36 @@
+{
+  "id": "P063",
+  "name": "Spyglass Crystal",
+  "collection": "Journal",
+  "group": "Journal II",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-40g-1169c-96a-195i-11h-10w-195r-9a6e52.mp4", "categories": ["GC"], "metrics": {"area": 96, "cycles": 1169, "cost": 40}, "color": 1, "shape": "JIh2QdBVDkEAAAAAAAAAAAAAAAAAAEg2hSxjQWemF0E="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-40g-1282c-41a-214i-6h-6.5w-214r-3988d8.mp4", "categories": ["GA", "GX"], "metrics": {"area": 41, "cycles": 1282, "cost": 40}, "color": 0, "shape": "AAAAAAAASDYAAAAAdxQZQemAbkGdwdNBmZ+EQZ0GwEGFLGNBZ6YXQQ=="},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/45g-1366c-36a-228i-54263f8f.mp4", "categories": [], "metrics": {"area": 36, "cycles": 1366, "cost": 45}, "color": 2, "shape": "6YBuQZ3B00EAAAAAdxQZQQAAAABAok1CKu1RQOSmZELicHlAjBZgQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-75g-1615c-33a-270i-7h-6w-270r-f33045.mp4", "categories": [], "metrics": {"area": 33, "cycles": 1615, "cost": 75}, "color": 1, "shape": "AAAAAECiTUIAAAAAGXmdQirtUUDkpmRC"},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/110g-269c-58a-87i-1ae7306e.mp4", "categories": [], "metrics": {"area": 58, "cycles": 269, "cost": 110}, "color": 2, "shape": "g5HHQUeVCEIBXQdCoF30QdjKskGec05BJIh2QdBVDkGFLGNBZ6YXQZmfhEGdBsBB"},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/110g-946c-32a-229i-136a6d3d.mp4", "categories": ["AG"], "metrics": {"area": 32, "cycles": 946, "cost": 110}, "color": 0, "shape": "gDQtNgAAyELicHlAjBZgQirtUUDkpmRCAAAAABl5nUIAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-115g-229c-61a-88i-8h-7.5w-38r-04b575.mp4", "categories": [], "metrics": {"area": 61, "cycles": 229, "cost": 115}, "color": 1, "shape": "2MqyQZ5zTkEBXQdCoF30QX0iYkIXjwJC"},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-120g-688c-32a-190i-6h-6w-115r-d1ba0c.mp4", "categories": ["AX"], "metrics": {"area": 32, "cycles": 688, "cost": 120}, "color": 1, "shape": "q/BmNv7/x0K36uRBvu0iQoORx0FHlQhCmZ+EQZ0GwEHpgG5BncHTQeJweUCMFmBC"},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-125g-670c-32a-186i-6h-6w-112r-cf59a4.mp4", "categories": ["AC", "AI", "OAC"], "metrics": {"area": 32, "cycles": 670, "cost": 125}, "color": 2, "shape": "X3AWQubrX0K36uRBvu0iQqvwZjb+/8dCgDQtNgAAyEKD5c1BCkiqQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-140g-192c-54a-101i-8h-7.5w-32r-35d12f.gif", "categories": [], "metrics": {"area": 54, "cycles": 192, "cost": 140}, "color": 0, "shape": "a69oQkRXBkJ9ImJCF48CQgFdB0KgXfRBg5HHQUeVCEK36uRBvu0iQl9wFkLm619CxDV8QvFifkKi5oJCQdl4Qg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-165g-158c-58a-115i-9h-7.5w-26r-9ad677.gif", "categories": ["SUM"], "metrics": {"area": 58, "cycles": 158, "cost": 165}, "color": 1, "shape": "a69oQkRXBkKi5oJCQdl4QudaikLGPXBCH46UQsY4MkJmLJNCI88qQqbSkkJTiSlC"},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-255g-113c-78a-112i-10h-9w-18r-eec412.gif", "categories": [], "metrics": {"area": 78, "cycles": 113, "cost": 255}, "color": 2, "shape": "ptKSQlOJKUJmLJNCI88qQu8qk0JE7ylC"},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/270g-359c-37a-1196i-6167426a.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 359, "cost": 270}, "color": 1, "shape": "g+XNQQpIqkLENXxC8WJ+Ql9wFkLm619C"},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/285g-105c-66a-126i-ab7f42e0.mp4", "categories": [], "metrics": {"area": 66, "cycles": 105, "cost": 285}, "color": 3, "shape": "H46UQsY4MkLnWopCxj1wQlMDmEJzeGBCaNyeQrtiRULXwp5CLh5FQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-320g-81c-85a-230i-11h-9.5w-13r-cfebf6.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 85, "cycles": 81, "cost": 320}, "color": 0, "shape": "qvusQl6+R0LvKpNCRO8pQmYsk0IjzypCH46UQsY4MkLXwp5CLh5FQhrwrEJb8kdCh/esQgvXR0I="},
+    {"gif": "https://files.mors.technology/SPYGLASS_CRYSTAL/340g-81c-82a-238i-58526093.mp4", "categories": [], "metrics": {"area": 82, "cycles": 81, "cost": 340}, "color": 2, "shape": "GvCsQlvyR0LXwp5CLh5FQmjcnkK7YkVCZ7GnQuctSEJT7axCUAJIQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-360g-81c-80a-224i-10h-9w-13r-9ac323.gif", "categories": [], "metrics": {"area": 80, "cycles": 81, "cost": 360}, "color": 0, "shape": "U+2sQlACSEJnsadC5y1IQgCTq0IV4klCM7OsQk+VSEKq66xCFRNIQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-395g-83c-72a-232i-8h-9w-13r-195cee.mp4", "categories": ["RA"], "metrics": {"area": 72, "cycles": 83, "cost": 395}, "color": 1, "shape": "UwOYQnN4YEIAk6tCFeJJQmexp0LnLUhCaNyeQrtiRUI="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-600g-80c-105a-270i-13h-11w-13r-03e1ed.gif", "categories": ["CG"], "metrics": {"area": 105, "cycles": 80, "cost": 600}, "color": 2, "shape": "qvusQl6+R0KH96xCC9dHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-610g-80c-101a-276i-12h-11w-13r-792513.gif", "categories": ["CX"], "metrics": {"area": 101, "cycles": 80, "cost": 610}, "color": 1, "shape": "quusQhUTSEJ/NK1CAABIQof3rEIL10dCGvCsQlvyR0JT7axCUAJIQg=="},
+    {"gif": "https://files.mors.technology/Spyglass-Crystal-730g-80c-93a-324i-11h-10w-13r-79bd42.gif", "categories": ["CA"], "metrics": {"area": 93, "cycles": 80, "cost": 730}, "color": 3, "shape": "M7OsQk+VSEKANK1CAQBIQn80rUIAAEhCquusQhUTSEI="}
+  ]
+}

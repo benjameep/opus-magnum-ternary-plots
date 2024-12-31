@@ -1,0 +1,37 @@
+{
+  "id": "P064",
+  "name": "Ravari's Wheel",
+  "collection": "Journal",
+  "group": "Journal III",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/60g-711c-27a-119i-73a06988.mp4", "categories": ["GC"], "metrics": {"area": 27, "cycles": 711, "cost": 60}, "color": 2, "shape": "w80kQYpMvkAAAAAAAAAAAAAAAAAAAEg2uc0cQVAzKEE="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-60g-754c-20a-126i-4h-5w-126r-402376.gif", "categories": ["GX"], "metrics": {"area": 20, "cycles": 754, "cost": 60}, "color": 0, "shape": "q/BmNgAAyDb6YRtBOV5SQiHPLEG/wFNCF11JQS5gO0L32lRB01IsQtm6VEHNbSBCuc0cQVAzKEE="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-60g-814c-19a-136i-4h-4.5w-136r-fde5c7.gif", "categories": ["GA"], "metrics": {"area": 19, "cycles": 814, "cost": 60}, "color": 3, "shape": "AAAAAAAASDYAAAAAYRhuQvphG0E5XlJCq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/70g-399c-27a-124i-T-b8c539ac.mp4", "categories": ["TG"], "metrics": {"area": 27, "cycles": 399, "cost": 70}, "color": 1, "shape": "ThkFQnawmUHDzSRBiky+QLnNHEFQMyhB2bpUQc1tIEKqnV1BUyEnQnAedUGv2iNC"},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/70g-520c-23a-101i-T-c3fc9e1c.mp4", "categories": [], "metrics": {"area": 23, "cycles": 520, "cost": 70}, "color": 3, "shape": "2bpUQc1tIEL32lRB01IsQqqdXUFTISdC"},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/70g-777c-17a-130i-T-0fa0773d.mp4", "categories": ["HG"], "metrics": {"area": 17, "cycles": 777, "cost": 70}, "color": 1, "shape": "AAAAAGEYbkIAAAAArvCqQkJ0FEGcqYVCIc8sQb/AU0L6YRtBOV5SQg=="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/90g-264c-23a-103i-T-e9ac94b1.mp4", "categories": [], "metrics": {"area": 23, "cycles": 264, "cost": 90}, "color": 0, "shape": "9fg7QkwN2UFOGQVCdrCZQXAedUGv2iNCt3izQS7xb0IlYjpC9SYCQg=="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/90g-316c-21a-111i-T-0ab7fbee.mp4", "categories": [], "metrics": {"area": 21, "cycles": 316, "cost": 90}, "color": 2, "shape": "t3izQS7xb0JwHnVBr9ojQqqdXUFTISdC99pUQdNSLEIXXUlBLmA7QmkplkEIu4tC"},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/90g-394c-19a-101i-T-967f964f.mp4", "categories": [], "metrics": {"area": 19, "cycles": 394, "cost": 90}, "color": 3, "shape": "QnQUQZyphUKBr5FBebuTQmkplkEIu4tCF11JQS5gO0IhzyxBv8BTQg=="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/110g-193c-28a-103i-T-bf8c6812.mp4", "categories": [], "metrics": {"area": 28, "cycles": 193, "cost": 110}, "color": 2, "shape": "v6pcQuXN/kH1+DtCTA3ZQSViOkL1JgJC1yhJQmx4DEJ8x1RCaCUJQg=="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-110g-202c-22a-95i-5h-5w-34r-T-37bb0f.gif", "categories": [], "metrics": {"area": 22, "cycles": 202, "cost": 110}, "color": 1, "shape": "1yhJQmx4DEIlYjpC9SYCQrd4s0Eu8W9CaSmWQQi7i0KBr5FBebuTQqBJk0FbW5VCdZufQRuFlEI="},
+    {"gif": "https://i.imgur.com/0EC8Zv5.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 15, "cycles": 504, "cost": 110}, "color": 0, "shape": "AAAAAAAAyELNGVhBfme4Qp4meUHCDa1CoEmTQVtblUKBr5FBebuTQkJ0FEGcqYVCAAAAAK7wqkI="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/130g-145c-28a-103i-T-daf611f2.mp4", "categories": [], "metrics": {"area": 28, "cycles": 145, "cost": 130}, "color": 3, "shape": "mB6QQjZqJkK/qlxC5c3+QXzHVEJoJQlCOHaNQoBbNkIpI45Ca1E1Qg=="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-130g-150c-22a-644i-5h-4.5w-25r-T-b84f4b.mp4", "categories": ["SUM"], "metrics": {"area": 22, "cycles": 150, "cost": 130}, "color": 0, "shape": "OHaNQoBbNkJ8x1RCaCUJQtcoSUJseAxCdZufQRuFlEJhGdVB2OeZQjYiK0IVmZZC3pI1Qo2Vk0LfhnlCOV9oQg=="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/150g-215c-19a-104i-T-0371e898.mp4", "categories": [], "metrics": {"area": 19, "cycles": 215, "cost": 150}, "color": 2, "shape": "niZ5QcINrUJhGdVB2OeZQnWbn0EbhZRCoEmTQVtblUI="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/170g-111c-36a-99i-T-1d269f5e.mp4", "categories": [], "metrics": {"area": 36, "cycles": 111, "cost": 170}, "color": 2, "shape": "mB6QQjZqJkIpI45Ca1E1QlucnEK3hTZCDQydQqRXNUI="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/170g-194c-19a-104i-T-dfa6aec6.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 194, "cost": 170}, "color": 1, "shape": "zRlYQX5nuEI2IitCFZmWQmEZ1UHY55lCniZ5QcINrUI="},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/190g-103c-28a-81i-7164886b.mp4", "categories": [], "metrics": {"area": 28, "cycles": 103, "cost": 190}, "color": 1, "shape": "njefQl79O0JbnJxCt4U2QikjjkJrUTVCOHaNQoBbNkLfhnlCOV9oQiBejEL7rFpCbyWUQk3iUkI="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-200g-98c-39a-103i-7h-6.5w-16r-4a9802.gif", "categories": ["CG", "RG"], "metrics": {"area": 39, "cycles": 98, "cost": 200}, "color": 0, "shape": "gDStQgAASEINDJ1CpFc1QlucnEK3hTZCnjefQl79O0J/NK1CAABIQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/RAVARI_S_WHEEL/205g-98c-29a-103i-e8c76415.mp4", "categories": [], "metrics": {"area": 29, "cycles": 98, "cost": 205}, "color": 3, "shape": "fzStQgAASEKeN59CXv07Qm8llEJN4lJCdTStQgYASEJ6NK1CAwBIQg=="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-220g-98c-27a-99i-6h-6w-16r-5b83cb.gif", "categories": ["CX"], "metrics": {"area": 27, "cycles": 98, "cost": 220}, "color": 0, "shape": "IF6MQvusWkJ6NK1CAwBIQng0rUIEAEhCbyWUQk3iUkI="},
+    {"gif": "https://files.mors.technology/Ravaris-Wheel-230g-98c-26a-99i-6h-6w-16r-T-5681d0.gif", "categories": ["CA", "RA"], "metrics": {"area": 26, "cycles": 98, "cost": 230}, "color": 2, "shape": "3pI1Qo2Vk0KANK1CAQBIQn80rUIAAEhCeDStQgQASEIgXoxC+6xaQt+GeUI5X2hC"}
+  ]
+}

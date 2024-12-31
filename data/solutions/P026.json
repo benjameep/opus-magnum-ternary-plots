@@ -1,0 +1,31 @@
+{
+  "id": "P026",
+  "name": "Seal Solvent",
+  "collection": "Campaign",
+  "group": "Chapter 3",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/70g-233c-24a-39i-30ed95c1.mp4", "categories": ["GC", "GI", "GX"], "metrics": {"area": 24, "cycles": 233, "cost": 70}, "color": 0, "shape": "cleWQXmZLUEAAAAAAAAAAAAAAAAAAEg2PkZrQSi1CkLpcXlBXZUPQlC0oEGy0/dBKLvEQYifmUF8gLJBzCRvQQ=="},
+    {"gif": "https://files.mors.technology/Seal-Solvent-70g-387c-16a-65i-4h-4w-65r-e3e816.gif", "categories": ["GA"], "metrics": {"area": 16, "cycles": 387, "cost": 70}, "color": 1, "shape": "AAAAAAAASDYAAAAABQ03Qj5Ga0EotQpC"},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/80g-157c-41a-40i-T-114e8f47.mp4", "categories": ["TG"], "metrics": {"area": 41, "cycles": 157, "cost": 80}, "color": 1, "shape": "KiUCQllHlkFyV5ZBeZktQXyAskHMJG9BWJ3aQSRxkkE="},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/80g-166c-32a-42i-T-0e549ea0.mp4", "categories": [], "metrics": {"area": 32, "cycles": 166, "cost": 80}, "color": 3, "shape": "fICyQcwkb0Eou8RBiJ+ZQVid2kEkcZJB"},
+    {"gif": "https://files.mors.technology/Seal-Solvent-80g-355c-14a-60i-5h-3.5w-60r-T-2ca28d.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 14, "cycles": 355, "cost": 80}, "color": 2, "shape": "6XF5QV2VD0I+RmtBKLUKQgAAAAAFDTdCAAAAAAAAyEJ5bCpBYrO7QgEpa0HsgHRC"},
+    {"gif": "https://files.mors.technology/Seal-Solvent-100g-87c-23a-167i-6h-5.5w-14.67r-T-c86ff2.mp4", "categories": ["SUM"], "metrics": {"area": 23, "cycles": 87, "cost": 100}, "color": 2, "shape": "yeNqQhqdB0IqJQJCWUeWQVid2kEkcZJBKLvEQYifmUFQtKBBstP3Qf8jWUInCCNC"},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/110g-87c-18a-167i-78c85bf1.mp4", "categories": [], "metrics": {"area": 18, "cycles": 87, "cost": 110}, "color": 1, "shape": "ys5pQmIFV0L/I1lCJwgjQlC0oEGy0/dB6XF5QV2VD0IBKWtB7IB0Qn/IX0KR0GFCo6BoQhfOWEI="},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/120g-88c-17a-27i-T-06807775.mp4", "categories": [], "metrics": {"area": 17, "cycles": 88, "cost": 120}, "color": 0, "shape": "eWwqQWKzu0I5rilCdwSXQp/WNUL9A5FCf8hfQpHQYUIBKWtB7IB0Qg=="},
+    {"gif": "https://files.mors.technology/Seal-Solvent-130g-57c-24a-134i-6h-6w-T-1796d7.mp4", "categories": [], "metrics": {"area": 24, "cycles": 57, "cost": 130}, "color": 0, "shape": "VpyXQqAQL0LJ42pCGp0HQv8jWUInCCNCys5pQmIFV0KUd29CfctXQjBVi0JPLVpCFoiQQv67VEI="},
+    {"gif": "https://files.mors.technology/Seal-Solvent-150g-51c-26a-147i-6h-6w-ed5fe2.mp4", "categories": [], "metrics": {"area": 26, "cycles": 51, "cost": 150}, "color": 1, "shape": "VpyXQqAQL0IWiJBC/rtUQiO7o0IjNUxC6BSlQsBYS0K0gapCVuJEQg=="},
+    {"gif": "https://i.imgur.com/jgI163q.gif", "categories": [], "metrics": {"area": 20, "cycles": 64, "cost": 150}, "color": 3, "shape": "o6BoQhfOWEKUd29CfctXQsrOaUJiBVdC"},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/160g-64c-19a-27i-T-d98df1e7.mp4", "categories": [], "metrics": {"area": 19, "cycles": 64, "cost": 160}, "color": 2, "shape": "n9Y1Qv0DkUJtz4RC6FxvQuipikIVSGJCMFWLQk8tWkKUd29CfctXQqOgaEIXzlhCf8hfQpHQYUI="},
+    {"gif": "https://files.mors.technology/Seal-Solvent-180g-50c-26a-160i-6h-6w-447736.mp4", "categories": [], "metrics": {"area": 26, "cycles": 50, "cost": 180}, "color": 2, "shape": "tIGqQlbiRELoFKVCwFhLQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/190g-51c-23a-34i-T-f4d3c164.mp4", "categories": [], "metrics": {"area": 23, "cycles": 51, "cost": 190}, "color": 3, "shape": "6KmKQhVIYkIju6NCIzVMQhaIkEL+u1RCMFWLQk8tWkI="},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/200g-62c-19a-200i-T-e6d2f465.mp4", "categories": ["BC"], "metrics": {"area": 19, "cycles": 62, "cost": 200}, "color": 1, "shape": "NiuDQhGKeEJtz4RC6FxvQp/WNUL9A5FCOa4pQncEl0I="},
+    {"gif": "https://files.mors.technology/SEAL_SOLVENT/230g-50c-22a-40i-T-00f14327.mp4", "categories": ["CA"], "metrics": {"area": 22, "cycles": 50, "cost": 230}, "color": 0, "shape": "NiuDQhGKeEKANK1CAQBIQugUpULAWEtCI7ujQiM1TELoqYpCFUhiQm3PhELoXG9C"}
+  ]
+}

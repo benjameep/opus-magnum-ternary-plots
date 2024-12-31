@@ -1,0 +1,36 @@
+{
+  "id": "P102",
+  "name": "Visillary Anaesthetic",
+  "collection": "Journal",
+  "group": "Journal VIII",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-80g-926c-82a-926i-11h-9.5w-717b41.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 82, "cycles": 926, "cost": 80}, "color": 2, "shape": "r32ZQHA8MUAAAAAAAAAAAAAAAAAAAEg2G2meQA5i2kCcWOhAoHTtQE/bCUEbTs1A"},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-80g-1039c-47a-1039i-8h-7w-d4014d.mp4", "categories": ["GX"], "metrics": {"area": 47, "cycles": 1039, "cost": 80}, "color": 3, "shape": "G2meQA5i2kCr8GY2AADINmtWEDcB4F05ulIgP48QS0E="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-80g-1753c-38a-1899i-7h-7w-d5436f.mp4", "categories": [], "metrics": {"area": 38, "cycles": 1753, "cost": 80}, "color": 2, "shape": "MdwTPxQJVkG6UiA/jxBLQZUSSjf/H305a1YQNwHgXTlrVhA3ASB9OQ=="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-80g-2026c-35a-2088i-7h-6.5w-8305d7.mp4", "categories": [], "metrics": {"area": 35, "cycles": 2026, "cost": 80}, "color": 4, "shape": "pGrxPt1dfUEx3BM/FAlWQYujuzcBkPs5lRJKN/8ffTlrVhA3ASB9OQ=="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-80g-2159c-34a-2238i-7h-6.5w-7fcfaf.mp4", "categories": ["GA"], "metrics": {"area": 34, "cycles": 2159, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAAMhTpQaRq8T7dXX1Bq/BmNgAAyDY="},
+    {"gif": "https://i.imgur.com/xEdmhrf.gif", "categories": ["TG"], "metrics": {"area": 267, "cycles": 665, "cost": 100}, "color": 3, "shape": "r32ZQHA8MUBP2wlBG07NQLGKNkGOC/tA8ZlSQXUu80A="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-100g-865c-26a-145i-6h-5w-145r-c916d9.mp4", "categories": ["AG", "AI"], "metrics": {"area": 26, "cycles": 865, "cost": 100}, "color": 1, "shape": "gDQtNgAAyEKcWOhAoHTtQBtpnkAOYtpAulIgP48QS0Ex3BM/FAlWQaRq8T7dXX1BAAAAADIU6UEAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/130g-623c-26a-193i-T-4712dcd9.mp4", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 26, "cycles": 623, "cost": 130}, "color": 0, "shape": "gDQtNgAAyELzVQVBmGC+Qht2f0E7HEVC1LxnQWF/AkKxijZBjgv7QE/bCUEbTs1AnFjoQKB07UA="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-230g-110c-62a-572i-11h-8w-T-993512.mp4", "categories": ["SUM"], "metrics": {"area": 62, "cycles": 110, "cost": 230}, "color": 1, "shape": "ta6KQv8iIELxmVJBdS7zQLGKNkGOC/tA1LxnQWF/AkJdSo1CJJ84Qli9jkLvTjJC"},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-240g-110c-58a-92i-10h-8w-T-ee6115.mp4", "categories": ["SUM4"], "metrics": {"area": 58, "cycles": 110, "cost": 240}, "color": 2, "shape": "XUqNQiSfOELUvGdBYX8CQht2f0E7HEVCJM5GQiCcjkIsg3tCDMp+Qte+hULu3V5C"},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/325g-186c-36a-872i-73df2422.mp4", "categories": ["BC"], "metrics": {"area": 36, "cycles": 186, "cost": 325}, "color": 1, "shape": "G3Z/QTscRULzVQVBmGC+QiTORkIgnI5C"},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-650g-30c-191a-438i-17h-13w-4r-108021.gif", "categories": [], "metrics": {"area": 191, "cycles": 30, "cost": 650}, "color": 2, "shape": "ta6KQv8iIEJYvY5C704yQoV7rEIQS0hCX++sQr7JR0KI9KxCh7pHQpD0rEIstkdC"},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-765g-31c-106a-516i-12h-11.5w-4r-dc8a58.mp4", "categories": [], "metrics": {"area": 106, "cycles": 31, "cost": 765}, "color": 0, "shape": "XUqNQiSfOELXvoVC7t1eQilxrEIzcUhCHHSsQtBpSEKFe6xCEEtIQli9jkLvTjJC"},
+    {"gif": "https://i.imgur.com/3qRnqI5.gif", "categories": ["RA"], "metrics": {"area": 103, "cycles": 31, "cost": 820}, "color": 1, "shape": "KXGsQjNxSELXvoVC7t1eQiyDe0IMyn5C+h2sQp5BSUKjXqxCtqNIQg=="},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/1570g-29c-257a-690i-002cbd07.mp4", "categories": [], "metrics": {"area": 257, "cycles": 29, "cost": 1570}, "color": 3, "shape": "iPSsQoe6R0Jf76xCvslHQsD4rEIa0UdC"},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/1650g-29c-188a-672i-4d925420.mp4", "categories": [], "metrics": {"area": 188, "cycles": 29, "cost": 1650}, "color": 1, "shape": "hXusQhBLSEIcdKxC0GlIQtb9rEIRHkhCfv6sQiYWSEJB+6xCvNhHQsD4rEIa0UdCX++sQr7JR0I="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-1890g-29c-174a-864i-15h-15.5w-43470e.mp4", "categories": [], "metrics": {"area": 174, "cycles": 29, "cost": 1890}, "color": 3, "shape": "YP6sQm8pSELW/axCER5IQhx0rELQaUhCKXGsQjNxSEKjXqxCtqNIQg=="},
+    {"gif": "https://files.mors.technology/Visillary-Anaesthetic-1980g-29c-171a-893i-15h-15.5w-3bbcdd.mp4", "categories": [], "metrics": {"area": 171, "cycles": 29, "cost": 1980}, "color": 0, "shape": "NACtQmQ8SEJg/qxCbylIQqNerEK2o0hC+h2sQp5BSUI="},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/2460g-28c-484a-835i-505e5900.mp4", "categories": ["CG"], "metrics": {"area": 484, "cycles": 28, "cost": 2460}, "color": 0, "shape": "gDStQgAASEKQ9KxCLLZHQoj0rEKHukdCwPisQhrRR0JB+6xCvNhHQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/2635g-28c-371a-869i-74e984c9.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 371, "cycles": 28, "cost": 2635}, "color": 3, "shape": "fv6sQiYWSEJ/NK1CAABIQkH7rEK82EdC"},
+    {"gif": "https://files.mors.technology/VISILLARY_ANAESTHETIC/2865g-28c-353a-868i-80ecc096.mp4", "categories": ["CA"], "metrics": {"area": 353, "cycles": 28, "cost": 2865}, "color": 2, "shape": "NACtQmQ8SEKANK1CAQBIQn80rUIAAEhCfv6sQiYWSELW/axCER5IQmD+rEJvKUhC"}
+  ]
+}

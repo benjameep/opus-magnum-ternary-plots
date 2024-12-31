@@ -1,0 +1,26 @@
+{
+  "id": "w2788067624",
+  "name": "Aether Reactor",
+  "collection": "Community",
+  "group": "Tournament 2022",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/75g-1864c-87a-1864i-a9278dd7.mp4", "categories": ["GC_P", "GI_P", "GX_P"], "metrics": {"area": 87, "cycles": 1864, "cost": 75}, "color": 0, "shape": "AAAAAAAAAAAAAAAAYxjuQYQ3M0Aa8c4/"},
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/85g-952c-86a-952i-e0b64991.mp4", "categories": [], "metrics": {"area": 86, "cycles": 952, "cost": 85}, "color": 1, "shape": "AAAAAISSe0KY2ehB+1S7QQ5zlUHBkSxBhDczQBrxzj8AAAAAYxjuQQ=="},
+    {"gif": "https://files.mors.technology/Aether-Reactor-110g-675c-96a-516i-9h-12w-54.4r-T-5ec3c6.mp4", "categories": [], "metrics": {"area": 96, "cycles": 675, "cost": 110}, "color": 2, "shape": "DnOVQcGRLEGY2ehB+1S7QZafIUJqoLpB"},
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/205g-344c-83a-81i-3cd1c6be.mp4", "categories": [], "metrics": {"area": 83, "cycles": 344, "cost": 205}, "color": 0, "shape": "AAAAAAAAyEKDiIpCHQlwQl1Uh0ISKC9CQKyDQjkkI0JBp2ZC8yoFQpafIUJqoLpBmNnoQftUu0EAAAAAhJJ7Qg=="},
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/290g-214c-105a-75i-ca19c4cb.mp4", "categories": ["SUM_P"], "metrics": {"area": 105, "cycles": 214, "cost": 290}, "color": 1, "shape": "QadmQvMqBUJArINCOSQjQiIohUKK0yRCPm6HQr9hHEI="},
+    {"gif": "https://files.mors.technology/Aether-Reactor-300g-237c-93a-350i-9h-12w-18.8r-d64360.gif", "categories": [], "metrics": {"area": 93, "cycles": 237, "cost": 300}, "color": 2, "shape": "XVSHQhIoL0IZZohCy+0rQt+Eh0LNISlCIiiFQorTJEJArINCOSQjQg=="},
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/350g-163c-106a-728i-b8c9bcd6.mp4", "categories": [], "metrics": {"area": 106, "cycles": 163, "cost": 350}, "color": 3, "shape": "Pm6HQr9hHEIiKIVCitMkQt+Eh0LNISlChpaJQnffHkI="},
+    {"gif": "https://files.mors.technology/Aether-Reactor-440g-92c-108a-621i-9h-12w-T-963e82.mp4", "categories": [], "metrics": {"area": 108, "cycles": 92, "cost": 440}, "color": 0, "shape": "x0+jQneTPEKGlolCd98eQt+Eh0LNISlCGWaIQsvtK0L5/JhCy00/Qg=="},
+    {"gif": "https://files.mors.technology/Aether-Reactor-450g-128c-95a-304i-9h-12w-10r-b4bc59.gif", "categories": [], "metrics": {"area": 95, "cycles": 128, "cost": 450}, "color": 1, "shape": "g4iKQh0JcEIVnqBC74hWQtrin0IRx0xC+fyYQstNP0IZZohCy+0rQl1Uh0ISKC9C"},
+    {"gif": "https://files.mors.technology/Aether-Reactor-505g-80c-106a-564i-9h-12w-8a352e.mp4", "categories": [], "metrics": {"area": 106, "cycles": 80, "cost": 505}, "color": 2, "shape": "x0+jQneTPEL5/JhCy00/Qtrin0IRx0xC6V6oQvRqQkI="},
+    {"gif": "https://files.mors.technology/AETHER_REACTOR/665g-66c-106a-771i-0ac25da9.mp4", "categories": ["CG_P", "CX_P"], "metrics": {"area": 106, "cycles": 66, "cost": 665}, "color": 0, "shape": "gDStQgAASELpXqhC9GpCQtrin0IRx0xCFZ6gQu+IVkI="}
+  ]
+}

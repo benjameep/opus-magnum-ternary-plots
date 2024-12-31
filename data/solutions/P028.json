@@ -1,0 +1,35 @@
+{
+  "id": "P028",
+  "name": "Warming Tonic",
+  "collection": "Campaign",
+  "group": "Chapter 3",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Warming-Tonic-40g-303c-26a-51i-6h-5.5w-51r-T-226c6a.gif", "categories": ["GC", "TG"], "metrics": {"area": 26, "cycles": 303, "cost": 40}, "color": 1, "shape": "/jNhQWUFAkEAAAAAAAAAAAAAAAAAAEg2a1YQNwAArzfy0VlBFUnaQaLTYkFFndJBtppsQd9IMkE="},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/40g-339c-22a-57i-T-d4e29f73.mp4", "categories": [], "metrics": {"area": 22, "cycles": 339, "cost": 40}, "color": 3, "shape": "a1YQNwAArzf8kDdBDS4GQvLRWUEVSdpB"},
+    {"gif": "https://files.mors.technology/Warming-Tonic-40g-413c-17a-69i-5h-4.5w-69r-T-101bdb.gif", "categories": ["GA", "GX", "BG"], "metrics": {"area": 17, "cycles": 413, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAA/bWWQgBV9UBH63BC/JA3QQ0uBkJrVhA3AACvNw=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-60g-150c-38a-44i-7h-6w-25r-T-055800.gif", "categories": [], "metrics": {"area": 38, "cycles": 150, "cost": 60}, "color": 3, "shape": "Ysz1QWnpjUH+M2FBZQUCQbaabEHfSDJBbi3pQc+zr0E="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-60g-160c-29a-46i-5h-6w-27r-T-844bfb.gif", "categories": [], "metrics": {"area": 29, "cycles": 160, "cost": 60}, "color": 2, "shape": "tppsQd9IMkGi02JBRZ3SQWFL2UHaYc1B3hfrQcyWtkFuLelBz7OvQQ=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-70g-327c-15a-55i-5h-4w-55r-f54119.gif", "categories": ["AG", "AX", "AI"], "metrics": {"area": 15, "cycles": 327, "cost": 70}, "color": 1, "shape": "moIGQcoHrUIAVfVAR+twQgAAAAD9tZZCAAAAAAAAyEKANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-80g-96c-38a-41i-7h-6w-16r-T-c3ccae.gif", "categories": [], "metrics": {"area": 38, "cycles": 96, "cost": 80}, "color": 0, "shape": "NXJEQiHW4kFizPVBaemNQW4t6UHPs69B3hfrQcyWtkFlBTxCdwvjQW+4Q0It9ORB"},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/80g-130c-18a-41i-T-0689a779.mp4", "categories": [], "metrics": {"area": 18, "cycles": 130, "cost": 80}, "color": 0, "shape": "2QH9QQ+UEkJhS9lB2mHNQaLTYkFFndJB8tFZQRVJ2kH8kDdBDS4GQgBV9UBH63BCmoIGQcoHrUL/KEVBHIa5QoxRckE7kbNCMNAFQomQgEI="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-90g-86c-25a-24i-5h-5.5w-14r-T-b0ae97.gif", "categories": [], "metrics": {"area": 25, "cycles": 86, "cost": 90}, "color": 3, "shape": "YUvZQdphzUHZAf1BD5QSQiwXLEIoSP1BZQU8QncL40HeF+tBzJa2QQ=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-100g-74c-24a-22i-5h-5w-12r-8bd2a0.gif", "categories": ["SUM"], "metrics": {"area": 24, "cycles": 74, "cost": 100}, "color": 4, "shape": "LBcsQihI/UE3WGhCVPsqQgv9b0KOyRtCb7hDQi305EFlBTxCdwvjQQ=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-100g-75c-23a-21i-5h-4.5w-12r-40e987.gif", "categories": ["SUM4"], "metrics": {"area": 23, "cycles": 75, "cost": 100}, "color": 1, "shape": "N1hoQlT7KkIsFyxCKEj9QdkB/UEPlBJCMNAFQomQgEI3YBJCcUiBQqymZUIqGjJC"},
+    {"gif": "https://files.mors.technology/Warming-Tonic-110g-62c-38a-34i-7h-6w-10r-T-dd419c.gif", "categories": [], "metrics": {"area": 38, "cycles": 62, "cost": 110}, "color": 1, "shape": "dXGIQhCNHUI1ckRCIdbiQW+4Q0It9ORBC/1vQo7JG0I="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-120g-261c-15a-73i-4h-4w-44r-70e545.gif", "categories": ["AC"], "metrics": {"area": 15, "cycles": 261, "cost": 120}, "color": 2, "shape": "moIGQcoHrUKANC02AADIQo7IREFjzLlC/yhFQRyGuUI="},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/130g-90c-19a-41i-1e159c46.mp4", "categories": [], "metrics": {"area": 19, "cycles": 90, "cost": 130}, "color": 2, "shape": "dhMSQgi7lkI3YBJCcUiBQjDQBUKJkIBCjFFyQTuRs0I="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-140g-50c-27a-34i-5h-6w-8r-T-4940d4.gif", "categories": [], "metrics": {"area": 27, "cycles": 50, "cost": 140}, "color": 2, "shape": "WN6LQpuBIUJ1cYhCEI0dQgv9b0KOyRtCN1hoQlT7KkKspmVCKhoyQgbzhkKHpjlC"},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/150g-50c-23a-35i-04adf9c7.mp4", "categories": [], "metrics": {"area": 23, "cycles": 50, "cost": 150}, "color": 0, "shape": "dhMSQgi7lkJ1Wx1CK5OaQhWUQUJkHpBCPk2FQqJdX0JquoZCnxVcQgbzhkKHpjlCrKZlQioaMkI3YBJCcUiBQg=="},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/170g-85c-19a-39i-e698a2ac.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 85, "cost": 170}, "color": 1, "shape": "dVsdQiuTmkJ2ExJCCLuWQoxRckE7kbNC/yhFQRyGuUKOyERBY8y5Qg=="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-205g-27c-34a-56i-7h-6w-4r-fb8ec2.gif", "categories": ["CG", "CX", "RG"], "metrics": {"area": 34, "cycles": 27, "cost": 205}, "color": 3, "shape": "gDStQgAASEJY3otCm4EhQgbzhkKHpjlCarqGQp8VXEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/WARMING_TONIC/270g-27c-29a-68i-b097ef0f.mp4", "categories": [], "metrics": {"area": 29, "cycles": 27, "cost": 270}, "color": 2, "shape": "Pk2FQqJdX0J9NK1CAQBIQn00rUIBAEhCarqGQp8VXEI="},
+    {"gif": "https://files.mors.technology/Warming-Tonic-300g-27c-27a-62i-7h-5.5w-4r-060350.gif", "categories": ["CA", "RA"], "metrics": {"area": 27, "cycles": 27, "cost": 300}, "color": 1, "shape": "FZRBQmQekEKANK1CAQBIQn00rUIBAEhCfTStQgEASEI+TYVCol1fQg=="}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "w2450512809",
+  "name": "Elemental Jewel Setting",
+  "collection": "Community",
+  "group": "Tournament 2021",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-80g-982c-181a-182i-15h-14w-164r-T-a6f176.gif", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 181, "cycles": 982, "cost": 80}, "color": 1, "shape": "1ywYQXy3r0AAAAAAAAAAAAAAAAAAAEg2iPULQXZ0wUA="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-80g-987c-173a-183i-15h-13w-165r-T-a351d3.mp4", "categories": ["GA", "GX"], "metrics": {"area": 173, "cycles": 987, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAAbDrpQL/WAkH9i9BAiPULQXZ0wUA="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-120g-611c-65a-120i-11h-10w-102r-739af4.gif", "categories": [], "metrics": {"area": 65, "cycles": 611, "cost": 120}, "color": 1, "shape": "v9YCQf2L0EAAAAAAbDrpQAAAAAAEviVCwdA5QFLejkJpH41AhpKjQqvAlkAm76RCbSCrQB/do0LnZrpAtIahQo7PFEEqWtJB"},
+    {"gif": "https://files.mors.technology/ELEMENTAL_JEWEL_SETTING/130g-899c-62a-172i-efefbb79.mp4", "categories": ["BG"], "metrics": {"area": 62, "cycles": 899, "cost": 130}, "color": 2, "shape": "wdA5QFLejkIAAAAABL4lQgAAAAAr8k1C5hlPP7XgiUI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-140g-923c-61a-306i-10h-10w-154r-7a3e40.mp4", "categories": [], "metrics": {"area": 61, "cycles": 923, "cost": 140}, "color": 0, "shape": "5hlPP7XgiUJasIM/D1ivQmkfjUCGkqNCwdA5QFLejkI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-140g-1388c-60a-274i-10h-10w-232r-ad03fc.mp4", "categories": [], "metrics": {"area": 60, "cycles": 1388, "cost": 140}, "color": 1, "shape": "AAAAACvyTUIAAAAA01GyQk4VwT4aFLZCjZx3P+PRsEJasIM/D1ivQuYZTz+14IlC"},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-150g-218c-76a-118i-11h-10w-36r-124aa1.gif", "categories": [], "metrics": {"area": 76, "cycles": 218, "cost": 150}, "color": 2, "shape": "l/vgQdTkgUHXLBhBfLevQIj1C0F2dMFAv9YCQf2L0ECOzxRBKlrSQQ=="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-165g-176c-69a-186i-11h-11w-29r-f052a9.mp4", "categories": ["SUM"], "metrics": {"area": 69, "cycles": 176, "cost": 165}, "color": 0, "shape": "l/vgQdTkgUGOzxRBKlrSQedmukC0hqFCwoj2QK1Iq0I4iAFBP4esQk3jh0HiYrRCnYs5QgtwkkJE3V5CHqlHQshVXELeaTpCUDcOQos3pEE="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-180g-147c-84a-90i-11h-10.5w-24r-fee469.mp4", "categories": [], "metrics": {"area": 84, "cycles": 147, "cost": 180}, "color": 1, "shape": "ULVqQk/SQ0L7co5Ca9xRQkUupEK15EpCFEmlQq1TR0IPh59C4jQ4QlA3DkKLN6RByFVcQt5pOkI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-180g-577c-63a-29i-11h-10w-96r-485b34.gif", "categories": [], "metrics": {"area": 63, "cycles": 577, "cost": 180}, "color": 3, "shape": "Pk6fQA3vqEJtIKtAH92jQqvAlkAm76RCYPeZQEJzqEI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-180g-856c-60a-194i-10h-10w-143r-ebcdbc.gif", "categories": [], "metrics": {"area": 60, "cycles": 856, "cost": 180}, "color": 2, "shape": "jZx3P+PRsEJg95lAQnOoQqvAlkAm76RCaR+NQIaSo0JasIM/D1ivQg=="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-185g-158c-75a-108i-13h-11w-26r-4d404c.gif", "categories": [], "metrics": {"area": 75, "cycles": 158, "cost": 185}, "color": 2, "shape": "yFVcQt5pOkJE3V5CHqlHQlC1akJP0kNC"},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-205g-154c-73a-832i-11h-10.5w-25.17r-fd69f0.mp4", "categories": [], "metrics": {"area": 73, "cycles": 154, "cost": 205}, "color": 3, "shape": "OuSNQmYobEL7co5Ca9xRQlC1akJP0kNCRN1eQh6pR0KdizlCC3CSQg=="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-210g-398c-64a-32i-11h-10w-66r-89fb28.mp4", "categories": [], "metrics": {"area": 64, "cycles": 398, "cost": 210}, "color": 2, "shape": "woj2QK1Iq0LnZrpAtIahQm0gq0Af3aNCPk6fQA3vqELvvb1AjcywQhBU1UDUJq9C"},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-230g-147c-78a-339i-12h-11.5w-24r-1dfd42.mp4", "categories": [], "metrics": {"area": 78, "cycles": 147, "cost": 230}, "color": 2, "shape": "OuSNQmYobEIET6BCOeRWQgsTo0Lxy05CRS6kQrXkSkL7co5Ca9xRQg=="},
+    {"gif": "https://files.mors.technology/ELEMENTAL_JEWEL_SETTING/230g-368c-64a-172i-2d9421f4.mp4", "categories": [], "metrics": {"area": 64, "cycles": 368, "cost": 230}, "color": 3, "shape": "woj2QK1Iq0IQVNVA1CavQjiIAUE/h6xC"},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-260g-790c-58a-225i-10h-9.5w-132r-f4eeed.mp4", "categories": ["WG"], "metrics": {"area": 58, "cycles": 790, "cost": 260}, "color": 0, "shape": "ThXBPhoUtkIHPSQ/W0LHQgB/s0DihcFC7729QI3MsEI+Tp9ADe+oQmD3mUBCc6hCjZx3P+PRsEI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-295g-2490c-56a-791i-9h-9.5w-415r-e3d245.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 56, "cycles": 2490, "cost": 295}, "color": 2, "shape": "AAAAANNRskIAAAAAAADIQgc9JD9bQsdCThXBPhoUtkI="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-300g-332c-63a-171i-11h-10w-55r-e72f16.gif", "categories": [], "metrics": {"area": 63, "cycles": 332, "cost": 300}, "color": 1, "shape": "AH+zQOKFwUJN44dB4mK0QjiIAUE/h6xCEFTVQNQmr0Lvvb1AjcywQg=="},
+    {"gif": "https://files.mors.technology/Elemental-Jewel-Setting-795g-76c-437a-988i-27h-22.5w-7722bc.mp4", "categories": [], "metrics": {"area": 437, "cycles": 76, "cost": 795}, "color": 2, "shape": "D4efQuI0OEIUSaVCrVNHQmIlrEIogEdCFL2sQhp2R0I="},
+    {"gif": "https://files.mors.technology/ELEMENTAL_JEWEL_SETTING/1620g-73c-280a-1000i-dc078ff7.mp4", "categories": ["CG"], "metrics": {"area": 280, "cycles": 73, "cost": 1620}, "color": 1, "shape": "FL2sQhp2R0JiJaxCKIBHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/ELEMENTAL_JEWEL_SETTING/1715g-73c-232a-1015i-82d7a829.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 232, "cycles": 73, "cost": 1715}, "color": 0, "shape": "CxOjQvHLTkJ/NK1CAABIQmIlrEIogEdCFEmlQq1TR0JFLqRCteRKQg=="},
+    {"gif": "https://i.imgur.com/hnxInkw.gif", "categories": ["CA"], "metrics": {"area": 223, "cycles": 73, "cost": 1875}, "color": 3, "shape": "BE+gQjnkVkKANK1CAQBIQn80rUIAAEhCCxOjQvHLTkI="}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "w2501727889",
+  "name": "Swamp Fiber",
+  "collection": "Community",
+  "group": "Tournament 2020",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/37NmmFz.gif", "categories": ["GC"], "metrics": {"area": 791, "cycles": 604, "cost": 80}, "color": 1, "shape": "qwzQQB88cEAAAAAAAAAAAAAAAAAAAEg2S1dSQSClZUHG/1lBVN9hQVHrZUE6Z1dB"},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-80g-823c-103a-829i-5h-16.5w-e7e5f1.mp4", "categories": ["GX"], "metrics": {"area": 103, "cycles": 823, "cost": 80}, "color": 2, "shape": "S1dSQSClZUGr8GY2AADINqsKzT8xgoVCFw0eQD+Li0Ig9B9BfbAVQg=="},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/80g-1001c-96a-1001i-d536c344.mp4", "categories": ["GA"], "metrics": {"area": 96, "cycles": 1001, "cost": 80}, "color": 3, "shape": "AAAAAAAASDYAAAAAspqNQqsKzT8xgoVCq/BmNgAAyDY="},
+    {"gif": "https://i.imgur.com/8Aih3rR.gif", "categories": ["TIA", "TG"], "metrics": {"area": 1407, "cycles": 382, "cost": 100}, "color": 3, "shape": "qwzQQB88cEBR62VBOmdXQXWSckEa2lxBElejQbMQb0H1leJBwdGCQQ=="},
+    {"gif": "https://i.imgur.com/Kx9dkyK.gif", "categories": ["AG"], "metrics": {"area": 83, "cycles": 938, "cost": 105}, "color": 0, "shape": "Fw0eQD+Li0KrCs0/MYKFQgAAAACymo1CAAAAAAAAyEKANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/145g-574c-83a-955i-a25f0ceb.mp4", "categories": ["AC", "AX"], "metrics": {"area": 83, "cycles": 574, "cost": 145}, "color": 1, "shape": "gDQtNgAAyEJx2FlA0BHEQtCukUBt0LxCG/nsQHEyjEI9UfFA7SqJQiD0H0F9sBVCFw0eQD+Li0I="},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-155g-345c-523a-101i-34h-26.5w-57r-f2d30d.gif", "categories": [], "metrics": {"area": 523, "cycles": 345, "cost": 155}, "color": 2, "shape": "xv9ZQVTfYUF1knJBGtpcQVHrZUE6Z1dB"},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-220g-169c-120a-630i-7h-19w-Infr-5714d0.gif", "categories": [], "metrics": {"area": 120, "cycles": 169, "cost": 220}, "color": 0, "shape": "PVHxQO0qiUISV6NBsxBvQXWSckEa2lxBxv9ZQVTfYUFLV1JBIKVlQSD0H0F9sBVC"},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-230g-141c-120a-634i-7h-19w-Infr-888b52.mp4", "categories": [], "metrics": {"area": 120, "cycles": 141, "cost": 230}, "color": 2, "shape": "XRrnQWhthUH1leJBwdGCQRJXo0GzEG9BPVHxQO0qiUIb+exAcTKMQvbn0EEyJulB"},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/250g-105c-128a-395i-37463c2a.mp4", "categories": [], "metrics": {"area": 128, "cycles": 105, "cost": 250}, "color": 1, "shape": "blCKQiK2H0JdGudBaG2FQfbn0EEyJulB3/xTQqeWbEK2rodCwQxHQu8HiEK96UJC"},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/250g-109c-116a-413i-b8b892c4.mp4", "categories": ["SUM"], "metrics": {"area": 116, "cycles": 109, "cost": 250}, "color": 3, "shape": "3/xTQqeWbEL259BBMibpQRv57EBxMoxC0K6RQG3QvEI="},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/420g-85c-111a-97i-e3304c24.mp4", "categories": [], "metrics": {"area": 111, "cycles": 85, "cost": 420}, "color": 0, "shape": "Fl+NQuBKVkK2rodCwQxHQt/8U0KnlmxC0K6RQG3QvEJx2FlA0BHEQh4z9UHFm6RCSLhtQkbZfEI="},
+    {"gif": "https://i.imgur.com/6t2PnTf.gif", "categories": ["CG"], "metrics": {"area": 357, "cycles": 55, "cost": 470}, "color": 0, "shape": "blCKQiK2H0LvB4hCvelCQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-475g-55c-349a-476i-26h-21w-a282dd.mp4", "categories": [], "metrics": {"area": 349, "cycles": 55, "cost": 475}, "color": 2, "shape": "tq6HQsEMR0IWX41C4EpWQhy7o0Kya05CfzStQgAASELvB4hCvelCQg=="},
+    {"gif": "https://files.mors.technology/SWAMP_FIBER/760g-58c-164a-202i-04c24e3f.mp4", "categories": [], "metrics": {"area": 164, "cycles": 58, "cost": 760}, "color": 3, "shape": "SLhtQkbZfEIcu6NCsmtOQhZfjULgSlZC"},
+    {"gif": "https://files.mors.technology/Swamp-Fiber-1130g-55c-134a-739i-12h-16.5w-b99bd5.mp4", "categories": ["CA", "CX", "OCX"], "metrics": {"area": 134, "cycles": 55, "cost": 1130}, "color": 1, "shape": "HjP1QcWbpEKANK1CAQBIQn80rUIAAEhCHLujQrJrTkJIuG1CRtl8Qg=="}
+  ]
+}
