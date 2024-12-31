@@ -54,7 +54,6 @@ def process_solutions(
     for id, shape in shapes.items():
         row = df.iloc[id].to_dict()
         solutions.append({
-            'id': int(id),
             'gif': row['gif'],
             'categories': row['categories'],
             'metrics': {
@@ -64,7 +63,7 @@ def process_solutions(
             'color': coloring[id],
             'shape': pack_points(to_yx_percent(shape)),
         })
-    return solutions
+    return sorted(solutions, key=lambda s: (s['metrics']['cost'], s['metrics']['cycles'], s['metrics']['area']))
 
 def get_last_updated():
     filepath = (EXPORT_DIR / 'last_updated')
