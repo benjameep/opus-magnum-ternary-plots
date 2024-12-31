@@ -78,7 +78,7 @@ def get_last_updated():
 
 def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False, depth=24):
     puzzles = api.list_puzzles()
-    json.dump(puzzles, (EXPORT_DIR / 'puzzles.json').open('w'))
+    (EXPORT_DIR / 'puzzles.json').write_text('[\n  ' + ',\n  '.join(json.dumps(puzzle) for puzzle in puzzles) + '\n]')
 
     puzzles_to_update = puzzles
 
