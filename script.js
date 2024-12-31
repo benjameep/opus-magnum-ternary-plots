@@ -43,8 +43,6 @@ function loadPuzzle(puzzle_id) {
   window.PUZZLE = puzzle_id;
   fetch(`./data/solutions/${puzzle_id}.json`).then(r => r.json()).then(data => {
     $('h1').text(data.name);
-    const last_updated = (new Date(data.last_updated)).toLocaleDateString();
-    $('.leaflet-control-attribution').html(`<a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
   
     for(var i = 0; i < data.solutions.length; i++) {
       const solution = data.solutions[i];
@@ -109,6 +107,14 @@ fetch('./data/puzzles.json').then(r => r.json()).then(data => {
     loadPuzzle(random_puzzle.id);
   }
 })
+
+fetch('./data/last_updated').then(r => r.text()).then(data => {
+  const last_updated = (new Date(data)).toLocaleString([], {
+    dateStyle: 'medium',
+    timeStyle: 'short',
+  });
+  $('.leaflet-control-attribution').html(`<a href="https://github.com/benjameep/opus-magnum-ternary-plots">last updated on ${last_updated}</a>`);
+});
 
 const puzzle_id = window.location.search.slice(1)
 if (puzzle_id) {

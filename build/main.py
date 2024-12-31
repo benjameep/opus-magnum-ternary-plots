@@ -1,7 +1,7 @@
 import lib.api as api
 from lib.mesh import get_polygons
 import numpy as np
-import time
+from datetime import datetime, timezone
 from pathlib import Path
 import json
 from tqdm import tqdm
@@ -66,13 +66,28 @@ def process_solutions(
         })
     return solutions
 
-def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False, depth=24):
-    now = time.time() * 1000
-    puzzles = api.list_puzzles()
+def get_last_updated():
+    filepath = (EXPORT_DIR / 'last_updated')
+    old = None
+    if filepath.exists():
+        old = filepath.read_text()
+        
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    filepath.write_text(now)
     
+    return old
+
+def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False, depth=24):
+    puzzles = api.list_puzzles()
     json.dump(puzzles, (EXPORT_DIR / 'puzzles.json').open('w'))
 
-    for puzzle in tqdm(puzzles):
+    puzzles_to_update = puzzles
+
+    last_updated = get_last_updated()
+    if last_updated:
+        puzzles_to_update = api.list_puzzles_with_new_records(last_updated)
+
+    for puzzle in tqdm(puzzles_to_update):
         filepath = (EXPORT_DIR / f'solutions/{puzzle["id"]}.json')
         solutions = process_solutions(
             puzzle['id'],
@@ -80,20 +95,21 @@ def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False,
             include_overlap=include_overlap,
             depth=depth
         )
-        data = {
-            'id': puzzle['id'],
-            'name': puzzle['name'],
-            'collection': puzzle['collection'],
-            'group': puzzle['group'],
-            'last_updated': now,
-            'num_colors': max(s['color'] for s in solutions) + 1,
-            'solutions': solutions,
-            'metrics': metrics,
-            'include_overlap': include_overlap,
-        }
-        json.dump(data, filepath.open('w'))
+        with filepath.open('w') as f:
+            data = {
+                'id': puzzle['id'],
+                'name': puzzle['name'],
+                'collection': puzzle['collection'],
+                'group': puzzle['group'],
+                'num_colors': max(s['color'] for s in solutions) + 1,
+                'metrics': metrics,
+                'include_overlap': include_overlap,
+                'solutions': [],
+            }
+            f.write(json.dumps(data, indent=2)[:-3] + '\n    ')
+            f.write(',\n    '.join(json.dumps(solution) for solution in solutions) + '\n  ]\n}')
 
-if __name__ == '__main__':    
+if __name__ == '__main__':
     process_all_puzzles(
         metrics=['area','cycles','cost'],
         include_overlap=False,
