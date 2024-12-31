@@ -4,3 +4,5 @@ __pycache__/
 solutions_old/
 .DS_Store
 old/
+logs/
+*.plist

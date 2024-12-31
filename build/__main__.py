@@ -85,6 +85,8 @@ def process_all_puzzles(metrics=['area','cycles','cost'], include_overlap=False,
     last_updated = get_last_updated()
     if last_updated:
         puzzles_to_update = api.list_puzzles_with_new_records(last_updated)
+    
+    print('Processing', len(puzzles_to_update), 'puzzles')
 
     for puzzle in tqdm(puzzles_to_update):
         filepath = (EXPORT_DIR / f'solutions/{puzzle["id"]}.json')
