@@ -32,8 +32,8 @@
     {"gif": "https://files.mors.technology/FILM_CRYSTAL/520g-99c-286a-37i-b40b8db9.mp4", "categories": [], "metrics": {"area": 286, "cycles": 99, "cost": 520}, "color": 0, "shape": "jYynQg14QULPqqdC39VBQljUp0LzykFC"},
     {"gif": "https://files.mors.technology/FILM_CRYSTAL/640g-77c-258a-762i-caccaff4.mp4", "categories": ["RG"], "metrics": {"area": 258, "cycles": 77, "cost": 640}, "color": 2, "shape": "nMOqQnAuRUJY1KdC88pBQs+qp0Lf1UFC/xSoQkLhREI="},
     {"gif": "https://files.mors.technology/FILM_CRYSTAL/750g-68c-211a-1137i-T-dc076545.mp4", "categories": ["TC"], "metrics": {"area": 211, "cycles": 68, "cost": 750}, "color": 0, "shape": "5BOsQr6yRkKcw6pCcC5FQv8UqEJC4URCXMSnQpEHSULa2KpCfglIQtvYqkJ+CUhC"},
-    {"gif": "https://files.mors.technology/FILM_CRYSTAL/830g-65c-210a-1076i-b5b9c082.mp4", "categories": ["CG"], "metrics": {"area": 210, "cycles": 65, "cost": 830}, "color": 1, "shape": "gDStQgAASELkE6xCvrJGQtvYqkJ9CUhC2tiqQn4JSEKANK1CAQBIQg=="},
-    {"gif": "https://files.mors.technology/FILM_CRYSTAL/935g-65c-175a-1160i-61675317.mp4", "categories": ["CX"], "metrics": {"area": 175, "cycles": 65, "cost": 935}, "color": 2, "shape": "pF2mQqGjTUJ+NK1CAABIQtvYqkJ9CUhCXMSnQpEHSUI="},
-    {"gif": "https://files.mors.technology/FILM_CRYSTAL/970g-65c-173a-1160i-1d1b03b7.mp4", "categories": ["CA"], "metrics": {"area": 173, "cycles": 65, "cost": 970}, "color": 0, "shape": "cSylQiNGUUKANK1CAQBIQn40rUIAAEhCpF2mQqGjTUI="}
+    {"gif": "https://files.mors.technology/FILM_CRYSTAL/830g-65c-210a-884i-09be3257.mp4", "categories": ["CG"], "metrics": {"area": 210, "cycles": 65, "cost": 830}, "color": 1, "shape": "gDStQgAASELkE6xCvrJGQtvYqkJ9CUhC2tiqQn4JSEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/FILM_CRYSTAL/935g-65c-175a-974i-4131afb2.mp4", "categories": ["CX"], "metrics": {"area": 175, "cycles": 65, "cost": 935}, "color": 2, "shape": "pF2mQqGjTUJ+NK1CAABIQtvYqkJ9CUhCXMSnQpEHSUI="},
+    {"gif": "https://files.mors.technology/FILM_CRYSTAL/970g-65c-173a-974i-0e72b494.mp4", "categories": ["CA", "RA"], "metrics": {"area": 173, "cycles": 65, "cost": 970}, "color": 0, "shape": "cSylQiNGUUKANK1CAQBIQn40rUIAAEhCpF2mQqGjTUI="}
   ]
 }
