@@ -11,11 +11,13 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Conductive-Enamel-90g-1155c-56a-193i-7h-11.5w-193r-T-e8b6ab.gif", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 56, "cycles": 1155, "cost": 90}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQt7hGkIRSptCvxUIQvZkYUI71+NBLIwWQthDzEBs3WtA"},
-    {"gif": "https://files.mors.technology/Conductive-Enamel-100g-826c-64a-210i-7h-11.5w-137r-c5b0c1.mp4", "categories": [], "metrics": {"area": 64, "cycles": 826, "cost": 100}, "color": 2, "shape": "2EPMQGzda0A71+NBLIwWQrTo0kFniXNB"},
-    {"gif": "https://files.mors.technology/Conductive-Enamel-210g-168c-71a-103i-7h-11.5w-27r-2c4467.gif", "categories": ["SUM_P"], "metrics": {"area": 71, "cycles": 168, "cost": 210}, "color": 0, "shape": "zqakQo8fPkK06NJBZ4lzQTvX40EsjBZCvxUIQvZkYUL02pdCnPBYQpLZmEJ0PVdC"},
-    {"gif": "https://files.mors.technology/Conductive-Enamel-240g-173c-70a-128i-7h-11.5w-28r-49be0a.gif", "categories": [], "metrics": {"area": 70, "cycles": 173, "cost": 240}, "color": 2, "shape": "9NqXQpzwWEK/FQhC9mRhQt7hGkIRSptCc1yQQl9OaUI="},
+    {"gif": "https://files.mors.technology/Conductive-Enamel-90g-1155c-56a-193i-7h-11.5w-193r-T-e8b6ab.gif", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 56, "cycles": 1155, "cost": 90}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQl6+E0KfWZ1CrCfDQbDf+kHYQ8xAbN1rQA=="},
+    {"gif": "https://files.mors.technology/Conductive-Enamel-100g-826c-64a-210i-7h-11.5w-137r-c5b0c1.mp4", "categories": [], "metrics": {"area": 64, "cycles": 826, "cost": 100}, "color": 2, "shape": "2EPMQGzda0CsJ8NBsN/6QRSwyUGW42hB"},
+    {"gif": "https://files.mors.technology/CONDUCTIVE_ENAMEL/180g-316c-67a-126i-40f1e8a9.mp4", "categories": [], "metrics": {"area": 67, "cycles": 316, "cost": 180}, "color": 0, "shape": "FLDJQZbjaEGsJ8NBsN/6QV6+E0KfWZ1C8U8WQsybnEK+RTpCCl5uQkezOUJW5F5CgzHwQfysikE="},
+    {"gif": "https://files.mors.technology/Conductive-Enamel-210g-168c-71a-103i-7h-11.5w-27r-2c4467.gif", "categories": ["SUM_P"], "metrics": {"area": 71, "cycles": 168, "cost": 210}, "color": 1, "shape": "gzHwQfysikFHszlCVuReQvTal0Kc8FhCktmYQnQ9V0LOpqRCjx8+Qg=="},
+    {"gif": "https://files.mors.technology/Conductive-Enamel-240g-173c-70a-128i-7h-11.5w-28r-49be0a.gif", "categories": [], "metrics": {"area": 70, "cycles": 173, "cost": 240}, "color": 2, "shape": "9NqXQpzwWEJHszlCVuReQr5FOkIKXm5CFmZXQtrRiUJzXJBCX05pQg=="},
+    {"gif": "https://files.mors.technology/CONDUCTIVE_ENAMEL/240g-242c-68a-140i-be731848.mp4", "categories": [], "metrics": {"area": 68, "cycles": 242, "cost": 240}, "color": 1, "shape": "vkU6QgpebkLxTxZCzJucQhZmV0La0YlC"},
     {"gif": "https://i.imgur.com/Ezm8MPE.gif", "categories": ["CG_P", "RG_P"], "metrics": {"area": 74, "cycles": 134, "cost": 460}, "color": 2, "shape": "zqakQo8fPkKS2ZhCdD1XQpAsn0KeM1hCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/Conductive-Enamel-480g-139c-73a-117i-7h-11.5w-22r-ab032e.gif", "categories": [], "metrics": {"area": 73, "cycles": 139, "cost": 480}, "color": 1, "shape": "c1yQQl9OaUKQLJ9CnjNYQpLZmEJ0PVdC9NqXQpzwWEI="}
+    {"gif": "https://files.mors.technology/Conductive-Enamel-480g-139c-73a-117i-7h-11.5w-22r-ab032e.gif", "categories": [], "metrics": {"area": 73, "cycles": 139, "cost": 480}, "color": 0, "shape": "c1yQQl9OaUKQLJ9CnjNYQpLZmEJ0PVdC9NqXQpzwWEI="}
   ]
 }

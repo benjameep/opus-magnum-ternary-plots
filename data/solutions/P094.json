@@ -11,10 +11,11 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Welding-Thermite-110g-1946c-74a-2888i-7h-12w-68806b.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 74, "cycles": 1946, "cost": 110}, "color": 1, "shape": "AAAAAAAAAAAAAAAA3JeHQczGikEWNFJB1j+PQf1oJUE="},
-    {"gif": "https://files.mors.technology/Welding-Thermite-145g-954c-74a-248i-7h-12w-155r-62c9ce.mp4", "categories": [], "metrics": {"area": 74, "cycles": 954, "cost": 145}, "color": 2, "shape": "1j+PQf1oJUHMxopBFjRSQSs+F0Lko65B"},
-    {"gif": "https://files.mors.technology/WELDING_THERMITE/160g-811c-68a-200i-T-a55d1442.mp4", "categories": [], "metrics": {"area": 68, "cycles": 811, "cost": 160}, "color": 0, "shape": "AAAAAAAAyEIOiXJCcPyBQr5jSELXY+dBKz4XQuSjrkHMxopBFjRSQQAAAADcl4dB"},
-    {"gif": "https://files.mors.technology/WELDING_THERMITE/280g-165c-73a-102i-687119bb.mp4", "categories": ["SUM_P"], "metrics": {"area": 73, "cycles": 165, "cost": 280}, "color": 1, "shape": "vmNIQtdj50EOiXJCcPyBQsUDnkJTillCMZekQocNPkI="},
+    {"gif": "https://files.mors.technology/Welding-Thermite-110g-1946c-74a-2888i-7h-12w-68806b.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 74, "cycles": 1946, "cost": 110}, "color": 2, "shape": "AAAAAAAAAAAAAAAA3JeHQczGikEWNFJB1j+PQf1oJUE="},
+    {"gif": "https://files.mors.technology/Welding-Thermite-145g-954c-74a-248i-7h-12w-155r-62c9ce.mp4", "categories": [], "metrics": {"area": 74, "cycles": 954, "cost": 145}, "color": 1, "shape": "1j+PQf1oJUHMxopBFjRSQcYVEkIpQqpBidgSQh+QqUE="},
+    {"gif": "https://files.mors.technology/WELDING_THERMITE/160g-811c-68a-200i-T-a55d1442.mp4", "categories": [], "metrics": {"area": 68, "cycles": 811, "cost": 160}, "color": 0, "shape": "AAAAAAAAyEIOiXJCcPyBQvRFXEIxwzdCxhUSQilCqkHMxopBFjRSQQAAAADcl4dB"},
+    {"gif": "https://files.mors.technology/WELDING_THERMITE/195g-452c-72a-143i-c65b0137.mp4", "categories": [], "metrics": {"area": 72, "cycles": 452, "cost": 195}, "color": 2, "shape": "+b9tQtVDCUKJ2BJCH5CpQcYVEkIpQqpB9EVcQjHDN0I="},
+    {"gif": "https://files.mors.technology/WELDING_THERMITE/280g-165c-73a-102i-687119bb.mp4", "categories": ["SUM_P"], "metrics": {"area": 73, "cycles": 165, "cost": 280}, "color": 1, "shape": "MZekQocNPkL5v21C1UMJQvRFXEIxwzdCDolyQnD8gULFA55CU4pZQg=="},
     {"gif": "https://files.mors.technology/Welding-Thermite-355g-136c-74a-99i-7h-12w-21r-f889be.gif", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 74, "cycles": 136, "cost": 355}, "color": 0, "shape": "MZekQocNPkLFA55CU4pZQoA0rUIAAEhC"}
   ]
 }
