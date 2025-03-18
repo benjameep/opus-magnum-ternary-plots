@@ -1,0 +1,30 @@
+{
+  "id": "w3446278995",
+  "name": "Bulk Transmutation",
+  "collection": "Community",
+  "group": "Tournament 2025",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/115g-568c-56a-359i-59365e98.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 56, "cycles": 568, "cost": 115}, "color": 1, "shape": "txD0QULpjEEAAAAAAAAAAAAAAAAJDYdCyiyVPlWLsULFPmA/qSjBQoCImECeUbJC"},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/120g-659c-46a-518i-T-7e53d69a.mp4", "categories": ["TG"], "metrics": {"area": 46, "cycles": 659, "cost": 120}, "color": 2, "shape": "xT5gP6kowULKLJU+VYuxQpm2nT7ZtLtCvWb8PjRNw0I="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/120g-1176c-29a-713i-77ade802.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "WC", "OAC", "WR"], "metrics": {"area": 29, "cycles": 1176, "cost": 120}, "color": 0, "shape": "AAAAAAkNh0IAAAAAAADIQr8YJT0W9MdCmbadPtm0u0LKLJU+VYuxQg=="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/130g-928c-30a-572i-c7f63baf.mp4", "categories": ["HG", "HC", "HR"], "metrics": {"area": 30, "cycles": 928, "cost": 130}, "color": 1, "shape": "mbadPtm0u0K/GCU9FvTHQuD1wz2448dCvWb8PjRNw0I="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/220g-406c-35a-466i-f9f4ff94.mp4", "categories": ["BG", "BC", "BR"], "metrics": {"area": 35, "cycles": 406, "cost": 220}, "color": 0, "shape": "4PXDPbjjx0KNglU/dgnHQnSDZkB+nb1C0NyNQNtDuEKAiJhAnlGyQsU+YD+pKMFCvWb8PjRNw0I="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/240g-270c-89a-66i-T-5058718b.mp4", "categories": [], "metrics": {"area": 89, "cycles": 270, "cost": 240}, "color": 2, "shape": "YvMMQoDBokG3EPRBQumMQYCImECeUbJC0NyNQNtDuEI="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/340g-81c-116a-48i-a35754bc.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 116, "cycles": 81, "cost": 340}, "color": 1, "shape": "30GUQlsxK0Ji8wxCgMGiQdDcjUDbQ7hCdINmQH6dvUIW9ClBBZK6Qg=="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/450g-57c-137a-153i-03cc68c0.mp4", "categories": [], "metrics": {"area": 137, "cycles": 57, "cost": 450}, "color": 0, "shape": "JLykQjE4PkLfQZRCWzErQhb0KUEFkrpCDh4qQRvAukKnyNlBsV6nQqLqK0KhZZNC"},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/450g-121c-59a-158i-8d5681df.mp4", "categories": [], "metrics": {"area": 59, "cycles": 121, "cost": 450}, "color": 2, "shape": "Dh4qQRvAukIW9ClBBZK6QnSDZkB+nb1CjYJVP3YJx0Lx4PxAAuC+Qg=="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/765g-36c-214a-544i-f4f006e5.mp4", "categories": [], "metrics": {"area": 214, "cycles": 36, "cost": 765}, "color": 1, "shape": "JLykQjE4PkKi6itCoWWTQsGNOUJTuZFCFallQkVehUIVbqdCMJpOQpqZrEIjTUdC"},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/785g-40c-172a-658i-533520a6.mp4", "categories": [], "metrics": {"area": 172, "cycles": 40, "cost": 785}, "color": 2, "shape": "GRrpQctJpkLBjTlCU7mRQqLqK0KhZZNCp8jZQbFep0I="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/835g-52c-119a-554i-bef35ba4.mp4", "categories": [], "metrics": {"area": 119, "cycles": 52, "cost": 835}, "color": 1, "shape": "Dh4qQRvAukLx4PxAAuC+Qj4P50FBpqZCGRrpQctJpkKnyNlBsV6nQg=="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/890g-36c-207a-470i-b110f6d1.mp4", "categories": [], "metrics": {"area": 207, "cycles": 36, "cost": 890}, "color": 2, "shape": "FW6nQjCaTkIRqWVCRV6FQhWpZUJFXoVCFqh7Qr20fkKOVqdCS8ZOQg=="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/985g-35c-454a-660i-fc7df9e1.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 454, "cycles": 35, "cost": 985}, "color": 0, "shape": "gDStQgAASEKamaxCI01HQhVup0Iwmk5CjlanQkvGTkI="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/995g-37c-184a-475i-64eb1e40.mp4", "categories": [], "metrics": {"area": 184, "cycles": 37, "cost": 995}, "color": 0, "shape": "Pg/nQUGmpkIWqHtCvbR+QhGpZUJFXoVCwY05QlO5kUIZGulBy0mmQg=="}
+  ]
+}
