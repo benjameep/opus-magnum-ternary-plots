@@ -3,7 +3,7 @@
   "name": "Hydrophobic Water",
   "collection": "Community",
   "group": "Tournament 2025",
-  "num_colors": 4,
+  "num_colors": 3,
   "metrics": [
     "area",
     "cycles",
@@ -11,16 +11,15 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/100g-478c-35a-92i-532133f0.mp4", "categories": ["GC", "GA", "GI", "GX", "HG", "OGC"], "metrics": {"area": 35, "cycles": 478, "cost": 100}, "color": 1, "shape": "AAAAAAAAAAAAAAAAbQqrQgs29EC80HNCtDqaQLMWMkA="},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/115g-132c-41a-206i-0e28ec33.mp4", "categories": ["SUM"], "metrics": {"area": 41, "cycles": 132, "cost": 115}, "color": 0, "shape": "J9qBQrvwFUK0OppAsxYyQAs29EC80HNC2ys8QYTCm0JxZ3hC3xFBQuN7fUJciTdC"},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/130g-362c-34a-75i-163f635d.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 34, "cycles": 362, "cost": 130}, "color": 2, "shape": "2ys8QYTCm0ILNvRAvNBzQgAAAABtCqtCAAAAAAAAyEKrvfdAeA+/Qm/nDkH1E7pC"},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/200g-110c-38a-353i-90de090d.mp4", "categories": [], "metrics": {"area": 38, "cycles": 110, "cost": 200}, "color": 1, "shape": "8Ht5Qn6TVUJxZ3hC3xFBQtsrPEGEwptCb+cOQfUTukI4uEdBI5a5QsjAUkItKYtC"},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/245g-73c-60a-46i-5c388485.mp4", "categories": [], "metrics": {"area": 60, "cycles": 73, "cost": 245}, "color": 1, "shape": "J9qBQrvwFULje31CXIk3QqDygkKpJThC1GaFQv7lHkKL84NCQV0YQg=="},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/270g-71c-53a-33i-2a2a6474.mp4", "categories": ["IG", "IC", "IA"], "metrics": {"area": 53, "cycles": 71, "cost": 270}, "color": 2, "shape": "KzuKQtnWUEKg8oJCqSU4QuN7fUJciTdCcWd4Qt8RQULwe3lCfpNVQg=="},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/275g-151c-37a-63i-8fa9253c.mp4", "categories": [], "metrics": {"area": 37, "cycles": 151, "cost": 275}, "color": 0, "shape": "q733QHgPv0I4uEdBI5a5Qm/nDkH1E7pC"},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/285g-56c-75a-37i-da9d2c39.mp4", "categories": [], "metrics": {"area": 75, "cycles": 56, "cost": 285}, "color": 2, "shape": "i/ODQkFdGELUZoVC/uUeQtYYi0KLnSBC"},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/300g-51c-68a-39i-1e2d12b5.mp4", "categories": [], "metrics": {"area": 68, "cycles": 51, "cost": 300}, "color": 0, "shape": "oPKCQqklOEIrO4pC2dZQQn4jmUK0K19CDI2mQvquT0KbG6VCbaY+QtYYi0KLnSBC1GaFQv7lHkI="},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/325g-70c-47a-225i-79965557.mp4", "categories": [], "metrics": {"area": 47, "cycles": 70, "cost": 325}, "color": 3, "shape": "yMBSQi0pi0J+I5lCtCtfQis7ikLZ1lBC8Ht5Qn6TVUI="},
-    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/420g-43c-97a-86i-2bb11aa1.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 97, "cycles": 43, "cost": 420}, "color": 1, "shape": "mxulQm2mPkIMjaZC+q5PQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/90g-1948c-1103a-340i-T-bed5a8ee.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 1103, "cycles": 1948, "cost": 90}, "color": 0, "shape": "AAAAAAAAAAAAAAAAhpo9QPduUUA61fE/"},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/100g-478c-35a-92i-532133f0.mp4", "categories": ["HG"], "metrics": {"area": 35, "cycles": 478, "cost": 100}, "color": 1, "shape": "N66KQW0iIEH3blFAOtXxPwAAAACGmj1AAAAAADbhuEL9uCk/+jXEQmilTUC1a71C"},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/115g-132c-41a-206i-0e28ec33.mp4", "categories": [], "metrics": {"area": 41, "cycles": 132, "cost": 115}, "color": 2, "shape": "o3OSQp0bKUI3ropBbSIgQWilTUC1a71Cp6h8QAy6wEI="},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/130g-362c-34a-75i-163f635d.mp4", "categories": [], "metrics": {"area": 34, "cycles": 362, "cost": 130}, "color": 0, "shape": "p6h8QAy6wEJopU1AtWu9Qv24KT/6NcRCC1QsPwQ5x0LOFwhAaovFQhm2IUCL18RCl4tvQNWawUI="},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/130g-1944c-27a-331i-5b34cf7a.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 27, "cycles": 1944, "cost": 130}, "color": 2, "shape": "AAAAADbhuEIAAAAAAADIQgtULD8EOcdC/bgpP/o1xEI="},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/170g-74c-40a-151i-e9d67d85.mp4", "categories": ["SUM"], "metrics": {"area": 40, "cycles": 74, "cost": 170}, "color": 1, "shape": "9Q2oQnoNQkKjc5JCnRspQqeofEAMusBCl4tvQNWawUIlK/hAhAu/QtOfbEJEsYNC"},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/200g-110c-38a-353i-90de090d.mp4", "categories": [], "metrics": {"area": 38, "cycles": 110, "cost": 200}, "color": 2, "shape": "/W1lQFDcw0IlK/hAhAu/QpeLb0DVmsFCGbYhQIvXxEI="},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/275g-151c-37a-63i-8fa9253c.mp4", "categories": [], "metrics": {"area": 37, "cycles": 151, "cost": 275}, "color": 1, "shape": "zhcIQGqLxUL9bWVAUNzDQhm2IUCL18RC"},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/300g-51c-68a-39i-1e2d12b5.mp4", "categories": [], "metrics": {"area": 68, "cycles": 51, "cost": 300}, "color": 0, "shape": "9Q2oQnoNQkLTn2xCRLGDQvralUJB9mJCSDqrQne3RUI="},
+    {"gif": "https://files.mors.technology/HYDROPHOBIC_WATER/420g-43c-97a-86i-2bb11aa1.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 97, "cycles": 43, "cost": 420}, "color": 1, "shape": "SDqrQne3RUL62pVCQfZiQoA0rUIAAEhC"}
   ]
 }
