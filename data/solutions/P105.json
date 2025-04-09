@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Vanishing-Material-170g-458c-71a-145i-7h-11w-76r-f51039.gif", "categories": ["GC_P", "GX_P", "OGC_P"], "metrics": {"area": 71, "cycles": 458, "cost": 170}, "color": 1, "shape": "AAAAAAAAAAAAAAAAyXnZQXYZoUHDuddBAov0Qd0vjUE="},
+    {"gif": "https://files.mors.technology/Vanishing-Material-170g-458c-71a-145i-7h-11w-76r-f51039.gif", "categories": ["GC_P", "GX_P"], "metrics": {"area": 71, "cycles": 458, "cost": 170}, "color": 1, "shape": "AAAAAAAAAAAAAAAAyXnZQXYZoUHDuddBAov0Qd0vjUE="},
     {"gif": "https://files.mors.technology/VANISHING_MATERIAL/210g-379c-66a-118i-3c4e25c2.mp4", "categories": [], "metrics": {"area": 66, "cycles": 379, "cost": 210}, "color": 2, "shape": "AAAAAAAAyELtRlpBST+4Qn/yg0G816pCdhmhQcO510EAAAAAyXnZQQ=="},
     {"gif": "https://files.mors.technology/Vanishing-Material-240g-168c-67a-85i-7h-11w-26r-T-0eaafb.gif", "categories": ["SUM_P"], "metrics": {"area": 67, "cycles": 168, "cost": 240}, "color": 0, "shape": "9a+AQmiYFEICi/RB3S+NQXYZoUHDuddBf/KDQbzXqkKlFn1CCUswQg=="},
     {"gif": "https://files.mors.technology/Vanishing-Material-295g-125c-69a-90i-7h-11w-19r-b2a0ae.gif", "categories": [], "metrics": {"area": 69, "cycles": 125, "cost": 295}, "color": 2, "shape": "9a+AQmiYFEKlFn1CCUswQkOAlUJaijVCWeiYQgCQMEI="},

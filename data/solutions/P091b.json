@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/HEXSTABILIZED_SALT/50g-932c-61a-932i-T-6573277f.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 61, "cycles": 932, "cost": 50}, "color": 0, "shape": "gDQtNgAAyDWIpSVBH7K9QSGRZEEeS8BBW0+aQYsuMkE="},
+    {"gif": "https://files.mors.technology/HEXSTABILIZED_SALT/50g-932c-61a-932i-T-6573277f.mp4", "categories": ["GC_P"], "metrics": {"area": 61, "cycles": 932, "cost": 50}, "color": 0, "shape": "gDQtNgAAyDWIpSVBH7K9QSGRZEEeS8BBW0+aQYsuMkE="},
     {"gif": "https://files.mors.technology/Hexstabilized-Salt-50g-1202c-59a-465i-9h-9w-66.43r-T-e58828.mp4", "categories": [], "metrics": {"area": 59, "cycles": 1202, "cost": 50}, "color": 1, "shape": "AAAAAAAAAAAAAAAACdbRQYilJUEfsr1BgDQtNgAAyDU="},
     {"gif": "https://files.mors.technology/Hexstabilized-Salt-85g-438c-60a-211i-9h-9w-25.58r-3aff59.mp4", "categories": [], "metrics": {"area": 60, "cycles": 438, "cost": 85}, "color": 1, "shape": "s00KQvuyn0FbT5pBiy4yQSGRZEEeS8BBCTCuQSaT5EE42dNB21DsQQ=="},
     {"gif": "https://files.mors.technology/Hexstabilized-Salt-120g-225c-59a-32i-9h-9w-12r-59637f.mp4", "categories": ["SUM_P"], "metrics": {"area": 59, "cycles": 225, "cost": 120}, "color": 2, "shape": "mbhvQi1nCkKzTQpC+7KfQTjZ00HbUOxBr/lbQvhPSkI="},
