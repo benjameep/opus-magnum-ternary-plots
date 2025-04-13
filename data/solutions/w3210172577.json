@@ -12,7 +12,7 @@
   "include_overlap": false,
   "solutions": [
     {"gif": "https://files.mors.technology/TOUCHSTONE/40g-1697c-731a-284i-T-b11f1308.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 731, "cycles": 1697, "cost": 40}, "color": 2, "shape": "AAAAAAAAAAAAAAAAsqF8QZ01l0D6FmpBhdwCQUAqTEGdinVBcMMNQQ=="},
-    {"gif": "https://files.mors.technology/TOUCHSTONE/130g-600c-22a-305i-31f8e78b.mp4", "categories": ["AG", "AC", "AX", "WG", "WC", "BG", "OAC", "WR"], "metrics": {"area": 22, "cycles": 600, "cost": 130}, "color": 0, "shape": "nTWXQPoWakEAAAAAsqF8QQAAAAAAAMhCfs+/QCIUwULM79FAMI2/QlHaIEGTpLVCeDQ2QR/dnEJ9YCxBiIaMQg=="},
+    {"gif": "https://files.mors.technology/TOUCHSTONE/130g-600c-22a-305i-31f8e78b.mp4", "categories": ["AG", "AC", "AX", "BG", "OAC"], "metrics": {"area": 22, "cycles": 600, "cost": 130}, "color": 0, "shape": "nTWXQPoWakEAAAAAsqF8QQAAAAAAAMhCfs+/QCIUwULM79FAMI2/QlHaIEGTpLVCeDQ2QR/dnEJ9YCxBiIaMQg=="},
     {"gif": "https://files.mors.technology/TOUCHSTONE/135g-166c-56a-400i-d9fb9b15.mp4", "categories": [], "metrics": {"area": 56, "cycles": 166, "cost": 135}, "color": 0, "shape": "nYp1QXDDDUGF3AJBQCpMQTw+jUG5XNxBUiymQVXhP0E="},
     {"gif": "https://files.mors.technology/TOUCHSTONE/135g-168c-55a-388i-e7ec262d.mp4", "categories": [], "metrics": {"area": 55, "cycles": 168, "cost": 135}, "color": 1, "shape": "PD6NQblc3EGF3AJBQCpMQZ01l0D6FmpBfWAsQYiGjEI="},
     {"gif": "https://files.mors.technology/TOUCHSTONE/140g-111c-57a-262i-7b45a6fd.mp4", "categories": ["SUM"], "metrics": {"area": 57, "cycles": 111, "cost": 140}, "color": 2, "shape": "qnyUQj51K0JSLKZBVeE/QTw+jUG5XNxBfWAsQYiGjEJ4NDZBH92cQqcei0JegDlC"},
