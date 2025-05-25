@@ -3,7 +3,7 @@
   "name": "Aether Detector",
   "collection": "Campaign",
   "group": "Production Alchemy",
-  "num_colors": 4,
+  "num_colors": 5,
   "metrics": [
     "area",
     "cycles",
@@ -11,15 +11,18 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Aether-Detector-80g-386c-86a-117i-7h-12w-62r-0f2137.gif", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 86, "cycles": 386, "cost": 80}, "color": 2, "shape": "/boFQilrmkEAAAAAAAAAAAAAAAAAAEg2cjTMQS6awkE="},
-    {"gif": "https://files.mors.technology/Aether-Detector-80g-413c-84a-121i-7h-12w-66r-fb038d.gif", "categories": [], "metrics": {"area": 84, "cycles": 413, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAA6Hk+QlZRHEFGrzNCcjTMQS6awkE="},
-    {"gif": "https://files.mors.technology/AETHER_DETECTOR/140g-206c-82a-87i-T-f2873d1c.mp4", "categories": ["SUM_P"], "metrics": {"area": 82, "cycles": 206, "cost": 140}, "color": 1, "shape": "4WRiQmu1AkL9ugVCKWuaQXI0zEEumsJBVlEcQUavM0IyoUxCFep9QmjZTkK963hC"},
-    {"gif": "https://files.mors.technology/Aether-Detector-170g-176c-83a-96i-7h-12w-28r-8f9c35.gif", "categories": [], "metrics": {"area": 83, "cycles": 176, "cost": 170}, "color": 2, "shape": "4WRiQmu1AkJo2U5Cvet4QtQNfEKn1i9CYEp4QsFZD0I="},
-    {"gif": "https://files.mors.technology/AETHER_DETECTOR/200g-288c-78a-96i-46196bd3.mp4", "categories": [], "metrics": {"area": 78, "cycles": 288, "cost": 200}, "color": 2, "shape": "QRpXQr3niUIyoUxCFep9QlZRHEFGrzNCAAAAAOh5PkIAAAAAAADIQg=="},
-    {"gif": "https://files.mors.technology/Aether-Detector-225g-135c-86a-86i-7h-12w-21r-fa3701.gif", "categories": ["RG_P", "RI_P"], "metrics": {"area": 86, "cycles": 135, "cost": 225}, "color": 1, "shape": "YEp4QsFZD0LUDXxCp9YvQiKOqUJecklCIuaqQonfR0KqLKtC6B5HQjswq0Ldq0VC"},
-    {"gif": "https://files.mors.technology/Aether-Detector-240g-136c-84a-92i-7h-12w-21r-0a80fc.gif", "categories": [], "metrics": {"area": 84, "cycles": 136, "cost": 240}, "color": 0, "shape": "MqFMQhXqfUJBGldCveeJQjIhqUK1tExCIo6pQl5ySULUDXxCp9YvQmjZTkK963hC"},
-    {"gif": "https://files.mors.technology/Aether-Detector-270g-134c-88a-88i-7h-12w-21r-7d1868.gif", "categories": ["CG_P", "CX_P"], "metrics": {"area": 88, "cycles": 134, "cost": 270}, "color": 0, "shape": "OzCrQt2rRUKqLKtC6B5HQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/Aether-Detector-280g-134c-87a-86i-7h-12w-21r-6d1bb7.gif", "categories": ["CI_P"], "metrics": {"area": 87, "cycles": 134, "cost": 280}, "color": 3, "shape": "IuaqQonfR0J9NK1C//9HQqosq0LoHkdC"},
-    {"gif": "https://files.mors.technology/Aether-Detector-300g-134c-86a-92i-7h-12w-21r-8f0ede.gif", "categories": [], "metrics": {"area": 86, "cycles": 134, "cost": 300}, "color": 2, "shape": "MiGpQrW0TEKANK1CAQBIQn00rUL//0dCIuaqQonfR0IijqlCXnJJQg=="}
+    {"gif": "https://files.mors.technology/Aether-Detector-80g-386c-86a-117i-7h-12w-62r-0f2137.gif", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 86, "cycles": 386, "cost": 80}, "color": 1, "shape": "wgjCQSkNYEEAAAAAAAAAAAAAAAAAAEg2F2BkQV58jkE="},
+    {"gif": "https://files.mors.technology/Aether-Detector-80g-413c-84a-121i-7h-12w-66r-fb038d.gif", "categories": [], "metrics": {"area": 84, "cycles": 413, "cost": 80}, "color": 2, "shape": "AAAAAAAASDYAAAAAkEzgQRdgZEFefI5B"},
+    {"gif": "https://files.mors.technology/AETHER_DETECTOR/130g-223c-77a-94i-9b1f5fe0.mp4", "categories": [], "metrics": {"area": 77, "cycles": 223, "cost": 130}, "color": 0, "shape": "AAAAAJBM4EEAAAAAIoSkQvhmf0Fzv5BCviIqQhsa00G9ARRCTueqQcIIwkEpDWBBF2BkQV58jkE="},
+    {"gif": "https://files.mors.technology/AETHER_DETECTOR/140g-206c-82a-87i-T-f2873d1c.mp4", "categories": ["SUM_P"], "metrics": {"area": 82, "cycles": 206, "cost": 140}, "color": 2, "shape": "vQEUQk7nqkG+IipCGxrTQV6jQEK9jOlBK69BQral30E="},
+    {"gif": "https://files.mors.technology/AETHER_DETECTOR/145g-204c-77a-90i-13d278ff.mp4", "categories": [], "metrics": {"area": 77, "cycles": 204, "cost": 145}, "color": 1, "shape": "XqNAQr2M6UG+IipCGxrTQfhmf0Fzv5BCeYbvQbi2hELoJ1xCnp4YQgMrWkKd1xNC"},
+    {"gif": "https://files.mors.technology/AETHER_DETECTOR/165g-192c-77a-88i-214e0220.mp4", "categories": [], "metrics": {"area": 77, "cycles": 192, "cost": 165}, "color": 4, "shape": "6CdcQp6eGEJ5hu9BuLaEQv2nfEILL2tCOzdqQrH2MEI="},
+    {"gif": "https://files.mors.technology/Aether-Detector-170g-176c-83a-96i-7h-12w-28r-8f9c35.gif", "categories": [], "metrics": {"area": 83, "cycles": 176, "cost": 170}, "color": 3, "shape": "BCtaQjPr+0Err0FCtqXfQV6jQEK9jOlBAytaQp3XE0I="},
+    {"gif": "https://files.mors.technology/AETHER_DETECTOR/215g-195c-76a-97i-6c80a840.mp4", "categories": [], "metrics": {"area": 76, "cycles": 195, "cost": 215}, "color": 3, "shape": "lX6DQsspeEL9p3xCCy9rQnmG70G4toRC+GZ/QXO/kEIAAAAAIoSkQgAAAAAAAMhC"},
+    {"gif": "https://files.mors.technology/Aether-Detector-225g-135c-86a-86i-7h-12w-21r-fa3701.gif", "categories": ["RG_P", "RI_P"], "metrics": {"area": 86, "cycles": 135, "cost": 225}, "color": 0, "shape": "6TiqQkiOREIEK1pCM+v7QQMrWkKd1xNC6CdcQp6eGEI7N2pCsfYwQnwip0KL80pCuHqpQuIvSEJ+BKpC3+pGQg=="},
+    {"gif": "https://files.mors.technology/Aether-Detector-240g-136c-84a-92i-7h-12w-21r-0a80fc.gif", "categories": [], "metrics": {"area": 84, "cycles": 136, "cost": 240}, "color": 2, "shape": "fCKnQovzSkI7N2pCsfYwQv2nfEILL2tClX6DQsspeEIHEKZCVj9QQg=="},
+    {"gif": "https://files.mors.technology/Aether-Detector-270g-134c-88a-88i-7h-12w-21r-7d1868.gif", "categories": ["CG_P", "CX_P"], "metrics": {"area": 88, "cycles": 134, "cost": 270}, "color": 2, "shape": "6TiqQkiOREJ+BKpC3+pGQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Aether-Detector-280g-134c-87a-86i-7h-12w-21r-6d1bb7.gif", "categories": ["CI_P"], "metrics": {"area": 87, "cycles": 134, "cost": 280}, "color": 3, "shape": "uHqpQuIvSEJ/NK1CAABIQn4EqkLf6kZC"},
+    {"gif": "https://files.mors.technology/Aether-Detector-300g-134c-86a-92i-7h-12w-21r-8f0ede.gif", "categories": [], "metrics": {"area": 86, "cycles": 134, "cost": 300}, "color": 1, "shape": "BxCmQlY/UEKANK1CAQBIQn80rUIAAEhCuHqpQuIvSEJ8IqdCi/NKQg=="}
   ]
 }
