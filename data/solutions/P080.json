@@ -24,8 +24,8 @@
     {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/120g-142c-46a-78i-65c797ec.mp4", "categories": [], "metrics": {"area": 46, "cycles": 142, "cost": 120}, "color": 0, "shape": "6pXHQE/MwELkFV1CmC2IQjqMyUFd3U9CgKC8Qf7IUELavNhAPYmsQg=="},
     {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/135g-76c-57a-62i-49694f04.mp4", "categories": [], "metrics": {"area": 57, "cycles": 76, "cost": 135}, "color": 1, "shape": "HJuSQqQsLELfjI1C3aUuQtQ/k0KmWTtC9ZqTQmj7OkI="},
     {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/175g-55c-60a-63i-de93b7bc.mp4", "categories": [], "metrics": {"area": 60, "cycles": 55, "cost": 175}, "color": 2, "shape": "0viiQg4vPEI1JZNCqOgpQhybkkKkLCxC9ZqTQmj7OkI="},
-    {"gif": "https://files.mors.technology/Viscous-Sludge-225g-46c-56a-152i-9h-9w-7r-d6cd9e.gif", "categories": ["RG_P", "ORG_P"], "metrics": {"area": 56, "cycles": 46, "cost": 225}, "color": 0, "shape": "Oq2RQtdiR0JX+ZNCfotjQmfrqkKfzUhCa9+rQid2RkLS+KJCDi88QvWak0Jo+zpC1D+TQqZZO0I="},
-    {"gif": "https://files.mors.technology/Viscous-Sludge-270g-45c-57a-64i-9h-9w-7r-f1bcb6.gif", "categories": ["CG_P", "CI_P", "CX_P", "RI_P", "ORX_P"], "metrics": {"area": 57, "cycles": 45, "cost": 270}, "color": 1, "shape": "a9+rQid2RkJn66pCn81IQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/Viscous-Sludge-225g-46c-56a-152i-9h-9w-7r-d6cd9e.gif", "categories": ["RG_P"], "metrics": {"area": 56, "cycles": 46, "cost": 225}, "color": 0, "shape": "Oq2RQtdiR0JX+ZNCfotjQmfrqkKfzUhCa9+rQid2RkLS+KJCDi88QvWak0Jo+zpC1D+TQqZZO0I="},
+    {"gif": "https://files.mors.technology/Viscous-Sludge-270g-45c-57a-64i-9h-9w-7r-f1bcb6.gif", "categories": ["CG_P", "CI_P", "CX_P", "RI_P"], "metrics": {"area": 57, "cycles": 45, "cost": 270}, "color": 1, "shape": "a9+rQid2RkJn66pCn81IQoA0rUIBAEhCgDStQgAASEI="},
     {"gif": "https://files.mors.technology/VISCOUS_SLUDGE/300g-45c-56a-68i-6b3a960d.mp4", "categories": [], "metrics": {"area": 56, "cycles": 45, "cost": 300}, "color": 2, "shape": "UcmTQtlZZUKANK1CAQBIQmfrqkKfzUhCV/mTQn6LY0I="}
   ]
 }
