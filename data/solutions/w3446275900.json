@@ -3,7 +3,7 @@
   "name": "Thermic Capacitor",
   "collection": "Community",
   "group": "Tournament 2025",
-  "num_colors": 3,
+  "num_colors": 4,
   "metrics": [
     "area",
     "cycles",
@@ -11,17 +11,17 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/90g-675c-66a-113i-09ec2346.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 66, "cycles": 675, "cost": 90}, "color": 0, "shape": "pEleQXxWAEEAAAAAAAAAAAAAAAAAAMhCgDQtNgAAyEI="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/140g-259c-66a-85i-T-20cf108b.mp4", "categories": [], "metrics": {"area": 66, "cycles": 259, "cost": 140}, "color": 1, "shape": "pEleQXxWAEGANC02AADIQoiFa0LBAoRCpUFLQqE3NEJM9i9CnNcNQnalsUFJIWNBCTuPQXJjJUE="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/160g-137c-84a-76i-T-077601be.mp4", "categories": [], "metrics": {"area": 84, "cycles": 137, "cost": 160}, "color": 0, "shape": "QcpHQpuy5kEJO49BcmMlQXalsUFJIWNBuI02Qnln6UE="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/160g-144c-80a-71i-T-65f57473.mp4", "categories": [], "metrics": {"area": 80, "cycles": 144, "cost": 160}, "color": 2, "shape": "dqWxQUkhY0FM9i9CnNcNQi5aM0JU3ghCuI02Qnln6UE="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/190g-102c-81a-59i-T-cbd0614e.mp4", "categories": ["SUM_P"], "metrics": {"area": 81, "cycles": 102, "cost": 190}, "color": 1, "shape": "LlozQlTeCEIp12FCcmEKQtmlVEJpi/VBQcpHQpuy5kG4jTZCeWfpQQ=="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/200g-92c-83a-59i-T-ff292faf.mp4", "categories": [], "metrics": {"area": 83, "cycles": 92, "cost": 200}, "color": 2, "shape": "X7WRQuk/KELZpVRCaYv1QSnXYUJyYQpCyAR2Qpy+FkI="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/200g-95c-80a-72i-T-2d77fb91.mp4", "categories": [], "metrics": {"area": 80, "cycles": 95, "cost": 200}, "color": 0, "shape": "TPYvQpzXDUKlQUtCoTc0Qj03WEKJ8DRCyAR2Qpy+FkIp12FCcmEKQi5aM0JU3ghC"},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/210g-89c-80a-72i-T-0dcae1d4.mp4", "categories": [], "metrics": {"area": 80, "cycles": 89, "cost": 210}, "color": 1, "shape": "dqmTQl6BKkJftZFC6T8oQsgEdkKcvhZCPTdYQonwNEJnlXZCPf45Qg=="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/245g-90c-77a-64i-f6a63443.mp4", "categories": [], "metrics": {"area": 77, "cycles": 90, "cost": 245}, "color": 2, "shape": "K8mQQtkWZEJnlXZCPf45Qj03WEKJ8DRCpUFLQqE3NEKIhWtCwQKEQsicjkJMU2tC"},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/250g-78c-79a-63i-9bb709c4.mp4", "categories": [], "metrics": {"area": 79, "cycles": 78, "cost": 250}, "color": 0, "shape": "dqmTQl6BKkJnlXZCPf45QivJkELZFmRCNgadQh0ySUKQ155CPGo3Qg=="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/410g-55c-85a-75i-cd5691cb.mp4", "categories": ["CG_P", "RG_P", "ORG_P"], "metrics": {"area": 85, "cycles": 55, "cost": 410}, "color": 2, "shape": "kNeeQjxqN0I2Bp1CHTJJQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/480g-55c-82a-79i-T-017d6477.mp4", "categories": [], "metrics": {"area": 82, "cycles": 55, "cost": 480}, "color": 1, "shape": "yJyOQkxTa0KANK1CAQBIQjYGnUIdMklCK8mQQtkWZEI="}
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/90g-665c-66a-665i-f7fa4cdd.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 66, "cycles": 665, "cost": 90}, "color": 1, "shape": "VMxfQb41AUEAAAAAAAAAAAAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/140g-259c-66a-85i-T-20cf108b.mp4", "categories": [], "metrics": {"area": 66, "cycles": 259, "cost": 140}, "color": 0, "shape": "VMxfQb41AUGANC02AADIQshKakKeXYRCheNJQkAHNEKghUlCcIIzQrLaJUI00wRCxIGvQUHAYEFTZI1B60MjQQ=="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/160g-137c-84a-76i-T-077601be.mp4", "categories": [], "metrics": {"area": 84, "cycles": 137, "cost": 160}, "color": 2, "shape": "0WlGQqYb5UFTZI1B60MjQcSBr0FBwGBB/64xQtKJ40E="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/160g-144c-80a-71i-T-65f57473.mp4", "categories": [], "metrics": {"area": 80, "cycles": 144, "cost": 160}, "color": 3, "shape": "xIGvQUHAYEGy2iVCNNMEQv+uMULSieNB"},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/190g-102c-80a-59i-T-8291eaef.mp4", "categories": ["SUM_P"], "metrics": {"area": 80, "cycles": 102, "cost": 190}, "color": 1, "shape": "oIVJQnCCM0K9RGpCRK4PQmlPU0IAAPRB0WlGQqYb5UH/rjFC0onjQbLaJUI00wRC"},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/200g-92c-83a-59i-T-ff292faf.mp4", "categories": [], "metrics": {"area": 83, "cycles": 92, "cost": 200}, "color": 3, "shape": "i1SRQhzQJ0JpT1NCAAD0Qb1EakJErg9C+9p0Qn8sFkI="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/200g-95c-80a-72i-T-2d77fb91.mp4", "categories": [], "metrics": {"area": 80, "cycles": 95, "cost": 200}, "color": 2, "shape": "+9p0Qn8sFkK9RGpCRK4PQqCFSUJwgjNCheNJQkAHNEJJ5FZC6r40Qg=="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/210g-89c-80a-72i-T-0dcae1d4.mp4", "categories": [], "metrics": {"area": 80, "cycles": 89, "cost": 210}, "color": 0, "shape": "Sk6TQhgYKkKLVJFCHNAnQvvadEJ/LBZCSeRWQuq+NEKYbHVCmNQ5Qg=="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/245g-90c-77a-64i-f6a63443.mp4", "categories": [], "metrics": {"area": 77, "cycles": 90, "cost": 245}, "color": 1, "shape": "vWWQQiJ5ZEKYbHVCmNQ5QknkVkLqvjRCheNJQkAHNELISmpCnl2EQl8zjkIBzWtC"},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/250g-78c-79a-63i-9bb709c4.mp4", "categories": [], "metrics": {"area": 79, "cycles": 78, "cost": 250}, "color": 2, "shape": "Sk6TQhgYKkKYbHVCmNQ5Qr1lkEIieWRCvsicQqk2SUJdoJ5Cfyo3Qg=="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/410g-55c-85a-75i-cd5691cb.mp4", "categories": ["CG_P", "RG_P", "ORG_P"], "metrics": {"area": 85, "cycles": 55, "cost": 410}, "color": 1, "shape": "XaCeQn8qN0K+yJxCqTZJQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/THERMIC_CAPACITOR/480g-55c-82a-79i-T-017d6477.mp4", "categories": [], "metrics": {"area": 82, "cycles": 55, "cost": 480}, "color": 0, "shape": "XzOOQgHNa0KANK1CAQBIQr7InEKpNklCvWWQQiJ5ZEI="}
   ]
 }
