@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/145g-1425c-101a-2318i-25849ea0.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 101, "cycles": 1425, "cost": 145}, "color": 2, "shape": "AAAAAAAAAAAAAAAAlLrfQUft4UHy7BFCntDhQdJfgkE="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/145g-1425c-101a-2307i-3ba897e9.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 101, "cycles": 1425, "cost": 145}, "color": 2, "shape": "AAAAAAAAAAAAAAAAlLrfQUft4UHy7BFCntDhQdJfgkE="},
     {"gif": "https://files.mors.technology/DENTAL_AMALGAM/190g-1442c-96a-807i-a04c9fba.mp4", "categories": [], "metrics": {"area": 96, "cycles": 1442, "cost": 190}, "color": 1, "shape": "AAAAAAAAyEIDUxBCUVaeQhEG+EHzI0JCR+3hQfLsEUIAAAAAlLrfQQ=="},
     {"gif": "https://files.mors.technology/DENTAL_AMALGAM/330g-434c-109a-120i-T-b768dd08.mp4", "categories": [], "metrics": {"area": 109, "cycles": 434, "cost": 330}, "color": 0, "shape": "EQb4QfMjQkJiOSBCLgcGQnJCHUIIIM9BXCQEQqCVmEGe0OFB0l+CQUft4UHy7BFC"},
     {"gif": "https://files.mors.technology/DENTAL_AMALGAM/340g-392c-112a-48i-abf9bbfd.mp4", "categories": [], "metrics": {"area": 112, "cycles": 392, "cost": 340}, "color": 2, "shape": "XCQEQqCVmEFyQh1CCCDPQfFxIkJPk7tB"},
