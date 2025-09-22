@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/A-Welcome-to-House-Colvan-40g-427c-12557a-430i-145h-143w-T-b2e8c0.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 12557, "cycles": 427, "cost": 40}, "color": 0, "shape": "14RIQQ+K50CANC02AADINavw5jUAAEg2q/BmNgAAyDbHFnJBwK8oQQ=="},
+    {"gif": "https://files.mors.technology/A-Welcome-to-House-Colvan-40g-427c-12557a-430i-145h-143w-T-b2e8c0.mp4", "categories": ["GC", "TG"], "metrics": {"area": 12557, "cycles": 427, "cost": 40}, "color": 0, "shape": "14RIQQ+K50CANC02AADINavw5jUAAEg2q/BmNgAAyDbHFnJBwK8oQQ=="},
     {"gif": "https://files.mors.technology/A-Welcome-to-House-Colvan-40g-897c-1055a-897i-37h-34.5w-T-6e25af.mp4", "categories": [], "metrics": {"area": 1055, "cycles": 897, "cost": 40}, "color": 2, "shape": "JjSVQO/p0EHHZJ5BnidgQccWckHAryhBq/BmNgAAyDar8GY2AAD6N6vw5jYAAGE4"},
     {"gif": "https://files.mors.technology/A-Welcome-to-House-Colvan-40g-2521c-110a-2602i-12h-11.5w-b944ea.mp4", "categories": [], "metrics": {"area": 110, "cycles": 2521, "cost": 40}, "color": 4, "shape": "E/xxQOSLFUImNJVA7+nQQWtWEDcAgG04q/BmNgAA+jer8GY2AQBhOA=="},
     {"gif": "https://files.mors.technology/A-Welcome-to-House-Colvan-40g-2779c-29a-118i-6h-5.5w-118r-dca1f7.mp4", "categories": [], "metrics": {"area": 29, "cycles": 2779, "cost": 40}, "color": 3, "shape": "iNmvPut8wEIT/HFA5IsVQmtWEDcAgG04gDQtNgAAyDUAAAAAAAAAAAAAAAAAAEg2"},
