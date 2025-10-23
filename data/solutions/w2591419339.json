@@ -11,9 +11,10 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/70g-717c-44a-717i-3d64bfae.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 44, "cycles": 717, "cost": 70}, "color": 1, "shape": "AAAAAAAAAAAAAAAAPzw8QZ1tskHNAmhB9wW8QVEcWUE="},
-    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/80g-562c-43a-94i-a85c1c3f.mp4", "categories": ["IG_P", "IC_P", "IX_P"], "metrics": {"area": 43, "cycles": 562, "cost": 80}, "color": 2, "shape": "9wW8QVEcWUGdbbJBzQJoQS075kGN7IRB"},
-    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/90g-446c-37a-150i-T-10303b70.mp4", "categories": [], "metrics": {"area": 37, "cycles": 446, "cost": 90}, "color": 0, "shape": "AAAAAAAAyEJ2h39CX3h8QnaqV0KNB/lBLTvmQY3shEGdbbJBzQJoQQAAAAA/PDxB"},
-    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/220g-138c-44a-120i-T-c70b7709.mp4", "categories": ["CG_P", "CI_P", "CX_P", "SUM_P", "RG_P", "RI_P"], "metrics": {"area": 44, "cycles": 138, "cost": 220}, "color": 2, "shape": "r2aLQm/3IEJ2h39CX3h8QoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/70g-717c-44a-717i-3d64bfae.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 44, "cycles": 717, "cost": 70}, "color": 1, "shape": "AAAAAAAAAAAAAAAAPzw8QZiPtEGvXWpBdTq+QSOoW0E="},
+    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/80g-562c-43a-94i-a85c1c3f.mp4", "categories": ["IG_P", "IC_P", "IX_P"], "metrics": {"area": 43, "cycles": 562, "cost": 80}, "color": 2, "shape": "dTq+QSOoW0GYj7RBr11qQfmz6EHlWYZB"},
+    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/90g-446c-37a-150i-T-10303b70.mp4", "categories": [], "metrics": {"area": 37, "cycles": 446, "cost": 90}, "color": 0, "shape": "AAAAAAAAyEKGnH1CzpN9QuoId0IflDNC+vdYQqiI+kH5s+hB5VmGQZiPtEGvXWpBAAAAAD88PEE="},
+    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/150g-236c-44a-549i-T-37f4a309.mp4", "categories": [], "metrics": {"area": 44, "cycles": 236, "cost": 150}, "color": 1, "shape": "+vdYQqiI+kHqCHdCH5QzQvcWiEKSJB1C"},
+    {"gif": "https://files.mors.technology/ARTIFICIAL_ORE/220g-124c-44a-130i-T-ba043c5c.mp4", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 44, "cycles": 124, "cost": 220}, "color": 2, "shape": "gDStQgAASEL3FohCkiQdQuoId0IflDNChpx9Qs6TfUI="}
   ]
 }
