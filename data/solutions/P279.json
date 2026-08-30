@@ -1,0 +1,31 @@
+{
+  "id": "P279",
+  "name": "Gilding Wax",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue V",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/GILDING_WAX/40g-3422c-2850a-574i-T-33ffd5b9.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 2850, "cycles": 3422, "cost": 40}, "color": 0, "shape": "AAAAAAAAAAAAAAAAo2LqPwRI/T9mO5I/"},
+    {"gif": "https://files.mors.technology/GILDING_WAX/50g-776c-76a-131i-d236dd1c.mp4", "categories": [], "metrics": {"area": 76, "cycles": 776, "cost": 50}, "color": 2, "shape": "baslQn9Mv0EESP0/ZjuSPwAAAACjYuo/AAAAAMidnkLlCIE/N5qoQnmCDUCLiK5CNCeEQPLAs0I="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/70g-1147c-53a-192i-af9df026.mp4", "categories": ["HG"], "metrics": {"area": 53, "cycles": 1147, "cost": 70}, "color": 3, "shape": "5QiBPzeaqEJwcYc/6/mwQnmCDUCLiK5C"},
+    {"gif": "https://files.mors.technology/GILDING_WAX/70g-1491c-49a-249i-baec7e95.mp4", "categories": [], "metrics": {"area": 49, "cycles": 1491, "cost": 70}, "color": 0, "shape": "hcnrPq7GuUJwcYc/6/mwQuUIgT83mqhCAAAAAMidnkIAAAAADS+3Qg=="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/80g-1111c-47a-187i-266f9a6e.mp4", "categories": [], "metrics": {"area": 47, "cycles": 1111, "cost": 80}, "color": 1, "shape": "NCeEQPLAs0J5gg1Ai4iuQnBxhz/r+bBChcnrPq7GuUIxM4c/w+nAQpI9KUBgGMBC"},
+    {"gif": "https://files.mors.technology/GILDING_WAX/110g-2262c-30a-756i-5944bf7d.mp4", "categories": ["AG", "AC", "AX", "AI", "BG", "OAC"], "metrics": {"area": 30, "cycles": 2262, "cost": 110}, "color": 3, "shape": "AAAAAA0vt0IAAAAAAADIQkh9mj7PpsdCMTOHP8PpwEKFyes+rsa5Qg=="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/130g-236c-64a-111i-e126f36f.mp4", "categories": [], "metrics": {"area": 64, "cycles": 236, "cost": 130}, "color": 0, "shape": "A56JQh3oHkJtqyVCf0y/QTQnhEDywLNCkj0pQGAYwEKbxTBAmDnBQsZKE0HZbLxC4ip7QbSctUJ+ELBBO9esQg=="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/145g-212c-70a-109i-699ae7e9.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 70, "cycles": 212, "cost": 145}, "color": 2, "shape": "A56JQh3oHkJ+ELBBO9esQqDK8kF3dKFCbMqYQnFtMEI="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/160g-1236c-33a-638i-3aef79e1.mp4", "categories": [], "metrics": {"area": 33, "cycles": 1236, "cost": 160}, "color": 2, "shape": "m8UwQJg5wUKSPSlAYBjAQjEzhz/D6cBCSH2aPs+mx0JafMc/TjPGQoz8L0ASJ8JC"},
+    {"gif": "https://files.mors.technology/GILDING_WAX/170g-245c-62a-130i-2f6a44dc.mp4", "categories": [], "metrics": {"area": 62, "cycles": 245, "cost": 170}, "color": 2, "shape": "4ip7QbSctULGShNB2Wy8QsX9E0HUUb1C3zlsQa3ztkI="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/170g-275c-59a-134i-895badb3.mp4", "categories": [], "metrics": {"area": 59, "cycles": 275, "cost": 170}, "color": 1, "shape": "jPwvQBInwkKMv0hAyWDEQsX9E0HUUb1CxkoTQdlsvEKbxTBAmDnBQg=="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/205g-975c-37a-558i-d4242565.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 975, "cost": 205}, "color": 0, "shape": "jPwvQBInwkJafMc/TjPGQoy/SEDJYMRC"},
+    {"gif": "https://files.mors.technology/GILDING_WAX/220g-150c-88a-102i-663cedc9.mp4", "categories": [], "metrics": {"area": 88, "cycles": 150, "cost": 220}, "color": 3, "shape": "bMqYQnFtMEKgyvJBd3ShQrgUEEJtD5pC566hQhmyOkI="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/440g-53c-104a-76i-79ecd17f.mp4", "categories": ["RG", "ORG", "ORX"], "metrics": {"area": 104, "cycles": 53, "cost": 440}, "color": 0, "shape": "566hQhmyOkK4FBBCbQ+aQo8poEKF8FVCuKCsQlxVR0I="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/485g-53c-95a-82i-8e3bbc15.mp4", "categories": ["RA"], "metrics": {"area": 95, "cycles": 53, "cost": 485}, "color": 1, "shape": "jymgQoXwVUK4FBBCbQ+aQqDK8kF3dKFCfhCwQTvXrELiKntBtJy1Qt85bEGt87ZCFUGPQpGVakI="},
+    {"gif": "https://files.mors.technology/GILDING_WAX/585g-50c-107a-88i-44ff4d3a.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 107, "cycles": 50, "cost": 585}, "color": 2, "shape": "gDStQgAASEK4oKxCXFVHQo8poEKF8FVCFUGPQpGVakI="}
+  ]
+}
