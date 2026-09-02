@@ -1,0 +1,27 @@
+{
+  "id": "P201",
+  "name": "Saverio's Test",
+  "collection": "De Re Metallica",
+  "group": "DRM Chapter I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/60g-137c-22a-23i-b1ee21d1.mp4", "categories": ["GC"], "metrics": {"area": 22, "cycles": 137, "cost": 60}, "color": 2, "shape": "2vArQUiKxkAAAAAAAAAAAAAAAAAAAEg2ff/ZQCYo50A="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/60g-173c-13a-29i-16fac923.mp4", "categories": ["BG"], "metrics": {"area": 13, "cycles": 173, "cost": 60}, "color": 3, "shape": "dsWeNwAArzcqeNZA+poLQX3/2UAmKOdA"},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/60g-179c-12a-30i-c412a4f1.mp4", "categories": ["GA", "GX"], "metrics": {"area": 12, "cycles": 179, "cost": 60}, "color": 1, "shape": "AAAAAAAASDYAAAAAPDw8Qpdg3EBlBvhBKnjWQPqaC0F2xZ43AACvNw=="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/70g-77c-13a-23i-T-7408acc6.mp4", "categories": ["TG"], "metrics": {"area": 13, "cycles": 77, "cost": 70}, "color": 0, "shape": "elehQSVNOkHa8CtBSIrGQH3/2UAmKOdAKnjWQPqaC0GXYNxAZQb4QYaBnUEXRLFCDmCwQdyKrkI="},
+    {"gif": "https://files.catbox.moe/nqneb9.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 11, "cycles": 142, "cost": 70}, "color": 2, "shape": "hoGdQRdEsUKXYNxAZQb4QQAAAAA8PDxCAAAAAAAAyEI="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/80g-49c-14a-40i-T-5388f8fd.mp4", "categories": ["SUM"], "metrics": {"area": 14, "cycles": 49, "cost": 80}, "color": 2, "shape": "elehQSVNOkEOYLBB3IquQlFq+UEAAKRCgDQtQgAAyEE="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/100g-32c-15a-12i-T-9549ca77.mp4", "categories": ["BC", "RG", "RA", "BR"], "metrics": {"area": 15, "cycles": 32, "cost": 100}, "color": 1, "shape": "gDQtQgAAyEFRavlBAACkQrnXg0LdwndC7YKUQnDUWkJ8QZZCnptVQkRul0IAADhCQGaWQmtMMUJtOZNCAAAqQg=="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/140g-26c-27a-40i-T-8aaf2b98.mp4", "categories": [], "metrics": {"area": 27, "cycles": 26, "cost": 140}, "color": 2, "shape": "bTmTQgAAKkJAZpZCa0wxQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://imgur.com/a/lbr4Z3X", "categories": [], "metrics": {"area": 21, "cycles": 26, "cost": 145}, "color": 3, "shape": "RG6XQgAAOEJ9NK1C/f9HQkBmlkJrTDFC"},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/150g-26c-19a-118i-1fe01720.mp4", "categories": ["CX"], "metrics": {"area": 19, "cycles": 26, "cost": 150}, "color": 0, "shape": "RG6XQgAAOEJ8QZZCnptVQn00rUIDAEhCfzStQgAASEJ9NK1C/f9HQg=="},
+    {"gif": "https://imgur.com/a/5LRrFVD", "categories": [], "metrics": {"area": 18, "cycles": 26, "cost": 185}, "color": 2, "shape": "7YKUQnDUWkJ9NK1CAwBIQnk0rUIDAEhCfEGWQp6bVUI="},
+    {"gif": "https://files.mors.technology/SAVERIO_S_TEST/240g-26c-17a-132i-122da398.mp4", "categories": ["CA"], "metrics": {"area": 17, "cycles": 26, "cost": 240}, "color": 3, "shape": "udeDQt3Cd0KANK1CAQBIQn80rUIAAEhCeTStQgMASELtgpRCcNRaQg=="}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "P243",
+  "name": "Resonant Dust",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue XI",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/RESONANT_DUST/60g-2380c-4871a-397i-T-75bb49cb.mp4", "categories": ["GC", "GA", "GI", "GX", "TG"], "metrics": {"area": 4871, "cycles": 2380, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAgantP3c8VTtEq+0/my/vPBxW7T9NnR1AXP+1Pw=="},
+    {"gif": "https://files.mors.technology/RADIO_RECEIVERS/70g-898c-41a-151i-45a02fcf.mp4", "categories": [], "metrics": {"area": 41, "cycles": 898, "cost": 70}, "color": 0, "shape": "YnEkQt/hvUFNnR1AXP+1P5sv7zwcVu0/8Gq9Pwv1u0ItH+M/Y5+7Qg=="},
+    {"gif": "https://files.mors.technology/RADIO_RECEIVERS/70g-1053c-35a-177i-6271ba8c.mp4", "categories": [], "metrics": {"area": 35, "cycles": 1053, "cost": 70}, "color": 1, "shape": "8Gq9Pwv1u0KbL+88HFbtP3c8VTtEq+0/ml8sPrsZwEI="},
+    {"gif": "https://files.mors.technology/RADIO_RECEIVERS/70g-1287c-34a-216i-816481c0.mp4", "categories": [], "metrics": {"area": 34, "cycles": 1287, "cost": 70}, "color": 0, "shape": "ml8sPrsZwEJ3PFU7RKvtPwAAAACBqe0/AAAAAPojwUI="},
+    {"gif": "https://files.mors.technology/Radio-Receivers-110g-890c-21a-298i-6h-4w-149r-286986.mp4", "categories": ["AG"], "metrics": {"area": 21, "cycles": 890, "cost": 110}, "color": 2, "shape": "gDQtNgAAyEItH+M/Y5+7QvBqvT8L9btCml8sPrsZwEIAAAAA+iPBQgAAAAAAAMhC"},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/140g-562c-21a-171i-T-50ef4490.mp4", "categories": ["AC", "AX"], "metrics": {"area": 21, "cycles": 562, "cost": 140}, "color": 1, "shape": "SZ0yQgM/zkFicSRC3+G9QS0f4z9jn7tCgDQtNgAAyEKkubo/x1DGQkDFJ0BsM8RCJnWpQU48hUK4RSJCtZEEQg=="},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/200g-319c-38a-125i-T-137f0d37.mp4", "categories": [], "metrics": {"area": 38, "cycles": 319, "cost": 200}, "color": 3, "shape": "ozEVQgx2H0K4RSJCtZEEQip1qUFMPIVCJnWpQU48hUI="},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/220g-236c-64a-108i-38d6bb52.mp4", "categories": [], "metrics": {"area": 64, "cycles": 236, "cost": 220}, "color": 2, "shape": "6mg5QsQX1kFJnTJCAz/OQbhFIkK1kQRCozEVQgx2H0I="},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/250g-123c-46a-586i-8476791d.mp4", "categories": [], "metrics": {"area": 46, "cycles": 123, "cost": 250}, "color": 0, "shape": "Z9OQQvw6J0LqaDlCxBfWQaMxFUIMdh9CKnWpQUw8hUJAxSdAbDPEQpR5yEAtPMBCOLroQKkBv0IIvBtB/vy7Qq/eaUH06rVC"},
+    {"gif": "https://files.mors.technology/Radio-Receivers-270g-106c-52a-522i-8h-8w-17r-T-d84a51.mp4", "categories": [], "metrics": {"area": 52, "cycles": 106, "cost": 270}, "color": 1, "shape": "Z9OQQvw6J0Kv3mlB9Oq1Qkghx0FuiqlC1FFEQsCyi0KNhqdCIHFBQg=="},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/440g-81c-56a-210i-9c357de0.mp4", "categories": ["CG", "RG"], "metrics": {"area": 56, "cycles": 81, "cost": 440}, "color": 2, "shape": "jYanQiBxQULUUURCwLKLQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/RESONANT_DUST/445g-81c-54a-210i-2a4b6d16.mp4", "categories": ["CX"], "metrics": {"area": 54, "cycles": 81, "cost": 445}, "color": 0, "shape": "cDStQhEASELUUURCwLKLQkghx0FuiqlCuH4+Qo06kEIyNK1CWQBIQg=="},
+    {"gif": "https://files.mors.technology/Radio-Receivers-470g-81c-52a-215i-8h-7w-13r-779ae2.gif", "categories": [], "metrics": {"area": 52, "cycles": 81, "cost": 470}, "color": 3, "shape": "MjStQlkASEK4fj5CjTqQQtjGSkIW3YxC"},
+    {"gif": "https://files.mors.technology/RADIO_RECEIVERS/480g-147c-36a-238i-598f6102.mp4", "categories": ["BC", "BR"], "metrics": {"area": 36, "cycles": 147, "cost": 480}, "color": 2, "shape": "65OWQAWRwkKUechALTzAQkDFJ0BsM8RCpLm6P8dQxkI="},
+    {"gif": "https://files.mors.technology/Radio-Receivers-500g-82c-47a-212i-8h-8w-13r-d80b1b.gif", "categories": [], "metrics": {"area": 47, "cycles": 82, "cost": 500}, "color": 2, "shape": "r95pQfTqtUIIvBtB/vy7QmTkmEHrQLFC2MZKQhbdjEK4fj5CjTqQQkghx0FuiqlC"},
+    {"gif": "https://files.mors.technology/Radio-Receivers-550g-82c-45a-186i-8h-7.5w-13r-c34b6e.gif", "categories": [], "metrics": {"area": 45, "cycles": 82, "cost": 550}, "color": 3, "shape": "OLroQKkBv0Jk5JhB60CxQgi8G0H+/LtC"},
+    {"gif": "https://files.mors.technology/RADIO_RECEIVERS/590g-81c-44a-203i-f896b420.mp4", "categories": ["CA", "RA"], "metrics": {"area": 44, "cycles": 81, "cost": 590}, "color": 1, "shape": "65OWQAWRwkKANK1CAQBIQnA0rUIRAEhC2MZKQhbdjEJk5JhB60CxQji66ECpAb9ClHnIQC08wEI="}
+  ]
+}

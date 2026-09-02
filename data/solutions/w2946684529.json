@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/90g-355c-741a-362i-9774307e.mp4", "categories": ["GC"], "metrics": {"area": 741, "cycles": 355, "cost": 90}, "color": 0, "shape": "M2/mQZYKhUGANC02AADINavw5jUAAEg2q/BmNgAAyDacS15BTllpQeqF2UE7GoRB"},
+    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/90g-355c-741a-355i-76f0753d.mp4", "categories": ["GC"], "metrics": {"area": 741, "cycles": 355, "cost": 90}, "color": 0, "shape": "M2/mQZYKhUGANC02AADINavw5jUAAEg2q/BmNgAAyDacS15BTllpQeqF2UE7GoRB"},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/90g-632c-101a-632i-708ec758.mp4", "categories": ["GX"], "metrics": {"area": 101, "cycles": 632, "cost": 90}, "color": 2, "shape": "nEteQU5ZaUGr8GY2AADINqvwZjYBAGE428TGQNWee0LODt5AF2Z0Qja96UDDFXBCQt4PQbSCSEI="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/90g-667c-97a-667i-456f3637.mp4", "categories": [], "metrics": {"area": 97, "cycles": 667, "cost": 90}, "color": 3, "shape": "28TGQNWee0Kr8GY2AQBhODemuD/6Q41CBnnXP03KkEKcQ+s/PY2RQuCecEAmx4xC"},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/90g-815c-94a-141i-72fe1dd5.mp4", "categories": [], "metrics": {"area": 94, "cycles": 815, "cost": 90}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAABINqvw5jUAAEg2gDQtNgAAyDU="},
@@ -28,7 +28,7 @@
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/190g-143c-101a-76i-1f1fe3e2.mp4", "categories": [], "metrics": {"area": 101, "cycles": 143, "cost": 190}, "color": 2, "shape": "RzICQeG2r0LOB+RAGMatQheN40CrS65CLOjoQNdlskJKuQBBJh+wQg=="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/190g-357c-81a-790i-5ea163da.mp4", "categories": [], "metrics": {"area": 81, "cycles": 357, "cost": 190}, "color": 1, "shape": "w5LnQCn+tkLR9ulANpmzQizo6EDXZbJCF43jQKtLrkInNAlAhHy8QuUmUj9Zl8NCSFBSP+eXw0JI2lc/+5rDQg=="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/195g-138c-101a-74i-65cbd55b.mp4", "categories": [], "metrics": {"area": 101, "cycles": 138, "cost": 195}, "color": 3, "shape": "0fbpQDaZs0JKuQBBJh+wQizo6EDXZbJC"},
-    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/205g-97c-106a-61i-4216f47b.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 106, "cycles": 97, "cost": 205}, "color": 2, "shape": "nVE4QkHV1EG0+5BB3OeWQnXMSkLxwGNCAZ5lQlDAT0JDhH1CL14SQg=="},
+    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/205g-97c-106a-61i-4216f47b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 106, "cycles": 97, "cost": 205}, "color": 2, "shape": "nVE4QkHV1EG0+5BB3OeWQnXMSkLxwGNCAZ5lQlDAT0JDhH1CL14SQg=="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/220g-90c-115a-62i-a8153a55.mp4", "categories": [], "metrics": {"area": 115, "cycles": 90, "cost": 220}, "color": 0, "shape": "yBF6Qn9BYkKcFpNC0IgvQtDIkELDLidCQ4R9Qi9eEkIBnmVCUMBPQg=="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/220g-93c-105a-70i-6b67e586.mp4", "categories": [], "metrics": {"area": 105, "cycles": 93, "cost": 220}, "color": 1, "shape": "AZ5lQlDAT0J1zEpC8cBjQvhgYEJE/XtC1ldkQqANeUKtOHhCh89kQsgRekJ/QWJC"},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/220g-94c-103a-70i-0ea4f81c.mp4", "categories": [], "metrics": {"area": 103, "cycles": 94, "cost": 220}, "color": 0, "shape": "+GBgQkT9e0J1zEpC8cBjQrT7kEHc55ZCRzICQeG2r0JKuQBBJh+wQtH26UA2mbNCw5LnQCn+tkLo8VdBYGq4QtGk60Hc/KVC"},
@@ -46,10 +46,10 @@
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/480g-43c-162a-360i-cd03dac1.mp4", "categories": [], "metrics": {"area": 162, "cycles": 43, "cost": 480}, "color": 0, "shape": "zVaqQsywREJ8qaZC23FAQmC9okI7yzxCS3yXQr+nNkKMqZVCaJ04Qrkpf0JGFV9CS318Qh6BdUKze39C5EZ1QlAPnkJJFVdCMNujQnbJT0JJ8KNCrKZPQiIlqEJPikhC"},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/545g-55c-122a-162i-53e3859f.mp4", "categories": [], "metrics": {"area": 122, "cycles": 55, "cost": 545}, "color": 2, "shape": "87VKQoF7jUKze39C5EZ1Qkt9fEIegXVC1ldkQqANeUL4YGBCRP17QtGk60Hc/KVC"},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/750g-43c-138a-320i-38f38ec8.mp4", "categories": [], "metrics": {"area": 138, "cycles": 43, "cost": 750}, "color": 1, "shape": "87VKQoF7jUJVa5JC+e1mQs9nnUK3LVhCUA+eQkkVV0Kze39C5EZ1Qg=="},
-    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/760g-37c-227a-359i-747db840.mp4", "categories": ["CG"], "metrics": {"area": 227, "cycles": 37, "cost": 760}, "color": 2, "shape": "zVaqQsywREIiJahCT4pIQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://i.imgur.com/D7XVCY2.gif", "categories": ["CX", "OCX"], "metrics": {"area": 222, "cycles": 37, "cost": 765}, "color": 1, "shape": "fjStQgAASEIiJahCT4pIQknwo0Kspk9CWjStQiAASEJ7NK1CBABIQg=="},
+    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/760g-37c-227a-241i-2bb3673b.mp4", "categories": ["CG"], "metrics": {"area": 227, "cycles": 37, "cost": 760}, "color": 2, "shape": "zVaqQsywREIiJahCT4pIQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/765g-37c-222a-235i-d2dd5ded.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 222, "cycles": 37, "cost": 765}, "color": 1, "shape": "fjStQgAASEIiJahCT4pIQknwo0Kspk9CWjStQiAASEJ7NK1CBABIQg=="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/775g-37c-220a-352i-1c544d8b.mp4", "categories": [], "metrics": {"area": 220, "cycles": 37, "cost": 775}, "color": 3, "shape": "MNujQnbJT0JaNK1CIABIQlU0rUIkAEhCSfCjQqymT0I="},
     {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/970g-37c-182a-378i-7e56f952.mp4", "categories": [], "metrics": {"area": 182, "cycles": 37, "cost": 970}, "color": 2, "shape": "z2edQrctWEJ7NK1CBABIQjDbo0J2yU9CUA+eQkkVV0I="},
-    {"gif": "https://i.imgur.com/VxeiQ9T.gif", "categories": ["CA"], "metrics": {"area": 169, "cycles": 37, "cost": 1150}, "color": 0, "shape": "VWuSQvntZkKANK1CAQBIQn40rUIAAEhCz2edQrctWEI="}
+    {"gif": "https://files.mors.technology/BIOSTEEL_FILAMENT/1150g-37c-169a-327i-291af85a.mp4", "categories": ["CA"], "metrics": {"area": 169, "cycles": 37, "cost": 1150}, "color": 0, "shape": "VWuSQvntZkKANK1CAQBIQn40rUIAAEhCz2edQrctWEI="}
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": "P208",
+  "name": "Metal Division",
+  "collection": "De Re Metallica",
+  "group": "DRM Chapter II",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/METAL_DIVISION/50g-131c-18a-22i-7ff4d09c.mp4", "categories": ["GC"], "metrics": {"area": 18, "cycles": 131, "cost": 50}, "color": 1, "shape": "Y1GRQPvVS0AbXJRAS05DQOQYjUDQ7CJAAAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/50g-134c-9a-136i-0f803e15.mp4", "categories": ["GA", "GX", "BG"], "metrics": {"area": 9, "cycles": 134, "cost": 50}, "color": 2, "shape": "Y1GRQPvVS0AAAAAAAABINgAAAACC7EJCGS/vPxamcEI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/60g-76c-32a-12i-c98b012e.mp4", "categories": [], "metrics": {"area": 32, "cycles": 76, "cost": 60}, "color": 3, "shape": "xjcNQXgQo0DkGI1A0OwiQBtclEBLTkNATXjyQAKZn0A="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/60g-81c-9a-22i-T-ce48acfd.mp4", "categories": ["TG"], "metrics": {"area": 9, "cycles": 81, "cost": 60}, "color": 0, "shape": "sPw9QJEmv0I33gZBQd+uQt7wMEFzkkNCTXjyQAKZn0AbXJRAS05DQGNRkUD71UtAGS/vPxamcEI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/60g-166c-8a-28i-T-1553a710.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 8, "cycles": 166, "cost": 60}, "color": 1, "shape": "AAAAAILsQkIAAAAAAADIQkboNEBtvMRCsPw9QJEmv0IZL+8/FqZwQg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/70g-50c-11a-56i-T-fdf2f5d5.mp4", "categories": ["SUM"], "metrics": {"area": 11, "cycles": 50, "cost": 70}, "color": 2, "shape": "3vAwQXOSQ0KZWMpBC2hEQp+HkkGxMilBxjcNQXgQo0BNePJAApmfQA=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/80g-39c-13a-12i-T-81641d90.mp4", "categories": ["SUM4"], "metrics": {"area": 13, "cycles": 39, "cost": 80}, "color": 0, "shape": "hpPgQev7WULLyS1CjpbsQTjyK0LVxslBOXMeQmD2tkGfh5JBsTIpQZlYykELaERC"},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/80g-50c-10a-20i-T-1b0ab348.mp4", "categories": [], "metrics": {"area": 10, "cycles": 50, "cost": 80}, "color": 1, "shape": "mVjKQQtoRELe8DBBc5JDQjfeBkFB365ClrEeQRmMvEKI2NRBQkepQm6h4kGCHZFChpPgQev7WUI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/90g-74c-9a-19i-T-305db033.mp4", "categories": [], "metrics": {"area": 9, "cycles": 74, "cost": 90}, "color": 2, "shape": "lrEeQRmMvEI33gZBQd+uQrD8PUCRJr9CRug0QG28xEI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/100g-32c-55a-7i-T-d62d4789.mp4", "categories": [], "metrics": {"area": 55, "cycles": 32, "cost": 100}, "color": 2, "shape": "OXMeQmD2tkE48itC1cbJQfn0NUITG9JB"},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/110g-31c-13a-11i-T-eebe4696.mp4", "categories": [], "metrics": {"area": 13, "cycles": 31, "cost": 110}, "color": 3, "shape": "TMVLQum0KkLLyS1CjpbsQYaT4EHr+1lCbqHiQYIdkUJkHD5ChNZXQg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/130g-24c-19a-9i-T-ff3ada69.mp4", "categories": [], "metrics": {"area": 19, "cycles": 24, "cost": 130}, "color": 1, "shape": "TMVLQum0KkL505hCaaE/QsOjmEJc7jVCQxuUQsYEK0L59DVCExvSQTjyK0LVxslBy8ktQo6W7EE="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/130g-29c-13a-69i-T-c2e423f9.mp4", "categories": [], "metrics": {"area": 13, "cycles": 29, "cost": 130}, "color": 0, "shape": "tOA/QhOckEJkHD5ChNZXQm6h4kGCHZFCiNjUQUJHqUI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/150g-24c-15a-22i-T-60a36b0f.mp4", "categories": [], "metrics": {"area": 15, "cycles": 24, "cost": 150}, "color": 2, "shape": "ZBw+QoTWV0K04D9CE5yQQgAVl0Kni2FCoYiaQpASSkL505hCaaE/QkzFS0LptCpC"},
+    {"gif": "https://i.imgur.com/slMHsPY.gif", "categories": [], "metrics": {"area": 55, "cycles": 18, "cost": 250}, "color": 3, "shape": "QxuUQsYEK0LDo5hCXO41QpsZqUKuZERCxtGpQjAXREI="},
+    {"gif": "https://files.catbox.moe/mxv5vz.gif", "categories": [], "metrics": {"area": 34, "cycles": 18, "cost": 280}, "color": 0, "shape": "mxmpQq5kRELDo5hCXO41QvnTmEJpoT9CoYiaQpASSkJaEJ1CbkVLQmwFpkK2dElCSRepQspPRUI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/320g-19c-26a-40i-T-29e43407.mp4", "categories": ["RA"], "metrics": {"area": 26, "cycles": 19, "cost": 320}, "color": 1, "shape": "iaefQliZVEJaEJ1CbkVLQqGImkKQEkpCABWXQqeLYULRaJxC2WRbQg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/340g-18c-30a-44i-T-5bd72467.mp4", "categories": [], "metrics": {"area": 30, "cycles": 18, "cost": 340}, "color": 2, "shape": "bAWmQrZ0SUJaEJ1CbkVLQomnn0JYmVRC+26kQr6wTUKbUqVCyrVLQg=="},
+    {"gif": "https://i.imgur.com/sQLCftb.gif", "categories": ["CG", "TC"], "metrics": {"area": 47, "cycles": 17, "cost": 420}, "color": 2, "shape": "gDStQgAASELG0alCMBdEQpsZqUKuZERCSRepQspPRUKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/455g-17c-35a-68i-676cfe66.mp4", "categories": ["CX"], "metrics": {"area": 35, "cycles": 17, "cost": 455}, "color": 1, "shape": "m1KlQsq1S0J/NK1CAABIQkkXqULKT0VCbAWmQrZ0SUI="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/480g-17c-34a-68i-a418930d.mp4", "categories": [], "metrics": {"area": 34, "cycles": 17, "cost": 480}, "color": 3, "shape": "+26kQr6wTUJ9NK1CAQBIQn00rUIBAEhCezStQgIASEKbUqVCyrVLQg=="},
+    {"gif": "https://files.mors.technology/METAL_DIVISION/555g-17c-32a-66i-89f8ceda.mp4", "categories": ["CA"], "metrics": {"area": 32, "cycles": 17, "cost": 555}, "color": 0, "shape": "0WicQtlkW0KANK1CAQBIQn80rUIAAEhCezStQgIASEL7bqRCvrBNQomnn0JYmVRC"}
+  ]
+}

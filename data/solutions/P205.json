@@ -1,0 +1,29 @@
+{
+  "id": "P205",
+  "name": "Mixed-Use Lubricant",
+  "collection": "De Re Metallica",
+  "group": "DRM Chapter I",
+  "num_colors": 5,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/90g-1712c-286a-289i-T-d0c1c511.mp4", "categories": ["GC", "GA", "GI", "GX", "TG"], "metrics": {"area": 286, "cycles": 1712, "cost": 90}, "color": 0, "shape": "AAAAAAAAAAAAAAAAYA03QDUWhT5n0zNAJKctQGCEyD8="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/100g-304c-47a-51i-0dd56a59.mp4", "categories": [], "metrics": {"area": 47, "cycles": 304, "cost": 100}, "color": 1, "shape": "qlYEQrbPmEEkpy1AYITIPzUWhT5n0zNAPHUDQDOgsUH9Ya9BYbIYQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/100g-694c-40a-116i-3aa8762b.mp4", "categories": [], "metrics": {"area": 40, "cycles": 694, "cost": 100}, "color": 2, "shape": "PHUDQDOgsUE1FoU+Z9MzQAAAAABgDTdAAAAAAM0mxkEu/oA+EsrJQQ=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/110g-393c-19a-66i-T-4c9364ae.mp4", "categories": [], "metrics": {"area": 19, "cycles": 393, "cost": 110}, "color": 0, "shape": "/WGvQWGyGEI8dQNAM6CxQS7+gD4SyslB/jp+P3DaxkK0MYVBbMa0Qn0zvEHR4GRC"},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/110g-935c-18a-935i-T-e8b33369.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 18, "cycles": 935, "cost": 110}, "color": 1, "shape": "AAAAAM0mxkEAAAAAAADIQv46fj9w2sZCLv6APhLKyUE="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/130g-83c-40a-32i-T-65b168d7.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 40, "cycles": 83, "cost": 130}, "color": 2, "shape": "r++XQt5wL0KqVgRCts+YQf1hr0FhshhCfTO8QdHgZEIS15VCFeY9Qg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/150g-76c-31a-36i-2bbe61a7.mp4", "categories": [], "metrics": {"area": 31, "cycles": 76, "cost": 150}, "color": 3, "shape": "ZlyWQtDdS0IS15VCFeY9Qn0zvEHR4GRCtDGFQWzGtEIqYvhBISakQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/210g-32c-79a-19i-T-3ace652a.mp4", "categories": ["RG"], "metrics": {"area": 79, "cycles": 32, "cost": 210}, "color": 1, "shape": "sNCpQvAVREKv75dC3nAvQhLXlUIV5j1CZlyWQtDdS0JCkpdCMaFLQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/265g-27c-59a-52i-6336b0b3.mp4", "categories": ["CG"], "metrics": {"area": 59, "cycles": 27, "cost": 265}, "color": 3, "shape": "sNCpQvAVREJCkpdCMaFLQvkIoEIEY0xC+QigQgRjTEKANK1CAQBIQoA0rUIAAEhC"},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/285g-27c-51a-62i-19bd455e.mp4", "categories": ["CX"], "metrics": {"area": 51, "cycles": 27, "cost": 285}, "color": 1, "shape": "+QigQgRjTELZpKRC4K5OQn00rUIFAEhCfjStQgAASEL5CKBCA2NMQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/295g-31c-35a-64i-f3949111.mp4", "categories": ["RA"], "metrics": {"area": 35, "cycles": 31, "cost": 295}, "color": 0, "shape": "2aSkQuCuTkL5CKBCA2NMQkKSl0IxoUtCZlyWQtDdS0IqYvhBISakQk+3U0IC4opCqSWfQqGIVkIxiaNCeTJRQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/335g-27c-44a-62i-a8936fef.mp4", "categories": [], "metrics": {"area": 44, "cycles": 27, "cost": 335}, "color": 3, "shape": "MYmjQnkyUUJ9NK1CBQBIQng0rUIHAEhC2aSkQuCuTkI="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/435g-27c-37a-76i-7f30825e.mp4", "categories": [], "metrics": {"area": 37, "cycles": 27, "cost": 435}, "color": 4, "shape": "eDStQgcASEIxiaNCeTJRQqkln0KhiFZCdzStQggASEJ4NK1CBwBIQg=="},
+    {"gif": "https://files.mors.technology/MIXED_USE_LUBRICANT/460g-27c-36a-78i-d5f083c8.mp4", "categories": ["CA"], "metrics": {"area": 36, "cycles": 27, "cost": 460}, "color": 2, "shape": "qSWfQqGIVkJPt1NCAuKKQn00rUIFAEhCgDStQgEASEJ+NK1CAABIQg=="}
+  ]
+}

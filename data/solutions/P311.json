@@ -1,0 +1,21 @@
+{
+  "id": "P311",
+  "name": "Brilliant Pigment",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue XII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/140g-1702c-85a-384i-41a914e2.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 85, "cycles": 1702, "cost": 140}, "color": 1, "shape": "AAAAAAAAAAAAAAAAJElWQsJ/0kGCLLpBlPqBQS0WFkE="},
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/150g-1233c-89a-417i-T-834d7b4c.mp4", "categories": ["TG_P"], "metrics": {"area": 89, "cycles": 1233, "cost": 150}, "color": 2, "shape": "lPqBQS0WFkHCf9JBgiy6QRxeJkLEyO1BPXEwQvK8y0E="},
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/165g-1216c-84a-258i-affdd757.mp4", "categories": [], "metrics": {"area": 84, "cycles": 1216, "cost": 165}, "color": 0, "shape": "WOozQgTdSUIcXiZCxMjtQcJ/0kGCLLpBAAAAACRJVkIAAAAAHMqlQpjxFULU3mpC"},
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/200g-1044c-84a-350i-e79a149e.mp4", "categories": [], "metrics": {"area": 84, "cycles": 1044, "cost": 200}, "color": 3, "shape": "WOozQgTdSUKY8RVC1N5qQvpxOkIUsFlC"},
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/240g-294c-89a-211i-T-9e725a0f.mp4", "categories": ["CG_P", "TC_P", "RG_P", "ORG_P"], "metrics": {"area": 89, "cycles": 294, "cost": 240}, "color": 1, "shape": "gDStQgAASEI9cTBC8rzLQRxeJkLEyO1BWOozQgTdSUL6cTpCFLBZQq0OckLDH4JC"},
+    {"gif": "https://files.mors.technology/BRILLIANT_PIGMENT/270g-901c-83a-323i-e6f0cb47.mp4", "categories": [], "metrics": {"area": 83, "cycles": 901, "cost": 270}, "color": 2, "shape": "rQ5yQsMfgkL6cTpCFLBZQpjxFULU3mpCAAAAABzKpUIAAAAAAADIQg=="}
+  ]
+}

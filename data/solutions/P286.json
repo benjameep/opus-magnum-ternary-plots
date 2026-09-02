@@ -1,0 +1,37 @@
+{
+  "id": "P286",
+  "name": "Baling Fiber",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BALING_FIBER/40g-437c-817a-437i-T-7bc1011f.mp4", "categories": ["GC", "GX", "OGC", "TG"], "metrics": {"area": 817, "cycles": 437, "cost": 40}, "color": 1, "shape": "XZICQnHFlkEAAAAAAAAAAAAAAAAAAEg2NkTfQKEWHkG3jrpBL1SUQQ=="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/40g-450c-802a-450i-T-12f3be67.mp4", "categories": [], "metrics": {"area": 802, "cycles": 450, "cost": 40}, "color": 3, "shape": "q/BmNgAAyDa9tHdApTcGQTZE30ChFh5B"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/40g-657c-676a-657i-T-c3621336.mp4", "categories": ["GA"], "metrics": {"area": 676, "cycles": 657, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAAvYhFQb20d0ClNwZBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/50g-444c-552a-71i-17b5ac53.mp4", "categories": [], "metrics": {"area": 552, "cycles": 444, "cost": 50}, "color": 0, "shape": "AAAAAD7nTUGCJidATVmCQcWMXEH0L6FBXVOSQcNmnEG3jrpBL1SUQTZE30ChFh5BvbR3QKU3BkEAAAAAvYhFQQ=="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/90g-939c-79a-939i-e828ac75.mp4", "categories": ["HG"], "metrics": {"area": 79, "cycles": 939, "cost": 90}, "color": 2, "shape": "AAAAAD7nTUEAAAAAkcaOQoImJ0BNWYJB"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/100g-412c-72a-412i-T-29cf7a83.mp4", "categories": [], "metrics": {"area": 72, "cycles": 412, "cost": 100}, "color": 1, "shape": "AAAAADrclEKixoJATaO3QtgYpEDM7rJCV1MVQQtYe0LFjFxB9C+hQYImJ0BNWYJBAAAAAJHGjkI="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/110g-522c-66a-522i-541f3b3b.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 66, "cycles": 522, "cost": 110}, "color": 0, "shape": "AAAAADrclEIAAAAAAADIQsnwI0DLCsVCosaCQE2jt0I="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/125g-163c-87a-42i-122e7d87.mp4", "categories": [], "metrics": {"area": 87, "cycles": 163, "cost": 125}, "color": 3, "shape": "XVOSQcNmnEHFjFxB9C+hQVdTFUELWHtCOUpXQWGaWkI="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/130g-127c-90a-38i-5fc4bac6.mp4", "categories": [], "metrics": {"area": 90, "cycles": 127, "cost": 130}, "color": 2, "shape": "6sFTQjeE9EFdkgJCccWWQbeOukEvVJRBXVOSQcNmnEE5SldBYZpaQnICCkIWQFVC"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/135g-127c-83a-39i-e49066d7.mp4", "categories": [], "metrics": {"area": 83, "cycles": 127, "cost": 135}, "color": 0, "shape": "2BikQMzuskI4ne1A4G+9QlcCCkJBQFVCcgIKQhZAVUI5SldBYZpaQldTFUELWHtC"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/145g-112c-84a-43i-5936e707.mp4", "categories": [], "metrics": {"area": 84, "cycles": 112, "cost": 145}, "color": 3, "shape": "z6glQZlOtkJXAgpCQUBVQjid7UDgb71CLPLtQLmHvUI="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/155g-248c-73a-60i-35f3adaf.mp4", "categories": [], "metrics": {"area": 73, "cycles": 248, "cost": 155}, "color": 2, "shape": "yfAjQMsKxUJ0OepAVIy/Qizy7UC5h71COJ3tQOBvvULYGKRAzO6yQqLGgkBNo7dC"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/170g-74c-87a-295i-a2db1d4a.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 87, "cycles": 74, "cost": 170}, "color": 1, "shape": "vFxCQnjkj0LZmJ5CHjM+Qt8rnELHVDRC6sFTQjeE9EFyAgpCFkBVQs+oJUGZTrZCHtRlQd9pt0I="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/175g-80c-86a-46i-f7c490a7.mp4", "categories": [], "metrics": {"area": 86, "cycles": 80, "cost": 175}, "color": 0, "shape": "dDnqQFSMv0Ie1GVB32m3Qs+oJUGZTrZCLPLtQLmHvUI="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/260g-60c-102a-156i-eff4212d.mp4", "categories": [], "metrics": {"area": 102, "cycles": 60, "cost": 260}, "color": 0, "shape": "2ZieQh4zPkK8XEJCeOSPQqlWlEKjtmRCGsGbQvHXWkKRbJ5CnPhWQknon0IUmlRCmgmhQuOvTEI2dKFCWW9CQg=="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/280g-49c-448a-165i-0e1ba4fc.mp4", "categories": [], "metrics": {"area": 448, "cycles": 49, "cost": 280}, "color": 2, "shape": "Y/moQlQdQ0LfK5xCx1Q0QtmYnkIeMz5CNnShQllvQkLb86VCSGNDQg=="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/355g-46c-252a-104i-70414209.mp4", "categories": [], "metrics": {"area": 252, "cycles": 46, "cost": 355}, "color": 3, "shape": "mgmhQuOvTELb86VCSGNDQjZ0oUJZb0JC"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/390g-55c-135a-114i-ab7d0f1f.mp4", "categories": ["RA"], "metrics": {"area": 135, "cycles": 55, "cost": 390}, "color": 2, "shape": "SeifQhSaVEKRbJ5CnPhWQiQDoELOXFVCExCgQgnWVEI="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/395g-43c-267a-94i-4a9494fa.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RI"], "metrics": {"area": 267, "cycles": 43, "cost": 395}, "color": 1, "shape": "gDStQgAASEJj+ahCVB1DQtvzpUJIY0NCmgmhQuOvTEJJ6J9CFJpUQhMQoEIJ1lRCMNmmQhBXT0I="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/400g-57c-117a-72i-09a3855e.mp4", "categories": [], "metrics": {"area": 117, "cycles": 57, "cost": 400}, "color": 2, "shape": "GsGbQvHXWkKpVpRCo7ZkQvuumkIKY11C"},
+    {"gif": "https://files.mors.technology/BALING_FIBER/425g-55c-131a-108i-68d86002.mp4", "categories": [], "metrics": {"area": 131, "cycles": 55, "cost": 425}, "color": 1, "shape": "vz6gQgT3VkIkA6BCzlxVQpFsnkKc+FZCGsGbQvHXWkL7rppCCmNdQg=="},
+    {"gif": "https://files.mors.technology/BALING_FIBER/470g-44c-245a-108i-T-b1659c3a.mp4", "categories": ["TC"], "metrics": {"area": 245, "cycles": 44, "cost": 470}, "color": 0, "shape": "vz6gQgT3VkIw2aZCEFdPQhMQoEIJ1lRCJAOgQs5cVUI="}
+  ]
+}

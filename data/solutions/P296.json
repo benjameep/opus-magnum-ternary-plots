@@ -1,0 +1,24 @@
+{
+  "id": "P296",
+  "name": "Durable Stitching",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue IX",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/80g-657c-511a-657i-T-ab755e98.mp4", "categories": ["GC", "GA", "GX", "OGC", "TG"], "metrics": {"area": 511, "cycles": 657, "cost": 80}, "color": 0, "shape": "AAAAAAAAAAAAAAAAGjyqQD/zF0H7dK9A"},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/90g-547c-338a-92i-cd568f14.mp4", "categories": [], "metrics": {"area": 338, "cycles": 547, "cost": 90}, "color": 1, "shape": "P7XUQTGddUE/8xdB+3SvQAAAAAAaPKpAAAAAAJK3k0E/bHVBdo/EQQ=="},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/155g-561c-59a-561i-745525e3.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 59, "cycles": 561, "cost": 155}, "color": 2, "shape": "AAAAAAAAyEKlwYdA7xnDQuWFyEBSF7dCP2x1QXaPxEEAAAAAkreTQQ=="},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/245g-73c-83a-52i-09ca3f18.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 83, "cycles": 73, "cost": 245}, "color": 0, "shape": "8+yWQhtGLkI/tdRBMZ11QT9sdUF2j8RB5YXIQFIXt0KmlzNBsFe0Qn1EDkJP7p5CrE+BQi2vekJjCY1CTClcQtQ3k0I5WUNC"},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/345g-101c-76a-55i-1d7f080c.mp4", "categories": [], "metrics": {"area": 76, "cycles": 101, "cost": 345}, "color": 1, "shape": "rxHeQJ78v0KmlzNBsFe0QuWFyEBSF7dCpcGHQO8Zw0I="},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/365g-85c-77a-57i-65f005f5.mp4", "categories": [], "metrics": {"area": 77, "cycles": 85, "cost": 365}, "color": 2, "shape": "rxHeQJ78v0J9RA5CT+6eQqaXM0GwV7RC"},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/460g-30c-211a-116i-T-c4656550.mp4", "categories": [], "metrics": {"area": 211, "cycles": 30, "cost": 460}, "color": 2, "shape": "8+yWQhtGLkLUN5NCOVlDQrRMoUK1QDpC"},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/490g-27c-200a-132i-79da830a.mp4", "categories": ["CI"], "metrics": {"area": 200, "cycles": 27, "cost": 490}, "color": 1, "shape": "gDStQgAASEK0TKFCtUA6QtQ3k0I5WUNCYwmNQkwpXEIEb6NCeEhTQg=="},
+    {"gif": "https://files.mors.technology/DURABLE_STITCHING/545g-29c-176a-124i-79bbe239.mp4", "categories": [], "metrics": {"area": 176, "cycles": 29, "cost": 545}, "color": 2, "shape": "rE+BQi2vekIEb6NCeEhTQmMJjUJMKVxC"}
+  ]
+}

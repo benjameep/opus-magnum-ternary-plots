@@ -1,8 +1,8 @@
 {
   "id": "P061",
   "name": "Sailcloth Thread",
-  "collection": "Journal",
-  "group": "Journal II",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue II",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -15,12 +15,13 @@
     {"gif": "https://files.mors.technology/Sailcloth-Thread-40g-4105c-1071a-4105i-40h-37w-T-47f373.mp4", "categories": ["GA"], "metrics": {"area": 1071, "cycles": 4105, "cost": 40}, "color": 2, "shape": "AAAAAAAASDYAAAAAbnkuP/q0QT1CACk/"},
     {"gif": "https://files.mors.technology/Sailcloth-Thread-50g-530c-695a-536i-26h-28.5w-d04397.mp4", "categories": [], "metrics": {"area": 695, "cycles": 530, "cost": 50}, "color": 1, "shape": "ZbzVQQzNdkEz8Ow/4MuIP+Z35j/ulYo/w97DQeSPa0E="},
     {"gif": "https://files.mors.technology/Sailcloth-Thread-50g-568c-219a-577i-20h-17w-76cbac.mp4", "categories": [], "metrics": {"area": 219, "cycles": 568, "cost": 50}, "color": 3, "shape": "w97DQeSPa0Hmd+Y/7pWKP1AfpD+YD30/9VCqQTROg0E="},
-    {"gif": "https://files.mors.technology/Sailcloth-Thread-50g-666c-67a-671i-4h-12w-100000.mp4", "categories": [], "metrics": {"area": 67, "cycles": 666, "cost": 50}, "color": 1, "shape": "9VCqQTROg0FQH6Q/mA99P/q0QT1CACk/AAAAAG55Lj8AAAAAjk6iQu5kakAqqKpCIpOzQCQxo0L6KZ5BBqUMQjSJpUHMaOZB"},
-    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/75g-772c-63a-772i-6331eb01.mp4", "categories": ["AG", "HG"], "metrics": {"area": 63, "cycles": 772, "cost": 75}, "color": 0, "shape": "7mRqQCqoqkIAAAAAjk6iQgAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/Sailcloth-Thread-50g-666c-67a-671i-4h-12w-100000.mp4", "categories": [], "metrics": {"area": 67, "cycles": 666, "cost": 50}, "color": 1, "shape": "9VCqQTROg0FQH6Q/mA99P/q0QT1CACk/AAAAAG55Lj8AAAAA7wCbQhC4uz6OJKNC7mRqQCqoqkIik7NAJDGjQvopnkEGpQxCNImlQcxo5kE="},
+    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/60g-1004c-65a-168i-4727771d.mp4", "categories": [], "metrics": {"area": 65, "cycles": 1004, "cost": 60}, "color": 2, "shape": "AAAAAO8Am0IAAAAAB5KnQhC4uz6OJKNC"},
+    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/75g-772c-63a-772i-6331eb01.mp4", "categories": ["AG", "HG"], "metrics": {"area": 63, "cycles": 772, "cost": 75}, "color": 0, "shape": "7mRqQCqoqkIQuLs+jiSjQgAAAAAHkqdCAAAAAAAAyEKANC02AADIQg=="},
     {"gif": "https://files.mors.technology/Sailcloth-Thread-90g-418c-67a-99i-4h-12w-69r-10ee12.mp4", "categories": [], "metrics": {"area": 67, "cycles": 418, "cost": 90}, "color": 2, "shape": "+imeQQalDEIik7NAJDGjQrZ6iUGBKZpCn3ySQXctlkJTr5NB68WRQg=="},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/115g-144c-102a-51i-eb8afa96.mp4", "categories": [], "metrics": {"area": 102, "cycles": 144, "cost": 115}, "color": 2, "shape": "5TACQuRUlkFlvNVBDM12QcPew0Hkj2tB9VCqQTROg0E0iaVBzGjmQQ=="},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/120g-418c-63a-704i-cc9b0e41.mp4", "categories": ["AC", "AX"], "metrics": {"area": 63, "cycles": 418, "cost": 120}, "color": 3, "shape": "IcsfQch3vEK2eolBgSmaQiKTs0AkMaNC7mRqQCqoqkKANC02AADIQg=="},
-    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/130g-78c-90a-244i-b3462dfb.mp4", "categories": [], "metrics": {"area": 90, "cycles": 78, "cost": 130}, "color": 0, "shape": "5TACQuRUlkE0iaVBzGjmQfopnkEGpQxCU6+TQevFkUL/DHBCOf55QuCUkUImLGBCVV6iQqg0SEKQ3aJC4WJHQsHwokLbs0ZCKkeiQkDLPUJKvKBCOAI6Qm0coEJc4ThC"},
+    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/130g-78c-90a-242i-5f13ae4a.mp4", "categories": [], "metrics": {"area": 90, "cycles": 78, "cost": 130}, "color": 0, "shape": "5TACQuRUlkE0iaVBzGjmQfopnkEGpQxCU6+TQevFkUL/DHBCOf55QuCUkUImLGBCVV6iQqg0SEKQ3aJC4WJHQsHwokLbs0ZCKkeiQkDLPUJKvKBCOAI6Qm0coEJc4ThC"},
     {"gif": "https://files.mors.technology/Sailcloth-Thread-135g-79c-89a-244i-7h-14w-12.5r-fba8a8.mp4", "categories": [], "metrics": {"area": 89, "cycles": 79, "cost": 135}, "color": 1, "shape": "EhdFQslSiEL/DHBCOf55QlOvk0HrxZFCn3ySQXctlkL1/CRC6iGQQg=="},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/140g-77c-91a-242i-5ec21353.mp4", "categories": [], "metrics": {"area": 91, "cycles": 77, "cost": 140}, "color": 3, "shape": "kN2iQuFiR0JVXqJCqDRIQinaokL+hEdC"},
     {"gif": "https://files.mors.technology/Sailcloth-Thread-205g-76c-86a-302i-7h-14w-13.17r-9c6ec4.mp4", "categories": [], "metrics": {"area": 86, "cycles": 76, "cost": 205}, "color": 3, "shape": "+7aCQkYQeULglJFCJixgQv8McEI5/nlCEhdFQslSiELpM3lCtQ+AQg=="},
@@ -43,8 +44,8 @@
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/685g-26c-293a-352i-101e8a8f.mp4", "categories": [], "metrics": {"area": 293, "cycles": 26, "cost": 685}, "color": 0, "shape": "3UKrQvr4SUKJSatC7hZKQuQKrUJVLUhCfQ+tQugfSEIsVatCK51JQuRDq0LV70lC"},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/735g-26c-292a-368i-3695e4d0.mp4", "categories": [], "metrics": {"area": 292, "cycles": 26, "cost": 735}, "color": 2, "shape": "5AqtQlUtSEKJSatC7hZKQh9Jq0I5GkpCxgqtQrctSEI="},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/790g-26c-291a-316i-a2902fe9.mp4", "categories": [], "metrics": {"area": 291, "cycles": 26, "cost": 790}, "color": 0, "shape": "xgqtQrctSEIfSatCORpKQuE5q0L/SEpCrQmtQnMxSEI="},
-    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/1395g-25c-580a-454i-989635b0.mp4", "categories": ["CG", "CX"], "metrics": {"area": 580, "cycles": 25, "cost": 1395}, "color": 0, "shape": "gDStQgAASEJZIK1CuuhHQjMbrUIH90dC+xCtQloaSELmD61CwR5IQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/1395g-25c-580a-376i-23b97316.mp4", "categories": [], "metrics": {"area": 580, "cycles": 25, "cost": 1395}, "color": 0, "shape": "gDStQgAASEJZIK1CuuhHQjMbrUIH90dC+xCtQloaSELmD61CwR5IQoA0rUIBAEhC"},
     {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/1570g-25c-561a-469i-c5d97c7b.mp4", "categories": [], "metrics": {"area": 561, "cycles": 25, "cost": 1570}, "color": 3, "shape": "fg+tQuYfSEJNNK1CKQBIQuYPrULBHkhC"},
-    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/1580g-25c-560a-464i-462b7215.mp4", "categories": ["CA"], "metrics": {"area": 560, "cycles": 25, "cost": 1580}, "color": 1, "shape": "rQmtQnMxSEKANK1CAQBIQk00rUIpAEhCfg+tQuYfSEJ9D61C6B9IQuQKrUJVLUhCxgqtQrctSEI="}
+    {"gif": "https://files.mors.technology/SAILCLOTH_THREAD/1580g-25c-560a-370i-e9200fc3.mp4", "categories": [], "metrics": {"area": 560, "cycles": 25, "cost": 1580}, "color": 1, "shape": "rQmtQnMxSEKANK1CAQBIQk00rUIpAEhCfg+tQuYfSEJ9D61C6B9IQuQKrUJVLUhCxgqtQrctSEI="}
   ]
 }

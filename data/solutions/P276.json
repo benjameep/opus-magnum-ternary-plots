@@ -1,0 +1,28 @@
+{
+  "id": "P276",
+  "name": "Vermilion Pigment",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue V",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/90g-818c-735a-138i-9412283e.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 735, "cycles": 818, "cost": 90}, "color": 2, "shape": "z16AQLQ6FEAAAAAAAAAAAAAAAAAAAEg2iDsUQK+RAkA="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/90g-1096c-57a-183i-d5d14734.mp4", "categories": ["GX"], "metrics": {"area": 57, "cycles": 1096, "cost": 90}, "color": 3, "shape": "q/BmNgAAyDbVICI/7m36QYg7FECvkQJA"},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/90g-1162c-56a-194i-2b9fa67a.mp4", "categories": ["GA"], "metrics": {"area": 56, "cycles": 1162, "cost": 90}, "color": 1, "shape": "AAAAAAAASDYAAAAAvkUbQnLYtj7xLxNC1SAiP+5t+kGr8GY2AADINg=="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/100g-441c-41a-124i-T-c906de59.mp4", "categories": ["TG"], "metrics": {"area": 41, "cycles": 441, "cost": 100}, "color": 0, "shape": "ZxDaQXjMe0HPXoBAtDoUQIg7FECvkQJA1SAiP+5t+kFy2LY+8S8TQikI10B6EJFCpGcBQTDfkkI="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/110g-689c-19a-704i-ecc64eb8.mp4", "categories": ["AG"], "metrics": {"area": 19, "cycles": 689, "cost": 110}, "color": 3, "shape": "KQjXQHoQkUJy2LY+8S8TQgAAAAC+RRtCAAAAAAAAyEKANC02AADIQg=="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/140g-522c-19a-169i-T-f7844305.mp4", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 19, "cycles": 522, "cost": 140}, "color": 2, "shape": "KQjXQHoQkUKANC02AADIQrGGyECfw8BClELiQINqsUKkZwFBMN+SQg=="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/175g-142c-39a-432i-d6e37f9b.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 39, "cycles": 142, "cost": 175}, "color": 1, "shape": "ZXWCQv2jFkJnENpBeMx7QaRnAUEw35JClELiQINqsULHQSJCQtCQQpJAcUJ/zj9C"},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/185g-136c-44a-73i-8a4f5914.mp4", "categories": [], "metrics": {"area": 44, "cycles": 136, "cost": 185}, "color": 2, "shape": "ZXWCQv2jFkKSQHFCf84/Qg8OiEJJGh1C"},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/185g-142c-38a-72i-f73ae6ec.mp4", "categories": [], "metrics": {"area": 38, "cycles": 142, "cost": 185}, "color": 3, "shape": "sC4PQrSqnkLHQSJCQtCQQpRC4kCDarFCsYbIQJ/DwEI="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/235g-111c-52a-75i-0ed07070.mp4", "categories": [], "metrics": {"area": 52, "cycles": 111, "cost": 235}, "color": 0, "shape": "Uo2eQoMUN0IPDohCSRodQpJAcUJ/zj9Cx0EiQkLQkEKwLg9CtKqeQi4pS0I/Wo1CfbSHQoW0YkIPaplCkl5BQg=="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/295g-101c-64a-72i-3f07695e.mp4", "categories": [], "metrics": {"area": 64, "cycles": 101, "cost": 295}, "color": 3, "shape": "D2qZQpJeQUJ9tIdChbRiQgnHjUK88FhC"},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/625g-45c-144a-81i-aaf8b882.mp4", "categories": ["CG", "CI", "RG", "RI", "ORG", "ORX"], "metrics": {"area": 144, "cycles": 45, "cost": 625}, "color": 1, "shape": "gDStQgAASEJSjZ5CgxQ3Qg9qmUKSXkFCCceNQrzwWEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/VERMILION_PIGMENT/700g-45c-112a-178i-54b97220.mp4", "categories": ["CA", "CX", "OCX", "RA"], "metrics": {"area": 112, "cycles": 45, "cost": 700}, "color": 2, "shape": "LilLQj9ajUKANK1CAQBIQgnHjUK88FhCfbSHQoW0YkI="}
+  ]
+}

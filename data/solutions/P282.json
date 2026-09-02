@@ -1,0 +1,22 @@
+{
+  "id": "P282",
+  "name": "Balanced Gold",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VI",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/120g-679c-49a-679i-93209274.mp4", "categories": ["GC_P"], "metrics": {"area": 49, "cycles": 679, "cost": 120}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAADIQnWhb0HFtLZCdqFvQT/bl0K6MeQ/fr+DPw=="},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/125g-325c-51a-328i-a5d07e78.mp4", "categories": [], "metrics": {"area": 51, "cycles": 325, "cost": 125}, "color": 1, "shape": "ujHkP36/gz92oW9BP9uXQobvJ0J7FQJC7ZgUQuCVq0E="},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/180g-252c-51a-30i-T-ad0e63e9.mp4", "categories": [], "metrics": {"area": 51, "cycles": 252, "cost": 180}, "color": 0, "shape": "hu8nQnsVAkJ2oW9BP9uXQnWhb0HFtLZC2/lvQpK5gkL1W3NC4kxnQjt5cEISimFC"},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/230g-117c-60a-291i-acf14cc5.mp4", "categories": [], "metrics": {"area": 60, "cycles": 117, "cost": 230}, "color": 2, "shape": "OXlwQmTWCkLtmBRC4JWrQYbvJ0J7FQJCO3lwQhKKYUI="},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/320g-58c-63a-196i-T-1a7b371c.mp4", "categories": [], "metrics": {"area": 63, "cycles": 58, "cost": 320}, "color": 1, "shape": "1KuoQsbDQkI5eXBCZNYKQjt5cEISimFC9VtzQuJMZ0K2R6BCjvlMQg=="},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/420g-54c-63a-207i-7290aafb.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 63, "cycles": 54, "cost": 420}, "color": 0, "shape": "1KuoQsbDQkK2R6BCjvlMQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/BALANCED_GOLD/540g-54c-61a-232i-T-54d03235.mp4", "categories": ["TC_P"], "metrics": {"area": 61, "cycles": 54, "cost": 540}, "color": 2, "shape": "2/lvQpK5gkKANK1CAQBIQrZHoEKO+UxC9VtzQuJMZ0I="}
+  ]
+}

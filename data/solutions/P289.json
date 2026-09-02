@@ -1,0 +1,22 @@
+{
+  "id": "P289",
+  "name": "Fructifying Water",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-93c-74a-25i-T-7694f9ec.mp4", "categories": ["GC_P", "GX_P", "TG_P"], "metrics": {"area": 74, "cycles": 93, "cost": 100}, "color": 2, "shape": "0EwAQu0llEEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDbLPPRBfpKjQQ=="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-94c-73a-27i-T-d22177cd.mp4", "categories": [], "metrics": {"area": 73, "cycles": 94, "cost": 100}, "color": 3, "shape": "q/BmNgAAyDZXZJlByCVIQss89EF+kqNB"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-116c-72a-31i-T-d12169e9.mp4", "categories": [], "metrics": {"area": 72, "cycles": 116, "cost": 100}, "color": 1, "shape": "gDQtNgAAyEKGnYZB/MKrQldkmUHIJUhCq/BmNgAAyDYAAAAAAABINgAAAAAAAMhC"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/120g-63c-73a-22i-T-16b0739a.mp4", "categories": [], "metrics": {"area": 73, "cycles": 63, "cost": 120}, "color": 0, "shape": "QTAaQqIKskHQTABC7SWUQcs89EF+kqNBV2SZQcglSEKGnYZB/MKrQjHRjEG/rLNCmQX7QaPEo0KVwmlCBeUoQg=="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/120g-112c-72a-30i-707bd1cd.mp4", "categories": [], "metrics": {"area": 72, "cycles": 112, "cost": 120}, "color": 2, "shape": "hp2GQfzCq0KANC02AADIQjHRjEG/rLNC"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/130g-52c-78a-20i-T-758ef042.mp4", "categories": ["SUM_P"], "metrics": {"area": 78, "cycles": 52, "cost": 130}, "color": 1, "shape": "QTAaQqIKskGVwmlCBeUoQiYzjUIhCyNC"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/185g-41c-74a-23i-22c1ad1f.mp4", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 74, "cycles": 41, "cost": 185}, "color": 2, "shape": "gDStQgAASEImM41CIQsjQpXCaUIF5ShCmQX7QaPEo0I="}
+  ]
+}
