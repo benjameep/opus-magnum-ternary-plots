@@ -1,0 +1,28 @@
+{
+  "id": "P257",
+  "name": "Essence of Citrus",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/80g-866c-46a-145i-971d89f5.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 46, "cycles": 866, "cost": 80}, "color": 2, "shape": "bx3YQE1EMkG8UMBB0/CfQSRRtkGAhVJBAAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/80g-1053c-34a-176i-6f1e7db3.mp4", "categories": ["GX", "HG"], "metrics": {"area": 34, "cycles": 1053, "cost": 80}, "color": 3, "shape": "q/BmNgAAyDbjLotAmMRbQW8d2EBNRDJB"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/80g-1203c-30a-201i-e3846c4e.mp4", "categories": ["GA"], "metrics": {"area": 30, "cycles": 1203, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAAMhIKQuMui0CYxFtBq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/90g-873c-27a-148i-9e3bee97.mp4", "categories": [], "metrics": {"area": 27, "cycles": 873, "cost": 90}, "color": 1, "shape": "THjTQSV90EG8UMBB0/CfQW8d2EBNRDJB4y6LQJjEW0EAAAAAMhIKQgAAAACkLqVCp1Q6QYCNukKWP8pB1s6qQobz+UHqioFC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/120g-981c-26a-1465i-T-3482a3ba.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 26, "cycles": 981, "cost": 120}, "color": 0, "shape": "AAAAAKQupUIAAAAAAADIQqdUOkGAjbpC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/160g-415c-44a-135i-75f6ae5a.mp4", "categories": [], "metrics": {"area": 44, "cycles": 415, "cost": 160}, "color": 2, "shape": "THjTQSV90EGG8/lB6oqBQgkfAEL5j4FCYysFQtesDkI="},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/180g-123c-76a-82i-78f45f33.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 76, "cycles": 123, "cost": 180}, "color": 0, "shape": "H7meQhZHN0IkUbZBgIVSQbxQwEHT8J9BTHjTQSV90EFjKwVC16wOQtUMj0Kr+kVCqRKPQkb3RUIFX5FCUD5EQiRPnkLZZjlC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/225g-148c-53a-90i-f620dff5.mp4", "categories": [], "metrics": {"area": 53, "cycles": 148, "cost": 225}, "color": 1, "shape": "iqEXQiaZlELVDI9Cq/pFQmMrBULXrA5CCR8AQvmPgUI="},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/240g-466c-37a-186i-ea9814de.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 466, "cost": 240}, "color": 0, "shape": "iqEXQiaZlEIJHwBC+Y+BQobz+UHqioFClj/KQdbOqkIiXQ9CS52eQg=="},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/370g-77c-94a-83i-14a81a7c.mp4", "categories": [], "metrics": {"area": 94, "cycles": 77, "cost": 370}, "color": 2, "shape": "H7meQhZHN0IkT55C2WY5QhzGoULkzDpC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/450g-62c-65a-164i-2195580f.mp4", "categories": ["CG", "RG", "ORG"], "metrics": {"area": 65, "cycles": 62, "cost": 450}, "color": 1, "shape": "gDStQgAASEIcxqFC5Mw6QiRPnkLZZjlCBV+RQlA+REJ1NK1C//9HQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/465g-62c-62a-164i-44bb4e8d.mp4", "categories": [], "metrics": {"area": 62, "cycles": 62, "cost": 465}, "color": 3, "shape": "qRKPQkb3RUJ1NK1C//9HQgVfkUJQPkRC"},
+    {"gif": "https://files.mors.technology/ESSENCE_OF_CITRUS/510g-62c-54a-166i-55851071.mp4", "categories": ["CA", "CX", "OCX", "RA"], "metrics": {"area": 54, "cycles": 62, "cost": 510}, "color": 2, "shape": "Il0PQkudnkKANK1CAQBIQnU0rUL//0dCqRKPQkb3RULVDI9Cq/pFQoqhF0ImmZRC"}
+  ]
+}
