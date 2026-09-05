@@ -1,0 +1,27 @@
+{
+  "id": "P313",
+  "name": "Lapis Solaris",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue XII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/145g-2580c-246a-438i-5e3695eb.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 246, "cycles": 2580, "cost": 145}, "color": 1, "shape": "iMCBQSXTFUEAAAAAAAAAAAAAAAAAAEg2YZicQMuEikDv4m9B6eMdQQ=="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/145g-3200c-116a-540i-29be5116.mp4", "categories": ["GA", "GX"], "metrics": {"area": 116, "cycles": 3200, "cost": 145}, "color": 2, "shape": "AAAAAAAASDYAAAAAc47gQGGYnEDLhIpA"},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/160g-2554c-79a-432i-906c7694.mp4", "categories": [], "metrics": {"area": 79, "cycles": 2554, "cost": 160}, "color": 0, "shape": "AAAAAHOO4EAAAAAA9e7lQen7XEGTHrNB7+JvQenjHUFhmJxAy4SKQA=="},
+    {"gif": "https://i.imgur.com/U66JLBl.gif", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 49, "cycles": 2093, "cost": 225}, "color": 1, "shape": "6ftcQZMes0EAAAAA9e7lQQAAAAAAAMhC9nkUQd5IvUIhsJpBqPdxQhZdmUEb6mxCgI14Qd4yAUI="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/305g-263c-90a-183i-efbbc269.mp4", "categories": ["SUM4"], "metrics": {"area": 90, "cycles": 263, "cost": 305}, "color": 2, "shape": "GCVqQgIvB0KIwIFBJdMVQe/ib0Hp4x1B6ftcQZMes0GAjXhB3jIBQg=="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/315g-247c-86a-421i-10e82211.mp4", "categories": ["SUM"], "metrics": {"area": 86, "cycles": 247, "cost": 315}, "color": 0, "shape": "GCVqQgIvB0KAjXhB3jIBQhZdmUEb6mxCUK2cQW4IckKBTnFCPFeCQhqMoUIXdlVCNNShQoH0S0LS+qFCy5Y7Qv/WoUJl4DpC"},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/315g-286c-85a-186i-a2740c7d.mp4", "categories": [], "metrics": {"area": 85, "cycles": 286, "cost": 315}, "color": 3, "shape": "Fl2ZQRvqbEIhsJpBqPdxQlCtnEFuCHJC"},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/510g-450c-60a-278i-4bb425f2.mp4", "categories": ["BC", "BR"], "metrics": {"area": 60, "cycles": 450, "cost": 510}, "color": 2, "shape": "9nkUQd5IvUKBTnFCPFeCQlCtnEFuCHJCIbCaQaj3cUI="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/810g-131c-236a-217i-f45b02c2.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 236, "cycles": 131, "cost": 810}, "color": 2, "shape": "/9ahQmXgOkLS+qFCy5Y7QpicokKQxDtC"},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/925g-106c-197a-185i-b78b61c3.mp4", "categories": ["ORX"], "metrics": {"area": 197, "cycles": 106, "cost": 925}, "color": 1, "shape": "OZWsQhVIR0KYnKJCkMQ7QtL6oULLljtCNNShQoH0S0LckqxCMjhIQg=="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/945g-106c-195a-185i-d10b1523.mp4", "categories": ["RA"], "metrics": {"area": 195, "cycles": 106, "cost": 945}, "color": 2, "shape": "M5SsQhm5SELckqxCMjhIQjTUoUKB9EtCGoyhQhd2VUI="},
+    {"gif": "https://files.mors.technology/LAPIS_SOLARIS/1590g-98c-318a-1464i-6711504d.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 318, "cycles": 98, "cost": 1590}, "color": 0, "shape": "gDStQgAASEI5laxCFUhHQtySrEIyOEhCM5SsQhm5SEI="}
+  ]
+}

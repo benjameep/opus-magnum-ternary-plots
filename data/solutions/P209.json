@@ -1,0 +1,35 @@
+{
+  "id": "P209",
+  "name": "Solder Wire",
+  "collection": "De Re Metallica",
+  "group": "DRM Chapter II",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/60g-260c-151a-260i-ddb4082d.mp4", "categories": ["GC", "GX", "OGC"], "metrics": {"area": 151, "cycles": 260, "cost": 60}, "color": 0, "shape": "LMEuQbRqdEEUDzxBUyDpQMp7MEEhyctAgDQtNgAAyDWr8OY1AABINl+g0T+juJFAUA0sQVQjckE="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/60g-289c-144a-45i-07b86782.mp4", "categories": [], "metrics": {"area": 144, "cycles": 289, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAABINqvw5jUAAEg2gDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/60g-425c-107a-425i-dea17f38.mp4", "categories": ["GA"], "metrics": {"area": 107, "cycles": 425, "cost": 60}, "color": 2, "shape": "X6DRP6O4kUCr8OY1AABINgAAAAAAAEg2AAAAAFLai0A="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/65g-377c-42a-377i-a1c070e7.mp4", "categories": [], "metrics": {"area": 42, "cycles": 377, "cost": 65}, "color": 1, "shape": "AAAAAMgDR0KT+cZASFI0Qj+uMUFHkoJBUA0sQVQjckFfoNE/o7iRQAAAAABS2otA"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/70g-180c-235a-209i-T-f30af50c.mp4", "categories": [], "metrics": {"area": 235, "cycles": 180, "cost": 70}, "color": 3, "shape": "M6f5QSYjkEHKezBBIcnLQBQPPEFTIOlAVzrlQaIUjkE="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/70g-186c-152a-46i-T-2ff56568.mp4", "categories": [], "metrics": {"area": 152, "cycles": 186, "cost": 70}, "color": 2, "shape": "VzrlQaIUjkEUDzxBUyDpQCzBLkG0anRBDSI1QX5WfUFKeaZBg4ubQQ=="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/70g-316c-59a-46i-c48fc800.mp4", "categories": [], "metrics": {"area": 59, "cycles": 316, "cost": 70}, "color": 3, "shape": "UA0sQVQjckE/rjFBR5KCQQ0iNUF+Vn1BLMEuQbRqdEE="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/80g-354c-33a-354i-ff67e2c1.mp4", "categories": ["AG"], "metrics": {"area": 33, "cycles": 354, "cost": 80}, "color": 2, "shape": "k/nGQEhSNEIAAAAAyANHQgAAAAAAAMhCgDQtNgAAyEJZAK9ACjKGQg=="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/95g-172c-38a-38i-bde6ad6a.mp4", "categories": [], "metrics": {"area": 38, "cycles": 172, "cost": 95}, "color": 0, "shape": "SnmmQYOLm0ENIjVBflZ9QT+uMUFHkoJBk/nGQEhSNEJZAK9ACjKGQpzOLUGIMIxCHo5HQQSCjEJPIJdBip0aQg=="},
+    {"gif": "https://i.imgur.com/PxUixhN.gif", "categories": [], "metrics": {"area": 34, "cycles": 179, "cost": 110}, "color": 3, "shape": "tLlCQdkPnUIejkdBBIKMQpzOLUGIMIxC"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/110g-189c-33a-314i-T-9f47f98b.mp4", "categories": ["AC", "AX"], "metrics": {"area": 33, "cycles": 189, "cost": 110}, "color": 1, "shape": "tLlCQdkPnUKczi1BiDCMQlkAr0AKMoZCgDQtNgAAyEIsZTJBHCC7QsgWP0GntLFC"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/125g-66c-48a-172i-04cf1e05.mp4", "categories": [], "metrics": {"area": 48, "cycles": 66, "cost": 125}, "color": 1, "shape": "fb2GQqeVG0Izp/lBJiOQQVc65UGiFI5BSnmmQYOLm0FPIJdBip0aQv9DeUKEWCdC"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/130g-65c-43a-130i-e26e6780.mp4", "categories": ["SUM"], "metrics": {"area": 43, "cycles": 65, "cost": 130}, "color": 2, "shape": "yBY/Qae0sUL/Q3lChFgnQk8gl0GKnRpCHo5HQQSCjEK0uUJB2Q+dQg=="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/155g-56c-43a-36i-925ebf70.mp4", "categories": [], "metrics": {"area": 43, "cycles": 56, "cost": 155}, "color": 0, "shape": "LGUyQRwgu0JKX0ZCIbyOQnN+ekJoTXNCOGyIQuXpVELYAotCIUZKQvg5jUKthztC4EuKQt+wH0J9vYZCp5UbQv9DeUKEWCdCyBY/Qae0sUI="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/250g-28c-119a-62i-4fbfc2e2.mp4", "categories": ["CG", "RG"], "metrics": {"area": 119, "cycles": 28, "cost": 250}, "color": 1, "shape": "4EuKQt+wH0L4OY1CrYc7QoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/270g-32c-76a-90i-00ef5ebe.mp4", "categories": ["RA"], "metrics": {"area": 76, "cycles": 32, "cost": 270}, "color": 3, "shape": "2AKLQiFGSkI4bIhC5elUQjKGjUKUElBC"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/275g-28c-89a-93i-ae2dffc3.mp4", "categories": ["CX"], "metrics": {"area": 89, "cycles": 28, "cost": 275}, "color": 2, "shape": "2AKLQiFGSkIyho1ClBJQQrHTp0Jj101CfzStQgAASEL4OY1CrYc7Qg=="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/310g-29c-72a-204i-a14a19e1.mp4", "categories": [], "metrics": {"area": 72, "cycles": 29, "cost": 310}, "color": 1, "shape": "5N2nQggqTkKx06dCY9dNQjKGjUKUElBCOGyIQuXpVEJzfnpCaE1zQgCSkkJTwWZC"},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/330g-28c-88a-96i-f745433a.mp4", "categories": ["CA"], "metrics": {"area": 88, "cycles": 28, "cost": 330}, "color": 0, "shape": "5N2nQggqTkKANK1CAQBIQn80rUIAAEhCsdOnQmPXTUI="},
+    {"gif": "https://files.mors.technology/SOLDER_WIRE/400g-34c-58a-92i-678690c2.mp4", "categories": [], "metrics": {"area": 58, "cycles": 34, "cost": 400}, "color": 2, "shape": "Sl9GQiG8jkIAkpJCU8FmQnN+ekJoTXNC"}
+  ]
+}

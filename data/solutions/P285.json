@@ -1,0 +1,31 @@
+{
+  "id": "P285",
+  "name": "Rosewater",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ROSEWATER/80g-835c-68a-141i-191f2aad.mp4", "categories": ["GC", "GI", "GX"], "metrics": {"area": 68, "cycles": 835, "cost": 80}, "color": 1, "shape": "v35nQV2nBUEAAAAAAAAAAAAAAAAAAEg2q/DmNgAAFjiMKBlBrbsOQtB2NEEHuOtBbRtqQWt8PEE="},
+    {"gif": "https://files.mors.technology/ROSEWATER/80g-974c-60a-164i-e9415c71.mp4", "categories": [], "metrics": {"area": 60, "cycles": 974, "cost": 80}, "color": 3, "shape": "jCgZQa27DkKr8GY2AACWN6vwZjYAABY460HrQEXvQEI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/80g-1172c-54a-197i-cd6e83a4.mp4", "categories": [], "metrics": {"area": 54, "cycles": 1172, "cost": 80}, "color": 2, "shape": "r5LYQGx1VULrQetARe9AQmtWEDcAgCI4q/DmNgAAFjir8GY2AAAWOMKWwz8zMQVCEUyNQP9MTEI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/80g-2108c-46a-352i-7417567f.mp4", "categories": ["GA", "HG"], "metrics": {"area": 46, "cycles": 2108, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAA77dtQsKZqT/DCFVCwpbDPzMxBUKr8GY2AACWNw=="},
+    {"gif": "https://files.mors.technology/ROSEWATER/90g-1469c-47a-245i-18e11a94.mp4", "categories": ["WG", "WC", "WR"], "metrics": {"area": 47, "cycles": 1469, "cost": 90}, "color": 1, "shape": "wpbDPzMxBULCmak/wwhVQhFMjUD/TExC"},
+    {"gif": "https://files.mors.technology/ROSEWATER/160g-1366c-34a-444i-T-9131da8a.mp4", "categories": ["AG", "AC", "AX", "BG"], "metrics": {"area": 34, "cycles": 1366, "cost": 160}, "color": 3, "shape": "AAAAAAAAyEIOf9FAwXDAQtxtAkHS2JlCr5LYQGx1VUIRTI1A/0xMQsKZqT/DCFVCAAAAAO+3bUI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/165g-242c-93a-116i-4512d17d.mp4", "categories": [], "metrics": {"area": 93, "cycles": 242, "cost": 165}, "color": 0, "shape": "v35nQV2nBUFtG2pBa3w8QdbnkkHKoSlB"},
+    {"gif": "https://files.mors.technology/ROSEWATER/190g-112c-65a-84i-a1bfdcbe.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 65, "cycles": 112, "cost": 190}, "color": 2, "shape": "sKt4QvCRD0LW55JByqEpQW0bakFrfDxB0HY0QQe460HbxDtCLP5ZQqPLR0JkIVlC"},
+    {"gif": "https://files.mors.technology/ROSEWATER/200g-133c-57a-85i-cb0995b6.mp4", "categories": [], "metrics": {"area": 57, "cycles": 133, "cost": 200}, "color": 0, "shape": "28Q7Qiz+WULQdjRBB7jrQYwoGUGtuw5C60HrQEXvQEKvkthAbHVVQtxtAkHS2JlCAGEOQrz+gkI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/230g-90c-67a-86i-T-35592e13.mp4", "categories": ["TC"], "metrics": {"area": 67, "cycles": 90, "cost": 230}, "color": 0, "shape": "sKt4QvCRD0Kjy0dCZCFZQkNyaEKh1nBCI8NpQtbscEIMJKZCCCJNQrQzqEK81EdCpXGmQmExQEI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/240g-114c-57a-89i-c0053daa.mp4", "categories": [], "metrics": {"area": 57, "cycles": 114, "cost": 240}, "color": 3, "shape": "Q3JoQqHWcEKjy0dCZCFZQtvEO0Is/llCAGEOQrz+gkI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/250g-90c-66a-88i-T-9730b7e8.mp4", "categories": [], "metrics": {"area": 66, "cycles": 90, "cost": 250}, "color": 2, "shape": "DCSmQggiTUIjw2lC1uxwQhPPhUKnfXVC1TWkQuRiUkI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/330g-120c-50a-118i-592e9485.mp4", "categories": [], "metrics": {"area": 50, "cycles": 120, "cost": 330}, "color": 1, "shape": "Dn/RQMFwwEITz4VCp311QiPDaULW7HBCQ3JoQqHWcEIAYQ5CvP6CQtxtAkHS2JlC"},
+    {"gif": "https://files.mors.technology/ROSEWATER/705g-63c-250a-129i-8e4b2aaf.mp4", "categories": ["RG", "RI", "ORG", "ORX"], "metrics": {"area": 250, "cycles": 63, "cost": 705}, "color": 2, "shape": "pXGmQmExQEK0M6hCvNRHQlh/qkJMM0pCBnerQpz9RUI="},
+    {"gif": "https://files.mors.technology/ROSEWATER/750g-75c-109a-129i-2a7ac210.mp4", "categories": ["RA"], "metrics": {"area": 109, "cycles": 75, "cost": 750}, "color": 1, "shape": "ypyqQmP+SkJYf6pCTDNKQrQzqEK81EdCDCSmQggiTULVNaRC5GJSQg=="},
+    {"gif": "https://files.mors.technology/ROSEWATER/1550g-51c-357a-956i-dda407b0.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 357, "cycles": 51, "cost": 1550}, "color": 0, "shape": "gDStQgAASEIGd6tCnP1FQlh/qkJMM0pCypyqQmP+SkI="}
+  ]
+}

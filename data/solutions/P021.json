@@ -2,7 +2,7 @@
   "id": "P021",
   "name": "Courage Potion",
   "collection": "Campaign",
-  "group": "Chapter 2",
+  "group": "Chapter II",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -19,15 +19,17 @@
     {"gif": "https://files.mors.technology/COURAGE_POTION/70g-55c-19a-102i-T-99d16947.mp4", "categories": [], "metrics": {"area": 19, "cycles": 55, "cost": 70}, "color": 1, "shape": "Wc96QiHOEEK84BZCATiuQVG1FUIlbc1BdWVVQnjfNkI="},
     {"gif": "https://files.mors.technology/Courage-Potion-80g-50c-19a-22i-5h-4.5w-8r-T-ceb763.gif", "categories": [], "metrics": {"area": 19, "cycles": 50, "cost": 80}, "color": 2, "shape": "8gJbQhNtQUJvvYpCAAwpQinoh0KG7hxCWc96QiHOEEJ1ZVVCeN82Qg=="},
     {"gif": "https://files.mors.technology/COURAGE_POTION/100g-136c-11a-40i-T-8fe15440.mp4", "categories": [], "metrics": {"area": 11, "cycles": 136, "cost": 100}, "color": 2, "shape": "S7QQQT2cskKWDu5A7Wi/QtZuVkFOhrhC"},
-    {"gif": "https://files.mors.technology/COURAGE_POTION/120g-39c-17a-22i-T-1e1327e9.mp4", "categories": [], "metrics": {"area": 17, "cycles": 39, "cost": 120}, "color": 1, "shape": "BjhaQtYsRULg8n5C8VxmQiNGkELxy0pCOemRQkUmP0IKhY9CR20xQqrejEJ0PCxCb72KQgAMKULyAltCE21BQg=="},
-    {"gif": "https://files.mors.technology/COURAGE_POTION/120g-48c-14a-44i-T-71c0898f.mp4", "categories": [], "metrics": {"area": 14, "cycles": 48, "cost": 120}, "color": 3, "shape": "4PJ+QvFcZkIGOFpC1ixFQtMPIkLQtI9CLCcqQozhlkJtzmdCURWFQg=="},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/120g-39c-17a-22i-T-1e1327e9.mp4", "categories": [], "metrics": {"area": 17, "cycles": 39, "cost": 120}, "color": 1, "shape": "BjhaQtYsRULg8n5C8VxmQvaPjkLxmk1Cq7iRQrd/QEI56ZFCRSY/Qnaxj0IzbDJCocCOQovsL0Kq3oxCdDwsQm+9ikIADClC8gJbQhNtQUI="},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/120g-48c-14a-44i-T-71c0898f.mp4", "categories": [], "metrics": {"area": 14, "cycles": 48, "cost": 120}, "color": 2, "shape": "4PJ+QvFcZkIGOFpC1ixFQtMPIkLQtI9CLCcqQozhlkJtzmdCURWFQg=="},
     {"gif": "https://files.mors.technology/COURAGE_POTION/120g-59c-13a-24i-T-f93722cc.mp4", "categories": [], "metrics": {"area": 13, "cycles": 59, "cost": 120}, "color": 1, "shape": "0w8iQtC0j0L8Y/hB3iWkQiwnKkKM4ZZC"},
-    {"gif": "https://files.mors.technology/Courage-Potion-130g-32c-31a-16i-6h-5.5w-4r-T-a4063f.gif", "categories": ["RG"], "metrics": {"area": 31, "cycles": 32, "cost": 130}, "color": 3, "shape": "cUqWQnWKLUIp6IdChu4cQm+9ikIADClCqt6MQnQ8LEI="},
-    {"gif": "https://files.mors.technology/COURAGE_POTION/130g-36c-19a-22i-T-1247d9ea.mp4", "categories": [], "metrics": {"area": 19, "cycles": 36, "cost": 130}, "color": 2, "shape": "CoWPQkdtMUI56ZFCRSY/Qry7kkLm1ztCt9OQQnyOM0I="},
-    {"gif": "https://files.mors.technology/Courage-Potion-140g-30c-29a-108i-6h-5.5w-4.43r-T-085920.gif", "categories": [], "metrics": {"area": 29, "cycles": 30, "cost": 140}, "color": 0, "shape": "cUqWQnWKLUKq3oxCdDwsQgqFj0JHbTFCt9OQQnyOM0J4bptCE3ozQg=="},
-    {"gif": "https://files.mors.technology/Courage-Potion-160g-27c-26a-20i-6h-5w-4r-T-2b797d.gif", "categories": [], "metrics": {"area": 26, "cycles": 27, "cost": 160}, "color": 1, "shape": "c9imQhaoQEJ4bptCE3ozQrfTkEJ8jjNCvLuSQubXO0I="},
-    {"gif": "https://files.mors.technology/Courage-Potion-180g-26c-22a-24i-5h-5.5w-4r-T-de753f.gif", "categories": ["CG", "CX", "TC"], "metrics": {"area": 22, "cycles": 26, "cost": 180}, "color": 0, "shape": "gDStQgAASEJz2KZCFqhAQry7kkLm1ztCOemRQkUmP0IjRpBC8ctKQsfknUIDyEtCgDStQgEASEI="},
-    {"gif": "https://files.mors.technology/Courage-Potion-205g-26c-20a-46i-5h-5w-4r-673c35.gif", "categories": ["CA"], "metrics": {"area": 20, "cycles": 26, "cost": 205}, "color": 1, "shape": "gDStQgEASELH5J1CA8hLQppqpUJa/lBC"},
-    {"gif": "https://files.mors.technology/COURAGE_POTION/210g-27c-18a-42i-T-5aabca0e.mp4", "categories": ["RA"], "metrics": {"area": 18, "cycles": 27, "cost": 210}, "color": 2, "shape": "bc5nQlEVhUKaaqVCWv5QQsfknUIDyEtCI0aQQvHLSkLg8n5C8VxmQg=="}
+    {"gif": "https://files.mors.technology/Courage-Potion-130g-32c-31a-16i-6h-5.5w-4r-T-a4063f.gif", "categories": ["RG"], "metrics": {"area": 31, "cycles": 32, "cost": 130}, "color": 3, "shape": "cUqWQnWKLUIp6IdChu4cQm+9ikIADClCqt6MQnQ8LEJwSpZCdootQg=="},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/130g-36c-19a-22i-T-1247d9ea.mp4", "categories": [], "metrics": {"area": 19, "cycles": 36, "cost": 130}, "color": 2, "shape": "drGPQjNsMkI56ZFCRSY/Qry7kkLm1ztC4IqRQqqqNkI="},
+    {"gif": "https://files.mors.technology/Courage-Potion-140g-30c-29a-108i-6h-5.5w-4.43r-T-085920.gif", "categories": [], "metrics": {"area": 29, "cycles": 30, "cost": 140}, "color": 2, "shape": "ocCOQovsL0JwSpZCdootQqrejEJ0PCxC"},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/150g-28c-28a-16i-T-3c7c20d5.mp4", "categories": [], "metrics": {"area": 28, "cycles": 28, "cost": 150}, "color": 0, "shape": "t++gQlXVOUJxSpZCdYotQqHAjkKL7C9CdrGPQjNsMkLgipFCqqo2Qg=="},
+    {"gif": "https://files.mors.technology/Courage-Potion-160g-27c-26a-20i-6h-5w-4r-T-2b797d.gif", "categories": [], "metrics": {"area": 26, "cycles": 27, "cost": 160}, "color": 1, "shape": "c9imQhaoQEK376BCVdU5QuCKkUKqqjZCvLuSQubXO0I="},
+    {"gif": "https://files.mors.technology/Courage-Potion-180g-26c-22a-24i-5h-5.5w-4r-T-de753f.gif", "categories": ["CG", "TC"], "metrics": {"area": 22, "cycles": 26, "cost": 180}, "color": 0, "shape": "gDStQgAASEJz2KZCFqhAQry7kkLm1ztCOemRQkUmP0KruJFCt39AQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/185g-26c-21a-46i-3b500ab7.mp4", "categories": ["CX"], "metrics": {"area": 21, "cycles": 26, "cost": 185}, "color": 2, "shape": "QgihQrn0TUJ/NK1CAABIQqu4kUK3f0BC9o+OQvGaTUI="},
+    {"gif": "https://files.mors.technology/Courage-Potion-205g-26c-20a-46i-5h-5w-4r-673c35.gif", "categories": ["CA"], "metrics": {"area": 20, "cycles": 26, "cost": 205}, "color": 1, "shape": "mmqlQlr+UEKANK1CAQBIQn80rUIAAEhCQgihQrn0TUI="},
+    {"gif": "https://files.mors.technology/COURAGE_POTION/210g-27c-18a-42i-T-5aabca0e.mp4", "categories": ["RA"], "metrics": {"area": 18, "cycles": 27, "cost": 210}, "color": 0, "shape": "bc5nQlEVhUKaaqVCWv5QQkIIoUK59E1C9o+OQvGaTULg8n5C8VxmQg=="}
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "P203",
+  "name": "Silver Dust",
+  "collection": "De Re Metallica",
+  "group": "DRM Chapter I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SILVER_DUST/60g-327c-37a-55i-T-e2f6dece.mp4", "categories": ["GC", "GX", "TG"], "metrics": {"area": 37, "cycles": 327, "cost": 60}, "color": 1, "shape": "NZ9HQeaA5kAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAljcXqahAvampQQ=="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/60g-357c-35a-60i-T-340f50fb.mp4", "categories": [], "metrics": {"area": 35, "cycles": 357, "cost": 60}, "color": 0, "shape": "q/BmNgAAljeoRfM/UFq1QQ4Tp0BFz6pBF6moQL2pqUE="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/60g-604c-30a-101i-T-408b18fe.mp4", "categories": ["GA"], "metrics": {"area": 30, "cycles": 604, "cost": 60}, "color": 2, "shape": "AAAAAAAASDYAAAAA6Zz7QahF8z9QWrVBq/BmNgAAljc="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/80g-190c-27a-43i-T-8da225ce.mp4", "categories": [], "metrics": {"area": 27, "cycles": 190, "cost": 80}, "color": 2, "shape": "DhOnQEXPqkHzjv9AxaICQmZWbkGumglBNZ9HQeaA5kAXqahAvampQQ=="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/80g-297c-20a-50i-T-3a8c3dac.mp4", "categories": ["AG"], "metrics": {"area": 20, "cycles": 297, "cost": 80}, "color": 1, "shape": "847/QMWiAkIOE6dARc+qQahF8z9QWrVBAAAAAOmc+0EAAAAAAADIQoA0LTYAAMhCdpb2QLiRa0I="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/100g-79c-24a-33i-T-d0e741fb.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 24, "cycles": 79, "cost": 100}, "color": 0, "shape": "e3dUQaKquELfOjtCjPORQkoQVkJ/jHZCkdJgQmEqYULmWn5CwC8bQi8Pd0LHow5CZlZuQa6aCUHzjv9AxaICQnaW9kC4kWtCvGM1QcxIrUI="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/100g-202c-20a-47i-T-510d39d1.mp4", "categories": ["AX", "AI"], "metrics": {"area": 20, "cycles": 202, "cost": 100}, "color": 3, "shape": "dpb2QLiRa0Kr8GY2///HQrxjNUHMSK1C"},
+    {"gif": "https://files.mors.technology/SILVER_DUST/120g-190c-20a-53i-T-f6711532.mp4", "categories": ["AC"], "metrics": {"area": 20, "cycles": 190, "cost": 120}, "color": 2, "shape": "e3dUQaKquEK8YzVBzEitQqvwZjb//8dCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/210g-28c-85a-16i-T-5adf07e7.mp4", "categories": [], "metrics": {"area": 85, "cycles": 28, "cost": 210}, "color": 3, "shape": "Lw93QsejDkLmWn5CwC8bQposlkKV0TJCl2GfQp4JOEI="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/230g-26c-70a-20i-T-cdf4bdfc.mp4", "categories": [], "metrics": {"area": 70, "cycles": 26, "cost": 230}, "color": 2, "shape": "l2GfQp4JOEKaLJZCldEyQkUyokJ0DT9C1iCnQp0PQ0IlJKdCigtDQifppkJgu0BC"},
+    {"gif": "https://files.mors.technology/SILVER_DUST/240g-27c-37a-23i-T-9b2b9d93.mp4", "categories": [], "metrics": {"area": 37, "cycles": 27, "cost": 240}, "color": 1, "shape": "m7teQk5EgEJFMqJCdA0/QposlkKV0TJCkdJgQmEqYUJKEFZCf4x2Qg=="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/240g-32c-35a-23i-T-b55157c8.mp4", "categories": [], "metrics": {"area": 35, "cycles": 32, "cost": 240}, "color": 2, "shape": "ShBWQn+MdkLfOjtCjPORQt/rWEJUYYlCm7teQk5EgEI="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/255g-26c-37a-46i-90464090.mp4", "categories": [], "metrics": {"area": 37, "cycles": 26, "cost": 255}, "color": 0, "shape": "3+tYQlRhiUKMtqFCE0VVQj0dpEKFvU5C946lQhrZSULWIKdCnQ9DQkUyokJ0DT9Cm7teQk5EgEI="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/460g-16c-137a-40i-T-28e22f60.mp4", "categories": ["CG", "TC"], "metrics": {"area": 137, "cycles": 16, "cost": 460}, "color": 0, "shape": "J+mmQmC7QEIlJKdCigtDQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/510g-16c-70a-92i-3cebfec5.mp4", "categories": [], "metrics": {"area": 70, "cycles": 16, "cost": 510}, "color": 1, "shape": "946lQhrZSUJ/NK1CAABIQiUkp0KKC0NC1iCnQp0PQ0I="},
+    {"gif": "https://files.mors.technology/SILVER_DUST/530g-16c-67a-92i-eb469e85.mp4", "categories": ["CX"], "metrics": {"area": 67, "cycles": 16, "cost": 530}, "color": 3, "shape": "PR2kQoW9TkJ+NK1CAABIQveOpUIa2UlC"},
+    {"gif": "https://files.mors.technology/SILVER_DUST/570g-16c-65a-92i-e1e92df8.mp4", "categories": ["CA", "RA"], "metrics": {"area": 65, "cycles": 16, "cost": 570}, "color": 2, "shape": "jLahQhNFVUKANK1CAQBIQn80rUIAAEhCfjStQgAASEI9HaRChb1OQg=="}
+  ]
+}

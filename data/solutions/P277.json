@@ -1,0 +1,24 @@
+{
+  "id": "P277",
+  "name": "Calligrapher's Ink",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue V",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/100g-833c-47a-140i-3d0ba580.mp4", "categories": ["GC", "GX", "OGC"], "metrics": {"area": 47, "cycles": 833, "cost": 100}, "color": 2, "shape": "Oj7CQedKYEEAAAAAAAAAAAAAAAAAAEg2Y4uuQFpRZkFPEJFBbwkIQg=="},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/100g-1411c-30a-237i-812929cc.mp4", "categories": ["GA"], "metrics": {"area": 30, "cycles": 1411, "cost": 100}, "color": 0, "shape": "AAAAAAAASDYAAAAAukMWQmOLrkBaUWZB"},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/110g-1179c-28a-197i-07424ef6.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 28, "cycles": 1179, "cost": 110}, "color": 1, "shape": "TxCRQW8JCEJji65AWlFmQQAAAAC6QxZCAAAAAAAAyEKX40BBVRS6Qg/PnkHnX2FC"},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/210g-186c-46a-116i-7537c18b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 46, "cycles": 186, "cost": 210}, "color": 0, "shape": "t0OJQtl/HkI6PsJB50pgQU8QkUFvCQhCD8+eQedfYUKgk4VCa7hxQiIviULsl3FCXXSYQu/1X0KU85hCiBhYQsgPk0L43S5C"},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/215g-183c-50a-123i-f080a7d1.mp4", "categories": [], "metrics": {"area": 50, "cycles": 183, "cost": 215}, "color": 2, "shape": "t0OJQtl/HkLID5NC+N0uQrlbkkIAAClC"},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/310g-237c-36a-312i-91993c67.mp4", "categories": [], "metrics": {"area": 36, "cycles": 237, "cost": 310}, "color": 2, "shape": "vLSDQkTrd0Kgk4VCa7hxQg/PnkHnX2FCl+NAQVUUukI="},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/330g-231c-37a-314i-742a3b41.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 231, "cost": 330}, "color": 1, "shape": "vLSDQkTrd0IiL4lC7JdxQqCThUJruHFC"},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/510g-59c-99a-126i-05f26766.mp4", "categories": ["CG", "CI", "CX", "OCX", "RG", "ORG"], "metrics": {"area": 99, "cycles": 59, "cost": 510}, "color": 1, "shape": "gDStQgAASEK5W5JCAAApQsgPk0L43S5ClPOYQogYWEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/690g-59c-95a-302i-42611f5c.mp4", "categories": ["CA", "RA"], "metrics": {"area": 95, "cycles": 59, "cost": 690}, "color": 2, "shape": "XXSYQu/1X0KANK1CAQBIQpTzmEKIGFhC"}
+  ]
+}

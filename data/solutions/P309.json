@@ -1,0 +1,26 @@
+{
+  "id": "P309",
+  "name": "Resin Glue",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue XI",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/RESIN_GLUE/40g-3331c-4898a-556i-T-57b7f3f2.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 4898, "cycles": 3331, "cost": 40}, "color": 1, "shape": "AAAAAAAAAAAAAAAACc2XP5Ur8z/4ZIw/"},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/50g-1594c-92a-269i-be96c43c.mp4", "categories": [], "metrics": {"area": 92, "cycles": 1594, "cost": 50}, "color": 0, "shape": "zjVzQd5qDEGVK/M/+GSMPwAAAAAJzZc/AAAAAAN5mkLFElQ94AubQnGpbUHGEitB"},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/90g-866c-26a-145i-ed75cc04.mp4", "categories": ["BG", "BC", "BR"], "metrics": {"area": 26, "cycles": 866, "cost": 90}, "color": 3, "shape": "caltQcYSK0HFElQ94AubQlC6iD1D7MdC7YsKQBSAxUK06iBAC5nCQg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/90g-2617c-24a-437i-de850e02.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 24, "cycles": 2617, "cost": 90}, "color": 1, "shape": "AAAAAAN5mkIAAAAAAADIQlC6iD1D7MdCxRJUPeALm0I="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/130g-130c-56a-43i-T-30614e28.mp4", "categories": ["SUM"], "metrics": {"area": 56, "cycles": 130, "cost": 130}, "color": 1, "shape": "4qKKQlcVIELONXNB3moMQXGpbUHGEitBtOogQAuZwkJvJnlCGPs6Qg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/160g-102c-55a-40i-b55bd8c6.mp4", "categories": ["SUM4"], "metrics": {"area": 55, "cycles": 102, "cost": 160}, "color": 2, "shape": "7YsKQBSAxUIWOORBNQ+nQunmWUKp3n5CbyZ5Qhj7OkK06iBAC5nCQg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/165g-96c-68a-37i-78b7701f.mp4", "categories": [], "metrics": {"area": 68, "cycles": 96, "cost": 165}, "color": 3, "shape": "4g6gQrjROELioopCVxUgQm8meUIY+zpC6eZZQqnefkI="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/215g-80c-71a-57i-573b80ab.mp4", "categories": [], "metrics": {"area": 71, "cycles": 80, "cost": 215}, "color": 0, "shape": "f/mnQtr1QULiDqBCuNE4QunmWUKp3n5CFjjkQTUPp0JQtyxCJCSWQujkMkK0KJRC"},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/520g-43c-126a-214i-76c078a4.mp4", "categories": [], "metrics": {"area": 126, "cycles": 43, "cost": 520}, "color": 1, "shape": "f/mnQtr1QULo5DJCtCiUQukNR0K4iY5CSAyOQiT6a0IfuKxCYXBHQg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/555g-44c-124a-214i-1ebd9c75.mp4", "categories": [], "metrics": {"area": 124, "cycles": 44, "cost": 555}, "color": 2, "shape": "ULcsQiQklkLpDUdCuImOQujkMkK0KJRC"},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/885g-39c-153a-503i-2722901f.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 153, "cycles": 39, "cost": 885}, "color": 0, "shape": "H7isQmFwR0JIDI5CJPprQoA0rUIAAEhC"}
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "id": "P105",
   "name": "Vanishing Material",
-  "collection": "Journal",
-  "group": "Journal IX",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue IX",
   "num_colors": 3,
   "metrics": [
     "area",
@@ -11,12 +11,13 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Vanishing-Material-170g-458c-71a-145i-7h-11w-76r-f51039.gif", "categories": ["GC_P", "GX_P"], "metrics": {"area": 71, "cycles": 458, "cost": 170}, "color": 2, "shape": "8Z4AQsGElEEAAAAAAAAAAAAAAADblQhBykrOQQZVvkE="},
-    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/180g-486c-66a-121i-2597f459.mp4", "categories": [], "metrics": {"area": 66, "cycles": 486, "cost": 180}, "color": 1, "shape": "ykrOQQZVvkEAAAAA25UIQQAAAAAAAMhCgDQtNgAAyEKm/ZtBV65fQg=="},
-    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/210g-379c-66a-118i-3c4e25c2.mp4", "categories": [], "metrics": {"area": 66, "cycles": 379, "cost": 210}, "color": 2, "shape": "pv2bQVeuX0KANC02AADIQk5FaUFGKrdCI6KMQd6+qUI="},
-    {"gif": "https://files.mors.technology/Vanishing-Material-240g-168c-67a-85i-7h-11w-26r-T-0eaafb.gif", "categories": ["SUM_P"], "metrics": {"area": 67, "cycles": 168, "cost": 240}, "color": 0, "shape": "5EKDQkeRF0LxngBCwYSUQcpKzkEGVb5Bpv2bQVeuX0IjooxB3r6pQiEzgUJtpDFC"},
-    {"gif": "https://files.mors.technology/Vanishing-Material-295g-125c-69a-90i-7h-11w-19r-b2a0ae.gif", "categories": [], "metrics": {"area": 69, "cycles": 125, "cost": 295}, "color": 2, "shape": "5EKDQkeRF0IhM4FCbaQxQhcUl0LVxDZCfUmaQsUnMkI="},
-    {"gif": "https://files.mors.technology/Vanishing-Material-315g-119c-69a-90i-7h-11w-18r-894de0.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 69, "cycles": 119, "cost": 315}, "color": 0, "shape": "fUmaQsUnMkIXFJdC1cQ2QqGRq0Ks40lCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/320g-120c-67a-99i-T-5de1b504.mp4", "categories": [], "metrics": {"area": 67, "cycles": 120, "cost": 320}, "color": 1, "shape": "TkVpQUYqt0KhkatCrONJQhcUl0LVxDZCITOBQm2kMUIjooxB3r6pQg=="}
+    {"gif": "https://files.mors.technology/Vanishing-Material-170g-458c-71a-145i-7h-11w-76r-f51039.gif", "categories": ["GC_P", "GX_P"], "metrics": {"area": 71, "cycles": 458, "cost": 170}, "color": 1, "shape": "AAAAAAAAAAAAAAAAnHNOQJOPN0Ey9dNA"},
+    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/175g-384c-65a-101i-6ee562ed.mp4", "categories": [], "metrics": {"area": 65, "cycles": 384, "cost": 175}, "color": 0, "shape": "JT35Qevlj0GTjzdBMvXTQAAAAACcc05AAAAAAAAAyEKANC02AADIQvHH3UE9LCNC"},
+    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/215g-262c-65a-99i-00c06b3e.mp4", "categories": [], "metrics": {"area": 65, "cycles": 262, "cost": 215}, "color": 2, "shape": "8cfdQT0sI0KANC02AADIQtuBGUKvr5tCkFoiQoqnjkI="},
+    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/220g-203c-66a-106i-T-34aa967a.mp4", "categories": ["TG_P"], "metrics": {"area": 66, "cycles": 203, "cost": 220}, "color": 1, "shape": "kFoiQoqnjkLsHE9CZO5YQtE7Q0K4b+FBJT35Qevlj0Hxx91BPSwjQg=="},
+    {"gif": "https://files.mors.technology/Vanishing-Material-240g-168c-67a-85i-7h-11w-26r-T-0eaafb.gif", "categories": ["SUM_P", "TIG_P", "TIC_P"], "metrics": {"area": 67, "cycles": 168, "cost": 240}, "color": 2, "shape": "0TtDQrhv4UHsHE9CZO5YQm3Yf0Iw2y1C9a+AQmiYFEI="},
+    {"gif": "https://files.mors.technology/Vanishing-Material-295g-125c-69a-90i-7h-11w-19r-b2a0ae.gif", "categories": [], "metrics": {"area": 69, "cycles": 125, "cost": 295}, "color": 1, "shape": "9a+AQmiYFEJt2H9CMNstQnT6lULI1zRCWeiYQgCQMEI="},
+    {"gif": "https://files.mors.technology/Vanishing-Material-315g-119c-69a-90i-7h-11w-18r-894de0.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 69, "cycles": 119, "cost": 315}, "color": 2, "shape": "WeiYQgCQMEJ0+pVCyNc0Qo2vq0IgwUlCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/VANISHING_MATERIAL/320g-120c-67a-99i-T-5de1b504.mp4", "categories": ["TC_P"], "metrics": {"area": 67, "cycles": 120, "cost": 320}, "color": 0, "shape": "24EZQq+vm0KNr6tCIMFJQnT6lULI1zRCbdh/QjDbLULsHE9CZO5YQpBaIkKKp45C"}
   ]
 }

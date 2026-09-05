@@ -1,0 +1,21 @@
+{
+  "id": "P298",
+  "name": "Mirroring Amalgam",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue IX",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://i.imgur.com/7Ujpogg.gif", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 1037, "cycles": 1667, "cost": 50}, "color": 0, "shape": "AAAAAAAAAAAAAAAAohSeQRx7CUGSlo1ByiaEQG6YGEA="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/60g-929c-1306a-157i-ff1195fa.mp4", "categories": [], "metrics": {"area": 1306, "cycles": 929, "cost": 60}, "color": 1, "shape": "yiaEQG6YGEAcewlBkpaNQULy20FVw8RBrVQbQktcs0E="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/135g-856c-58a-124i-b6a715f9.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "OAC"], "metrics": {"area": 58, "cycles": 856, "cost": 135}, "color": 2, "shape": "5ncSQH5bxUJC8ttBVcPEQRx7CUGSlo1BAAAAAKIUnkEAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/245g-88c-74a-52i-b964b047.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 74, "cycles": 88, "cost": 245}, "color": 0, "shape": "GRKgQm7VOEKtVBtCS1yzQULy20FVw8RB5ncSQH5bxUKudBFCsgKeQiRPZUIyY4JC"},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/400g-41c-125a-51i-a372b6d8.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RG", "RI", "ORG", "ORX"], "metrics": {"area": 125, "cycles": 41, "cost": 400}, "color": 2, "shape": "GRKgQm7VOEIkT2VCMmOCQlYhiEJ0z3JCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/490g-52c-94a-60i-ef9ffa53.mp4", "categories": [], "metrics": {"area": 94, "cycles": 52, "cost": 490}, "color": 1, "shape": "rnQRQrICnkJWIYhCdM9yQiRPZUIyY4JC"}
+  ]
+}

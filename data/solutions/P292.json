@@ -1,0 +1,21 @@
+{
+  "id": "P292",
+  "name": "Umbral Mascara",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VIII",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/100g-929c-88a-158i-237410ee.mp4", "categories": ["GC", "GA", "GI", "GX"], "metrics": {"area": 88, "cycles": 929, "cost": 100}, "color": 1, "shape": "0poZQhVesUEAAAAAAAAAAAAAAAAvBzZB2WS9P9QYTkHCWA9Co8TmQQ=="},
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/130g-1402c-45a-235i-195fe5ef.mp4", "categories": ["WC", "WR"], "metrics": {"area": 45, "cycles": 1402, "cost": 130}, "color": 2, "shape": "AAAAAC8HNkEAAAAAkkhlQS8mbT8UAl5B2WS9P9QYTkE="},
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/140g-958c-35a-261i-T-31995aaa.mp4", "categories": ["BG", "BC", "BR"], "metrics": {"area": 35, "cycles": 958, "cost": 140}, "color": 0, "shape": "LyZtPxQCXkEQts1AuZPAQnRKSEJXLo5CwlgPQqPE5kHZZL0/1BhOQQ=="},
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/140g-1204c-34a-312i-T-bc27295d.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 34, "cycles": 1204, "cost": 140}, "color": 1, "shape": "ELbNQLmTwEIvJm0/FAJeQQAAAACSSGVBAAAAAAAAyEI="},
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/280g-109c-94a-108i-1f1fd71b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 94, "cycles": 109, "cost": 280}, "color": 2, "shape": "GLegQvSTOULSmhlCFV6xQcJYD0KjxOZBdEpIQlcujkJVPIRCsk53Qg=="},
+    {"gif": "https://files.mors.technology/UMBRAL_MASCARA/475g-54c-103a-102i-6b8fd615.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 103, "cycles": 54, "cost": 475}, "color": 0, "shape": "GLegQvSTOUJVPIRCsk53QoA0rUIAAEhC"}
+  ]
+}
