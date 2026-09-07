@@ -1,0 +1,27 @@
+{
+  "id": "P281",
+  "name": "Salt of Hartshorn",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VI",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/80g-870c-100a-146i-c4fa4279.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 100, "cycles": 870, "cost": 80}, "color": 2, "shape": "QBBEQQVl4kAAAAAAAAAAAAAAAAAAAEg20ij6QH3Oh0E="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/80g-888c-93a-149i-f6593b35.mp4", "categories": ["GA", "GX"], "metrics": {"area": 93, "cycles": 888, "cost": 80}, "color": 0, "shape": "AAAAAAAASDYAAAAATrPfQW/ESECmHuNBTPl3QFZh3kHSKPpAfc6HQQ=="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/115g-609c-56a-102i-41b289d1.mp4", "categories": [], "metrics": {"area": 56, "cycles": 609, "cost": 115}, "color": 1, "shape": "TPl3QFZh3kFS2yZB2gdTQhQHLUHquUxCEWBPQdF070BAEERBBWXiQNIo+kB9zodB"},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/120g-747c-34a-125i-b5233f2a.mp4", "categories": ["BG"], "metrics": {"area": 34, "cycles": 747, "cost": 120}, "color": 2, "shape": "UtsmQdoHU0JM+XdAVmHeQW/ESECmHuNBjr3sQEbohUJvahBBnUV8Qg=="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/120g-870c-25a-146i-274b15c6.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "WC", "OAC", "WR"], "metrics": {"area": 25, "cycles": 870, "cost": 120}, "color": 3, "shape": "jr3sQEbohUJvxEhAph7jQQAAAABOs99BAAAAAAAAyEImQfQ/7MvFQg=="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/170g-622c-28a-174i-dab5ce3a.mp4", "categories": ["HC", "HR"], "metrics": {"area": 28, "cycles": 622, "cost": 170}, "color": 1, "shape": "JkH0P+zLxUI6Ai9Aq9fEQk7XaUBqqb9CVSn3QGb/p0JvahBBnUV8Qo697EBG6IVC"},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/175g-190c-81a-92i-9e5527d9.mp4", "categories": [], "metrics": {"area": 81, "cycles": 190, "cost": 175}, "color": 2, "shape": "EWBPQdF070AUBy1B6rlMQiRHL0K7ZMpB"},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/240g-112c-52a-90i-e10035be.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 52, "cycles": 112, "cost": 240}, "color": 0, "shape": "Z1uYQkDtL0IkRy9Cu2TKQRQHLUHquUxCUtsmQdoHU0JvahBBnUV8QlUp90Bm/6dCb7NjQdyFp0JmWvlBTAKkQn5+c0KVtYFC"},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/370g-171c-36a-109i-fc1be519.mp4", "categories": [], "metrics": {"area": 36, "cycles": 171, "cost": 370}, "color": 3, "shape": "TtdpQGqpv0Jvs2NB3IWnQlUp90Bm/6dC"},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/380g-165c-36a-114i-a484470a.mp4", "categories": ["BC", "BR"], "metrics": {"area": 36, "cycles": 165, "cost": 380}, "color": 2, "shape": "OgIvQKvXxEJmWvlBTAKkQm+zY0HchadCTtdpQGqpv0I="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/680g-38c-146a-87i-T-72a482c4.mp4", "categories": ["TC", "RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 146, "cycles": 38, "cost": 680}, "color": 1, "shape": "Z1uYQkDtL0J+fnNClbWBQiYToEJbKVdC/dSrQhxqRkI="},
+    {"gif": "https://files.mors.technology/SALT_OF_HARTSHORN/1800g-27c-218a-590i-9a99faff.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 218, "cycles": 27, "cost": 1800}, "color": 0, "shape": "/dSrQhxqRkImE6BCWylXQoA0rUIAAEhC"}
+  ]
+}

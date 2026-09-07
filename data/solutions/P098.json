@@ -1,8 +1,8 @@
 {
   "id": "P098",
   "name": "Vaporous Solvent",
-  "collection": "Journal",
-  "group": "Journal VII",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue VII",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -28,6 +28,6 @@
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/350g-75c-92a-146i-8b19ae8a.mp4", "categories": ["CX"], "metrics": {"area": 92, "cycles": 75, "cost": 350}, "color": 1, "shape": "JKmrQjyNR0J+NK1C//9HQm/7qkJ7nUZC"},
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/355g-75c-91a-146i-3a6be2ac.mp4", "categories": [], "metrics": {"area": 91, "cycles": 75, "cost": 355}, "color": 3, "shape": "5FesQrmPSEJ/NK1CAABIQn40rUL//0dCJKmrQjyNR0I="},
     {"gif": "https://files.mors.technology/Vaporous-Solvent-370g-76c-70a-186i-11h-9w-12r-2cb318.gif", "categories": [], "metrics": {"area": 70, "cycles": 76, "cost": 370}, "color": 3, "shape": "E0ysQuqkSEKP5qhC2Q1LQrhLqUKag0xCBNGrQnyaSUI="},
-    {"gif": "https://i.imgur.com/naXdoYS.gif", "categories": ["CA"], "metrics": {"area": 80, "cycles": 75, "cost": 685}, "color": 1, "shape": "BNGrQnyaSUKANK1CAQBIQn80rUIAAEhC5FesQrmPSEITTKxC6qRIQg=="}
+    {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/685g-75c-80a-102i-64c61ad9.mp4", "categories": ["CA"], "metrics": {"area": 80, "cycles": 75, "cost": 685}, "color": 1, "shape": "BNGrQnyaSUKANK1CAQBIQn80rUIAAEhC5FesQrmPSEITTKxC6qRIQg=="}
   ]
 }

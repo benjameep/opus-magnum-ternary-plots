@@ -1,0 +1,21 @@
+{
+  "id": "P294",
+  "name": "Storm-Sensing Potion",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VIII",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/100g-2173c-811a-364i-3b4b5326.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 811, "cycles": 2173, "cost": 100}, "color": 2, "shape": "PfimQcvMQEEAAAAAAAAAAAAAAAAT+/o/pSlCQcdNXEE="},
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/130g-3401c-35a-567i-c54b6979.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 35, "cycles": 3401, "cost": 130}, "color": 1, "shape": "AAAAABP7+j8AAAAAAADIQo95jUAd5cJC7SkcQTDHh0KlKUJBx01cQQ=="},
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/345g-1809c-55a-851i-e44178ad.mp4", "categories": ["HC", "HR"], "metrics": {"area": 55, "cycles": 1809, "cost": 345}, "color": 2, "shape": "7SkcQTDHh0KPeY1AHeXCQqiiSkFEYLlC"},
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/360g-359c-113a-1942i-9060bbe0.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 113, "cycles": 359, "cost": 360}, "color": 0, "shape": "4caQQocsJ0I9+KZBy8xAQaUpQkHHTVxB7SkcQTDHh0KookpBRGC5QoEadkK+9IBC78SHQgdgZUI="},
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/960g-98c-317a-214i-T-86d00775.mp4", "categories": ["TIG", "TIC", "TIA", "TG", "TC", "RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 317, "cycles": 98, "cost": 960}, "color": 1, "shape": "4caQQocsJ0LvxIdCB2BlQrnLqkLON0VC"},
+    {"gif": "https://files.mors.technology/STORM_SENSING_POTION/1600g-78c-274a-1748i-cb25a344.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 274, "cycles": 78, "cost": 1600}, "color": 2, "shape": "gDStQgAASEK5y6pCzjdFQu/Eh0IHYGVCgRp2Qr70gEI="}
+  ]
+}

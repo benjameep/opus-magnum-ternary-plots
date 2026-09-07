@@ -1,0 +1,22 @@
+{
+  "id": "P303",
+  "name": "Electrum",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue X",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ELECTRUM/90g-2707c-80a-453i-e4c8441a.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "BR"], "metrics": {"area": 80, "cycles": 2707, "cost": 90}, "color": 0, "shape": "jKNyQG0WDEAAAAAAAAAAAAAAAAD5NhBCAhKtQKvjHkI="},
+    {"gif": "https://files.mors.technology/ELECTRUM/100g-1525c-85a-255i-T-ae224d44.mp4", "categories": ["TG", "WR"], "metrics": {"area": 85, "cycles": 1525, "cost": 100}, "color": 1, "shape": "PmMGQnEtm0GMo3JAbRYMQAISrUCr4x5CGI6nQR3rfkI="},
+    {"gif": "https://files.mors.technology/ELECTRUM/195g-3413c-37a-5095i-3f926815.mp4", "categories": ["AI"], "metrics": {"area": 37, "cycles": 3413, "cost": 195}, "color": 2, "shape": "AAAAAPk2EEIAAAAAAADIQgUkzEHqiKpCGI6nQR3rfkICEq1Aq+MeQg=="},
+    {"gif": "https://files.mors.technology/ELECTRUM/260g-159c-95a-121i-a577a607.mp4", "categories": ["IG", "IC", "IA", "SUM", "SUM4", "OIC", "OSUM", "OSUM4"], "metrics": {"area": 95, "cycles": 159, "cost": 260}, "color": 0, "shape": "FyGhQlkOOkI+YwZCcS2bQRiOp0Ed635CBSTMQeqIqkIq9ClCRvCWQgSJoEI3tkJC"},
+    {"gif": "https://files.mors.technology/ELECTRUM/440g-86c-130a-469i-2089a487.mp4", "categories": ["RG", "RI", "ORG", "ORX"], "metrics": {"area": 130, "cycles": 86, "cost": 440}, "color": 1, "shape": "FyGhQlkOOkIEiaBCN7ZCQiQIrUJ87UdCmhWtQlLcR0I="},
+    {"gif": "https://files.mors.technology/ELECTRUM/505g-86c-98a-537i-030d84bf.mp4", "categories": ["RA"], "metrics": {"area": 98, "cycles": 86, "cost": 505}, "color": 2, "shape": "JAitQnztR0IEiaBCN7ZCQir0KUJG8JZCg/6sQlg+SEI="},
+    {"gif": "https://files.mors.technology/ELECTRUM/705g-85c-133a-838i-04203780.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 133, "cycles": 85, "cost": 705}, "color": 0, "shape": "gDStQgAASEKaFa1CUtxHQiQIrUJ87UdCg/6sQlg+SEI="}
+  ]
+}

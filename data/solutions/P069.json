@@ -1,8 +1,8 @@
 {
   "id": "P069",
   "name": "Proof of Completeness",
-  "collection": "Journal",
-  "group": "Journal IV",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue IV",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -31,6 +31,6 @@
     {"gif": "https://files.mors.technology/PROOF_OF_COMPLETENESS/450g-40c-35a-56i-T-ed4281fd.mp4", "categories": [], "metrics": {"area": 35, "cycles": 40, "cost": 450}, "color": 0, "shape": "+uhlQnWhhUKeE4hCSt9yQmOOeUJnyXpC"},
     {"gif": "https://files.mors.technology/Proof-of-Completeness-460g-30c-49a-112i-9h-8.5w-4r-32d710.gif", "categories": [], "metrics": {"area": 49, "cycles": 30, "cost": 460}, "color": 1, "shape": "UT2fQkUgWELVraBCvnZWQrQ7qULXcUpClvGpQjH1RUJc1alCVNhFQglapEK3a05C"},
     {"gif": "https://files.mors.technology/Proof-of-Completeness-520g-29c-58a-124i-10h-9w-4r-7c94b7.gif", "categories": ["CX"], "metrics": {"area": 58, "cycles": 29, "cost": 520}, "color": 0, "shape": "tDupQtdxSkJ/NK1CAABIQn00rUL+/0dClvGpQjH1RUI="},
-    {"gif": "https://i.imgur.com/mmkIxhu.gif", "categories": ["CA"], "metrics": {"area": 52, "cycles": 29, "cost": 610}, "color": 2, "shape": "1a2gQr52VkKANK1CAQBIQn80rUIAAEhCtDupQtdxSkI="}
+    {"gif": "https://files.mors.technology/PROOF_OF_COMPLETENESS/610g-29c-52a-397i-3896cd19.mp4", "categories": [], "metrics": {"area": 52, "cycles": 29, "cost": 610}, "color": 2, "shape": "1a2gQr52VkKANK1CAQBIQn80rUIAAEhCtDupQtdxSkI="}
   ]
 }

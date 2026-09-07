@@ -1,0 +1,21 @@
+{
+  "id": "P272",
+  "name": "Gunmetal",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue IV",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/GUNMETAL/95g-904c-66a-151i-6c802d36.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 66, "cycles": 904, "cost": 95}, "color": 0, "shape": "gDQtNgAAyEL9Nb9BJlbKQZ4kkEEpcSZBAAAAAAAAAAAAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/GUNMETAL/140g-271c-77a-77i-daad40ef.mp4", "categories": [], "metrics": {"area": 77, "cycles": 271, "cost": 140}, "color": 1, "shape": "3RsgQrXguEGeJJBBKXEmQf01v0EmVspBZEQGQlkUDkI="},
+    {"gif": "https://files.mors.technology/GUNMETAL/140g-537c-66a-127i-723e0a4b.mp4", "categories": [], "metrics": {"area": 66, "cycles": 537, "cost": 140}, "color": 2, "shape": "/TW/QSZWykGANC02AADIQvtWX0IBh4dCZEQGQlkUDkI="},
+    {"gif": "https://files.mors.technology/GUNMETAL/160g-185c-77a-77i-89aaf524.mp4", "categories": ["SUM_P", "OSUM_P"], "metrics": {"area": 77, "cycles": 185, "cost": 160}, "color": 0, "shape": "nC2PQvJTJULdGyBCteC4QWREBkJZFA5C+1ZfQgGHh0JTAWFC7guHQtOeY0KNRoVC"},
+    {"gif": "https://files.mors.technology/GUNMETAL/280g-92c-80a-71i-c0d7df43.mp4", "categories": ["RG_P", "ORG_P"], "metrics": {"area": 80, "cycles": 92, "cost": 280}, "color": 1, "shape": "nC2PQvJTJULTnmNCjUaFQlDgq0Ivd0ZC"},
+    {"gif": "https://files.mors.technology/GUNMETAL/315g-91c-80a-73i-a9d516c8.mp4", "categories": ["CG_P"], "metrics": {"area": 80, "cycles": 91, "cost": 315}, "color": 2, "shape": "gDStQgAASEJQ4KtCL3dGQtOeY0KNRoVCUwFhQu4Lh0I="}
+  ]
+}
