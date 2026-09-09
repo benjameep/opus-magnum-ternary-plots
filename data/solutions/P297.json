@@ -1,0 +1,30 @@
+{
+  "id": "P297",
+  "name": "Xylem Substitute",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue IX",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/80g-916c-750a-78i-70f93db0.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 750, "cycles": 916, "cost": 80}, "color": 1, "shape": "dd+8QXQXWkEAAAAAAAAAAAAAAAChAplA3dg5QSFsZUE="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/125g-1377c-152a-107i-eed89b56.mp4", "categories": ["WG"], "metrics": {"area": 152, "cycles": 1377, "cost": 125}, "color": 0, "shape": "3dg5QSFsZUEAAAAAoQKZQAAAAACzsaZCu3O7PQc4p0IufKhAJYGMQsXu4kB9VGBC"},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/195g-1079c-143a-134i-a91e7da1.mp4", "categories": [], "metrics": {"area": 143, "cycles": 1079, "cost": 195}, "color": 3, "shape": "LnyoQCWBjEK7c7s9BzinQkVvVT+MCcdC7UmEQPg5w0LFkIZALk7CQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/215g-1949c-140a-187i-814a921d.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 140, "cycles": 1949, "cost": 215}, "color": 1, "shape": "AAAAALOxpkIAAAAAAADIQkVvVT+MCcdCu3O7PQc4p0I="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/235g-138c-165a-49i-b3efd038.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 165, "cycles": 138, "cost": 235}, "color": 2, "shape": "PCdtQqbrCEJ137xBdBdaQd3YOUEhbGVBxe7iQH1UYEJ8GExCTXRFQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/245g-136c-160a-46i-88678f80.mp4", "categories": [], "metrics": {"area": 160, "cycles": 136, "cost": 245}, "color": 1, "shape": "0lJFQlQyhUJ8GExCTXRFQsXu4kB9VGBCLnyoQCWBjELFkIZALk7CQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/265g-112c-171a-43i-5f02155c.mp4", "categories": [], "metrics": {"area": 171, "cycles": 112, "cost": 265}, "color": 0, "shape": "3iyVQrRALEI8J21CpusIQnwYTEJNdEVC0lJFQlQyhULnKFFCZ8aDQv7zc0K87ntCafWDQkslZkJpuolCbzZYQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/325g-118c-163a-51i-f6c51cd3.mp4", "categories": ["WC", "WR"], "metrics": {"area": 163, "cycles": 118, "cost": 325}, "color": 1, "shape": "/vNzQrzue0LnKFFCZ8aDQiuzWULMJ4lCB/JsQomZg0I="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/325g-123c-160a-51i-d9f2af67.mp4", "categories": [], "metrics": {"area": 160, "cycles": 123, "cost": 325}, "color": 2, "shape": "K7NZQswniULnKFFCZ8aDQtJSRUJUMoVCxZCGQC5OwkLtSYRA+DnDQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/430g-62c-222a-116i-64fe2386.mp4", "categories": ["RG", "RA", "ORG"], "metrics": {"area": 222, "cycles": 62, "cost": 430}, "color": 2, "shape": "3iyVQrRALEJpuolCbzZYQtxXq0LR2UhC6DOrQicPRkK6HKtCV5VFQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/475g-62c-209a-378i-fb9aaa0f.mp4", "categories": [], "metrics": {"area": 209, "cycles": 62, "cost": 475}, "color": 1, "shape": "CWarQgFSSULcV6tC0dlIQmm6iUJvNlhCafWDQkslZkI="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/495g-62c-206a-402i-913770b4.mp4", "categories": [], "metrics": {"area": 206, "cycles": 62, "cost": 495}, "color": 2, "shape": "B/JsQomZg0KpdatC+ANKQidvq0KOkElCCWarQgFSSUJp9YNCSyVmQv7zc0K87ntC"},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/835g-53c-526a-1166i-2d80db0b.mp4", "categories": [], "metrics": {"area": 526, "cycles": 53, "cost": 835}, "color": 0, "shape": "N62rQn1CR0LoM6tCJw9GQtxXq0LR2UhCCWarQgFSSUInb6tCjpBJQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/995g-49c-814a-689i-876ce1ca.mp4", "categories": ["CG"], "metrics": {"area": 814, "cycles": 49, "cost": 995}, "color": 1, "shape": "gDStQgAASEK6HKtCV5VFQugzq0InD0ZCN62rQn1CR0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/XYLEM_SUBSTITUTE/1090g-49c-659a-662i-4ff88eae.mp4", "categories": ["CA", "CX", "OCX"], "metrics": {"area": 659, "cycles": 49, "cost": 1090}, "color": 3, "shape": "qXWrQvgDSkKANK1CAQBIQjetq0J9QkdCJ2+rQo6QSUI="}
+  ]
+}

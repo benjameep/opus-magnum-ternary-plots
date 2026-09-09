@@ -1,0 +1,23 @@
+{
+  "id": "P267",
+  "name": "Preserving Wax",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue III",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/100g-1820c-76a-1820i-3d408338.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 76, "cycles": 1820, "cost": 100}, "color": 0, "shape": "6vi1QKAfUkAAAAAAAAAAAAAAAAAAAMhCgDQtNgAAyEI="},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/110g-919c-76a-919i-3bb3c447.mp4", "categories": [], "metrics": {"area": 76, "cycles": 919, "cost": 110}, "color": 1, "shape": "6vi1QKAfUkCANC02AADIQta+QkImyI9C7rJSQgWCSUK22FZCfIAqQmOsUUInHPJB"},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/280g-217c-83a-99i-550d49aa.mp4", "categories": ["SUM_P"], "metrics": {"area": 83, "cycles": 217, "cost": 280}, "color": 2, "shape": "Y6xRQicc8kG22FZCfIAqQopKbEL8ZTFCx5yLQqQ7NELFi4hCcqsdQg=="},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/300g-183c-84a-123i-5000430f.mp4", "categories": [], "metrics": {"area": 84, "cycles": 183, "cost": 300}, "color": 1, "shape": "xYuIQnKrHULHnItCpDs0QmsplkKTRTxCrvabQlsXNEI="},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/300g-233c-81a-131i-ce189087.mp4", "categories": [], "metrics": {"area": 81, "cycles": 233, "cost": 300}, "color": 3, "shape": "7rJSQgWCSUKKSmxC/GUxQrbYVkJ8gCpC"},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/320g-169c-84a-119i-60724000.mp4", "categories": [], "metrics": {"area": 84, "cycles": 169, "cost": 320}, "color": 2, "shape": "pTaeQm2wNkKu9ptCWxc0QmsplkKTRTxCCz+YQqHiPkI="},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/320g-193c-81a-127i-85c3f9fd.mp4", "categories": [], "metrics": {"area": 81, "cycles": 193, "cost": 320}, "color": 0, "shape": "1r5CQibIj0Jeu55CUbZYQgs/mEKh4j5CaymWQpNFPELHnItCpDs0QopKbEL8ZTFC7rJSQgWCSUI="},
+    {"gif": "https://files.mors.technology/PRESERVING_WAX/365g-142c-84a-108i-14be5139.mp4", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 84, "cycles": 142, "cost": 365}, "color": 1, "shape": "gDStQgAASEKlNp5CbbA2Qgs/mEKh4j5CXrueQlG2WEI="}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "w3446279881",
+  "name": "Pass-Through Alloy",
+  "collection": "Community",
+  "group": "Tournament 2025",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/100g-4400c-135a-735i-T-b448ead9.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 135, "cycles": 4400, "cost": 100}, "color": 0, "shape": "AAAAAAAAAAAAAAAAwF03QI0zhD1gGDlAQqg4QE451T8="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/110g-3217c-34a-537i-T-397078bb.mp4", "categories": ["WG", "WC", "WR"], "metrics": {"area": 34, "cycles": 3217, "cost": 110}, "color": 2, "shape": "Qqg4QE451T+NM4Q9YBg5QCKe6j+gPqRCgJOAQIt3FEA="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/110g-4245c-32a-708i-abb2831e.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "HC", "BG", "OAC", "HR"], "metrics": {"area": 32, "cycles": 4245, "cost": 110}, "color": 1, "shape": "Ip7qP6A+pEKNM4Q9YBg5QAAAAADAXTdAAAAAAAAAyEJmYdY/6RDGQicq6j+PucJC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/120g-2379c-35a-397i-31214500.mp4", "categories": [], "metrics": {"area": 35, "cycles": 2379, "cost": 120}, "color": 0, "shape": "LXoPQE9pxUJL6jVBFN+6QvxOiEEAh6hBVmR9QcBLEkGAk4BAi3cUQCKe6j+gPqRCJyrqP4+5wkI="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/155g-2884c-34a-794i-873a3af1.mp4", "categories": [], "metrics": {"area": 34, "cycles": 2884, "cost": 155}, "color": 2, "shape": "JyrqP4+5wkJmYdY/6RDGQi16D0BPacVC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/205g-1047c-50a-332i-9ee142d2.mp4", "categories": [], "metrics": {"area": 50, "cycles": 1047, "cost": 205}, "color": 2, "shape": "/E6IQQCHqEFL6jVBFN+6Qvxk30F7wadCOCEBQv68m0JFyQpCjZKHQrkpC0IgaIVC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/230g-375c-91a-92i-7199267b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 91, "cycles": 375, "cost": 230}, "color": 3, "shape": "bv2OQlAcJUJWZH1BwEsSQfxOiEEAh6hBuSkLQiBohUI="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/295g-906c-55a-297i-f95de7f8.mp4", "categories": [], "metrics": {"area": 55, "cycles": 906, "cost": 295}, "color": 0, "shape": "OCEBQv68m0L8ZN9Be8GnQpcFAEIVC6NC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/360g-263c-87a-269i-c28f90b2.mp4", "categories": [], "metrics": {"area": 87, "cycles": 263, "cost": 360}, "color": 1, "shape": "RckKQo2Sh0Kj3ZZCY79ZQriQnEKUtUNCBi2XQhiQLkJu/Y5CUBwlQrkpC0IgaIVC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/410g-265c-83a-58i-ae90cea6.mp4", "categories": [], "metrics": {"area": 83, "cycles": 265, "cost": 410}, "color": 3, "shape": "yBKVQmrdY0Kj3ZZCY79ZQkXJCkKNkodCOCEBQv68m0KXBQBCFQujQg=="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/530g-162c-188a-105i-769edef0.mp4", "categories": [], "metrics": {"area": 188, "cycles": 162, "cost": 530}, "color": 2, "shape": "Bi2XQhiQLkK4kJxClLVDQvA+pUKAe0JCv0KiQtBcO0I="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/610g-140c-261a-1464i-00175908.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 261, "cycles": 140, "cost": 610}, "color": 3, "shape": "v0KiQtBcO0LwPqVCgHtCQsoMqkLAsUVCDsOqQswtRUI="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/715g-139c-141a-1595i-ef70084d.mp4", "categories": ["RA"], "metrics": {"area": 141, "cycles": 139, "cost": 715}, "color": 0, "shape": "7MmqQq2gRkLKDKpCwLFFQvA+pUKAe0JCuJCcQpS1Q0Kj3ZZCY79ZQsgSlUJq3WNCiQioQsj4TUI="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/730g-133c-252a-1647i-f5eb4c38.mp4", "categories": [], "metrics": {"area": 252, "cycles": 133, "cost": 730}, "color": 1, "shape": "7rWrQj9GRkIOw6pCzC1FQsoMqkLAsUVC7MmqQq2gRkI1sqtCa1RGQg=="},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/1040g-122c-302a-12888i-281e0b2e.mp4", "categories": [], "metrics": {"area": 302, "cycles": 122, "cost": 1040}, "color": 0, "shape": "7rWrQj9GRkI1sqtCa1RGQmHoq0J/gEZC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/1105g-120c-187a-1333i-607e6252.mp4", "categories": [], "metrics": {"area": 187, "cycles": 120, "cost": 1105}, "color": 2, "shape": "iQioQsj4TUIRCa1CJjJIQiJErEJz6kZCYeirQn+ARkI1sqtCa1RGQuzJqkKtoEZC"},
+    {"gif": "https://files.mors.technology/PASS_THROUGH_ALLOY/1150g-119c-263a-2198i-63bee9d6.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 263, "cycles": 119, "cost": 1150}, "color": 0, "shape": "IkSsQnPqRkIRCa1CJjJIQoA0rUIAAEhC"}
+  ]
+}
