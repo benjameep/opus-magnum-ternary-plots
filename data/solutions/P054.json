@@ -1,8 +1,8 @@
 {
   "id": "P054",
   "name": "Van Berlo's Wheel",
-  "collection": "Journal",
-  "group": "Journal I",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue I",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -22,12 +22,14 @@
     {"gif": "https://files.mors.technology/Van-Berlos-Wheel-120g-168c-22a-45i-6h-5.5w-28r-T-eb250f.gif", "categories": ["AX"], "metrics": {"area": 22, "cycles": 168, "cost": 120}, "color": 2, "shape": "C6PgQclVjULDUGtBwg0UQlwFRUGdbCRCq/BmNv//x0I="},
     {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/130g-75c-45a-230i-T-c171806c.mp4", "categories": [], "metrics": {"area": 45, "cycles": 75, "cost": 130}, "color": 2, "shape": "L2l6QiWTEEK9FYxC9qkkQoTNj0KWDCZC"},
     {"gif": "https://files.mors.technology/Van-Berlos-Wheel-140g-149c-22a-47i-6h-5.5w-25r-T-0299ab.gif", "categories": ["AC"], "metrics": {"area": 22, "cycles": 149, "cost": 140}, "color": 1, "shape": "x7QAQu2zkkILo+BByVWNQqvwZjb//8dCgDQtNgAAyEL2OcpBps+qQg=="},
-    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/180g-51c-31a-43i-01dda34f.mp4", "categories": [], "metrics": {"area": 31, "cycles": 51, "cost": 180}, "color": 0, "shape": "kWWIQkleTELuw55Cq2pRQoQ4oUJsnk9CH9qlQugqR0KF5aNCX0A9QoTNj0KWDCZCvRWMQvapJEI="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/180g-51c-31a-43i-01dda34f.mp4", "categories": [], "metrics": {"area": 31, "cycles": 51, "cost": 180}, "color": 0, "shape": "kWWIQkleTEJHdJ1C6x5RQhXEoUK+n05CJSqlQgpsSEIrsqVCTGBGQoXlo0JfQD1ChM2PQpYMJkK9FYxC9qkkQg=="},
     {"gif": "https://files.mors.technology/Van-Berlos-Wheel-180g-97c-23a-43i-6h-5.5w-16r-T-df94f2.gif", "categories": [], "metrics": {"area": 23, "cycles": 97, "cost": 180}, "color": 2, "shape": "mhonQuLCl0JYQEVC4GKEQlVARULhYoRCx7QAQu2zkkL2OcpBps+qQg=="},
-    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-215g-57c-26a-47i-7h-5.5w-9r-1e0364.gif", "categories": [], "metrics": {"area": 26, "cycles": 57, "cost": 215}, "color": 2, "shape": "roNkQv5Wc0L7C3hCI2WAQpjklEK/EmRC7sOeQqtqUUKRZYhCSV5MQipDd0KBrV5C"},
+    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-215g-57c-26a-47i-7h-5.5w-9r-1e0364.gif", "categories": [], "metrics": {"area": 26, "cycles": 57, "cost": 215}, "color": 2, "shape": "roNkQv5Wc0L7C3hCI2WAQpjklEK/EmRCo7qdQgJgU0JHdJ1C6x5RQpFliEJJXkxCKkN3QoGtXkI="},
     {"gif": "https://files.mors.technology/Van-Berlos-Wheel-220g-74c-24a-43i-6h-5.5w-12r-T-9ff462.gif", "categories": [], "metrics": {"area": 24, "cycles": 74, "cost": 220}, "color": 1, "shape": "+wt4QiNlgEKug2RC/lZzQlVARULhYoRCmhonQuLCl0I="},
-    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-225g-45c-39a-86i-7h-7w-7r-ba0174.gif", "categories": ["CG", "CX", "RG"], "metrics": {"area": 39, "cycles": 45, "cost": 225}, "color": 2, "shape": "heWjQl9APUIf2qVC6CpHQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-270g-45c-33a-85i-7h-6w-7r-d0c4d2.gif", "categories": ["CA", "RA"], "metrics": {"area": 33, "cycles": 45, "cost": 270}, "color": 1, "shape": "FXylQivqUEKANK1CAQBIQh/apULoKkdChDihQmyeT0I="},
-    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/300g-50c-28a-268i-T-563db8b6.mp4", "categories": [], "metrics": {"area": 28, "cycles": 50, "cost": 300}, "color": 3, "shape": "mOSUQr8SZEIVfKVCK+pQQoQ4oUJsnk9C7sOeQqtqUUI="}
+    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-225g-45c-39a-86i-7h-7w-7r-ba0174.gif", "categories": ["CG", "RG"], "metrics": {"area": 39, "cycles": 45, "cost": 225}, "color": 2, "shape": "heWjQl9APUIrsqVCTGBGQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/235g-51c-29a-92i-c20929c1.mp4", "categories": ["BC", "BR"], "metrics": {"area": 29, "cycles": 51, "cost": 235}, "color": 3, "shape": "FcShQr6fTkJHdJ1C6x5RQqO6nUICYFNCOMmhQmbKT0I="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/250g-45c-35a-85i-496419d6.mp4", "categories": ["CX"], "metrics": {"area": 35, "cycles": 45, "cost": 250}, "color": 3, "shape": "JSqlQgpsSEJ/NK1CAABIQiuypUJMYEZC"},
+    {"gif": "https://files.mors.technology/Van-Berlos-Wheel-270g-45c-33a-85i-7h-6w-7r-d0c4d2.gif", "categories": ["CA", "RA"], "metrics": {"area": 33, "cycles": 45, "cost": 270}, "color": 1, "shape": "FcShQr6fTkI4yaFCZspPQhV8pUIr6lBCgDStQgEASEJ/NK1CAABIQiUqpUIKbEhC"},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_WHEEL/300g-50c-28a-268i-T-563db8b6.mp4", "categories": [], "metrics": {"area": 28, "cycles": 50, "cost": 300}, "color": 0, "shape": "mOSUQr8SZEIVfKVCK+pQQjjJoUJmyk9Co7qdQgJgU0I="}
   ]
 }
