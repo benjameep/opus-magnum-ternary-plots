@@ -1,0 +1,29 @@
+{
+  "id": "w3728198961",
+  "name": "Snow Amputation",
+  "collection": "Community",
+  "group": "Tournament 2026",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/40g-677c-60a-113i-d56d81c5.mp4", "categories": ["GC", "GI"], "metrics": {"area": 60, "cycles": 677, "cost": 40}, "color": 1, "shape": "/QKNQIXTIkAAAAAAAAAAAAAAAAAAAEg2gLCXQDlxDEE="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/40g-689c-55a-115i-2f91e264.mp4", "categories": ["GA", "GX"], "metrics": {"area": 55, "cycles": 689, "cost": 40}, "color": 0, "shape": "erV7PyvpvEF0ILRAsWSSQYCwl0A5cQxBAAAAAAAASDYAAAAAAJmlQQ=="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/50g-497c-70a-83i-T-9ce06ba6.mp4", "categories": ["TG"], "metrics": {"area": 70, "cycles": 497, "cost": 50}, "color": 2, "shape": "pMR8QY3vEUH9Ao1AhdMiQICwl0A5cQxBdCC0QLFkkkEcqdtAvL6hQQ=="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/50g-795c-38a-133i-T-77184710.mp4", "categories": [], "metrics": {"area": 38, "cycles": 795, "cost": 50}, "color": 2, "shape": "AAAAAACZpUEAAAAAN/jXQRCB9j7x/NlBerV7PyvpvEE="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/60g-592c-28a-99i-52f51376.mp4", "categories": ["BG"], "metrics": {"area": 28, "cycles": 592, "cost": 60}, "color": 1, "shape": "HKnbQLy+oUF0ILRAsWSSQXq1ez8r6bxBEIH2PvH82UFnZ2M/oBhJQnoPGkBEKn5C"},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/60g-803c-26a-134i-48e94fb5.mp4", "categories": [], "metrics": {"area": 26, "cycles": 803, "cost": 60}, "color": 0, "shape": "Z2djP6AYSUIQgfY+8fzZQQAAAAA3+NdBAAAAADXdiUI="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/65g-677c-25a-113i-fbc5f1f8.mp4", "categories": ["AG"], "metrics": {"area": 25, "cycles": 677, "cost": 65}, "color": 2, "shape": "eg8aQEQqfkJnZ2M/oBhJQgAAAAA13YlCAAAAAAAAyEKANC02AADIQhnT2j8J9ZlC"},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/90g-324c-26a-87i-T-ea60c768.mp4", "categories": ["WC", "WR"], "metrics": {"area": 26, "cycles": 324, "cost": 90}, "color": 0, "shape": "pMR8QY3vEUEcqdtAvL6hQXoPGkBEKn5CGdPaPwn1mUJ2C6tBMpO9QfR1vkGreoFB98qwQY4kTEE="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/100g-300c-25a-92i-35bd0002.mp4", "categories": ["AX"], "metrics": {"area": 25, "cycles": 300, "cost": 100}, "color": 3, "shape": "q/BmNv3/x0J2C6tBMpO9QXMLq0E3k71BGdPaPwn1mUI="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/110g-275c-25a-85i-00b628ab.mp4", "categories": ["AC", "AI", "BC", "BR"], "metrics": {"area": 25, "cycles": 275, "cost": 110}, "color": 1, "shape": "gDQtNgAAyEJNkwdC3tygQo5C8UGwMsxB9HW+Qat6gUFzC6tBN5O9QavwZjb9/8dC"},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/150g-155c-137a-9i-T-f6f44972.mp4", "categories": ["TIG"], "metrics": {"area": 137, "cycles": 155, "cost": 150}, "color": 2, "shape": "u+EhQsnsukH3yrBBjiRMQfR1vkGreoFBjkLxQbAyzEE="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/210g-89c-80a-40i-T-5562d3da.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 80, "cycles": 89, "cost": 210}, "color": 0, "shape": "WJCOQlmeJEK74SFCyey6QY5C8UGwMsxBTZMHQt7coELz5W9CUb+CQg=="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/480g-33c-138a-63i-T-3aadc225.mp4", "categories": [], "metrics": {"area": 138, "cycles": 33, "cost": 480}, "color": 1, "shape": "WJCOQlmeJELz5W9CUb+CQqGMrELYwUhCsTasQu3aRkI="},
+    {"gif": "https://files.mors.technology/SNOW_AMPUTATION/840g-31c-380a-120i-T-f509a17a.mp4", "categories": ["CG", "CA", "CI", "CX", "TC"], "metrics": {"area": 380, "cycles": 31, "cost": 840}, "color": 0, "shape": "sTasQu3aRkKhjKxC2MFIQoA0rUIAAEhC"}
+  ]
+}
