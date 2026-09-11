@@ -25,8 +25,8 @@
     {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/785g-40c-172a-658i-533520a6.mp4", "categories": [], "metrics": {"area": 172, "cycles": 40, "cost": 785}, "color": 2, "shape": "QT6WQpuKVUKBY5xC3J5aQnnhnELT4llC1I6jQpM1TkIO1JtCdNxGQg=="},
     {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/835g-52c-119a-554i-bef35ba4.mp4", "categories": [], "metrics": {"area": 119, "cycles": 52, "cost": 835}, "color": 3, "shape": "gWOcQtyeWkJBPpZCm4pVQitubkJYEXFCJGdoQjvphEIy35tCxANcQg=="},
     {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/995g-37c-184a-475i-64eb1e40.mp4", "categories": [], "metrics": {"area": 184, "cycles": 37, "cost": 995}, "color": 3, "shape": "1I6jQpM1TkJ54ZxC0+JZQlWjpUJQmk1CkuWlQtQmTUKR5aVC1CZNQg=="},
-    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1345g-33c-218a-504i-bd6473fa.mp4", "categories": ["CG"], "metrics": {"area": 218, "cycles": 33, "cost": 1345}, "color": 2, "shape": "fNurQpxxRkI5SapCDV9IQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1390g-33c-207a-524i-0c94771e.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 207, "cycles": 33, "cost": 1390}, "color": 1, "shape": "VaOlQlCaTUJ+NK1CAABIQjlJqkINX0hCkeWlQtQmTUI="},
-    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1525g-33c-198a-548i-4f4a5065.mp4", "categories": ["CA"], "metrics": {"area": 198, "cycles": 33, "cost": 1525}, "color": 0, "shape": "Mt+bQsQDXEKANK1CAQBIQn40rUIAAEhCVaOlQlCaTUJ54ZxC0+JZQoFjnELcnlpC"}
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1345g-33c-218a-322i-6954f2bf.mp4", "categories": ["CG"], "metrics": {"area": 218, "cycles": 33, "cost": 1345}, "color": 2, "shape": "fNurQpxxRkI5SapCDV9IQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1390g-33c-207a-342i-1ab80a01.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 207, "cycles": 33, "cost": 1390}, "color": 1, "shape": "VaOlQlCaTUJ+NK1CAABIQjlJqkINX0hCkeWlQtQmTUI="},
+    {"gif": "https://files.mors.technology/BULK_TRANSMUTATION/1525g-33c-198a-362i-15795040.mp4", "categories": ["CA"], "metrics": {"area": 198, "cycles": 33, "cost": 1525}, "color": 0, "shape": "Mt+bQsQDXEKANK1CAQBIQn40rUIAAEhCVaOlQlCaTUJ54ZxC0+JZQoFjnELcnlpC"}
   ]
 }

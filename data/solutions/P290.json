@@ -1,0 +1,22 @@
+{
+  "id": "P290",
+  "name": "Quickening Cordial",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VIII",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/70g-413c-53a-69i-059a1350.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 53, "cycles": 413, "cost": 70}, "color": 2, "shape": "NxneQYc6gEEAAAAAAAAAAAAAAACJ9NBBfcxNQTEHikI="},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/100g-1217c-20a-1217i-T-2d06a877.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "WC", "BG", "OAC", "TG"], "metrics": {"area": 20, "cycles": 1217, "cost": 100}, "color": 1, "shape": "AAAAAIn00EEAAAAAAADIQtUQ8UAhTb9CbQ4oQZj/rUIA5lRBDRmSQn3MTUExB4pC"},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/130g-77c-56a-214i-T-b2918445.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 56, "cycles": 77, "cost": 130}, "color": 0, "shape": "Tc2ZQmCYMUI3Gd5BhzqAQX3MTUExB4pCAOZUQQ0ZkkKh/61B846TQg=="},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/160g-67c-54a-42i-b030a121.mp4", "categories": ["SUM4", "OSUM4"], "metrics": {"area": 54, "cycles": 67, "cost": 160}, "color": 1, "shape": "Tc2ZQmCYMUKh/61B846TQrOmt0FKJZRCso2cQvAgWUIbYqZCbx9AQg=="},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/255g-212c-37a-109i-5c044ec2.mp4", "categories": [], "metrics": {"area": 37, "cycles": 212, "cost": 255}, "color": 2, "shape": "bQ4oQZj/rUKzprdBSiWUQqH/rUHzjpNCAOZUQQ0ZkkI="},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/375g-76c-36a-328i-c564a62c.mp4", "categories": ["BC", "WR", "BR"], "metrics": {"area": 36, "cycles": 76, "cost": 375}, "color": 0, "shape": "B6+cQsYTW0KyjZxC8CBZQrOmt0FKJZRCbQ4oQZj/rULVEPFAIU2/Qg=="},
+    {"gif": "https://files.mors.technology/QUICKENING_CORDIAL/520g-28c-103a-306i-10198e52.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 103, "cycles": 28, "cost": 520}, "color": 2, "shape": "gDStQgAASEIbYqZCbx9AQrKNnELwIFlCB6+cQsYTW0I="}
+  ]
+}
