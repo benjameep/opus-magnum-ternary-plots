@@ -1,8 +1,8 @@
 {
   "id": "P106",
   "name": "Hyper-volatile Gas",
-  "collection": "Journal",
-  "group": "Journal IX",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue IX",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -27,8 +27,8 @@
     {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/350g-104c-37a-382i-2644da1a.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 104, "cost": 350}, "color": 3, "shape": "LSGaQscGXkKM4JlCxJ1dQhhCl0Kn5F1CPZyMQiGjbUI="},
     {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/370g-41c-96a-42i-T-d5be564b.mp4", "categories": [], "metrics": {"area": 96, "cycles": 41, "cost": 370}, "color": 1, "shape": "tDKlQhnBPkKLb5xC7KI0QqEzm0Kw5z5CjOCZQsSdXUItIZpCxwZeQniepEIR6lFC"},
     {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/480g-32c-116a-217i-ffa85a0b.mp4", "categories": [], "metrics": {"area": 116, "cycles": 32, "cost": 480}, "color": 0, "shape": "tDKlQhnBPkJ4nqRCEepRQrptqUJWXExCyT2qQuviR0LID6pCyCdGQtGdqUIy20NC"},
-    {"gif": "https://files.mors.technology/Hyper-volatile-Gas-760g-22c-203a-238i-17h-13w-4.84r-2bfc91.gif", "categories": ["CG"], "metrics": {"area": 203, "cycles": 22, "cost": 760}, "color": 1, "shape": "0Z2pQjLbQ0LID6pCyCdGQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/Hyper-volatile-Gas-780g-22c-191a-232i-17h-12w-4.67r-c55c89.gif", "categories": ["CX"], "metrics": {"area": 191, "cycles": 22, "cost": 780}, "color": 3, "shape": "yT2qQuviR0J+NK1C//9HQsgPqkLIJ0ZC"},
-    {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/890g-22c-168a-238i-d9e588b5.mp4", "categories": ["CA"], "metrics": {"area": 168, "cycles": 22, "cost": 890}, "color": 2, "shape": "um2pQlZcTEKANK1CAQBIQn40rUL//0dCyT2qQuviR0I="}
+    {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/760g-22c-203a-203i-c864b5bb.mp4", "categories": ["CG"], "metrics": {"area": 203, "cycles": 22, "cost": 760}, "color": 1, "shape": "0Z2pQjLbQ0LID6pCyCdGQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/780g-22c-191a-200i-958d2b58.mp4", "categories": ["CX"], "metrics": {"area": 191, "cycles": 22, "cost": 780}, "color": 3, "shape": "yT2qQuviR0J+NK1C//9HQsgPqkLIJ0ZC"},
+    {"gif": "https://files.mors.technology/HYPER_VOLATILE_GAS/890g-22c-168a-214i-6ab4f0ba.mp4", "categories": ["CA"], "metrics": {"area": 168, "cycles": 22, "cost": 890}, "color": 2, "shape": "um2pQlZcTEKANK1CAQBIQn40rUL//0dCyT2qQuviR0I="}
   ]
 }
