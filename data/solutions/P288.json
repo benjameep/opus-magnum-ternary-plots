@@ -21,9 +21,9 @@
     {"gif": "https://files.mors.technology/MARLSTONE/180g-64c-57a-240i-T-53876e65.mp4", "categories": ["SUM"], "metrics": {"area": 57, "cycles": 64, "cost": 180}, "color": 0, "shape": "jd6nQrzWQUL7g4dC2nocQpzgaEIrjRVC444oQke5WkIUyjNCjZNhQgu6hULulXVCQ52iQqs6VEJXsadCUs1FQg=="},
     {"gif": "https://files.mors.technology/MARLSTONE/235g-330c-36a-126i-f0fead3a.mp4", "categories": ["BG"], "metrics": {"area": 36, "cycles": 330, "cost": 235}, "color": 1, "shape": "FMozQo2TYULjjihCR7laQjVy+EGTy0ZClUrLQVcvokI="},
     {"gif": "https://files.mors.technology/MARLSTONE/290g-231c-37a-750i-807f30a6.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 231, "cost": 290}, "color": 2, "shape": "kTW/Qb1mrEILuoVC7pV1QhTKM0KNk2FClUrLQVcvokI="},
-    {"gif": "https://files.mors.technology/MARLSTONE/430g-29c-92a-537i-af254d83.mp4", "categories": [], "metrics": {"area": 92, "cycles": 29, "cost": 430}, "color": 2, "shape": "jd6nQrzWQUJXsadCUs1FQiUGrUKE7UdCngStQrXIR0I="},
-    {"gif": "https://files.mors.technology/MARLSTONE/480g-29c-76a-555i-38ec2f0c.mp4", "categories": [], "metrics": {"area": 76, "cycles": 29, "cost": 480}, "color": 1, "shape": "Q52iQqs6VEJNDq1CHSxIQg4NrUI0BEhCJQatQoTtR0JXsadCUs1FQg=="},
-    {"gif": "https://files.mors.technology/MARLSTONE/640g-28c-128a-444i-366bec31.mp4", "categories": ["CG", "CX"], "metrics": {"area": 128, "cycles": 28, "cost": 640}, "color": 0, "shape": "gDStQgAASEKeBK1CtchHQiUGrUKE7UdCDg2tQjQESEKANK1CAQBIQg=="},
-    {"gif": "https://files.mors.technology/MARLSTONE/725g-28c-117a-148i-7a61d378.mp4", "categories": ["CA", "CI"], "metrics": {"area": 117, "cycles": 28, "cost": 725}, "color": 2, "shape": "TQ6tQh0sSEKANK1CAQBIQg4NrUI0BEhC"}
+    {"gif": "https://files.mors.technology/MARLSTONE/430g-29c-92a-537i-af254d83.mp4", "categories": [], "metrics": {"area": 92, "cycles": 29, "cost": 430}, "color": 2, "shape": "jd6nQrzWQUJXsadCUs1FQmQBrUKf60dCpfysQoG/R0I="},
+    {"gif": "https://files.mors.technology/MARLSTONE/480g-29c-76a-555i-38ec2f0c.mp4", "categories": [], "metrics": {"area": 76, "cycles": 29, "cost": 480}, "color": 1, "shape": "Q52iQqs6VEJNDq1CHSxIQkMNrULUCkhCZAGtQp/rR0JXsadCUs1FQg=="},
+    {"gif": "https://files.mors.technology/MARLSTONE/610g-28c-128a-438i-631d5583.mp4", "categories": ["CG", "CX"], "metrics": {"area": 128, "cycles": 28, "cost": 610}, "color": 0, "shape": "gDStQgAASEKl/KxCgb9HQmQBrUKf60dCQw2tQtQKSEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/MARLSTONE/725g-28c-117a-148i-7a61d378.mp4", "categories": ["CA", "CI"], "metrics": {"area": 117, "cycles": 28, "cost": 725}, "color": 2, "shape": "TQ6tQh0sSEKANK1CAQBIQkMNrULUCkhC"}
   ]
 }
