@@ -2,7 +2,7 @@
   "id": "P075",
   "name": "Fragrant Powders",
   "collection": "Campaign",
-  "group": "Production Alchemy",
+  "group": "Appendix",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -11,13 +11,16 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-521c-55a-918i-7h-11w-T-26d1a6.mp4", "categories": ["GC_P"], "metrics": {"area": 55, "cycles": 521, "cost": 60}, "color": 2, "shape": "gDQtNgAAyDV8v91BiPrDQfEC+kEhUL1BcXMEQvDwmEE="},
-    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-636c-50a-636i-7h-11w-T-382fa4.mp4", "categories": [], "metrics": {"area": 50, "cycles": 636, "cost": 60}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAADIQn1vGUL9tJtCgTH0QQuF+kF8v91BiPrDQYA0LTYAAMg1"},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/90g-422c-53a-124i-e02cf40b.mp4", "categories": [], "metrics": {"area": 53, "cycles": 422, "cost": 90}, "color": 1, "shape": "8QL6QSFQvUF8v91BiPrDQYEx9EELhfpBhDkCQivo/kGWnwFCCnzcQQ=="},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/100g-418c-52a-123i-T-10cc55ac.mp4", "categories": [], "metrics": {"area": 52, "cycles": 418, "cost": 100}, "color": 2, "shape": "Zt8sQpEYlkKEOQJCK+j+QYEx9EELhfpBfW8ZQv20m0I="},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/120g-269c-55a-116i-T-e6111d94.mp4", "categories": [], "metrics": {"area": 55, "cycles": 269, "cost": 120}, "color": 3, "shape": "4jUOQuU1pEFxcwRC8PCYQfEC+kEhUL1Blp8BQgp83EE="},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/150g-157c-55a-58i-c6e7de7b.mp4", "categories": ["SUM_P"], "metrics": {"area": 55, "cycles": 157, "cost": 150}, "color": 0, "shape": "hDkCQivo/kFm3yxCkRiWQjMpa0JpHYRC2N6UQnTRNUIkdpRCtm0rQuI1DkLlNaRBlp8BQgp83EE="},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/180g-144c-56a-55i-T-3c9fbbfb.mp4", "categories": ["RG_P", "RI_P"], "metrics": {"area": 56, "cycles": 144, "cost": 180}, "color": 1, "shape": "JHaUQrZtK0LY3pRCdNE1QsOnmEJsRTBC"},
-    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/260g-116c-56a-545i-T-6fe7b34b.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 56, "cycles": 116, "cost": 260}, "color": 2, "shape": "gDStQgAASELDp5hCbEUwQtjelEJ00TVCMylrQmkdhEI="}
+    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-521c-55a-918i-7h-11w-T-26d1a6.mp4", "categories": ["GC_P", "TG_P"], "metrics": {"area": 55, "cycles": 521, "cost": 60}, "color": 2, "shape": "gDQtNgAAyDV8v91BiPrDQXon40EjtMJBL6T8QaPjtkFxcwRC8PCYQQ=="},
+    {"gif": "https://files.mors.technology/Fragrant-Powders-60g-636c-50a-636i-7h-11w-T-382fa4.mp4", "categories": [], "metrics": {"area": 50, "cycles": 636, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQmGjC0KfsJ9CGB4AQisGIUJ4iPpByhYQQk1T4EHWPcpBfL/dQYj6w0GANC02AADINQ=="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/90g-422c-53a-124i-e02cf40b.mp4", "categories": [], "metrics": {"area": 53, "cycles": 422, "cost": 90}, "color": 3, "shape": "TVPgQdY9ykF6J+NBI7TCQXy/3UGI+sNB"},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/100g-375c-53a-116i-T-6cb28346.mp4", "categories": [], "metrics": {"area": 53, "cycles": 375, "cost": 100}, "color": 0, "shape": "x9kAQjQ2FEJcigdCoyMHQtRiBEIdItBBL6T8QaPjtkF6J+NBI7TCQU1T4EHWPcpBeIj6QcoWEEI="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/100g-418c-52a-123i-T-10cc55ac.mp4", "categories": [], "metrics": {"area": 52, "cycles": 418, "cost": 100}, "color": 3, "shape": "eIj6QcoWEEIYHgBCKwYhQsfZAEI0NhRC"},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/120g-269c-55a-116i-T-e6111d94.mp4", "categories": [], "metrics": {"area": 55, "cycles": 269, "cost": 120}, "color": 3, "shape": "1GIEQh0i0EFAig1CPjWnQUd3DULNWaNBcXMEQvDwmEEvpPxBo+O2QQ=="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/140g-251c-53a-83i-T-e9fc2e8d.mp4", "categories": [], "metrics": {"area": 53, "cycles": 251, "cost": 140}, "color": 2, "shape": "6JpgQn8ph0JcigdCoyMHQsfZAEI0NhRCGB4AQisGIUJhowtCn7CfQg=="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/150g-156c-56a-57i-d5e9ef68.mp4", "categories": ["SUM_P"], "metrics": {"area": 56, "cycles": 156, "cost": 150}, "color": 0, "shape": "/f+LQnSoIUJHdw1CzVmjQUCKDUI+NadB0bSKQkHcI0I="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/150g-157c-55a-58i-c6e7de7b.mp4", "categories": [], "metrics": {"area": 55, "cycles": 157, "cost": 150}, "color": 1, "shape": "0bSKQkHcI0JAig1CPjWnQdRiBEIdItBBXIoHQqMjB0LommBCfymHQjMpa0JpHYRCafNzQoSnfEI="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/210g-119c-56a-442i-T-a4578e31.mp4", "categories": [], "metrics": {"area": 56, "cycles": 119, "cost": 210}, "color": 2, "shape": "VkypQhx9Q0L9/4tCdKghQtG0ikJB3CNCafNzQoSnfEI="},
+    {"gif": "https://files.mors.technology/FRAGRANT_POWDERS/260g-116c-56a-272i-T-02cb24fa.mp4", "categories": ["CG_P", "CI_P", "CX_P", "TC_P"], "metrics": {"area": 56, "cycles": 116, "cost": 260}, "color": 0, "shape": "gDStQgAASEJWTKlCHH1DQmnzc0KEp3xCMylrQmkdhEI="}
   ]
 }

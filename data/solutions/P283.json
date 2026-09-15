@@ -1,0 +1,26 @@
+{
+  "id": "P283",
+  "name": "Mist of Glaciation",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VI",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/80g-1257c-56a-210i-a1585f42.mp4", "categories": ["GC", "GI"], "metrics": {"area": 56, "cycles": 1257, "cost": 80}, "color": 0, "shape": "VC55QV3dD0EAAAAAAAAAAAAAAAAAAEg2a1YQNwCAbTgeY/NAZ2MhQu7UDkFEAC9CyJRUQfo7AEI="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/80g-1545c-45a-258i-95f00202.mp4", "categories": ["HG"], "metrics": {"area": 45, "cycles": 1545, "cost": 80}, "color": 3, "shape": "HmPzQGdjIUJrVhA3AIBtOJFJk0BFQxFC"},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/80g-1869c-37a-312i-8562db65.mp4", "categories": ["GA", "GX"], "metrics": {"area": 37, "cycles": 1869, "cost": 80}, "color": 1, "shape": "AAAAAAAASDYAAAAAgpczQpFJk0BFQxFCa1YQNwCAbTg="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/115g-1695c-28a-1109i-3fdeafe0.mp4", "categories": ["AG", "AC", "AX", "AI", "BG", "OAC"], "metrics": {"area": 28, "cycles": 1695, "cost": 115}, "color": 2, "shape": "kUmTQEVDEUIAAAAAgpczQgAAAAAAAMhCpeh0QNCUw0Lu1A5BRAAvQh5j80BnYyFC"},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/260g-157c-71a-129i-a453732e.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 71, "cycles": 157, "cost": 260}, "color": 2, "shape": "/qiBQve3FUJULnlBXd0PQciUVEH6OwBCXK3KQeR2X0I="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/270g-450c-37a-970i-ef898684.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 450, "cost": 270}, "color": 1, "shape": "peh0QNCUw0IH7AtCp5ufQlytykHkdl9CyJRUQfo7AELu1A5BRAAvQg=="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/280g-148c-69a-123i-f02958a4.mp4", "categories": [], "metrics": {"area": 69, "cycles": 148, "cost": 280}, "color": 0, "shape": "/qiBQve3FUJcrcpB5HZfQgfsC0Knm59C8O6WQpm3YULYb5dCgRRZQnpjgkJMjxZC"},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/380g-104c-122a-127i-T-905cf882.mp4", "categories": [], "metrics": {"area": 122, "cycles": 104, "cost": 380}, "color": 2, "shape": "emOCQkyPFkLYb5dCgRRZQkc0oUKmrkJCAgeiQtUXO0I="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/675g-81c-140a-105i-69ce1938.mp4", "categories": [], "metrics": {"area": 140, "cycles": 81, "cost": 675}, "color": 1, "shape": "fx+iQsXsTUJHNKFCpq5CQthvl0KBFFlC8O6WQpm3YULZep5C0QBZQg=="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/975g-49c-217a-192i-f1420fc5.mp4", "categories": [], "metrics": {"area": 217, "cycles": 49, "cost": 975}, "color": 0, "shape": "wsOqQpsuRUICB6JC1Rc7Qkc0oUKmrkJCfx+iQsXsTUI="},
+    {"gif": "https://files.mors.technology/MIST_OF_GLACIATION/1445g-40c-209a-706i-d37b2a3b.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 209, "cycles": 40, "cost": 1445}, "color": 2, "shape": "gDStQgAASELCw6pCmy5FQn8fokLF7E1C2XqeQtEAWUI="}
+  ]
+}
