@@ -2,7 +2,7 @@
   "id": "P020",
   "name": "Armor Filament",
   "collection": "Campaign",
-  "group": "Chapter 2",
+  "group": "Chapter II",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -11,8 +11,8 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Armor-Filament-50g-210c-126a-213i-15h-14w-T-71f407.mp4", "categories": [], "metrics": {"area": 126, "cycles": 210, "cost": 50}, "color": 1, "shape": "ppOsQURGR0EAAAAAAAAAAAAAAAAAAEg2Y8M2QN11G0H/XIRBo6p5QY/TpUHanIJB"},
-    {"gif": "https://files.mors.technology/Armor-Filament-50g-255c-116a-259i-13h-13.5w-T-08b145.mp4", "categories": [], "metrics": {"area": 116, "cycles": 255, "cost": 50}, "color": 2, "shape": "AAAAAAAASDYAAAAAg8YUQWPDNkDddRtB"},
+    {"gif": "https://files.mors.technology/ARMOR_FILAMENT/50g-210c-126a-210i-T-c2f519aa.mp4", "categories": [], "metrics": {"area": 126, "cycles": 210, "cost": 50}, "color": 1, "shape": "ppOsQURGR0EAAAAAAAAAAAAAAAAAAEg2Y8M2QN11G0H/XIRBo6p5QY/TpUHanIJB"},
+    {"gif": "https://files.mors.technology/ARMOR_FILAMENT/50g-255c-116a-255i-T-083feb26.mp4", "categories": [], "metrics": {"area": 116, "cycles": 255, "cost": 50}, "color": 2, "shape": "AAAAAAAASDYAAAAAg8YUQWPDNkDddRtB"},
     {"gif": "https://files.mors.technology/Armor-Filament-60g-201c-21a-215i-3h-9w-33.08r-7ba9a3.mp4", "categories": [], "metrics": {"area": 21, "cycles": 201, "cost": 60}, "color": 0, "shape": "TSSFQbudFkL/XIRBo6p5QWPDNkDddRtBAAAAAIPGFEEAAAAAZGC1QompCECYW7xCbbuAQBYRskI="},
     {"gif": "https://files.mors.technology/Armor-Filament-65g-163c-26a-174i-4h-9w-26.77r-0f4187.mp4", "categories": [], "metrics": {"area": 26, "cycles": 163, "cost": 65}, "color": 2, "shape": "j9OlQdqcgkH/XIRBo6p5QU0khUG7nRZCZMW/QbJSnUE="},
     {"gif": "https://i.imgur.com/VKSERCq.gif", "categories": [], "metrics": {"area": 128, "cycles": 102, "cost": 70}, "color": 0, "shape": "OcdUQvOx9UGmk6xBREZHQY/TpUHanIJBZMW/QbJSnUHoAB9C/ZHYQZpVUkKgafVB"},
@@ -20,7 +20,7 @@
     {"gif": "https://files.mors.technology/ARMOR_FILAMENT/80g-100c-22a-180i-fb7c63ec.mp4", "categories": [], "metrics": {"area": 22, "cycles": 100, "cost": 80}, "color": 1, "shape": "6AAfQv2R2EFkxb9BslKdQU0khUG7nRZCbbuAQBYRskLizDdB4eyrQm8ryEGW2YpCmVHOQZOjiEI="},
     {"gif": "https://files.mors.technology/ARMOR_FILAMENT/90g-80c-25a-162i-54b5fa93.mp4", "categories": [], "metrics": {"area": 25, "cycles": 80, "cost": 90}, "color": 2, "shape": "mlVSQqBp9UHoAB9C/ZHYQZlRzkGTo4hCPTvZQUOjhUI="},
     {"gif": "https://files.mors.technology/ARMOR_FILAMENT/90g-101c-21a-191i-T-a0f1e175.mp4", "categories": [], "metrics": {"area": 21, "cycles": 101, "cost": 90}, "color": 2, "shape": "SDebQC5mwkLizDdB4eyrQm27gEAWEbJCiakIQJhbvEK16pM/Z6rGQg=="},
-    {"gif": "https://files.mors.technology/Armor-Filament-110g-57c-26a-154i-3h-9w-146b66.mp4", "categories": [], "metrics": {"area": 26, "cycles": 57, "cost": 110}, "color": 1, "shape": "PTvZQUOjhUJdAoxCpF4lQp93hUJeHRpCOcdUQvOx9UGaVVJCoGn1QQ=="},
+    {"gif": "https://files.mors.technology/ARMOR_FILAMENT/110g-57c-26a-153i-59d9d197.mp4", "categories": [], "metrics": {"area": 26, "cycles": 57, "cost": 110}, "color": 1, "shape": "PTvZQUOjhUJdAoxCpF4lQp93hUJeHRpCOcdUQvOx9UGaVVJCoGn1QQ=="},
     {"gif": "https://files.mors.technology/ARMOR_FILAMENT/110g-70c-22a-188i-T-01f70e6e.mp4", "categories": [], "metrics": {"area": 22, "cycles": 70, "cost": 110}, "color": 3, "shape": "SDebQC5mwkLURwdBqTy+QsWOnUHL3qJCbyvIQZbZikLizDdB4eyrQg=="},
     {"gif": "https://files.mors.technology/ARMOR_FILAMENT/120g-53c-24a-193i-bd44ae6e.mp4", "categories": [], "metrics": {"area": 24, "cycles": 53, "cost": 120}, "color": 0, "shape": "kmKWQpU+M0JdAoxCpF4lQj072UFDo4VCmVHOQZOjiEJvK8hBltmKQsWOnUHL3qJCGjtxQohqeULkIoZCsr1lQu6qlEIdx0pC"},
     {"gif": "https://files.mors.technology/Armor-Filament-125g-49c-118a-30i-14h-13w-Infr-e907b7.mp4", "categories": [], "metrics": {"area": 118, "cycles": 49, "cost": 125}, "color": 2, "shape": "gDStQgAASEKfd4VCXh0aQl0CjEKkXiVCkmKWQpU+M0J/NK1CAABIQoA0rUIBAEhC"},
