@@ -2,7 +2,7 @@
   "id": "P084",
   "name": "Reconstructed Solvent",
   "collection": "Campaign",
-  "group": "Production Alchemy",
+  "group": "Appendix",
   "num_colors": 4,
   "metrics": [
     "area",
@@ -11,13 +11,12 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Reconstructed-Solvent-115g-491c-58a-92i-9h-9w-82r-6a23a0.gif", "categories": ["GC_P", "GI_P", "GX_P"], "metrics": {"area": 58, "cycles": 491, "cost": 115}, "color": 1, "shape": "MWYCQm+SlkEAAAAAAAAAAAAAAAAcx7FA5M8eQS0fmkFK3HNBro+/QfVY5kE8ZuJB"},
-    {"gif": "https://files.mors.technology/Reconstructed-Solvent-120g-562c-57a-104i-9h-9w-94r-6281e1.gif", "categories": [], "metrics": {"area": 57, "cycles": 562, "cost": 120}, "color": 3, "shape": "5M8eQS0fmkFLZUNB+p+9QUrcc0Guj79B"},
-    {"gif": "https://files.mors.technology/Reconstructed-Solvent-120g-766c-56a-138i-9h-9w-128r-720483.gif", "categories": [], "metrics": {"area": 56, "cycles": 766, "cost": 120}, "color": 2, "shape": "AAAAABzHsUAAAAAA7SUUQktlQ0H6n71B5M8eQS0fmkE="},
-    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/145g-471c-55a-89i-9b39456c.mp4", "categories": [], "metrics": {"area": 55, "cycles": 471, "cost": 145}, "color": 0, "shape": "AAAAAAAAyEIq2ypCl62WQq1GHUKgEy5C9VjmQTxm4kFK3HNBro+/QUtlQ0H6n71BAAAAAO0lFEI="},
-    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/160g-188c-58a-63i-0b2da45a.mp4", "categories": [], "metrics": {"area": 58, "cycles": 188, "cost": 160}, "color": 2, "shape": "jMp/Ql6uE0IxZgJCb5KWQfVY5kE8ZuJBrUYdQqATLkI="},
-    {"gif": "https://files.mors.technology/Reconstructed-Solvent-210g-116c-57a-59i-9h-9w-19r-c6c021.gif", "categories": ["SUM_P"], "metrics": {"area": 57, "cycles": 116, "cost": 210}, "color": 1, "shape": "jMp/Ql6uE0KtRh1CoBMuQirbKkKXrZZCbPuLQtFcbkIX0JVCqkY+QtZckkJIASlC"},
-    {"gif": "https://files.mors.technology/Reconstructed-Solvent-265g-75c-59a-67i-9h-9w-12r-98a351.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 59, "cycles": 75, "cost": 265}, "color": 0, "shape": "1lySQkgBKUIX0JVCqkY+QoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/285g-75c-58a-67i-d9dda754.mp4", "categories": [], "metrics": {"area": 58, "cycles": 75, "cost": 285}, "color": 2, "shape": "bPuLQtFcbkKANK1CAQBIQhfQlUKqRj5C"}
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-115g-491c-58a-92i-9h-9w-82r-6a23a0.gif", "categories": ["GC_P", "GI_P", "GX_P"], "metrics": {"area": 58, "cycles": 491, "cost": 115}, "color": 1, "shape": "ZWnyQdv0i0EAAAAAAAAAAAAAAAB3fi1BCiHNQdWfzUE="},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/135g-567c-50a-105i-81033829.mp4", "categories": [], "metrics": {"area": 50, "cycles": 567, "cost": 135}, "color": 2, "shape": "AAAAAHd+LUEAAAAAAADIQsenHEIKx5pCbWEjQotAYkIKIc1B1Z/NQQ=="},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/165g-144c-57a-55i-bac8fbd8.mp4", "categories": ["SUM_P"], "metrics": {"area": 57, "cycles": 144, "cost": 165}, "color": 0, "shape": "mjKSQoTQKEJlafJB2/SLQQohzUHVn81BbWEjQotAYkK2hodCb14/QhgPj0LexTNC"},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-210g-116c-57a-59i-9h-9w-19r-c6c021.gif", "categories": [], "metrics": {"area": 57, "cycles": 116, "cost": 210}, "color": 3, "shape": "GA+PQt7FM0K2hodCb14/Qs4DjkJ/BT5C"},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/260g-102c-55a-54i-T-1524ca85.mp4", "categories": ["TIG_P"], "metrics": {"area": 55, "cycles": 102, "cost": 260}, "color": 1, "shape": "x6ccQgrHmkIyCJtCBfxcQqpRlEI6m0dCzgOOQn8FPkK2hodCb14/Qm1hI0KLQGJC"},
+    {"gif": "https://files.mors.technology/Reconstructed-Solvent-265g-75c-59a-67i-9h-9w-12r-98a351.gif", "categories": ["CG_P", "CX_P", "RG_P"], "metrics": {"area": 59, "cycles": 75, "cost": 265}, "color": 2, "shape": "gDStQgAASEKaMpJChNAoQhgPj0LexTNCzgOOQn8FPkKqUZRCOptHQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/285g-75c-58a-67i-d9dda754.mp4", "categories": [], "metrics": {"area": 58, "cycles": 75, "cost": 285}, "color": 0, "shape": "MgibQgX8XEKANK1CAQBIQqpRlEI6m0dC"}
   ]
 }

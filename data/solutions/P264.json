@@ -1,0 +1,31 @@
+{
+  "id": "P264",
+  "name": "Realgar Separation",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue II",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/60g-1150c-63a-192i-T-132cd4b3.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 63, "cycles": 1150, "cost": 60}, "color": 0, "shape": "AAAAAAAAAAAAAAAAzqfBQJHNiT8/i8ZAMQy/P1GaXD8="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/70g-605c-54a-109i-ab483799.mp4", "categories": [], "metrics": {"area": 54, "cycles": 605, "cost": 70}, "color": 1, "shape": "1v99QIelEkAxDL8/UZpcP5HNiT8/i8ZAUEG1P/GSAkEyFHxAYoUPQQ=="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/70g-1100c-28a-184i-a5606e1c.mp4", "categories": ["BG"], "metrics": {"area": 28, "cycles": 1100, "cost": 70}, "color": 3, "shape": "AAAAAPLir0FPX1U/JTYFQlBBtT/xkgJBkc2JPz+LxkAAAAAAzqfBQA=="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/80g-406c-56a-113i-T-92950355.mp4", "categories": [], "metrics": {"area": 56, "cycles": 406, "cost": 80}, "color": 2, "shape": "euSkQcRmPkHW/31Ah6USQDIUfEBihQ9Be7duQcvpB0I="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/80g-587c-27a-98i-T-a9f2ac6d.mp4", "categories": [], "metrics": {"area": 27, "cycles": 587, "cost": 80}, "color": 0, "shape": "e7duQcvpB0IyFHxAYoUPQVBBtT/xkgJBT19VPyU2BUIHC1c/J0EGQkROTUFhGopC041xQTyXIUI="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/80g-1599c-20a-267i-T-84e20c0a.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 20, "cycles": 1599, "cost": 80}, "color": 2, "shape": "AAAAAPLir0EAAAAAAADIQvjCGD+bT8dC0llHP2t+v0IHC1c/J0EGQk9fVT8lNgVC"},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/90g-660c-22a-113i-9aa48ac5.mp4", "categories": [], "metrics": {"area": 22, "cycles": 660, "cost": 90}, "color": 1, "shape": "RE5NQWEaikIHC1c/J0EGQtJZRz9rfr9CFXGNP1u5xkIRwQhBcCG+Qnq4R0HK+aJC"},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/120g-988c-21a-252i-T-45f993da.mp4", "categories": [], "metrics": {"area": 21, "cycles": 988, "cost": 120}, "color": 0, "shape": "0llHP2t+v0L4whg/m0/HQhVxjT9bucZC"},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/180g-100c-54a-48i-863ae081.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 54, "cycles": 100, "cost": 180}, "color": 1, "shape": "9BhuQjR3CUJ65KRBxGY+QXu3bkHL6QdC041xQTyXIUII83ZCkCJyQoVFgEJva0lC"},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/205g-115c-43a-64i-78b045e4.mp4", "categories": [], "metrics": {"area": 43, "cycles": 115, "cost": 205}, "color": 2, "shape": "FXx3QpGldUII83ZCkCJyQtONcUE8lyFCRE5NQWEaikJ6uEdByvmiQg=="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/295g-50c-95a-36i-ff757340.mp4", "categories": [], "metrics": {"area": 95, "cycles": 50, "cost": 295}, "color": 2, "shape": "9BhuQjR3CUKFRYBCb2tJQu8ojUJ4Q1ZC2LecQqdWT0JO7KJCmiA8Qg=="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/305g-50c-94a-36i-bee602fa.mp4", "categories": [], "metrics": {"area": 94, "cycles": 50, "cost": 305}, "color": 1, "shape": "2LecQqdWT0LvKI1CeENWQhC/lkLi7mFCmFOXQl5DYUI="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/315g-62c-75a-51i-ca01d4e1.mp4", "categories": [], "metrics": {"area": 75, "cycles": 62, "cost": 315}, "color": 0, "shape": "EL+WQuLuYULvKI1CeENWQoVFgEJva0lCCPN2QpAickIVfHdCkaV1Qq9hgUJgmnpC"},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/405g-118c-36a-88i-365ca35f.mp4", "categories": ["BC", "BR"], "metrics": {"area": 36, "cycles": 118, "cost": 405}, "color": 3, "shape": "EcEIQXAhvkKvYYFCYJp6QhV8d0KRpXVCerhHQcr5okI="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/610g-31c-125a-156i-cb8ebae1.mp4", "categories": [], "metrics": {"area": 125, "cycles": 31, "cost": 610}, "color": 0, "shape": "mFOXQl5DYULGoqpCevdKQiuYpEKoDj5CTuyiQpogPELYt5xCp1ZPQg=="},
+    {"gif": "https://files.mors.technology/REALGAR_SEPARATION/1710g-22c-266a-504i-49dd1919.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RA"], "metrics": {"area": 266, "cycles": 22, "cost": 1710}, "color": 2, "shape": "ft+rQj12RkLGoqpCevdKQoA0rUIAAEhC"}
+  ]
+}
