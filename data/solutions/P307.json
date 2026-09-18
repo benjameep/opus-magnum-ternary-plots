@@ -1,0 +1,22 @@
+{
+  "id": "P307",
+  "name": "Mineral Oil",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue XI",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/MINERAL_OIL/70g-2164c-99a-361i-a2a15ff9.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 99, "cycles": 2164, "cost": 70}, "color": 1, "shape": "fVmbQNphM0AAAAAAAAAAAAAAAACqI4xB6ECPPwp2qEE="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/80g-1895c-93a-316i-T-1db15f65.mp4", "categories": ["TG"], "metrics": {"area": 93, "cycles": 1895, "cost": 80}, "color": 0, "shape": "iwMhQTrsuUB9WZtA2mEzQOhAjz8KdqhB7i3DQNKlK0I="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/120g-3265c-48a-545i-90c62825.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "WC", "BG", "BC", "OAC", "WR", "BR"], "metrics": {"area": 48, "cycles": 3265, "cost": 120}, "color": 2, "shape": "AAAAAKojjEEAAAAAAADIQv0gB0F4P75C7i3DQNKlK0LoQI8/CnaoQQ=="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/220g-194c-93a-144i-b862f66b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 93, "cycles": 194, "cost": 220}, "color": 1, "shape": "FNKRQg9hKEKLAyFBOuy5QO4tw0DSpStC/SAHQXg/vkL/OItCUj1vQg=="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/460g-122c-133a-214i-T-d7c76d3f.mp4", "categories": [], "metrics": {"area": 133, "cycles": 122, "cost": 460}, "color": 0, "shape": "FNKRQg9hKEL/OItCUj1vQrWhqELrR01C3+6ZQiO/MUI="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/470g-120c-143a-208i-T-66e7cfdd.mp4", "categories": ["TIG", "TIC", "TIA", "TC"], "metrics": {"area": 143, "cycles": 120, "cost": 470}, "color": 1, "shape": "3+6ZQiO/MUK1oahC60dNQrRmq0I+FUpCbx6rQlCXRUI="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/1805g-94c-478a-1580i-09b3fc02.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 478, "cycles": 94, "cost": 1805}, "color": 0, "shape": "bx6rQlCXRUK0ZqtCPhVKQoA0rUIAAEhC"}
+  ]
+}

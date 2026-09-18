@@ -1,0 +1,27 @@
+{
+  "id": "P304",
+  "name": "Mosaic Tessera",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue X",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/90g-4037c-171a-673i-852696df.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 171, "cycles": 4037, "cost": 90}, "color": 1, "shape": "AAAAAAAAAAAAAAAAdkIFQk55t0Cy5Y9AVhwiQHYwuz8="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/100g-2889c-2064a-477i-T-789376fd.mp4", "categories": ["TG"], "metrics": {"area": 2064, "cycles": 2889, "cost": 100}, "color": 2, "shape": "VhwiQHYwuz9OebdAsuWPQHUuKEGWTMRANnApQYmmw0A="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/130g-2160c-30a-361i-4c548ade.mp4", "categories": ["AG", "AC", "AX", "AI", "WG", "WC", "OAC", "WR"], "metrics": {"area": 30, "cycles": 2160, "cost": 130}, "color": 0, "shape": "AAAAAAAAyEI2ChRAO1TFQos3nEDzX5hCdS4oQZZMxEBOebdAsuWPQAAAAAB2QgVC"},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/210g-158c-68a-102i-ba92971c.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 68, "cycles": 158, "cost": 210}, "color": 1, "shape": "jCWhQn4TOkI2cClBiabDQHUuKEGWTMRAizecQPNfmEIWbJRC8j1QQmtqm0KLB0VC"},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/230g-156c-58a-104i-ca5faf3f.mp4", "categories": [], "metrics": {"area": 58, "cycles": 156, "cost": 230}, "color": 2, "shape": "NgoUQDtUxUKtyh1CEHOaQkltg0Kl6GxCFmyUQvI9UEKLN5xA81+YQg=="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/380g-114c-125a-79i-T-cde591b7.mp4", "categories": ["TIG", "TIC", "TIA"], "metrics": {"area": 125, "cycles": 114, "cost": 380}, "color": 2, "shape": "jCWhQn4TOkJraptCiwdFQoVuokJbjztC"},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/550g-75c-130a-184i-fa0be5da.mp4", "categories": [], "metrics": {"area": 130, "cycles": 75, "cost": 550}, "color": 0, "shape": "M8ClQnxkP0KFbqJCW487Qmtqm0KLB0VCFmyUQvI9UEJJbYNCpehsQkzMokK4MEpC"},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/640g-61c-209a-198i-2b8bb35e.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 209, "cycles": 61, "cost": 640}, "color": 2, "shape": "M8ClQnxkP0JMzKJCuDBKQnouqUKxqUVCllKqQu6rREI="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/845g-49c-151a-176i-644adf42.mp4", "categories": [], "metrics": {"area": 151, "cycles": 49, "cost": 845}, "color": 0, "shape": "llKqQu6rREJ6LqlCsalFQpY5q0KrtkVC"},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/870g-48c-104a-107i-6271c920.mp4", "categories": ["RA"], "metrics": {"area": 104, "cycles": 48, "cost": 870}, "color": 1, "shape": "MWerQlTrRUKWOatCq7ZFQnouqUKxqUVCTMyiQrgwSkJJbYNCpehsQq3KHUIQc5pCbu6jQli1UkI="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/925g-46c-122a-202i-10d6a914.mp4", "categories": [], "metrics": {"area": 122, "cycles": 46, "cost": 925}, "color": 0, "shape": "MWerQlTrRUJu7qNCWLVSQnTxp0JvE05C1pSsQqNHR0I="},
+    {"gif": "https://files.mors.technology/MOSAIC_TESSERA/1245g-42c-187a-726i-2e6184dd.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 187, "cycles": 42, "cost": 1245}, "color": 1, "shape": "1pSsQqNHR0J08adCbxNOQoA0rUIAAEhC"}
+  ]
+}
