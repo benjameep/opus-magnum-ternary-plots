@@ -1,0 +1,31 @@
+{
+  "id": "P256",
+  "name": "Lodestone",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/LODESTONE/120g-1244c-56a-208i-727241bc.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 56, "cycles": 1244, "cost": 120}, "color": 0, "shape": "ndc6QTC/10AAAAAAAAAAAAAAAAAAAEg2gh8nQTpeakHO5ipBFC1rQQ=="},
+    {"gif": "https://files.mors.technology/LODESTONE/120g-1340c-44a-224i-0dfe6d0a.mp4", "categories": [], "metrics": {"area": 44, "cycles": 1340, "cost": 120}, "color": 3, "shape": "q/BmNgAAyDbSVhVBIYSHQYIfJ0E6XmpB"},
+    {"gif": "https://files.mors.technology/LODESTONE/120g-1352c-43a-226i-a54d968f.mp4", "categories": ["GA", "GX"], "metrics": {"area": 43, "cycles": 1352, "cost": 120}, "color": 2, "shape": "AAAAAAAASDYAAAAA68bTQDdLEkGexotB0lYVQSGEh0Gr8GY2AADINg=="},
+    {"gif": "https://files.mors.technology/LODESTONE/130g-1466c-27a-245i-ba40d49e.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 27, "cycles": 1466, "cost": 130}, "color": 0, "shape": "AAAAAOvG00AAAAAAAADIQooGu0BVQMFCnZ1BQXzhNEKseTZBYqTdQa2dLkHlorVBN0sSQZ7Gi0E="},
+    {"gif": "https://files.mors.technology/LODESTONE/140g-1205c-40a-275i-T-36f05a4b.mp4", "categories": ["TG"], "metrics": {"area": 40, "cycles": 1205, "cost": 140}, "color": 1, "shape": "rZ0uQeWitUHO5ipBFC1rQYIfJ0E6XmpB0lYVQSGEh0E3SxJBnsaLQQ=="},
+    {"gif": "https://files.mors.technology/LODESTONE/250g-185c-56a-71i-57044965.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 56, "cycles": 185, "cost": 250}, "color": 2, "shape": "rHk2QWKk3UHpqnZCDdonQizCckIcKAxCndc6QTC/10DO5ipBFC1rQa2dLkHlorVB"},
+    {"gif": "https://files.mors.technology/LODESTONE/270g-184c-49a-122i-6a5033b9.mp4", "categories": [], "metrics": {"area": 49, "cycles": 184, "cost": 270}, "color": 1, "shape": "6ap2Qg3aJ0KseTZBYqTdQZ2dQUF84TRCSw7dQWXWfEI8hXdCuCZeQqPlfULLHjxC"},
+    {"gif": "https://files.mors.technology/LODESTONE/290g-184c-48a-74i-54c9d650.mp4", "categories": [], "metrics": {"area": 48, "cycles": 184, "cost": 290}, "color": 0, "shape": "PIV3QrgmXkJLDt1BZdZ8QmCF/EFycolCSjUnQi27l0LzknNCra+BQg=="},
+    {"gif": "https://files.mors.technology/LODESTONE/330g-383c-34a-203i-57ec3076.mp4", "categories": [], "metrics": {"area": 34, "cycles": 383, "cost": 330}, "color": 2, "shape": "nZ1BQXzhNEKKBrtAVUDBQhtb50FNm6ZCYIX8QXJyiUJLDt1BZdZ8Qg=="},
+    {"gif": "https://files.mors.technology/LODESTONE/375g-316c-37a-207i-3b6a65d7.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 316, "cost": 375}, "color": 1, "shape": "YIX8QXJyiUIbW+dBTZumQko1J0Itu5dC"},
+    {"gif": "https://files.mors.technology/LODESTONE/440g-82c-83a-147i-9fbd061a.mp4", "categories": [], "metrics": {"area": 83, "cycles": 82, "cost": 440}, "color": 0, "shape": "766hQiKyOkIswnJCHCgMQumqdkIN2idCo+V9QssePEKsPqJCDbdCQgGAokJ7yEFCKHeiQo2KP0I="},
+    {"gif": "https://files.mors.technology/LODESTONE/520g-80c-70a-174i-06cf3e0a.mp4", "categories": [], "metrics": {"area": 70, "cycles": 80, "cost": 520}, "color": 2, "shape": "85JzQq2vgUKWUaBCQuFWQssDoUJpaFRCrD6iQg23QkKj5X1Cyx48QjyFd0K4Jl5C"},
+    {"gif": "https://files.mors.technology/LODESTONE/860g-44c-154a-232i-61a17335.mp4", "categories": ["CG", "RG", "ORG"], "metrics": {"area": 154, "cycles": 44, "cost": 860}, "color": 2, "shape": "766hQiKyOkIod6JCjYo/Qn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/LODESTONE/890g-44c-136a-236i-f4d33731.mp4", "categories": [], "metrics": {"area": 136, "cycles": 44, "cost": 890}, "color": 3, "shape": "fTStQv7/R0Iod6JCjYo/QgGAokJ7yEFCezStQvz/R0I="},
+    {"gif": "https://files.mors.technology/LODESTONE/960g-44c-112a-240i-07341ea5.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 112, "cycles": 44, "cost": 960}, "color": 1, "shape": "ywOhQmloVEJ/NK1CAABIQn00rUL+/0dCezStQv3/R0IBgKJCe8hBQqw+okINt0JC"},
+    {"gif": "https://files.mors.technology/LODESTONE/1240g-44c-110a-308i-ae1c56e2.mp4", "categories": ["CA", "RA"], "metrics": {"area": 110, "cycles": 44, "cost": 1240}, "color": 0, "shape": "llGgQkLhVkKANK1CAQBIQn80rUIAAEhCywOhQmloVEI="}
+  ]
+}

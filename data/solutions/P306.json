@@ -1,0 +1,24 @@
+{
+  "id": "P306",
+  "name": "Rockwool Fiber",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue XI",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/100g-1134c-413a-181i-bde062fa.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 413, "cycles": 1134, "cost": 100}, "color": 2, "shape": "O9HnQfzWhUEAAAAAAAAAAAAAAAAAAEg2iRI8QTi+WEFVW4hBuHuVQQ=="},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/100g-2019c-119a-313i-3157601d.mp4", "categories": ["GA", "GX"], "metrics": {"area": 119, "cycles": 2019, "cost": 100}, "color": 0, "shape": "AAAAAAAASDYAAAAAJ+eyQYkSPEE4vlhB"},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/115g-1846c-95a-300i-91e2e64e.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 95, "cycles": 1846, "cost": 115}, "color": 1, "shape": "VVuIQbh7lUGJEjxBOL5YQQAAAAAn57JBAAAAAAAAyEJmKCNBoTm8QuigfUEM8QdC"},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/145g-1529c-102a-257i-4b01f043.mp4", "categories": [], "metrics": {"area": 102, "cycles": 1529, "cost": 145}, "color": 2, "shape": "6KB9QQzxB0JmKCNBoTm8QsLgKkH+qrtCe6k5QcSltkI="},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/265g-220c-135a-136i-d188c7dc.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 135, "cycles": 220, "cost": 265}, "color": 0, "shape": "O9HnQfzWhUFVW4hBuHuVQeigfUEM8QdCe6k5QcSltkJ0uCRCBXOYQoQ6kEKMdWlCiu+RQjFgSEIgo5FC2CooQg=="},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/430g-133c-213a-183i-84f0f571.mp4", "categories": [], "metrics": {"area": 213, "cycles": 133, "cost": 430}, "color": 1, "shape": "IKORQtgqKEKK75FCMWBIQkpTpkKt8U9CsnCnQh6oTkLXM6dCnhFBQg=="},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/440g-135c-205a-191i-e99470cb.mp4", "categories": [], "metrics": {"area": 205, "cycles": 135, "cost": 440}, "color": 2, "shape": "hDqQQox1aUJKU6ZCrfFPQorvkUIxYEhC"},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/495g-240c-132a-155i-3b4edbd5.mp4", "categories": [], "metrics": {"area": 132, "cycles": 240, "cost": 495}, "color": 1, "shape": "wuAqQf6qu0J0uCRCBXOYQnupOUHEpbZC"},
+    {"gif": "https://files.mors.technology/ROCKWOOL_FIBER/790g-97c-386a-160i-6237f13d.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RI", "ORX"], "metrics": {"area": 386, "cycles": 97, "cost": 790}, "color": 0, "shape": "1zOnQp4RQUKycKdCHqhOQoA0rUIAAEhC"}
+  ]
+}

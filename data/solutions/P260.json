@@ -1,0 +1,31 @@
+{
+  "id": "P260",
+  "name": "Pig Iron",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue II",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/PIG_IRON/60g-1383c-80a-232i-96c09b8c.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 80, "cycles": 1383, "cost": 60}, "color": 1, "shape": "JbiJQAdGDEL2BAxBLvqKQX+4JUEXyttA8wAkQQbm2EA8sRRBp+7BQMiqpUDBSz9AAAAAAAAAAAAAAAAAAABINg=="},
+    {"gif": "https://files.mors.technology/PIG_IRON/60g-1473c-72a-247i-8ff26aad.mp4", "categories": ["GA", "GX"], "metrics": {"area": 72, "cycles": 1473, "cost": 60}, "color": 0, "shape": "AAAAAAAASDYAAAAAOFhhQiW4iUAHRgxC"},
+    {"gif": "https://files.mors.technology/PIG_IRON/70g-1000c-1718a-241i-T-c88fb402.mp4", "categories": ["TG"], "metrics": {"area": 1718, "cycles": 1000, "cost": 70}, "color": 3, "shape": "LvRSQaiW80DIqqVAwUs/QDyxFEGn7sFAnuwpQcSf3UA="},
+    {"gif": "https://files.mors.technology/PIG_IRON/70g-1007c-1655a-238i-T-a7b19f08.mp4", "categories": [], "metrics": {"area": 1655, "cycles": 1007, "cost": 70}, "color": 2, "shape": "nuwpQcSf3UA8sRRBp+7BQPMAJEEG5thAzx4mQaCy20A="},
+    {"gif": "https://files.mors.technology/PIG_IRON/70g-1106c-861a-186i-T-b4d97deb.mp4", "categories": [], "metrics": {"area": 861, "cycles": 1106, "cost": 70}, "color": 3, "shape": "8wAkQQbm2EB/uCVBF8rbQM8eJkGgsttA"},
+    {"gif": "https://files.mors.technology/PIG_IRON/100g-744c-28a-125i-81beb666.mp4", "categories": ["WG", "WC", "WR"], "metrics": {"area": 28, "cycles": 744, "cost": 100}, "color": 2, "shape": "AAAAADhYYUIAAAAABdO2QjCkqkC177VC5+vPQJivq0KNk/VAujSgQvYEDEEu+opBJbiJQAdGDEI="},
+    {"gif": "https://files.mors.technology/PIG_IRON/120g-322c-51a-95i-6c34522d.mp4", "categories": [], "metrics": {"area": 51, "cycles": 322, "cost": 120}, "color": 0, "shape": "6+0RQjaBqEEu9FJBqJbzQJ7sKUHEn91Azx4mQaCy20B/uCVBF8rbQPYEDEEu+opBjZP1QLo0oEIYhtRBpB4vQkcP5EHuQR9C"},
+    {"gif": "https://files.mors.technology/PIG_IRON/145g-785c-22a-204i-995469d0.mp4", "categories": ["AG", "AC", "AX", "AI", "BG", "OAC"], "metrics": {"area": 22, "cycles": 785, "cost": 145}, "color": 1, "shape": "AAAAAAAAyEJtmF1AfwDEQrBxnUA9wL5CMKSqQLXvtUIAAAAABdO2Qg=="},
+    {"gif": "https://files.mors.technology/PIG_IRON/175g-138c-56a-70i-15d2fe9f.mp4", "categories": [], "metrics": {"area": 56, "cycles": 138, "cost": 175}, "color": 2, "shape": "6+0RQjaBqEFHD+RB7kEfQlVYJUKM7L5B"},
+    {"gif": "https://files.mors.technology/PIG_IRON/185g-119c-46a-62i-52081424.mp4", "categories": [], "metrics": {"area": 46, "cycles": 119, "cost": 185}, "color": 3, "shape": "GIbUQaQeL0KNk/VAujSgQufrz0CYr6tCAHYOQVITpkJHZsVBpvhTQg=="},
+    {"gif": "https://files.mors.technology/PIG_IRON/190g-98c-49a-59i-c8b82144.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 49, "cycles": 98, "cost": 190}, "color": 1, "shape": "epmmQmBfQEJVWCVCjOy+QUcP5EHuQR9CGIbUQaQeL0JHZsVBpvhTQvCHA0KNPY1CDNQ4QgmlkkK6InVCRjyBQg=="},
+    {"gif": "https://files.mors.technology/PIG_IRON/190g-105c-46a-63i-baeb42cc.mp4", "categories": [], "metrics": {"area": 46, "cycles": 105, "cost": 190}, "color": 2, "shape": "R2bFQab4U0IAdg5BUhOmQvCHA0KNPY1C"},
+    {"gif": "https://files.mors.technology/PIG_IRON/195g-104c-45a-59i-d9d6bc79.mp4", "categories": [], "metrics": {"area": 45, "cycles": 104, "cost": 195}, "color": 0, "shape": "ZOR3QSQctkIM1DhCCaWSQvCHA0KNPY1CAHYOQVITpkLn689AmK+rQjCkqkC177VCsHGdQD3AvkI="},
+    {"gif": "https://files.mors.technology/PIG_IRON/405g-167c-37a-111i-3efad6e1.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 167, "cost": 405}, "color": 2, "shape": "bZhdQH8AxEJk5HdBJBy2QrBxnUA9wL5C"},
+    {"gif": "https://files.mors.technology/PIG_IRON/770g-42c-128a-714i-4b729417.mp4", "categories": [], "metrics": {"area": 128, "cycles": 42, "cost": 770}, "color": 0, "shape": "epmmQmBfQEK6InVCRjyBQtT2pEILhFFCKMSsQkd+R0I="},
+    {"gif": "https://files.mors.technology/PIG_IRON/1255g-39c-163a-644i-f6f74eb5.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 163, "cycles": 39, "cost": 1255}, "color": 1, "shape": "KMSsQkd+R0LU9qRCC4RRQoA0rUIAAEhC"}
+  ]
+}

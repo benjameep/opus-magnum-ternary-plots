@@ -1,0 +1,26 @@
+{
+  "id": "P255",
+  "name": "Mooring Cable",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue I",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/MOORING_CABLE/60g-833c-694a-137i-de1edc37.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 694, "cycles": 833, "cost": 60}, "color": 2, "shape": "5Rm9Qe9aWkEAAAAAAAAAAAAAAAAAAEg2Jp/kQPyL3EA="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/60g-1243c-122a-1243i-b4327522.mp4", "categories": ["GA", "GX"], "metrics": {"area": 122, "cycles": 1243, "cost": 60}, "color": 0, "shape": "AAAAAAAASDYAAAAAgcshQuFeC0H+TbpBJp/kQPyL3EA="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/80g-711c-175a-240i-31bc5eea.mp4", "categories": [], "metrics": {"area": 175, "cycles": 711, "cost": 80}, "color": 1, "shape": "5Rm9Qe9aWkEmn+RA/IvcQOFeC0H+TbpB3gigQT2R80E1eOdBlqOFQQ=="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/105g-784c-51a-132i-9046f32a.mp4", "categories": ["AG", "AX", "AI"], "metrics": {"area": 51, "cycles": 784, "cost": 105}, "color": 2, "shape": "3gigQT2R80HhXgtB/k26QQAAAACByyFCAAAAAAAAyEKANC02AADIQoKYHkGzHqJC"},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/150g-665c-51a-970i-d39da2e3.mp4", "categories": ["AC", "OAC"], "metrics": {"area": 51, "cycles": 665, "cost": 150}, "color": 3, "shape": "gpgeQbMeokKANC02AADIQs+ix0DXy8BCcrEJQXa5t0I="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/220g-72c-80a-90i-bee0cf6b.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 80, "cycles": 72, "cost": 220}, "color": 0, "shape": "YjKXQkiWLkI1eOdBlqOFQd4IoEE9kfNBgpgeQbMeokJysQlBdrm3QqENl0Fbc7FCZ2mrQURCr0KzHIlCNK1xQrm2jEIf3mtC"},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/235g-67c-90a-286i-63bc7730.mp4", "categories": [], "metrics": {"area": 90, "cycles": 67, "cost": 235}, "color": 1, "shape": "YjKXQkiWLkK5toxCH95rQq6rmEJYWVlC0NajQmQvPUI="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/380g-142c-70a-184i-eb2cb8a4.mp4", "categories": ["HR"], "metrics": {"area": 70, "cycles": 142, "cost": 380}, "color": 1, "shape": "6u6EQRDQtEKhDZdBW3OxQnKxCUF2ubdCz6LHQNfLwEI="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/450g-124c-72a-191i-f14baffb.mp4", "categories": ["HC"], "metrics": {"area": 72, "cycles": 124, "cost": 450}, "color": 2, "shape": "6u6EQRDQtEJnaatBREKvQqENl0Fbc7FC"},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/510g-31c-189a-91i-T-b9b25183.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "TC"], "metrics": {"area": 189, "cycles": 31, "cost": 510}, "color": 0, "shape": "0NajQmQvPUKuq5hCWFlZQt+kpEKu4lFCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/MOORING_CABLE/660g-36c-144a-168i-f36243bc.mp4", "categories": [], "metrics": {"area": 144, "cycles": 36, "cost": 660}, "color": 2, "shape": "sxyJQjStcULfpKRCruJRQq6rmEJYWVlCubaMQh/ea0I="}
+  ]
+}
