@@ -1,0 +1,30 @@
+{
+  "id": "P270",
+  "name": "Canister Shot",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue IV",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/90g-892c-60a-149i-de834f54.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 60, "cycles": 892, "cost": 90}, "color": 3, "shape": "hkhKQZ6T6UAAAAAAAAAAAAAAAAAAAEg2VAouQYU5PEE="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/90g-916c-52a-153i-96dad13c.mp4", "categories": [], "metrics": {"area": 52, "cycles": 916, "cost": 90}, "color": 0, "shape": "pPIDQRkiq0G8xD9BHmKbQVQKLkGFOTxBq/BmNgAAyDar8GY2AABINw=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/90g-928c-51a-155i-e5bde219.mp4", "categories": ["GX"], "metrics": {"area": 51, "cycles": 928, "cost": 90}, "color": 2, "shape": "pPIDQRkiq0Gr8GY2AABIN509QUCx149B+ZK4QONCt0E="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/90g-1088c-46a-182i-9e1ca5e9.mp4", "categories": ["GA"], "metrics": {"area": 46, "cycles": 1088, "cost": 90}, "color": 1, "shape": "AAAAAAAASDYAAAAAKO1vQZ09QUCx149Bq/BmNgAAyDY="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/100g-814c-57a-136i-T-f58f6474.mp4", "categories": ["TG"], "metrics": {"area": 57, "cycles": 814, "cost": 100}, "color": 2, "shape": "9JyWQbzpLUGGSEpBnpPpQFQKLkGFOTxBvMQ/QR5im0F9V4FBS3KcQQ=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/110g-1178c-24a-197i-0cfa78af.mp4", "categories": ["AG", "AI", "BG"], "metrics": {"area": 24, "cycles": 1178, "cost": 110}, "color": 0, "shape": "gDQtNgAAyEL5krhA40K3QZ09QUCx149BAAAAACjtb0EAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/140g-735c-24a-208i-T-36351272.mp4", "categories": ["AC", "AX", "OAC"], "metrics": {"area": 24, "cycles": 735, "cost": 140}, "color": 1, "shape": "zyaMQQS/W0J9V4FBS3KcQbzEP0EeYptBpPIDQRkiq0H5krhA40K3QYA0LTYAAMhC3u8xQZMou0I="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/235g-166c-47a-705i-850c5123.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 47, "cycles": 166, "cost": 235}, "color": 0, "shape": "zyaMQQS/W0JGqShC1v+DQpwngkLVtXlCODOXQsBoYUL9jIJCoew2Qoe4AkKC8ZZB9JyWQbzpLUF9V4FBS3KcQQ=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/240g-155c-60a-91i-8a02cdfd.mp4", "categories": [], "metrics": {"area": 60, "cycles": 155, "cost": 240}, "color": 1, "shape": "h7gCQoLxlkH9jIJCoew2Qnm4lUI5mT5COBeTQrexLkKHu5FCBkcoQg=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/245g-155c-58a-91i-85ebf6d7.mp4", "categories": [], "metrics": {"area": 58, "cycles": 155, "cost": 245}, "color": 2, "shape": "ebiVQjmZPkL9jIJCoew2Qjgzl0LAaGFCd2WXQr0uYUKHKJlCkxVSQg=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/290g-222c-35a-121i-f656f56c.mp4", "categories": [], "metrics": {"area": 35, "cycles": 222, "cost": 290}, "color": 2, "shape": "cWd7QULbtUJGqShC1v+DQs8mjEEEv1tC3u8xQZMou0I="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/385g-191c-36a-125i-55b3d2df.mp4", "categories": ["BC", "BR"], "metrics": {"area": 36, "cycles": 191, "cost": 385}, "color": 1, "shape": "cWd7QULbtUKcJ4JC1bV5QkapKELW/4NC"},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/610g-62c-187a-111i-T-a21592c1.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 187, "cycles": 62, "cost": 610}, "color": 2, "shape": "h7uRQgZHKEI4F5NCt7EuQvoeoULoCzpC"},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/620g-61c-175a-109i-T-da3f7436.mp4", "categories": ["RI", "ORX"], "metrics": {"area": 175, "cycles": 61, "cost": 620}, "color": 0, "shape": "+h6hQugLOkI4F5NCt7EuQnm4lUI5mT5ChyiZQpMVUkL/9KtCEY9GQg=="},
+    {"gif": "https://files.mors.technology/CANISTER_SHOT/930g-58c-156a-161i-T-b2724fc8.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "TC", "RA"], "metrics": {"area": 156, "cycles": 58, "cost": 930}, "color": 1, "shape": "gDStQgAASEL/9KtCEY9GQocomUKTFVJCd2WXQr0uYUI="}
+  ]
+}

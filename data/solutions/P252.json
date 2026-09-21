@@ -1,0 +1,23 @@
+{
+  "id": "P252",
+  "name": "Dental Amalgam",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue XII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/135g-1189c-101a-117i-30299769.mp4", "categories": ["GC_P", "OGC_P"], "metrics": {"area": 101, "cycles": 1189, "cost": 135}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAADIQkv5n0Hm6LBCFYfiQZbbKkLLZ9dBkbp4QQ=="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/285g-323c-108a-100i-2d2cc700.mp4", "categories": [], "metrics": {"area": 108, "cycles": 323, "cost": 285}, "color": 1, "shape": "gg1eQsUzAELLZ9dBkbp4QRWH4kGW2ypCDXIcQm7nZELyyFlCjipOQg=="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/290g-522c-104a-93i-625299b9.mp4", "categories": [], "metrics": {"area": 104, "cycles": 522, "cost": 290}, "color": 0, "shape": "FYfiQZbbKkJL+Z9B5uiwQhVx8kGuAaVCDXIcQm7nZEI="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/370g-199c-111a-35i-942e8563.mp4", "categories": ["SUM_P"], "metrics": {"area": 111, "cycles": 199, "cost": 370}, "color": 0, "shape": "gg1eQsUzAELyyFlCjipOQoaaZEIuPlNCC9CBQrWPQEINOIpC1yAzQtgnh0J2EBxC"},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/415g-274c-106a-91i-17d093e7.mp4", "categories": [], "metrics": {"area": 106, "cycles": 274, "cost": 415}, "color": 2, "shape": "yDdcQrdtiEKGmmRCLj5TQvLIWUKOKk5CDXIcQm7nZEIVcfJBrgGlQg=="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/450g-159c-111a-242i-6162767e.mp4", "categories": [], "metrics": {"area": 111, "cycles": 159, "cost": 450}, "color": 3, "shape": "DTiKQtcgM0IL0IFCtY9AQusujEIfxzZC"},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/475g-122c-117a-187i-b293bb35.mp4", "categories": ["RG_P"], "metrics": {"area": 117, "cycles": 122, "cost": 475}, "color": 2, "shape": "p0KsQr3oRkLYJ4dCdhAcQg04ikLXIDNC6y6MQh/HNkI="},
+    {"gif": "https://files.mors.technology/DENTAL_AMALGAM/545g-121c-110a-388i-1be7595d.mp4", "categories": [], "metrics": {"area": 110, "cycles": 121, "cost": 545}, "color": 1, "shape": "gDStQgAASEKnQqxCvehGQusujEIfxzZCC9CBQrWPQEKGmmRCLj5TQsg3XEK3bYhC"}
+  ]
+}
