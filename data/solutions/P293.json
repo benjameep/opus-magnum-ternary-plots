@@ -1,0 +1,22 @@
+{
+  "id": "P293",
+  "name": "Endurance Potion",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue VIII",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/95g-582c-76a-148i-5cb53385.mp4", "categories": ["GC_P", "GX_P", "OGC_P"], "metrics": {"area": 76, "cycles": 582, "cost": 95}, "color": 1, "shape": "mBNRQrlr8UGANC02AADINavwZjYAAMg2HGRBQhWtN0I="},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/95g-698c-74a-191i-daf8ce3e.mp4", "categories": [], "metrics": {"area": 74, "cycles": 698, "cost": 95}, "color": 2, "shape": "q/BmNgAAyDaj355BT5adQjwSQkJbw0BCHGRBQhWtN0I="},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/95g-1226c-73a-134i-b915c030.mp4", "categories": ["GI_P"], "metrics": {"area": 73, "cycles": 1226, "cost": 95}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAADIQmeJfUHcs7VCo9+eQU+WnUKANC02AADINQ=="},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/195g-177c-78a-82i-653bbfd4.mp4", "categories": ["SUM_P", "OSUM_P"], "metrics": {"area": 78, "cycles": 177, "cost": 195}, "color": 0, "shape": "K6eiQsXQO0KYE1FCuWvxQRxkQUIVrTdCPBJCQlvDQEKC/VpCSmdXQnVpjELE3W1CHXGUQhmYZEI="},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/200g-423c-74a-157i-T-ebadf5d2.mp4", "categories": [], "metrics": {"area": 74, "cycles": 423, "cost": 200}, "color": 1, "shape": "Z4l9QdyztUK51W5C5w2DQoL9WkJKZ1dCPBJCQlvDQEKj355BT5adQg=="},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/225g-261c-76a-56i-e6bc0ec0.mp4", "categories": ["IG_P", "IC_P", "IX_P", "OIC_P"], "metrics": {"area": 76, "cycles": 261, "cost": 225}, "color": 2, "shape": "udVuQucNg0J1aYxCxN1tQoL9WkJKZ1dC"},
+    {"gif": "https://files.mors.technology/ENDURANCE_POTION/270g-147c-79a-94i-5830553e.mp4", "categories": ["CG_P", "CI_P", "CX_P", "OCX_P", "RG_P", "RI_P", "ORG_P", "ORX_P"], "metrics": {"area": 79, "cycles": 147, "cost": 270}, "color": 1, "shape": "K6eiQsXQO0IdcZRCGZhkQoA0rUIAAEhC"}
+  ]
+}
