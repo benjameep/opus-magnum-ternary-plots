@@ -25,6 +25,6 @@
     {"gif": "https://files.mors.technology/MILD_STEEL/645g-52c-105a-164i-67653a81.mp4", "categories": [], "metrics": {"area": 105, "cycles": 52, "cost": 645}, "color": 1, "shape": "biasQibIRkJUU49CGtRpQoU1k0KCBGZCkw+oQqfwTUK5D61CiNVHQg=="},
     {"gif": "https://files.mors.technology/MILD_STEEL/665g-54c-92a-158i-45632a24.mp4", "categories": [], "metrics": {"area": 92, "cycles": 54, "cost": 665}, "color": 2, "shape": "hTWTQoIEZkJUU49CGtRpQhYohUJzBHZC3e6IQiHicUI="},
     {"gif": "https://files.mors.technology/MILD_STEEL/730g-57c-79a-314i-45e09d0d.mp4", "categories": ["RA"], "metrics": {"area": 79, "cycles": 57, "cost": 730}, "color": 1, "shape": "eeh3QmJvgELd7ohCIeJxQhYohUJzBHZC"},
-    {"gif": "https://files.mors.technology/MILD_STEEL/935g-50c-180a-527i-4daf6436.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 180, "cycles": 50, "cost": 935}, "color": 0, "shape": "uQ+tQojVR0KTD6hCp/BNQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/MILD_STEEL/935g-50c-180a-527i-4daf6436.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 180, "cycles": 50, "cost": 935}, "color": 0, "shape": "uQ+tQojVR0KTD6hCp/BNQoA0rUIAAEhC"}
   ]
 }

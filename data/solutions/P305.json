@@ -20,6 +20,6 @@
     {"gif": "https://files.mors.technology/GRINDSTONE/205g-103c-58a-392i-50a3d8b8.mp4", "categories": [], "metrics": {"area": 58, "cycles": 103, "cost": 205}, "color": 1, "shape": "QsCQQuEkJ0JFGYZBrrMcQge9ikGP+bNCdMafQuqBV0JlPqBC1M9VQkuHpULgZUJCpyalQi+zPkI="},
     {"gif": "https://files.mors.technology/GRINDSTONE/860g-38c-267a-108i-0e59d45d.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 267, "cycles": 38, "cost": 860}, "color": 2, "shape": "pyalQi+zPkJLh6VC4GVCQg4LqkJVWURC"},
     {"gif": "https://files.mors.technology/GRINDSTONE/1030g-33c-160a-440i-620a3fcc.mp4", "categories": ["RA"], "metrics": {"area": 160, "cycles": 33, "cost": 1030}, "color": 2, "shape": "ZT6gQtTPVUJ0xp9C6oFXQkUhoEIMGVdC"},
-    {"gif": "https://files.mors.technology/GRINDSTONE/1045g-31c-163a-658i-704e2feb.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 163, "cycles": 31, "cost": 1045}, "color": 0, "shape": "gDStQgAASEIOC6pCVVlEQkuHpULgZUJCZT6gQtTPVUJFIaBCDBlXQg=="}
+    {"gif": "https://files.mors.technology/GRINDSTONE/1045g-31c-163a-658i-704e2feb.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 163, "cycles": 31, "cost": 1045}, "color": 0, "shape": "gDStQgAASEIOC6pCVVlEQkuHpULgZUJCZT6gQtTPVUJFIaBCDBlXQg=="}
   ]
 }

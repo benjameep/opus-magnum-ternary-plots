@@ -1,0 +1,25 @@
+{
+  "id": "w3728200093",
+  "name": "Alchemist's Clay",
+  "collection": "Community",
+  "group": "Tournament 2026",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/80g-523c-76a-821i-T-5ea7e7e6.mp4", "categories": ["GC_P", "OGC_P", "TG_P"], "metrics": {"area": 76, "cycles": 523, "cost": 80}, "color": 1, "shape": "gDQtNgAAyDWEPFZB8Im4QoUMLkKkwZVCORRDQtdagkLzkGBCudgoQnNaWEKOMhVCCQy3QU9dU0E="},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/80g-2161c-74a-229i-T-630db481.mp4", "categories": ["GI_P"], "metrics": {"area": 74, "cycles": 2161, "cost": 80}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAADIQoQ8VkHwibhCgDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/90g-363c-85a-59i-d286e085.mp4", "categories": [], "metrics": {"area": 85, "cycles": 363, "cost": 90}, "color": 0, "shape": "CQy3QU9dU0FzWlhCjjIVQsu7akIDhgdC"},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/180g-117c-84a-61i-3b8172be.mp4", "categories": ["SUM_P"], "metrics": {"area": 84, "cycles": 117, "cost": 180}, "color": 2, "shape": "y7tqQgOGB0JzWlhCjjIVQvOQYEK52ChC3WCTQqqJPUKkBptCmGw9Qqg1mkLfEDJC"},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/225g-129c-79a-81i-2f319026.mp4", "categories": [], "metrics": {"area": 79, "cycles": 129, "cost": 225}, "color": 3, "shape": "ORRDQtdagkLdYJNCqok9QvOQYEK52ChC"},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/245g-71c-87a-48i-c9d98c39.mp4", "categories": [], "metrics": {"area": 87, "cycles": 71, "cost": 245}, "color": 1, "shape": "qDWaQt8QMkKkBptCmGw9QkTHqELW0kZCAwqrQkbMR0I5lqtCJadHQgQorEL6yUZC"},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/300g-78c-79a-66i-13680867.mp4", "categories": [], "metrics": {"area": 79, "cycles": 78, "cost": 300}, "color": 0, "shape": "yWmqQpkDSUJEx6hC1tJGQqQGm0KYbD1C3WCTQqqJPUI5FENC11qCQoUMLkKkwZVClVyqQoZIS0I="},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/305g-73c-82a-64i-46625e97.mp4", "categories": [], "metrics": {"area": 82, "cycles": 73, "cost": 305}, "color": 3, "shape": "yWmqQpkDSUIDCqtCRsxHQkTHqELW0kZC"},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/410g-68c-83a-69i-6c030a49.mp4", "categories": [], "metrics": {"area": 83, "cycles": 68, "cost": 410}, "color": 2, "shape": "8EisQgIQSUI5lqtCJadHQgMKq0JGzEdCyWmqQpkDSUKVXKpChkhLQg=="},
+    {"gif": "https://files.mors.technology/ALCHEMIST_S_CLAY/445g-64c-88a-120i-55e4336c.mp4", "categories": ["CG_P", "CI_P", "CX_P"], "metrics": {"area": 88, "cycles": 64, "cost": 445}, "color": 0, "shape": "gDStQgAASEIEKKxC+slGQjmWq0Ilp0dC8EisQgIQSUI="}
+  ]
+}
