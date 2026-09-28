@@ -1,0 +1,33 @@
+{
+  "id": "P250",
+  "name": "Sophick Mercury",
+  "collection": "Journal XCIX",
+  "group": "XCIX Issue XII",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/50g-244c-17a-41i-T-a325d831.mp4", "categories": ["GC", "GI", "BG", "TG"], "metrics": {"area": 17, "cycles": 244, "cost": 50}, "color": 0, "shape": "2BExQWV2zEAAAAAAAAAAAAAAAAAAAEg2LeIUQfJSqkE="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/50g-279c-14a-47i-T-800223b1.mp4", "categories": ["GA", "GX"], "metrics": {"area": 14, "cycles": 279, "cost": 50}, "color": 2, "shape": "AAAAAAAASDYAAAAAxzhHQgYCFUE+BQBCLeIUQfJSqkE="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/70g-84c-17a-26i-T-537924ff.mp4", "categories": ["SUM"], "metrics": {"area": 17, "cycles": 84, "cost": 70}, "color": 1, "shape": "cZFPQSRVMkJknPFBfwJvQuVVF0L7UkZC7pclQpxyKELG+S5C9/AIQmncLkLlks5B2SorQqalxUHYETFBZXbMQC3iFEHyUqpBBgIVQT4FAEI="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/70g-201c-11a-34i-T-72b44dae.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 11, "cycles": 201, "cost": 70}, "color": 0, "shape": "BgIVQT4FAEIAAAAAxzhHQgAAAAAAAMhCuXeHQWlytEJ0o4hBcruzQnGRT0EkVTJC"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/80g-72c-24a-116i-T-6da7bbf8.mp4", "categories": [], "metrics": {"area": 24, "cycles": 72, "cost": 80}, "color": 2, "shape": "2SorQqalxUFp3C5C5ZLOQWmzMkKQWM5B"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/80g-105c-14a-33i-9c3cc680.mp4", "categories": [], "metrics": {"area": 14, "cycles": 105, "cost": 80}, "color": 2, "shape": "cZFPQSRVMkJ0o4hBcruzQgvEwkE/TaFCZJzxQX8Cb0I="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/90g-61c-20a-26i-T-ca95f138.mp4", "categories": [], "metrics": {"area": 20, "cycles": 61, "cost": 90}, "color": 0, "shape": "ouJNQmC87UFpszJCkFjOQWncLkLlks5BxvkuQvfwCEI="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/100g-53c-19a-21i-T-281ee5d1.mp4", "categories": [], "metrics": {"area": 19, "cycles": 53, "cost": 100}, "color": 2, "shape": "C9NyQtoxDEKi4k1CYLztQcb5LkL38AhC7pclQpxyKEK2HS9CaSIyQg=="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/100g-56c-18a-24i-06e5b99b.mp4", "categories": [], "metrics": {"area": 18, "cycles": 56, "cost": 100}, "color": 3, "shape": "7pclQpxyKELlVRdC+1JGQrYdL0JpIjJC"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/130g-38c-17a-24i-T-12907a36.mp4", "categories": [], "metrics": {"area": 17, "cycles": 38, "cost": 130}, "color": 0, "shape": "C8TCQT9NoUL96IRCsVZyQrCvlEKcSldC+iSXQtz/TEK2DplCMipAQqhNl0I/4zVC7yqXQpWNNUL/IJBCbJEnQknoiULgPR9CC9NyQtoxDEK2HS9CaSIyQuVVF0L7UkZCZJzxQX8Cb0I="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/140g-35c-42a-21i-T-61fe0220.mp4", "categories": [], "metrics": {"area": 42, "cycles": 35, "cost": 140}, "color": 1, "shape": "SeiJQuA9H0L/IJBCbJEnQvRykEKeyyZC"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/170g-28c-43a-19i-T-58cd8a9b.mp4", "categories": [], "metrics": {"area": 43, "cycles": 28, "cost": 170}, "color": 2, "shape": "3ZafQiJHOEL0cpBCnssmQv8gkEJskSdC7yqXQpWNNUI="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/180g-27c-40a-24i-T-579e5a4d.mp4", "categories": ["CG", "TC"], "metrics": {"area": 40, "cycles": 27, "cost": 180}, "color": 1, "shape": "gDStQgAASELdlp9CIkc4Qu8ql0KVjTVCqE2XQj/jNUJ/NK1CAABIQoA0rUIBAEhC"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/190g-27c-31a-28i-T-7ec0841c.mp4", "categories": [], "metrics": {"area": 31, "cycles": 27, "cost": 190}, "color": 2, "shape": "tg6ZQjIqQEJ+NK1C//9HQqhNl0I/4zVC"},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/210g-27c-25a-31i-9b81eddb.mp4", "categories": ["CX"], "metrics": {"area": 25, "cycles": 27, "cost": 210}, "color": 3, "shape": "+iSXQtz/TEJ/NK1CAABIQn40rUL//0dCtg6ZQjIqQEI="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/210g-39c-16a-28i-T-b1ed001b.mp4", "categories": [], "metrics": {"area": 16, "cycles": 39, "cost": 210}, "color": 1, "shape": "C3iDQloxeEL96IRCsVZyQgvEwkE/TaFCdKOIQXK7s0K5d4dBaXK0Qg=="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/220g-27c-24a-31i-T-29519f40.mp4", "categories": ["CA"], "metrics": {"area": 24, "cycles": 27, "cost": 220}, "color": 2, "shape": "T92iQrjwU0KANK1CAQBIQn80rUIAAEhC+iSXQtz/TEKwr5RCnEpXQg=="},
+    {"gif": "https://files.mors.technology/SOPHICK_MERCURY/265g-29c-20a-93i-3dccb781.mp4", "categories": ["RA"], "metrics": {"area": 20, "cycles": 29, "cost": 265}, "color": 3, "shape": "C3iDQloxeEJP3aJCuPBTQrCvlEKcSldC/eiEQrFWckI="}
+  ]
+}
