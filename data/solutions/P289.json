@@ -11,13 +11,13 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-93c-74a-25i-T-7694f9ec.mp4", "categories": ["GC_P", "GX_P", "TG_P"], "metrics": {"area": 74, "cycles": 93, "cost": 100}, "color": 0, "shape": "3k5KQvGa6UEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDZEH0BCf5b7QQ=="},
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-94c-73a-27i-T-d22177cd.mp4", "categories": [], "metrics": {"area": 73, "cycles": 94, "cost": 100}, "color": 2, "shape": "RB9AQn+W+0FrVhA3AAAWN6vw5jYAAEg3a1YQNwAAejcVlulB02YrQhKLI0JJlSZC"},
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-140c-69a-35i-T-abc2fea9.mp4", "categories": [], "metrics": {"area": 69, "cycles": 140, "cost": 100}, "color": 3, "shape": "q/BmNgAAyDbeH61BsstSQhWW6UHTZitCa1YQNwAAFjc="},
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-188c-67a-43i-T-9af03828.mp4", "categories": [], "metrics": {"area": 67, "cycles": 188, "cost": 100}, "color": 1, "shape": "AAAAAAAASDYAAAAAOsyhQid/VkH36qRC3h+tQbLLUkJrVhA3AAB6N6vwZjYAAMg2"},
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/120g-63c-73a-22i-T-16b0739a.mp4", "categories": [], "metrics": {"area": 73, "cycles": 63, "cost": 120}, "color": 1, "shape": "EosjQkmVJkK2PYBC7DJTQqcOikKnAEFC14xjQktgA0LeTkpC8ZrpQUQfQEJ/lvtB"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-93c-74a-25i-T-7694f9ec.mp4", "categories": ["GC_P", "GX_P", "TG_P"], "metrics": {"area": 74, "cycles": 93, "cost": 100}, "color": 0, "shape": "3k5KQvGa6UEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDZlFUVCKdTyQQ=="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-94c-72a-27i-T-f766ae4c.mp4", "categories": [], "metrics": {"area": 72, "cycles": 94, "cost": 100}, "color": 2, "shape": "ZRVFQinU8kGr8GY2AADINmtWEDcAAK83RP3SQe8fOkKAtDBCzOYsQg=="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-140c-69a-35i-T-abc2fea9.mp4", "categories": [], "metrics": {"area": 69, "cycles": 140, "cost": 100}, "color": 3, "shape": "a1YQNwAArzfeH61BsstSQkT90kHvHzpCdsWeNwCAIjg="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/100g-188c-67a-43i-T-9af03828.mp4", "categories": [], "metrics": {"area": 67, "cycles": 188, "cost": 100}, "color": 1, "shape": "AAAAAAAASDYAAAAAOsyhQid/VkH36qRC3h+tQbLLUkJ2xZ43AIAiOKvwZjYAAMg2"},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/120g-63c-73a-22i-T-16b0739a.mp4", "categories": [], "metrics": {"area": 73, "cycles": 63, "cost": 120}, "color": 1, "shape": "gLQwQszmLEK2PYBC7DJTQqcOikKnAEFC14xjQktgA0LeTkpC8ZrpQWUVRUIp1PJB"},
     {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/130g-52c-78a-20i-T-758ef042.mp4", "categories": ["SUM_P"], "metrics": {"area": 78, "cycles": 52, "cost": 130}, "color": 0, "shape": "14xjQktgA0KnDopCpwBBQqUunkIwpzZC"},
-    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/130g-76c-68a-30i-742fef51.mp4", "categories": [], "metrics": {"area": 68, "cycles": 76, "cost": 130}, "color": 0, "shape": "J39WQffqpELbzW1Bhda2QpoGeULKHIBCtj2AQuwyU0ISiyNCSZUmQhWW6UHTZitC3h+tQbLLUkI="},
+    {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/130g-76c-68a-30i-742fef51.mp4", "categories": [], "metrics": {"area": 68, "cycles": 76, "cost": 130}, "color": 0, "shape": "J39WQffqpELbzW1Bhda2QpoGeULKHIBCtj2AQuwyU0KAtDBCzOYsQkT90kHvHzpC3h+tQbLLUkI="},
     {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/130g-220c-66a-48i-d714b0eb.mp4", "categories": [], "metrics": {"area": 66, "cycles": 220, "cost": 130}, "color": 2, "shape": "281tQYXWtkInf1ZB9+qkQgAAAAA6zKFCAAAAAAAAyEI="},
     {"gif": "https://files.mors.technology/FRUCTIFYING_WATER/185g-41c-74a-23i-22c1ad1f.mp4", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 74, "cycles": 41, "cost": 185}, "color": 2, "shape": "gDStQgAASEKlLp5CMKc2QqcOikKnAEFCtj2AQuwyU0KaBnlCyhyAQg=="}
   ]
