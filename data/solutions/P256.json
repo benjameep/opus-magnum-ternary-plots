@@ -11,10 +11,10 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/LODESTONE/120g-1244c-56a-208i-727241bc.mp4", "categories": ["GC", "GI", "OGC"], "metrics": {"area": 56, "cycles": 1244, "cost": 120}, "color": 0, "shape": "ndc6QTC/10AAAAAAAAAAAAAAAAAAAEg2gh8nQTpeakHO5ipBFC1rQQ=="},
+    {"gif": "https://files.mors.technology/LODESTONE/120g-1244c-56a-208i-727241bc.mp4", "categories": ["GC", "GI"], "metrics": {"area": 56, "cycles": 1244, "cost": 120}, "color": 0, "shape": "ndc6QTC/10AAAAAAAAAAAAAAAAAAAEg2gh8nQTpeakHO5ipBFC1rQQ=="},
     {"gif": "https://files.mors.technology/LODESTONE/120g-1340c-44a-224i-0dfe6d0a.mp4", "categories": [], "metrics": {"area": 44, "cycles": 1340, "cost": 120}, "color": 3, "shape": "q/BmNgAAyDbSVhVBIYSHQYIfJ0E6XmpB"},
     {"gif": "https://files.mors.technology/LODESTONE/120g-1352c-43a-226i-a54d968f.mp4", "categories": ["GA", "GX"], "metrics": {"area": 43, "cycles": 1352, "cost": 120}, "color": 2, "shape": "AAAAAAAASDYAAAAA68bTQDdLEkGexotB0lYVQSGEh0Gr8GY2AADINg=="},
-    {"gif": "https://files.mors.technology/LODESTONE/130g-1466c-27a-245i-ba40d49e.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 27, "cycles": 1466, "cost": 130}, "color": 0, "shape": "AAAAAOvG00AAAAAAAADIQooGu0BVQMFCnZ1BQXzhNEKseTZBYqTdQa2dLkHlorVBN0sSQZ7Gi0E="},
+    {"gif": "https://files.mors.technology/LODESTONE/130g-1466c-27a-245i-ba40d49e.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 27, "cycles": 1466, "cost": 130}, "color": 0, "shape": "AAAAAOvG00AAAAAAAADIQooGu0BVQMFCnZ1BQXzhNEKseTZBYqTdQa2dLkHlorVBN0sSQZ7Gi0E="},
     {"gif": "https://files.mors.technology/LODESTONE/140g-1205c-40a-275i-T-36f05a4b.mp4", "categories": ["TG"], "metrics": {"area": 40, "cycles": 1205, "cost": 140}, "color": 1, "shape": "rZ0uQeWitUHO5ipBFC1rQYIfJ0E6XmpB0lYVQSGEh0E3SxJBnsaLQQ=="},
     {"gif": "https://files.mors.technology/LODESTONE/250g-185c-56a-71i-57044965.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 56, "cycles": 185, "cost": 250}, "color": 2, "shape": "rHk2QWKk3UHpqnZCDdonQizCckIcKAxCndc6QTC/10DO5ipBFC1rQa2dLkHlorVB"},
     {"gif": "https://files.mors.technology/LODESTONE/270g-184c-49a-122i-6a5033b9.mp4", "categories": [], "metrics": {"area": 49, "cycles": 184, "cost": 270}, "color": 1, "shape": "6ap2Qg3aJ0KseTZBYqTdQZ2dQUF84TRCSw7dQWXWfEI8hXdCuCZeQqPlfULLHjxC"},

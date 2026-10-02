@@ -21,6 +21,6 @@
     {"gif": "https://files.mors.technology/RESIN_GLUE/215g-80c-71a-57i-573b80ab.mp4", "categories": [], "metrics": {"area": 71, "cycles": 80, "cost": 215}, "color": 0, "shape": "f/mnQtr1QULiDqBCuNE4QunmWUKp3n5CFjjkQTUPp0JQtyxCJCSWQujkMkK0KJRC"},
     {"gif": "https://files.mors.technology/RESIN_GLUE/520g-43c-126a-214i-76c078a4.mp4", "categories": [], "metrics": {"area": 126, "cycles": 43, "cost": 520}, "color": 1, "shape": "f/mnQtr1QULo5DJCtCiUQukNR0K4iY5CSAyOQiT6a0IfuKxCYXBHQg=="},
     {"gif": "https://files.mors.technology/RESIN_GLUE/555g-44c-124a-214i-1ebd9c75.mp4", "categories": [], "metrics": {"area": 124, "cycles": 44, "cost": 555}, "color": 2, "shape": "ULcsQiQklkLpDUdCuImOQujkMkK0KJRC"},
-    {"gif": "https://files.mors.technology/RESIN_GLUE/885g-39c-153a-503i-2722901f.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 153, "cycles": 39, "cost": 885}, "color": 0, "shape": "H7isQmFwR0JIDI5CJPprQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/RESIN_GLUE/885g-39c-153a-503i-2722901f.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 153, "cycles": 39, "cost": 885}, "color": 0, "shape": "H7isQmFwR0JIDI5CJPprQoA0rUIAAEhC"}
   ]
 }
