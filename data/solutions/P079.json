@@ -2,7 +2,7 @@
   "id": "P079",
   "name": "Abrasive Particles",
   "collection": "Campaign",
-  "group": "Production Alchemy",
+  "group": "Appendix",
   "num_colors": 3,
   "metrics": [
     "area",
@@ -11,14 +11,16 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Abrasive-Particles-70g-407c-63a-68i-7h-12w-68r-6609b8.gif", "categories": ["GC_P"], "metrics": {"area": 63, "cycles": 407, "cost": 70}, "color": 1, "shape": "GKWhQcWmOkEAAAAAAAAAAAAAAAAAAEg2CtKSQao/uEEMtZhBAkq1QQ=="},
-    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/70g-419c-62a-70i-2ad2f454.mp4", "categories": [], "metrics": {"area": 62, "cycles": 419, "cost": 70}, "color": 2, "shape": "CtKSQao/uEEAAAAAAABINgAAAABDCAFCp6GrQGwFJUI="},
-    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-370c-61a-62i-T-59870113.mp4", "categories": [], "metrics": {"area": 61, "cycles": 370, "cost": 80}, "color": 0, "shape": "p6GrQGwFJUL8fEFBRAm6QpV9Q0FG5LlCORqaQdk3yUEMtZhBAkq1QQrSkkGqP7hB"},
-    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-496c-60a-83i-T-195f39cd.mp4", "categories": [], "metrics": {"area": 60, "cycles": 496, "cost": 80}, "color": 1, "shape": "AAAAAEMIAUIAAAAAAADIQvx8QUFECbpCp6GrQGwFJUI="},
-    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/110g-151c-65a-39i-5aa424e4.mp4", "categories": [], "metrics": {"area": 65, "cycles": 151, "cost": 110}, "color": 2, "shape": "FF0IQoh1nUEYpaFBxaY6QQy1mEECSrVBORqaQdk3yUE="},
-    {"gif": "https://files.mors.technology/Abrasive-Particles-120g-121c-63a-33i-7h-12w-20r-T-315bb4.gif", "categories": ["SUM_P"], "metrics": {"area": 63, "cycles": 121, "cost": 120}, "color": 1, "shape": "FF0IQoh1nUE5GppB2TfJQZV9Q0FG5LlCvNGaQuc6XULIZptCZoxLQlpwlkI8ti1C"},
-    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/215g-93c-77a-62i-07b80438.mp4", "categories": [], "metrics": {"area": 77, "cycles": 93, "cost": 215}, "color": 0, "shape": "WnCWQjy2LULIZptCZoxLQgmJnkI8lkdCngSkQkdkPUI="},
-    {"gif": "https://files.mors.technology/Abrasive-Particles-270g-87c-78a-63i-7h-12w-13r-192302.gif", "categories": ["CG_P", "RG_P"], "metrics": {"area": 78, "cycles": 87, "cost": 270}, "color": 1, "shape": "ngSkQkdkPUIJiZ5CPJZHQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/Abrasive-Particles-280g-87c-77a-65i-7h-12w-13r-7a993b.gif", "categories": [], "metrics": {"area": 77, "cycles": 87, "cost": 280}, "color": 2, "shape": "vNGaQuc6XUKANK1CAQBIQgmJnkI8lkdCyGabQmaMS0I="}
+    {"gif": "https://files.mors.technology/Abrasive-Particles-70g-407c-63a-68i-7h-12w-68r-6609b8.gif", "categories": ["GC_P"], "metrics": {"area": 63, "cycles": 407, "cost": 70}, "color": 2, "shape": "Fr6GQVeWG0EAAAAAAAAAAAAAAAAAAEg2XGJ0QQAQkUE="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/70g-419c-62a-70i-2ad2f454.mp4", "categories": [], "metrics": {"area": 62, "cycles": 419, "cost": 70}, "color": 0, "shape": "XGJ0QQAQkUEAAAAAAABINgAAAAD//+9ByXCyQPGyG0LPfVtBtfTiQc+HbEGKeLZB"},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-370c-61a-62i-T-59870113.mp4", "categories": ["TG_P"], "metrics": {"area": 61, "cycles": 370, "cost": 80}, "color": 1, "shape": "z31bQbX04kHJcLJA8bIbQojIIUEpKo1CmE1EQdnoSkI="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-496c-60a-83i-T-195f39cd.mp4", "categories": [], "metrics": {"area": 60, "cycles": 496, "cost": 80}, "color": 2, "shape": "AAAAAP//70EAAAAAAADIQmSSF0GuD71CiMghQSkqjULJcLJA8bIbQg=="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/100g-165c-63a-43i-T-7d5b24cf.mp4", "categories": [], "metrics": {"area": 63, "cycles": 165, "cost": 100}, "color": 1, "shape": "h8DmQYo5hUEWvoZBV5YbQVxidEEAEJFBz4dsQYp4tkGU6Y9BqQreQQ=="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/100g-184c-62a-40i-T-6ecc706c.mp4", "categories": [], "metrics": {"area": 62, "cycles": 184, "cost": 100}, "color": 2, "shape": "lOmPQakK3kHPh2xBini2Qc99W0G19OJBmE1EQdnoSkI="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/110g-126c-62a-35i-9a4178ce.mp4", "categories": ["SUM_P"], "metrics": {"area": 62, "cycles": 126, "cost": 110}, "color": 0, "shape": "SxCHQkP1G0KHwOZBijmFQZTpj0GpCt5BmE1EQdnoSkKIyCFBKSqNQmSSF0GuD71CiYx1QrodgUI="},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/170g-98c-65a-33i-bab4cbe0.mp4", "categories": [], "metrics": {"area": 65, "cycles": 98, "cost": 170}, "color": 1, "shape": "LBaWQhpOLUKJjHVCuh2BQhF9pkJuwU9Ck6alQjhUR0Jp+aNCBno9Qmrbo0KzND1C"},
+    {"gif": "https://files.mors.technology/ABRASIVE_PARTICLES/215g-93c-77a-62i-07b80438.mp4", "categories": [], "metrics": {"area": 77, "cycles": 93, "cost": 215}, "color": 2, "shape": "atujQrM0PUJp+aNCBno9Qp4EpEJHZD1C"},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-270g-87c-78a-63i-7h-12w-13r-192302.gif", "categories": ["CG_P", "RG_P"], "metrics": {"area": 78, "cycles": 87, "cost": 270}, "color": 0, "shape": "gDStQgAASEKeBKRCR2Q9Qmn5o0IGej1Ck6alQjhUR0KANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/Abrasive-Particles-280g-87c-77a-65i-7h-12w-13r-7a993b.gif", "categories": [], "metrics": {"area": 77, "cycles": 87, "cost": 280}, "color": 2, "shape": "EX2mQm7BT0KANK1CAQBIQpOmpUI4VEdC"}
   ]
 }

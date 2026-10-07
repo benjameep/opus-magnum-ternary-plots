@@ -1,0 +1,23 @@
+{
+  "id": "P301",
+  "name": "Tempered Glass",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue X",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/75g-1264c-61a-1264i-00d7cb22.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 61, "cycles": 1264, "cost": 75}, "color": 1, "shape": "AAAAAAAAAAAAAAAAztu5Qa33HkG415BBoe6OQY3JTEGukpJBdj8pQQ=="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/80g-1208c-61a-427i-T-8ab320ed.mp4", "categories": ["TG_P"], "metrics": {"area": 61, "cycles": 1208, "cost": 80}, "color": 2, "shape": "rpKSQXY/KUGh7o5BjclMQQ2UnUFYvDpB18+eQVJhN0E="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/175g-248c-59a-148i-4d8c7421.mp4", "categories": [], "metrics": {"area": 59, "cycles": 248, "cost": 175}, "color": 3, "shape": "7ociQrOsu0HXz55BUmE3QQ2UnUFYvDpBFf4WQmjuskE="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/175g-254c-57a-139i-37f11f98.mp4", "categories": [], "metrics": {"area": 57, "cycles": 254, "cost": 175}, "color": 0, "shape": "Ff4WQmjuskENlJ1BWLw6QaHujkGNyUxBrfceQbjXkEHc5A1CODGyQQ=="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/190g-201c-56a-141i-19fac42b.mp4", "categories": [], "metrics": {"area": 56, "cycles": 201, "cost": 190}, "color": 2, "shape": "gDQtNgAAyELc5A1CODGyQa33HkG415BBAAAAAM7buUEAAAAAAADIQg=="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/195g-180c-56a-150i-5d77b4ad.mp4", "categories": ["SUM_P"], "metrics": {"area": 56, "cycles": 180, "cost": 195}, "color": 1, "shape": "yzChQnsgOkLuhyJCs6y7QRX+FkJo7rJB3OQNQjgxskGANC02AADIQlNKmkJD111C"},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/445g-124c-58a-172i-7ce84ec4.mp4", "categories": [], "metrics": {"area": 58, "cycles": 124, "cost": 445}, "color": 0, "shape": "yzChQnsgOkJTSppCQ9ddQpmzq0JxvElCxWWiQkGFO0I="},
+    {"gif": "https://files.mors.technology/TEMPERED_GLASS/455g-122c-59a-172i-b3f775bb.mp4", "categories": ["CG_P", "CI_P", "CX_P", "RG_P", "RI_P"], "metrics": {"area": 59, "cycles": 122, "cost": 455}, "color": 1, "shape": "xWWiQkGFO0KZs6tCcbxJQoA0rUIAAEhC"}
+  ]
+}
