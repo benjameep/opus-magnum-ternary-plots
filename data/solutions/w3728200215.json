@@ -1,0 +1,28 @@
+{
+  "id": "w3728200215",
+  "name": "Tax Fraud",
+  "collection": "Community",
+  "group": "Tournament 2026",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/TAX_FRAUD/50g-935c-393a-78i-T-3f8e6b6a.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 393, "cycles": 935, "cost": 50}, "color": 0, "shape": "vXKxQUfmTEEAAAAAAAAAAAAAAACmVy9Ah+ZqQKSs1kBPsYFBS65GQS6kl0FRM1JB"},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/65g-1651c-38a-138i-b31b7c40.mp4", "categories": ["HG"], "metrics": {"area": 38, "cycles": 1651, "cost": 65}, "color": 1, "shape": "AAAAAKZXL0AAAAAAAgD6QYfmakCkrNZA"},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/80g-842c-16a-211i-b782777f.mp4", "categories": ["BG"], "metrics": {"area": 16, "cycles": 842, "cost": 80}, "color": 3, "shape": "AAAAAAIA+kEAAAAAWO6JQpFCT0GlQQZCT7GBQUuuRkGH5mpApKzWQA=="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/90g-753c-13a-189i-T-93037f8c.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 13, "cycles": 753, "cost": 90}, "color": 2, "shape": "AAAAAAAAyELHNm5AvbPDQnUEAkGEB7BCkVI7QaGgiUKRQk9BpUEGQgAAAABY7olC"},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/100g-605c-18a-152i-8a61f326.mp4", "categories": [], "metrics": {"area": 18, "cycles": 605, "cost": 100}, "color": 1, "shape": "AfCtQWmSzEEupJdBUTNSQU+xgUFLrkZBkUJPQaVBBkKRUjtBoaCJQg=="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/135g-239c-74a-40i-d60ad5b2.mp4", "categories": [], "metrics": {"area": 74, "cycles": 239, "cost": 135}, "color": 2, "shape": "GosTQk9eqkG9crFBR+ZMQS6kl0FRM1JBAfCtQWmSzEEbLeZBvb3DQQ=="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/165g-138c-25a-96i-e52b4a51.mp4", "categories": [], "metrics": {"area": 25, "cycles": 138, "cost": 165}, "color": 0, "shape": "CV4bQh+ygUIbLeZBvb3DQQHwrUFpksxBkVI7QaGgiUJ1BAJBhAewQuA66UEOVqZCWpbvQSdrpUI="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/170g-106c-32a-94i-98868ccd.mp4", "categories": ["SUM"], "metrics": {"area": 32, "cycles": 106, "cost": 170}, "color": 1, "shape": "t5eZQn9aMUIaixNCT16qQRst5kG9vcNBCV4bQh+ygULkMUVCIhOPQgdsV0Ij0IlCORuKQhHIWkI="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/175g-122c-27a-94i-4ad6e46b.mp4", "categories": [], "metrics": {"area": 27, "cycles": 122, "cost": 175}, "color": 2, "shape": "CV4bQh+ygUJalu9BJ2ulQuQxRUIiE49C"},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/245g-188c-19a-131i-0d208183.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 188, "cost": 245}, "color": 1, "shape": "xzZuQL2zw0LgOulBDlamQnUEAkGEB7BC"},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/320g-52c-64a-36i-T-ac03f27e.mp4", "categories": ["TC"], "metrics": {"area": 64, "cycles": 52, "cost": 320}, "color": 0, "shape": "t5eZQn9aMUI5G4pCEchaQulBq0LOCklCCJWrQkIgRkI="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/365g-52c-53a-61i-cf4a0e30.mp4", "categories": ["RA"], "metrics": {"area": 53, "cycles": 52, "cost": 365}, "color": 2, "shape": "6UGrQs4KSUI5G4pCEchaQgdsV0Ij0IlC5z2rQltESkI="},
+    {"gif": "https://files.mors.technology/TAX_FRAUD/620g-44c-218a-73i-499f1266.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 218, "cycles": 44, "cost": 620}, "color": 1, "shape": "gDStQgAASEIIlatCQiBGQulBq0LOCklC5z2rQltESkI="}
+  ]
+}
