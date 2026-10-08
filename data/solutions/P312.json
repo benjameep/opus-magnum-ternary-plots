@@ -11,17 +11,17 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://imgur.com/v3gv4fi.gif", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 2478, "cycles": 20202, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAJ//LQcE8mz6sQDM+"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/65g-9352c-1765a-1265i-fbee9a00.mp4", "categories": [], "metrics": {"area": 1765, "cycles": 9352, "cost": 65}, "color": 0, "shape": "AAAAAEHrnEJoAg9AovKFQgR5NkEqOAFBCXymP2E9QD/BPJs+rEAzPgAAAAAn/8tB"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/70g-6852c-129090a-857i-T-3ba96c84.mp4", "categories": ["TG"], "metrics": {"area": 129090, "cycles": 6852, "cost": 70}, "color": 2, "shape": "CXymP2E9QD8EeTZBKjgBQX2+hUEzbxpB"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/155g-5708c-559a-765i-991c6711.mp4", "categories": ["HG"], "metrics": {"area": 559, "cycles": 5708, "cost": 155}, "color": 2, "shape": "AAAAAB55r0JoAg9AovKFQgAAAABB65xC"},
-    {"gif": "https://i.imgur.com/vKkfvrh.mp4", "categories": [], "metrics": {"area": 252, "cycles": 2709, "cost": 200}, "color": 1, "shape": "71P8QXuukUF9voVBM28aQQR5NkEqOAFBaAIPQKLyhUIAAAAAHnmvQgAAAACl0MZC"},
-    {"gif": "https://i.imgur.com/fDgM1TE.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 236, "cycles": 1977, "cost": 255}, "color": 2, "shape": "dM4NQna+o0HvU/xBe66RQQAAAACl0MZCAAAAAAAAyEICWFQ+tMLHQuUUdz+wccRC"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/410g-272c-266a-1574i-c34a4b33.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 266, "cycles": 272, "cost": 410}, "color": 0, "shape": "dM4NQna+o0HlFHc/sHHEQiMrfkAMasNC1KUoQTPUu0IQdWxCRw19QtKiiEI4ymVC/QemQmC3P0I="},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/415g-285c-262a-218i-5df3d611.mp4", "categories": ["SUM4", "OSUM4"], "metrics": {"area": 262, "cycles": 285, "cost": 415}, "color": 1, "shape": "AlhUPrTCx0IjK35ADGrDQuUUdz+wccRC"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/495g-244c-335a-210i-89f5ae2f.mp4", "categories": [], "metrics": {"area": 335, "cycles": 244, "cost": 495}, "color": 2, "shape": "/QemQmC3P0LSoohCOMplQll5pkJGOkBC"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/1040g-76c-454a-1863i-6c6ee25d.mp4", "categories": [], "metrics": {"area": 454, "cycles": 76, "cost": 1040}, "color": 1, "shape": "/zCtQvT7R0JZeaZCRjpAQtKiiEI4ymVCEHVsQkcNfUKiyXJCyumBQnWrrEI+nkhC"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/1040g-77c-439a-426i-3835ef84.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 439, "cycles": 77, "cost": 1040}, "color": 2, "shape": "EHVsQkcNfULUpShBM9S7QqLJckLK6YFC"},
-    {"gif": "https://files.mors.technology/GUIPURE_LACE/2700g-75c-2519a-277i-31dad48c.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 2519, "cycles": 75, "cost": 2700}, "color": 0, "shape": "/zCtQvT7R0J1q6xCPp5IQoA0rUIAAEhC"}
+    {"gif": "https://imgur.com/v3gv4fi.gif", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 2478, "cycles": 20202, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAHAIpQs9VJT+i6b4+"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/65g-9352c-1765a-1265i-fbee9a00.mp4", "categories": [], "metrics": {"area": 1765, "cycles": 9352, "cost": 65}, "color": 0, "shape": "AAAAALA8sUJ5JSxAByuhQpw1p0EuzWxBjgcvQE4byj/PVSU/oum+PgAAAAAcAilC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/70g-6852c-129090a-857i-T-3ba96c84.mp4", "categories": ["TG"], "metrics": {"area": 129090, "cycles": 6852, "cost": 70}, "color": 2, "shape": "jgcvQE4byj+cNadBLs1sQW586kFuYYdB"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/155g-5708c-559a-765i-991c6711.mp4", "categories": ["HG"], "metrics": {"area": 559, "cycles": 5708, "cost": 155}, "color": 2, "shape": "AAAAAKG5u0J5JSxAByuhQgAAAACwPLFC"},
+    {"gif": "https://i.imgur.com/vKkfvrh.mp4", "categories": [], "metrics": {"area": 252, "cycles": 2709, "cost": 200}, "color": 1, "shape": "eLk+Qsw63EFufOpBbmGHQZw1p0EuzWxBeSUsQAcroUIAAAAAobm7QgAAAACkccdC"},
+    {"gif": "https://i.imgur.com/fDgM1TE.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 236, "cycles": 1977, "cost": 255}, "color": 2, "shape": "j9pOQqja7kF4uT5CzDrcQQAAAACkccdCAAAAAAAAyEJecFQ+rcLHQrTOeD9qusVC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/410g-272c-266a-1574i-c34a4b33.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 266, "cycles": 272, "cost": 410}, "color": 0, "shape": "j9pOQqja7kG0zng/arrFQuBGfkCMacNCybYoQfrSu0JN0W9CL0yAQojyikLSpGlCZsapQg4KREI="},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/415g-285c-262a-218i-5df3d611.mp4", "categories": ["SUM4", "OSUM4"], "metrics": {"area": 262, "cycles": 285, "cost": 415}, "color": 1, "shape": "XnBUPq3Cx0LgRn5AjGnDQrTOeD9qusVC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/495g-244c-335a-210i-89f5ae2f.mp4", "categories": [], "metrics": {"area": 335, "cycles": 244, "cost": 495}, "color": 2, "shape": "ZsapQg4KREKI8opC0qRpQr39qUL1SURC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/1040g-76c-454a-1863i-6c6ee25d.mp4", "categories": [], "metrics": {"area": 454, "cycles": 76, "cost": 1040}, "color": 1, "shape": "HMqsQiaFR0K9/alC9UlEQojyikLSpGlCTdFvQi9MgELy0XJCZOeBQnkNmEK9bGBC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/1040g-77c-439a-426i-3835ef84.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 439, "cycles": 77, "cost": 1040}, "color": 2, "shape": "TdFvQi9MgELJtihB+tK7QvLRckJk54FC"},
+    {"gif": "https://files.mors.technology/GUIPURE_LACE/1295g-66c-914a-284i-05241596.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 914, "cycles": 66, "cost": 1295}, "color": 0, "shape": "HMqsQiaFR0J5DZhCvWxgQoA0rUIAAEhC"}
   ]
 }
