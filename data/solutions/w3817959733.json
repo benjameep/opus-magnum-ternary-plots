@@ -1,0 +1,20 @@
+{
+  "id": "w3817959733",
+  "name": "Eyedrops of Irritation",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/100g-165c-45a-69i-T-ea83e362.mp4", "categories": ["GC", "GA", "GI", "GX", "BG", "OGC", "TG"], "metrics": {"area": 45, "cycles": 165, "cost": 100}, "color": 1, "shape": "AAAAAAAAAAAAAAAA/f8/Qc7AwEF5kl5B"},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/110g-115c-37a-51i-T-56fdb399.mp4", "categories": ["SUM", "WG", "OSUM"], "metrics": {"area": 37, "cycles": 115, "cost": 110}, "color": 0, "shape": "zsDAQXmSXkEAAAAA/f8/QQAAAACcA6lC3EVhQQq+t0IMC4pC/JlwQvREh0IfmUdCXMxCQgXv4EE="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/130g-85c-47a-44i-35320b15.mp4", "categories": ["CG", "CA", "CI", "CX", "SUM4", "BC", "OSUM4", "BR"], "metrics": {"area": 47, "cycles": 85, "cost": 130}, "color": 1, "shape": "XMxCQgXv4EH0RIdCH5lHQkyXm0LHVlxCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/140g-97c-41a-53i-68a98bd6.mp4", "categories": ["WC", "WR"], "metrics": {"area": 41, "cycles": 97, "cost": 140}, "color": 2, "shape": "DAuKQvyZcEJMl5tCx1ZcQvREh0IfmUdC"},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/210g-297c-35a-109i-1935274c.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "OAC"], "metrics": {"area": 35, "cycles": 297, "cost": 210}, "color": 1, "shape": "AAAAAAAAyELcRWFBCr63QgAAAACcA6lC"}
+  ]
+}

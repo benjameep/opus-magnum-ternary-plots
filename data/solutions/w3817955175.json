@@ -1,0 +1,19 @@
+{
+  "id": "w3817955175",
+  "name": "Paint Preserver",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/PAINT_PRESERVER/70g-340c-44a-340i-1d3e5397.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 44, "cycles": 340, "cost": 70}, "color": 2, "shape": "RyJLQg+P6kEAAAAAAAAAAAAAAABoJ/ZAf4MVQmCkGkI="},
+    {"gif": "https://files.mors.technology/PAINT_PRESERVER/80g-451c-42a-478i-T-08b138f9.mp4", "categories": ["TG_P"], "metrics": {"area": 42, "cycles": 451, "cost": 80}, "color": 1, "shape": "AAAAAGgn9kAAAAAAAADIQqvw5kGqqqZCV3cCQjgrg0J/gxVCYKQaQg=="},
+    {"gif": "https://files.mors.technology/PAINT_PRESERVER/180g-115c-43a-36i-T-5d48e5c2.mp4", "categories": ["TC_P"], "metrics": {"area": 43, "cycles": 115, "cost": 180}, "color": 0, "shape": "lwV1QqN2DUJHIktCD4/qQX+DFUJgpBpCV3cCQjgrg0I="},
+    {"gif": "https://files.mors.technology/PAINT_PRESERVER/190g-103c-43a-34i-c5af86e0.mp4", "categories": ["CG_P", "CI_P", "CX_P", "SUM_P", "OCX_P", "OSUM_P"], "metrics": {"area": 43, "cycles": 103, "cost": 190}, "color": 2, "shape": "gDStQgAASEKXBXVCo3YNQld3AkI4K4NCq/DmQaqqpkI="}
+  ]
+}

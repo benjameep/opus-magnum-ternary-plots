@@ -1,0 +1,24 @@
+{
+  "id": "w3088257476",
+  "name": "Black Powder",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/BLACK_POWDER/40g-2479c-661a-419i-T-e333d673.mp4", "categories": ["GC", "GA", "GI", "GX", "TG"], "metrics": {"area": 661, "cycles": 2479, "cost": 40}, "color": 0, "shape": "AAAAAAAAAAAAAAAAWfLCPyWP0T9j+nE/"},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/50g-616c-55a-103i-0aafc09f.mp4", "categories": [], "metrics": {"area": 55, "cycles": 616, "cost": 50}, "color": 1, "shape": "VSleQdVDAEElj9E/Y/pxPwAAAABZ8sI/AAAAAG/zsEE="},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/60g-428c-22a-73i-T-ec736768.mp4", "categories": ["BG", "TIG", "TIC", "TIA"], "metrics": {"area": 22, "cycles": 428, "cost": 60}, "color": 0, "shape": "BtAPQnwPpkFVKV5B1UMAQQAAAABv87BBAAAAACdorEIAbjY/Spa8QtACy0HfKZBC"},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/80g-1277c-19a-1277i-2557bd67.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 19, "cycles": 1277, "cost": 80}, "color": 1, "shape": "AAAAACdorEIAAAAAAADIQsMcvD5lk8dCAG42P0qWvEI="},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/100g-378c-20a-383i-T-40436b28.mp4", "categories": ["BC", "WR", "BR"], "metrics": {"area": 20, "cycles": 378, "cost": 100}, "color": 2, "shape": "8MfPQWgCqkLQAstB3ymQQgBuNj9KlrxCwxy8PmWTx0I="},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/130g-74c-54a-37i-a1211074.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 54, "cycles": 74, "cost": 130}, "color": 1, "shape": "eWCnQihFQUIG0A9CfA+mQdACy0HfKZBC8MfPQWgCqkLkbn5CWxp9QutSn0L5b1BC"},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/170g-69c-62a-40i-4273f091.mp4", "categories": [], "metrics": {"area": 62, "cycles": 69, "cost": 170}, "color": 0, "shape": "eWCnQihFQULrUp9C+W9QQuqsqEKntENCceSoQiQFQ0I="},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/650g-25c-265a-272i-0da72731.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 265, "cycles": 25, "cost": 650}, "color": 1, "shape": "ceSoQiQFQ0LqrKhCp7RDQg8MqkJ+WkRC"},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/725g-20c-93a-167i-2f225862.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 93, "cycles": 20, "cost": 725}, "color": 2, "shape": "gDStQgAASEIPDKpCflpEQuqsqEKntENC61KfQvlvUELkbn5CWxp9Qg=="}
+  ]
+}

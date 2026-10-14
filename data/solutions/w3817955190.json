@@ -1,0 +1,22 @@
+{
+  "id": "w3817955190",
+  "name": "Prismatic Catalyst",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/50g-773c-81a-129i-T-f530f3a8.mp4", "categories": ["GC", "GA", "GX", "OGC", "TG"], "metrics": {"area": 81, "cycles": 773, "cost": 50}, "color": 0, "shape": "bnUaQQGc6UELMttB3DvgQZgb8kGvq49BCs3wQcgGi0EAAAAAAAAAAAAAAABfRF1B"},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/100g-1304c-28a-218i-d2316cdb.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "WG", "BG"], "metrics": {"area": 28, "cycles": 1304, "cost": 100}, "color": 1, "shape": "AAAAAF9EXUEAAAAAAADIQpGly0DLpsBCWbPiQEzru0JudRpBAZzpQQ=="},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/165g-629c-35a-198i-2671faa1.mp4", "categories": [], "metrics": {"area": 35, "cycles": 629, "cost": 165}, "color": 2, "shape": "j8EzQuAblEILMttB3DvgQW51GkEBnOlBWbPiQEzru0K1lOlARpK/Qg=="},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/180g-1090c-30a-242i-2cc2bb15.mp4", "categories": ["BC", "BR"], "metrics": {"area": 30, "cycles": 1090, "cost": 180}, "color": 0, "shape": "WbPiQEzru0KRpctAy6bAQrWU6UBGkr9C"},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/250g-231c-153a-28i-T-fb77479e.mp4", "categories": ["SUM4"], "metrics": {"area": 153, "cycles": 231, "cost": 250}, "color": 2, "shape": "Cs3wQcgGi0GYG/JBr6uPQTiRFUKVtKxB"},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/260g-212c-88a-146i-382a1a87.mp4", "categories": ["SUM"], "metrics": {"area": 88, "cycles": 212, "cost": 260}, "color": 1, "shape": "V8WTQpChKkI4kRVClbSsQZgb8kGvq49BCzLbQdw74EGPwTNC4BuUQpUEjkIKA2xC"},
+    {"gif": "https://files.mors.technology/PRISMATIC_CATALYST/920g-48c-176a-3648i-c0e64924.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RG", "RA", "ORG"], "metrics": {"area": 176, "cycles": 48, "cost": 920}, "color": 0, "shape": "V8WTQpChKkKVBI5CCgNsQoA0rUIAAEhC"}
+  ]
+}

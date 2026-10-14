@@ -1,0 +1,26 @@
+{
+  "id": "w3817954043",
+  "name": "Van Berlo's Rotor",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 4,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/100g-2454c-125a-2732i-T-38017bd2.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 125, "cycles": 2454, "cost": 100}, "color": 2, "shape": "AAAAAAAAAAAAAAAAp6VsQZmbvECA7jdBuoE4Qc8M1UA="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/135g-900c-43a-163i-66b725a6.mp4", "categories": ["BG"], "metrics": {"area": 43, "cycles": 900, "cost": 135}, "color": 1, "shape": "weYQQEoBhEKZm7xAgO43QQAAAACnpWxBAAAAANkMdUI="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/140g-409c-43a-100i-T-827efa50.mp4", "categories": ["WG"], "metrics": {"area": 43, "cycles": 409, "cost": 140}, "color": 0, "shape": "LOPWQW4heEG6gThBzwzVQJmbvECA7jdBweYQQEoBhEI1uY1AjSyUQn8Av0EaP51CZdISQlgmjEI+phhCGUGJQoRWGkKozYZC"},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/155g-147c-55a-75i-87cd1b7b.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 55, "cycles": 147, "cost": 155}, "color": 2, "shape": "LOPWQW4heEGEVhpCqM2GQv7EpUJQ2EdCyE6iQrZqO0I="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/170g-1764c-34a-2792i-9e551548.mp4", "categories": ["AG", "AC", "AX", "OAC"], "metrics": {"area": 34, "cycles": 1764, "cost": 170}, "color": 2, "shape": "AAAAANkMdUIAAAAAAADIQk7bgkAzR8NCNbmNQI0slELB5hBASgGEQg=="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/180g-322c-44a-102i-9977c2a7.mp4", "categories": [], "metrics": {"area": 44, "cycles": 322, "cost": 180}, "color": 3, "shape": "PqYYQhlBiUJl0hJCWCaMQpofGUKeUopC"},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/180g-595c-37a-163i-c076c185.mp4", "categories": [], "metrics": {"area": 37, "cycles": 595, "cost": 180}, "color": 1, "shape": "H1UCQRWYvkJ/AL9BGj+dQjW5jUCNLJRCTtuCQDNHw0I="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/190g-142c-52a-86i-e9fbb99e.mp4", "categories": [], "metrics": {"area": 52, "cycles": 142, "cost": 190}, "color": 1, "shape": "cNWoQi4MTUL+xKVCUNhHQoRWGkKozYZCPqYYQhlBiUKaHxlCnlKKQhf0gkK4yXhC"},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/210g-118c-100a-75i-3993107d.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 100, "cycles": 118, "cost": 210}, "color": 0, "shape": "CeqqQs9aRULITqJCtmo7Qv7EpUJQ2EdCcNWoQi4MTUJeD6pCsaFLQg=="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/310g-223c-39a-134i-fff7ec03.mp4", "categories": ["WC", "BC", "WR", "BR"], "metrics": {"area": 39, "cycles": 223, "cost": 310}, "color": 2, "shape": "H1UCQRWYvkIX9IJCuMl4QpofGUKeUopCZdISQlgmjEJ/AL9BGj+dQg=="},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/400g-98c-156a-494i-40022948.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 156, "cycles": 98, "cost": 400}, "color": 1, "shape": "CeqqQs9aRUJeD6pCsaFLQoA0rUIAAEhC"}
+  ]
+}

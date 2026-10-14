@@ -1,0 +1,19 @@
+{
+  "id": "w3033141056",
+  "name": "Vaccine Template",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/VACCINE_TEMPLATE/110g-435c-60a-110i-a1c4999f.mp4", "categories": ["GC_P", "GI_P", "GX_P", "OGC_P"], "metrics": {"area": 60, "cycles": 435, "cost": 110}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQqkcGULnzJtClAYAQhUMuEHIhbNBeUtPQQ=="},
+    {"gif": "https://files.mors.technology/VACCINE_TEMPLATE/130g-357c-65a-97i-a98969bc.mp4", "categories": [], "metrics": {"area": 65, "cycles": 357, "cost": 130}, "color": 2, "shape": "yIWzQXlLT0GUBgBCFQy4QYbMCEI49p1B"},
+    {"gif": "https://files.mors.technology/VACCINE_TEMPLATE/230g-148c-64a-81i-9120d746.mp4", "categories": ["SUM_P", "OSUM_P"], "metrics": {"area": 64, "cycles": 148, "cost": 230}, "color": 0, "shape": "h8WEQrlPGUKGzAhCOPadQZQGAEIVDLhBqRwZQufMm0K512pC7jSEQg=="},
+    {"gif": "https://files.mors.technology/VACCINE_TEMPLATE/360g-94c-66a-454i-8422d9e5.mp4", "categories": ["CG_P", "CI_P", "CX_P", "OCX_P"], "metrics": {"area": 66, "cycles": 94, "cost": 360}, "color": 1, "shape": "h8WEQrlPGUK512pC7jSEQoA0rUIAAEhC"}
+  ]
+}

@@ -56,8 +56,8 @@
   {"id": "P208", "name": "Metal Division", "collection": "De Re Metallica", "group": "DRM Chapter II"},
   {"id": "P209", "name": "Solder Wire", "collection": "De Re Metallica", "group": "DRM Chapter II"},
   {"id": "P210", "name": "Reactive Lead", "collection": "De Re Metallica", "group": "DRM Chapter II"},
-  {"id": "P211", "name": "Fireworks Powder", "collection": "De Re Metallica", "group": "DRM Chapter II"},
   {"id": "P213", "name": "Armor Polish", "collection": "De Re Metallica", "group": "DRM Chapter II"},
+  {"id": "P211", "name": "Fireworks Powder", "collection": "De Re Metallica", "group": "DRM Chapter II"},
   {"id": "P215", "name": "Invariant Metal", "collection": "De Re Metallica", "group": "DRM Chapter III"},
   {"id": "P216", "name": "Via Quicksilver", "collection": "De Re Metallica", "group": "DRM Chapter III"},
   {"id": "P217", "name": "Ex Materia", "collection": "De Re Metallica", "group": "DRM Chapter III"},
@@ -250,5 +250,17 @@
   {"id": "w2868339730", "name": "Philosopher's Catalyst", "collection": "Community", "group": "Best Of Weeklies 1"},
   {"id": "w2829050875", "name": "Nightmare Fuel", "collection": "Community", "group": "Best Of Weeklies 1"},
   {"id": "w2839120106", "name": "Ignition Cord", "collection": "Community", "group": "Best Of Weeklies 1"},
-  {"id": "w2868331650", "name": "Lustrous Syrup", "collection": "Community", "group": "Best Of Weeklies 1"}
+  {"id": "w2868331650", "name": "Lustrous Syrup", "collection": "Community", "group": "Best Of Weeklies 1"},
+  {"id": "w2818265313", "name": "Logistics", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3088257476", "name": "Black Powder", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817959733", "name": "Eyedrops of Irritation", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3033141056", "name": "Vaccine Template", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3303849741", "name": "Breathable Fluid", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817956797", "name": "Faero Filament", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3584644954", "name": "Smog Neutralization", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3584639567", "name": "Ravari's Road", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817954313", "name": "Dowsing Rods", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817955190", "name": "Prismatic Catalyst", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817954043", "name": "Van Berlo's Rotor", "collection": "Community", "group": "Best Of Weeklies 2"},
+  {"id": "w3817955175", "name": "Paint Preserver", "collection": "Community", "group": "Best Of Weeklies 2"}
 ]

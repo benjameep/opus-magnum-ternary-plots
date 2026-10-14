@@ -1,0 +1,19 @@
+{
+  "id": "w3817956797",
+  "name": "Faero Filament",
+  "collection": "Community",
+  "group": "Best Of Weeklies 2",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/170g-937c-57a-1861i-e0822d59.mp4", "categories": ["GC", "GA", "GI", "GX", "AG", "AC", "AX", "AI", "HG", "OGC", "OAC"], "metrics": {"area": 57, "cycles": 937, "cost": 170}, "color": 1, "shape": "AAAAAAAAAAAAAAAAAADIQv6etT+QXMZCo8wuQUfXyUA="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/210g-275c-63a-162i-9d91a388.mp4", "categories": ["SUM", "SUM4", "HC", "OSUM", "OSUM4", "HR"], "metrics": {"area": 63, "cycles": 275, "cost": 210}, "color": 0, "shape": "o8wuQUfXyUD+nrU/kFzGQjAAEkJt2p1CCRl9QmQnMkLMLT1C6XHaQQ=="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/280g-136c-538a-29i-T-d9d63148.mp4", "categories": ["TIA", "TG", "TC"], "metrics": {"area": 538, "cycles": 136, "cost": 280}, "color": 1, "shape": "zC09Qulx2kEJGX1CZCcyQkPKmEJCbTBC"},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/540g-53c-151a-103i-1c44a30d.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 151, "cycles": 53, "cost": 540}, "color": 2, "shape": "gDStQgAASEJDyphCQm0wQgkZfUJkJzJCMAASQm3anUI="}
+  ]
+}
