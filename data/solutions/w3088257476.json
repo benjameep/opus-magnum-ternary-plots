@@ -18,7 +18,7 @@
     {"gif": "https://files.mors.technology/BLACK_POWDER/100g-378c-20a-383i-T-40436b28.mp4", "categories": ["BC", "WR", "BR"], "metrics": {"area": 20, "cycles": 378, "cost": 100}, "color": 2, "shape": "8MfPQWgCqkLQAstB3ymQQgBuNj9KlrxCwxy8PmWTx0I="},
     {"gif": "https://files.mors.technology/BLACK_POWDER/130g-74c-54a-37i-a1211074.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 54, "cycles": 74, "cost": 130}, "color": 1, "shape": "eWCnQihFQUIG0A9CfA+mQdACy0HfKZBC8MfPQWgCqkLkbn5CWxp9QutSn0L5b1BC"},
     {"gif": "https://files.mors.technology/BLACK_POWDER/170g-69c-62a-40i-4273f091.mp4", "categories": [], "metrics": {"area": 62, "cycles": 69, "cost": 170}, "color": 2, "shape": "eWCnQihFQULrUp9C+W9QQmRhqEJ6G0RCyoKoQmKUQkI="},
-    {"gif": "https://files.mors.technology/BLACK_POWDER/310g-55c-169a-21i-T-897810ae.mp4", "categories": ["TIG", "TIC", "TIA"], "metrics": {"area": 169, "cycles": 55, "cost": 310}, "color": 1, "shape": "yoKoQmKUQkJkYahCehtEQlrMqEKAw0NCxwypQrczQ0I="},
+    {"gif": "https://files.mors.technology/BLACK_POWDER/310g-55c-169a-21i-T-897810ae.mp4", "categories": [], "metrics": {"area": 169, "cycles": 55, "cost": 310}, "color": 1, "shape": "yoKoQmKUQkJkYahCehtEQlrMqEKAw0NCxwypQrczQ0I="},
     {"gif": "https://files.mors.technology/BLACK_POWDER/650g-25c-265a-272i-0da72731.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 265, "cycles": 25, "cost": 650}, "color": 2, "shape": "xwypQrczQ0JazKhCgMNDQg8MqkJ+WkRC"},
     {"gif": "https://files.mors.technology/BLACK_POWDER/725g-20c-93a-167i-2f225862.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 93, "cycles": 20, "cost": 725}, "color": 0, "shape": "gDStQgAASEIPDKpCflpEQlrMqEKAw0NCZGGoQnobRELrUp9C+W9QQuRufkJbGn1C"}
   ]
