@@ -1,0 +1,23 @@
+{
+  "id": "P262",
+  "name": "Surveying Magnet",
+  "collection": "Journal CVIII",
+  "group": "CVIII Issue II",
+  "num_colors": 3,
+  "metrics": [
+    "area",
+    "cycles",
+    "cost"
+  ],
+  "include_overlap": false,
+  "solutions": [
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/90g-2506c-3193a-418i-24d5d609.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 3193, "cycles": 2506, "cost": 90}, "color": 1, "shape": "AAAAAAAAAAAAAAAA40jnP+ObWUDuRfs/"},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/110g-1609c-677a-269i-a53a97ce.mp4", "categories": [], "metrics": {"area": 677, "cycles": 1609, "cost": 110}, "color": 0, "shape": "DaqEQf8vGUHjm1lA7kX7PwAAAADjSOc/AAAAANUCs0BIGm5BwDxQQQ=="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/125g-1603c-91a-268i-c7d33c70.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 91, "cycles": 1603, "cost": 125}, "color": 2, "shape": "XjbfP4P8xUJIGm5BwDxQQQAAAADVArNAAAAAAAAAyEI="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/290g-216c-127a-182i-5739d573.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 127, "cycles": 216, "cost": 290}, "color": 1, "shape": "RgOSQt6ZKEINqoRB/y8ZQUgabkHAPFBBXjbfP4P8xUK8HDNB3RK7Qg=="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/665g-88c-151a-151i-c6cba393.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 151, "cycles": 88, "cost": 665}, "color": 0, "shape": "RgOSQt6ZKEK8HDNB3RK7QoYg30Fcy6dCW66gQt2JOUI="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/700g-83c-154a-157i-e75d2a9a.mp4", "categories": [], "metrics": {"area": 154, "cycles": 83, "cost": 700}, "color": 1, "shape": "W66gQt2JOUKGIN9BXMunQsq+pUImnVBCZc6oQq/rQkI="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/1370g-51c-1052a-527i-21c91b81.mp4", "categories": [], "metrics": {"area": 1052, "cycles": 51, "cost": 1370}, "color": 0, "shape": "Zc6oQq/rQkLKvqVCJp1QQiM1pkJ8FFBC7qSrQp4yRkI="},
+    {"gif": "https://files.mors.technology/SURVEYING_MAGNET/1430g-50c-1082a-559i-dc549ed9.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 1082, "cycles": 50, "cost": 1430}, "color": 1, "shape": "7qSrQp4yRkIjNaZCfBRQQoA0rUIAAEhC"}
+  ]
+}
