@@ -11,10 +11,15 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/100g-165c-45a-69i-T-ea83e362.mp4", "categories": ["GC", "GA", "GI", "GX", "BG", "OGC", "TG"], "metrics": {"area": 45, "cycles": 165, "cost": 100}, "color": 1, "shape": "AAAAAAAAAAAAAAAA/f8/Qc7AwEF5kl5B"},
-    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/110g-115c-37a-51i-T-56fdb399.mp4", "categories": ["SUM", "WG", "OSUM"], "metrics": {"area": 37, "cycles": 115, "cost": 110}, "color": 0, "shape": "zsDAQXmSXkEAAAAA/f8/QQAAAACcA6lC3EVhQQq+t0IMC4pC/JlwQvREh0IfmUdCXMxCQgXv4EE="},
-    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/130g-85c-47a-44i-35320b15.mp4", "categories": ["CG", "CA", "CI", "CX", "SUM4", "BC", "OSUM4", "BR"], "metrics": {"area": 47, "cycles": 85, "cost": 130}, "color": 1, "shape": "XMxCQgXv4EH0RIdCH5lHQkyXm0LHVlxCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/140g-97c-41a-53i-68a98bd6.mp4", "categories": ["WC", "WR"], "metrics": {"area": 41, "cycles": 97, "cost": 140}, "color": 2, "shape": "DAuKQvyZcEJMl5tCx1ZcQvREh0IfmUdC"},
-    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/210g-297c-35a-109i-1935274c.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "OAC"], "metrics": {"area": 35, "cycles": 297, "cost": 210}, "color": 1, "shape": "AAAAAAAAyELcRWFBCr63QgAAAACcA6lC"}
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/40g-755c-68a-126i-T-5dcbe218.mp4", "categories": ["GC", "GI", "OGC", "TG"], "metrics": {"area": 68, "cycles": 755, "cost": 40}, "color": 0, "shape": "MCeAQXr6E0EAAAAAAAAAAAAAAAAAAEg28jpnQUa9J0E="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/40g-779c-59a-130i-T-5c44a760.mp4", "categories": ["GA", "GX"], "metrics": {"area": 59, "cycles": 779, "cost": 40}, "color": 1, "shape": "8jpnQUa9J0EAAAAAAABINgAAAADXSEhB7eD1QKhDkEFEFkZBBfJXQQ=="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/80g-955c-29a-160i-T-38b60f8a.mp4", "categories": ["AG", "AC", "AX", "AI", "HG", "WG", "OAC"], "metrics": {"area": 29, "cycles": 955, "cost": 80}, "color": 2, "shape": "AAAAANdISEEAAAAAAADIQnHeXEFmD7hCpHNiQa3Xs0Lt4PVAqEOQQQ=="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/100g-165c-45a-69i-T-ea83e362.mp4", "categories": ["BG"], "metrics": {"area": 45, "cycles": 165, "cost": 100}, "color": 2, "shape": "+c3VQVnhdkEwJ4BBevoTQfI6Z0FGvSdBRBZGQQXyV0E="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/110g-115c-37a-51i-T-56fdb399.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 37, "cycles": 115, "cost": 110}, "color": 0, "shape": "7eD1QKhDkEGkc2JBrdezQrffgEEOZrVCb2SOQlyUa0KYp4tCvVNHQrkqT0I5N+9B+c3VQVnhdkFEFkZBBfJXQQ=="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/130g-85c-47a-44i-35320b15.mp4", "categories": ["SUM4", "BC", "OSUM4", "BR"], "metrics": {"area": 47, "cycles": 85, "cost": 130}, "color": 1, "shape": "uSpPQjk370GYp4tCvVNHQmoekEI8wktCpv+gQoSBTUIg8KJCBCU8Qg=="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/140g-97c-41a-53i-68a98bd6.mp4", "categories": ["WC", "WR"], "metrics": {"area": 41, "cycles": 97, "cost": 140}, "color": 2, "shape": "+EaVQiehY0JqHpBCPMJLQpini0K9U0dCb2SOQlyUa0I="},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 44, "cycles": 87, "cost": 155}, "color": 0, "shape": "pv+gQoSBTUJqHpBCPMJLQvhGlUInoWNCrq6gQsR1VkI="},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/210g-297c-35a-109i-1935274c.mp4", "categories": [], "metrics": {"area": 35, "cycles": 297, "cost": 210}, "color": 1, "shape": "cd5cQWYPuEK334BBDma1QqRzYkGt17NC"},
+    {"gif": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/450g-40c-73a-294i-2df31d3b.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 73, "cycles": 40, "cost": 450}, "color": 2, "shape": "gDStQgAASEIg8KJCBCU8Qqb/oEKEgU1Crq6gQsR1VkI="}
   ]
 }

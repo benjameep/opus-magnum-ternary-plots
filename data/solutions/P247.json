@@ -36,7 +36,7 @@
     {"gif": "https://files.mors.technology/SELF_PRESSURIZING_GAS/500g-29c-49a-288i-47090e13.mp4", "categories": [], "metrics": {"area": 49, "cycles": 29, "cost": 500}, "color": 1, "shape": "3AuqQr2lS0LG8alCX7pKQm2ApkK7m01CI5WjQnEcU0I="},
     {"gif": "https://files.mors.technology/SELF_PRESSURIZING_GAS/540g-27c-107a-106i-c5ca2147.mp4", "categories": [], "metrics": {"area": 107, "cycles": 27, "cost": 540}, "color": 0, "shape": "m+SqQopURUJFK6tCpUxGQqiHrEKib0dCBI2sQm9ZR0K6iqxC9jtHQg=="},
     {"gif": "https://files.mors.technology/SELF_PRESSURIZING_GAS/570g-27c-68a-111i-e1fc06f6.mp4", "categories": [], "metrics": {"area": 68, "cycles": 27, "cost": 570}, "color": 2, "shape": "Qr6sQoiISEKoh6xCom9HQkUrq0KlTEZC82SqQrxtSELG8alCX7pKQtwLqkK9pUtC"},
-    {"gif": "https://files.mors.technology/LUMINOUS_VAPOR/760g-26c-162a-248i-d599d00a.mp4", "categories": ["CG"], "metrics": {"area": 162, "cycles": 26, "cost": 760}, "color": 2, "shape": "uoqsQvY7R0IEjaxCb1lHQoA0rUIBAEhCgDStQgAASEI="},
-    {"gif": "https://files.mors.technology/LUMINOUS_VAPOR/770g-26c-134a-256i-d95475f7.mp4", "categories": ["CA", "CX", "OCX"], "metrics": {"area": 134, "cycles": 26, "cost": 770}, "color": 1, "shape": "Qr6sQoiISEKANK1CAQBIQgSNrEJvWUdCqIesQqJvR0I="}
+    {"gif": "https://files.mors.technology/LUMINOUS_VAPOR/760g-26c-162a-248i-d599d00a.mp4", "categories": [], "metrics": {"area": 162, "cycles": 26, "cost": 760}, "color": 2, "shape": "uoqsQvY7R0IEjaxCb1lHQoA0rUIBAEhCgDStQgAASEI="},
+    {"gif": "https://files.mors.technology/LUMINOUS_VAPOR/770g-26c-134a-256i-d95475f7.mp4", "categories": [], "metrics": {"area": 134, "cycles": 26, "cost": 770}, "color": 1, "shape": "Qr6sQoiISEKANK1CAQBIQgSNrEJvWUdCqIesQqJvR0I="}
   ]
 }

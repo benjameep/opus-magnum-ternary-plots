@@ -27,9 +27,9 @@
     {"gif": "https://files.mors.technology/GALENA_SEPARATION/210g-170c-19a-79i-T-a8fa910f.mp4", "categories": ["BC", "BR"], "metrics": {"area": 19, "cycles": 170, "cost": 210}, "color": 0, "shape": "K4vEQGnowELaL7xAS47AQrbwo0DkxsBCLTMfQLIVw0KAiQE/bWrHQg=="},
     {"gif": "https://files.mors.technology/GALENA_SEPARATION/570g-39c-148a-84i-T-29648de3.mp4", "categories": ["TC"], "metrics": {"area": 148, "cycles": 39, "cost": 570}, "color": 1, "shape": "71inQnM8QUJzi49C0FJgQjY6qUIvaENC"},
     {"gif": "https://files.mors.technology/GALENA_SEPARATION/730g-27c-92a-420i-6a0ff550.mp4", "categories": [], "metrics": {"area": 92, "cycles": 27, "cost": 730}, "color": 0, "shape": "nZGsQupDR0I2OqlCL2hDQnOLj0LQUmBCCv4qQmt2lELoOvpBtdaiQkLGakL5OYRCV/qHQnz8ckJkfY9C2SVqQnEbqkJHS0pC"},
-    {"gif": "https://files.mors.technology/GALENA_SEPARATION/900g-25c-138a-243i-8923296b.mp4", "categories": [], "metrics": {"area": 138, "cycles": 25, "cost": 900}, "color": 2, "shape": "nZGsQupDR0JxG6pCR0tKQn00rUIDAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/GALENA_SEPARATION/900g-25c-138a-243i-8923296b.mp4", "categories": ["CG"], "metrics": {"area": 138, "cycles": 25, "cost": 900}, "color": 2, "shape": "nZGsQupDR0JxG6pCR0tKQn00rUIDAEhCgDStQgEASEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/GALENA_SEPARATION/905g-30c-73a-492i-c0b71df3.mp4", "categories": [], "metrics": {"area": 73, "cycles": 30, "cost": 905}, "color": 2, "shape": "T1VzQV5wtkJCxmpC+TmEQug6+kG11qJC"},
-    {"gif": "https://files.mors.technology/GALENA_SEPARATION/910g-25c-117a-260i-4186cf00.mp4", "categories": [], "metrics": {"area": 117, "cycles": 25, "cost": 910}, "color": 3, "shape": "ZH2PQtklakJ9NK1CAwBIQnEbqkJHS0pC"},
-    {"gif": "https://files.mors.technology/GALENA_SEPARATION/1040g-25c-114a-275i-657e6495.mp4", "categories": [], "metrics": {"area": 114, "cycles": 25, "cost": 1040}, "color": 1, "shape": "V/qHQnz8ckKANK1CAQBIQn00rUIDAEhCZH2PQtklakI="}
+    {"gif": "https://files.mors.technology/GALENA_SEPARATION/910g-25c-117a-260i-4186cf00.mp4", "categories": ["CX"], "metrics": {"area": 117, "cycles": 25, "cost": 910}, "color": 3, "shape": "ZH2PQtklakJ9NK1CAwBIQnEbqkJHS0pC"},
+    {"gif": "https://files.mors.technology/GALENA_SEPARATION/1040g-25c-114a-275i-657e6495.mp4", "categories": ["CA"], "metrics": {"area": 114, "cycles": 25, "cost": 1040}, "color": 1, "shape": "V/qHQnz8ckKANK1CAQBIQn00rUIDAEhCZH2PQtklakI="}
   ]
 }

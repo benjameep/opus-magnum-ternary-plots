@@ -22,6 +22,6 @@
     {"gif": "https://files.mors.technology/GRENADE_PELLET/255g-68c-44a-41i-6260a6ae.mp4", "categories": [], "metrics": {"area": 44, "cycles": 68, "cost": 255}, "color": 2, "shape": "txyhQksJOkKAyp9CwoI4QqSHHkK1imhCOBYdQmtUh0LupZ9ClB5SQg=="},
     {"gif": "https://files.mors.technology/GRENADE_PELLET/275g-68c-43a-44i-c53cc3f0.mp4", "categories": [], "metrics": {"area": 43, "cycles": 68, "cost": 275}, "color": 1, "shape": "9GccQpeWiUIbhhxCeW+KQrBpT0IFIIxCYJmfQve1V0LupZ9ClB5SQjgWHUJrVIdC"},
     {"gif": "https://files.mors.technology/GRENADE_PELLET/335g-119c-36a-55i-865c3abc.mp4", "categories": ["BC", "BR"], "metrics": {"area": 36, "cycles": 119, "cost": 335}, "color": 2, "shape": "df/8QaB7o0KwaU9CBSCMQhuGHEJ5b4pCO84bQsu3ikI="},
-    {"gif": "https://files.mors.technology/GRENADE_PELLET/455g-30c-84a-540i-c2ef1c9a.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 84, "cycles": 30, "cost": 455}, "color": 0, "shape": "gDStQgAASEK3HKFCSwk6Qu6ln0KUHlJCYJmfQve1V0I="}
+    {"gif": "https://files.mors.technology/GRENADE_PELLET/455g-30c-84a-540i-c2ef1c9a.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 84, "cycles": 30, "cost": 455}, "color": 0, "shape": "gDStQgAASEK3HKFCSwk6Qu6ln0KUHlJCYJmfQve1V0I="}
   ]
 }

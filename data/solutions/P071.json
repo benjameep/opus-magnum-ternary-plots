@@ -1,6 +1,6 @@
 {
   "id": "P071",
-  "name": "Synthesis via Alcohol",
+  "name": "Synthesis Via Alcohol",
   "collection": "Journal XCIX",
   "group": "XCIX Issue IV",
   "num_colors": 4,
@@ -31,7 +31,7 @@
     {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/290g-42c-31a-40i-T-92dacdb5.mp4", "categories": [], "metrics": {"area": 31, "cycles": 42, "cost": 290}, "color": 1, "shape": "S8rCQWviq0IlvZBCuN5oQiS9kEK33mhCD09oQh2wQUKJ0i9CtrRRQu4z/0EnF3ZC7kL3QTvhekKtCdhBe4CSQt1S0kEqpJdC"},
     {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/340g-30c-45a-114i-d5dd402f.mp4", "categories": [], "metrics": {"area": 45, "cycles": 30, "cost": 340}, "color": 0, "shape": "Jb2QQrjeaEKhtaZCH4BPQh70pkKSU05CYMinQs+ZR0Jp/KdCfTpFQqlppEL02D1CaJmRQqAfKEIkvZBCt95oQg=="},
     {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-470g-26c-108a-444i-13h-11.5w-3r-399bc1.mp4", "categories": [], "metrics": {"area": 108, "cycles": 26, "cost": 470}, "color": 2, "shape": "qWmkQvTYPUJp/KdCfTpFQsliqUL24ENCB26pQgSkQ0I="},
-    {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/860g-21c-141a-247i-fe225ffa.mp4", "categories": ["CG"], "metrics": {"area": 141, "cycles": 21, "cost": 860}, "color": 0, "shape": "B26pQgSkQ0LJYqlC9uBDQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
+    {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/860g-21c-141a-247i-fe225ffa.mp4", "categories": [], "metrics": {"area": 141, "cycles": 21, "cost": 860}, "color": 0, "shape": "B26pQgSkQ0LJYqlC9uBDQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-870g-21c-102a-274i-13h-10w-3.5r-c48193.gif", "categories": [], "metrics": {"area": 102, "cycles": 21, "cost": 870}, "color": 1, "shape": "YMinQs+ZR0J+NK1C//9HQsliqUL24ENCafynQn06RUI="},
     {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/890g-21c-99a-219i-4159cfb9.mp4", "categories": [], "metrics": {"area": 99, "cycles": 21, "cost": 890}, "color": 2, "shape": "HvSmQpJTTkJ/NK1CAABIQn40rUL//0dCYMinQs+ZR0I="},
     {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/1005g-21c-98a-249i-94493ec2.mp4", "categories": [], "metrics": {"area": 98, "cycles": 21, "cost": 1005}, "color": 1, "shape": "obWmQh+AT0KANK1CAQBIQn80rUIAAEhCHvSmQpJTTkI="}
