@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Courage-Potion-40g-185c-17a-31i-5h-4.5w-31r-T-ef833b.gif", "categories": ["GC", "BG", "TG"], "metrics": {"area": 17, "cycles": 185, "cost": 40}, "color": 1, "shape": "SIuCQUS9FkEAAAAAAAAAAAAAAAAAAEg2GFFiQQTmXEEBLoFB7kExQQ=="},
+    {"gif": "https://files.mors.technology/Courage-Potion-40g-185c-17a-31i-5h-4.5w-31r-T-ef833b.gif", "categories": ["GC", "BG", "TG", "FGR"], "metrics": {"area": 17, "cycles": 185, "cost": 40}, "color": 1, "shape": "SIuCQUS9FkEAAAAAAAAAAAAAAAAAAEg2GFFiQQTmXEEBLoFB7kExQQ=="},
     {"gif": "https://files.mors.technology/Courage-Potion-40g-207c-11a-35i-4h-3.5w-35r-T-da38a1.gif", "categories": ["GA", "GX"], "metrics": {"area": 11, "cycles": 207, "cost": 40}, "color": 2, "shape": "GFFiQQTmXEEAAAAAAABINgAAAAB0X45C7WEBQdGyn0I="},
     {"gif": "https://files.mors.technology/Courage-Potion-60g-72c-18a-22i-4h-4.5w-12r-T-2f3780.gif", "categories": [], "metrics": {"area": 18, "cycles": 72, "cost": 60}, "color": 2, "shape": "vOAWQgE4rkFIi4JBRL0WQQEugUHuQTFBUbUVQiVtzUE="},
     {"gif": "https://files.mors.technology/COURAGE_POTION/60g-78c-12a-25i-T-d6d63617.mp4", "categories": [], "metrics": {"area": 12, "cycles": 78, "cost": 60}, "color": 0, "shape": "UbUVQiVtzUEBLoFB7kExQRhRYkEE5lxB7WEBQdGyn0JLtBBBPZyyQtZuVkFOhrhC/GP4Qd4lpELTDyJC0LSPQgY4WkLWLEVC8gJbQhNtQUJ1ZVVCeN82Qg=="},
@@ -30,6 +30,6 @@
     {"gif": "https://files.mors.technology/Courage-Potion-180g-26c-22a-24i-5h-5.5w-4r-T-de753f.gif", "categories": ["CG", "TC"], "metrics": {"area": 22, "cycles": 26, "cost": 180}, "color": 0, "shape": "gDStQgAASEJz2KZCFqhAQry7kkLm1ztCOemRQkUmP0KruJFCt39AQoA0rUIBAEhC"},
     {"gif": "https://files.mors.technology/COURAGE_POTION/185g-26c-21a-46i-3b500ab7.mp4", "categories": ["CX"], "metrics": {"area": 21, "cycles": 26, "cost": 185}, "color": 2, "shape": "QgihQrn0TUJ/NK1CAABIQqu4kUK3f0BC9o+OQvGaTUI="},
     {"gif": "https://files.mors.technology/Courage-Potion-205g-26c-20a-46i-5h-5w-4r-673c35.gif", "categories": ["CA"], "metrics": {"area": 20, "cycles": 26, "cost": 205}, "color": 1, "shape": "mmqlQlr+UEKANK1CAQBIQn80rUIAAEhCQgihQrn0TUI="},
-    {"gif": "https://files.mors.technology/COURAGE_POTION/210g-27c-18a-42i-T-5aabca0e.mp4", "categories": ["RA"], "metrics": {"area": 18, "cycles": 27, "cost": 210}, "color": 0, "shape": "bc5nQlEVhUKaaqVCWv5QQkIIoUK59E1C9o+OQvGaTULg8n5C8VxmQg=="}
+    {"gif": "https://files.mors.technology/COURAGE_POTION/210g-27c-18a-42i-T-5aabca0e.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 18, "cycles": 27, "cost": 210}, "color": 0, "shape": "bc5nQlEVhUKaaqVCWv5QQkIIoUK59E1C9o+OQvGaTULg8n5C8VxmQg=="}
   ]
 }

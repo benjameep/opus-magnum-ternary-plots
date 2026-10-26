@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Invisible-Ink-80g-400c-45a-67i-8h-7w-67r-405d2b.gif", "categories": ["GC"], "metrics": {"area": 45, "cycles": 400, "cost": 80}, "color": 0, "shape": "3c28QSQDWkEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYmU6NBAd+EQW+FuUHYCnJB"},
+    {"gif": "https://files.mors.technology/Invisible-Ink-80g-400c-45a-67i-8h-7w-67r-405d2b.gif", "categories": ["GC", "FGR"], "metrics": {"area": 45, "cycles": 400, "cost": 80}, "color": 0, "shape": "3c28QSQDWkEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYmU6NBAd+EQW+FuUHYCnJB"},
     {"gif": "https://files.mors.technology/Invisible-Ink-80g-436c-29a-73i-6h-5.5w-73r-dbffdb.gif", "categories": [], "metrics": {"area": 29, "cycles": 436, "cost": 80}, "color": 3, "shape": "a1YQNwAAFjeRMZxB6Ra3QSZTo0EB34RB"},
     {"gif": "https://files.mors.technology/Invisible-Ink-80g-453c-26a-76i-5h-5w-76r-88957c.gif", "categories": ["GX"], "metrics": {"area": 26, "cycles": 453, "cost": 80}, "color": 1, "shape": "q/BmNgAAyDaYgShAijXQQazhkUFgKgJCq3GbQft690GRMZxB6Ra3QWtWEDcAABY3"},
     {"gif": "https://files.mors.technology/Invisible-Ink-80g-985c-20a-165i-5h-4.5w-165r-5f9f18.mp4", "categories": ["GA"], "metrics": {"area": 20, "cycles": 985, "cost": 80}, "color": 3, "shape": "AAAAAAAASDYAAAAAHTBkQpiBKECKNdBBq/BmNgAAyDY="},

@@ -26,6 +26,6 @@
     {"gif": "https://files.mors.technology/ANIMISMUS_BUFFER/450g-43c-90a-333i-36071664.mp4", "categories": ["CG"], "metrics": {"area": 90, "cycles": 43, "cost": 450}, "color": 0, "shape": "25moQgWvQkLLiqRChGZBQoA0rUIBAEhCgDStQgAASEI="},
     {"gif": "https://files.mors.technology/ANIMISMUS_BUFFER/455g-43c-86a-162i-e964ccb0.mp4", "categories": [], "metrics": {"area": 86, "cycles": 43, "cost": 455}, "color": 2, "shape": "mvGZQlsAS0J/NK1CAABIQsuKpEKEZkFCNASdQvBPPUI="},
     {"gif": "https://files.mors.technology/ANIMISMUS_BUFFER/495g-43c-81a-332i-13788196.mp4", "categories": ["CA"], "metrics": {"area": 81, "cycles": 43, "cost": 495}, "color": 1, "shape": "sIKVQuZ/V0LBYpZChptdQscsoUIo5FVCgDStQgEASEJ/NK1CAABIQprxmUJbAEtC"},
-    {"gif": "https://files.mors.technology/ANIMISMUS_BUFFER/580g-48c-78a-193i-8420aa73.mp4", "categories": ["RA"], "metrics": {"area": 78, "cycles": 48, "cost": 580}, "color": 0, "shape": "/kmWQg92YkLHLKFCKORVQsFilkKGm11C"}
+    {"gif": "https://files.mors.technology/ANIMISMUS_BUFFER/580g-48c-78a-193i-8420aa73.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 78, "cycles": 48, "cost": 580}, "color": 0, "shape": "/kmWQg92YkLHLKFCKORVQsFilkKGm11C"}
   ]
 }

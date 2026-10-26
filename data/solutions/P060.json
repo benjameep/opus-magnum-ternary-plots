@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Preservative-Salt-40g-335c-44a-56i-8h-7w-56r-T-388a9f.gif", "categories": ["GC", "GI", "TG"], "metrics": {"area": 44, "cycles": 335, "cost": 40}, "color": 0, "shape": "/rTGQHRyZUAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAljfVjXZAODw4QdhWqkBRld1A"},
+    {"gif": "https://files.mors.technology/Preservative-Salt-40g-335c-44a-56i-8h-7w-56r-T-388a9f.gif", "categories": ["GC", "GI", "TG", "FGR"], "metrics": {"area": 44, "cycles": 335, "cost": 40}, "color": 0, "shape": "/rTGQHRyZUAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAljfVjXZAODw4QdhWqkBRld1A"},
     {"gif": "https://files.mors.technology/Preservative-Salt-40g-435c-29a-73i-6h-5.5w-73r-T-108c1a.gif", "categories": [], "metrics": {"area": 29, "cycles": 435, "cost": 40}, "color": 3, "shape": "dsWeNwBAgzhhsG9A4QFQQdWNdkA4PDhB"},
     {"gif": "https://files.mors.technology/PRESERVATIVE_SALT/40g-467c-25a-78i-T-5aad6056.mp4", "categories": [], "metrics": {"area": 25, "cycles": 467, "cost": 40}, "color": 2, "shape": "q/BmNgAAljfLwytA5TKYQYOSZ0C8iYVBYbBvQOEBUEF2xZ43AECDOA=="},
     {"gif": "https://files.mors.technology/Preservative-Salt-40g-503c-23a-84i-5h-5.5w-84r-T-76f908.gif", "categories": ["GA", "GX"], "metrics": {"area": 23, "cycles": 503, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAAcB+3QY8+GkCikqRBy8MrQOUymEGr8GY2AACWNw=="},

@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Rocket-Propellant-40g-214c-53a-36i-8h-7w-36r-T-c4ec1c.gif", "categories": ["GC", "TG"], "metrics": {"area": 53, "cycles": 214, "cost": 40}, "color": 0, "shape": "dklOQR0z7kAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDaoaUFBeID/QA=="},
+    {"gif": "https://files.mors.technology/Rocket-Propellant-40g-214c-53a-36i-8h-7w-36r-T-c4ec1c.gif", "categories": ["GC", "TG", "FGR"], "metrics": {"area": 53, "cycles": 214, "cost": 40}, "color": 0, "shape": "dklOQR0z7kAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDaoaUFBeID/QA=="},
     {"gif": "https://files.mors.technology/Rocket-Propellant-40g-226c-22a-38i-5h-5w-38r-T-7c7238.gif", "categories": [], "metrics": {"area": 22, "cycles": 226, "cost": 40}, "color": 2, "shape": "sLlPQTzXwUFGn15BXlGKQahpQUF4gP9Aq/BmNgAAyDZrVhA3AACvNw=="},
     {"gif": "https://files.mors.technology/Rocket-Propellant-40g-244c-19a-41i-5h-5w-41r-T-0177ea.gif", "categories": ["BG"], "metrics": {"area": 19, "cycles": 244, "cost": 40}, "color": 3, "shape": "a1YQNwAArzev4EhBK+EIQrC5T0E818FBq/BmNwAA+jeVEko3AADhNw=="},
     {"gif": "https://files.mors.technology/Rocket-Propellant-40g-254c-18a-43i-5h-5w-43r-T-86e3c2.gif", "categories": ["GA", "GX"], "metrics": {"area": 18, "cycles": 254, "cost": 40}, "color": 1, "shape": "AAAAAAAASDYAAAAA0LoBQqCOLEDhZRJCUypIQfskE0Kv4EhBK+EIQqvwZjcAAPo3q/BmNgAAyDY="},
@@ -43,6 +43,6 @@
     {"gif": "https://files.mors.technology/ROCKET_PROPELLANT/230g-39c-19a-34i-T-a4fdd312.mp4", "categories": [], "metrics": {"area": 19, "cycles": 39, "cost": 230}, "color": 1, "shape": "NWqHQuiic0JkEZRCJyVRQnoBh0Kz5VVCKnczQlkxlEI="},
     {"gif": "https://files.mors.technology/Rocket-Propellant-240g-33c-29a-58i-6h-5w-5r-a6699d.gif", "categories": [], "metrics": {"area": 29, "cycles": 33, "cost": 240}, "color": 1, "shape": "jLiVQjy7TUJ/NK1CAABIQn40rUL//0dCZQiVQnTdOkKbhpNCkqI7Qg=="},
     {"gif": "https://files.mors.technology/ROCKET_PROPELLANT/280g-33c-24a-54i-b03e9f9d.mp4", "categories": [], "metrics": {"area": 24, "cycles": 33, "cost": 280}, "color": 3, "shape": "ZxGUQiYlUUJ7NK1CAQBIQoy4lUI8u01C"},
-    {"gif": "https://files.mors.technology/ROCKET_PROPELLANT/290g-33c-23a-54i-T-8b8532e3.mp4", "categories": ["CA", "CX", "RA"], "metrics": {"area": 23, "cycles": 33, "cost": 290}, "color": 2, "shape": "NWqHQuiic0KANK1CAQBIQn80rUIAAEhCezStQgEASEJkEZRCJyVRQg=="}
+    {"gif": "https://files.mors.technology/ROCKET_PROPELLANT/290g-33c-23a-54i-T-8b8532e3.mp4", "categories": ["CA", "CX", "RA", "FRA"], "metrics": {"area": 23, "cycles": 33, "cost": 290}, "color": 2, "shape": "NWqHQuiic0KANK1CAQBIQn80rUIAAEhCezStQgEASEJkEZRCJyVRQg=="}
   ]
 }

@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Universal-Solvent-140g-718c-62a-130i-9h-8.5w-120r-0ea1ea.gif", "categories": ["GC"], "metrics": {"area": 62, "cycles": 718, "cost": 140}, "color": 0, "shape": "PoqxQGwBTUAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDf96+g/2hgWQdqjO0ABOEFBRg+eQBbwB0E="},
+    {"gif": "https://files.mors.technology/Universal-Solvent-140g-718c-62a-130i-9h-8.5w-120r-0ea1ea.gif", "categories": ["GC", "FGR"], "metrics": {"area": 62, "cycles": 718, "cost": 140}, "color": 0, "shape": "PoqxQGwBTUAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDf96+g/2hgWQdqjO0ABOEFBRg+eQBbwB0E="},
     {"gif": "https://files.mors.technology/UNIVERSAL_SOLVENT/140g-1012c-39a-178i-caef6eaf.mp4", "categories": ["GX"], "metrics": {"area": 39, "cycles": 1012, "cost": 140}, "color": 3, "shape": "q/BmNgAAyDflAVc/BA6TQf3r6D/aGBZB"},
     {"gif": "https://files.mors.technology/UNIVERSAL_SOLVENT/140g-1131c-37a-198i-80a63b53.mp4", "categories": ["GA"], "metrics": {"area": 37, "cycles": 1131, "cost": 140}, "color": 2, "shape": "AAAAAAAASDYAAAAAWZElQuUBVz8EDpNBq/BmNgAAyDc="},
     {"gif": "https://files.mors.technology/UNIVERSAL_SOLVENT/150g-869c-35a-931i-861fe100.mp4", "categories": [], "metrics": {"area": 35, "cycles": 869, "cost": 150}, "color": 1, "shape": "2qM7QAE4QUH96+g/2hgWQeUBVz8EDpNBAAAAAFmRJUIAAAAAAADIQoA0LTYAAMhC"},

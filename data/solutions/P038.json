@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/MIST_OF_HALLUCINATION/65g-293c-49a-49i-eea0f669.mp4", "categories": ["GC"], "metrics": {"area": 49, "cycles": 293, "cost": 65}, "color": 2, "shape": "llR9QahCEkEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDZusCpBcj3xQA=="},
+    {"gif": "https://files.mors.technology/MIST_OF_HALLUCINATION/65g-293c-49a-49i-eea0f669.mp4", "categories": ["GC", "FGR"], "metrics": {"area": 49, "cycles": 293, "cost": 65}, "color": 2, "shape": "llR9QahCEkEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDZusCpBcj3xQA=="},
     {"gif": "https://files.mors.technology/Mist-of-Hallucination-65g-328c-26a-55i-5h-5w-55r-73f657.gif", "categories": ["GX"], "metrics": {"area": 26, "cycles": 328, "cost": 65}, "color": 3, "shape": "q/BmNgAAyDbe0itBxoDxQW6wKkFyPfFA"},
     {"gif": "https://files.mors.technology/Mist-of-Hallucination-65g-512c-19a-86i-5h-5w-86r-b2ade0.gif", "categories": ["GA"], "metrics": {"area": 19, "cycles": 512, "cost": 65}, "color": 1, "shape": "AAAAAAAASDYAAAAAVZgoQk2jLEHhK/NB3tIrQcaA8UGr8GY2AADINg=="},
     {"gif": "https://i.imgur.com/xb59s8S.gif", "categories": ["TG"], "metrics": {"area": 27, "cycles": 234, "cost": 70}, "color": 0, "shape": "qamWQWj4LUGWVH1BqEISQW6wKkFyPfFA3tIrQcaA8UFNoyxB4SvzQboBtkGmlEJC9QvYQYnjQ0JmtPVBit4nQg=="},
@@ -30,6 +30,6 @@
     {"gif": "https://files.mors.technology/Mist-of-Hallucination-180g-50c-39a-40i-8h-7.5w-8r-T-22714b.gif", "categories": ["CG", "TC"], "metrics": {"area": 39, "cycles": 50, "cost": 180}, "color": 1, "shape": "gDStQgAASEI74qZCYrNAQsm8lEJv9zlC9v2VQr+4PkKANK1CAQBIQg=="},
     {"gif": "https://files.mors.technology/Mist-of-Hallucination-200g-50c-31a-40i-6h-6.5w-8r-T-43c614.gif", "categories": [], "metrics": {"area": 31, "cycles": 50, "cost": 200}, "color": 3, "shape": "fjStQv//R0L2/ZVCv7g+QmMmkkIWFURCfjStQgAASEI="},
     {"gif": "https://files.mors.technology/MIST_OF_HALLUCINATION/220g-50c-26a-45i-1e446bf7.mp4", "categories": ["CX"], "metrics": {"area": 26, "cycles": 50, "cost": 220}, "color": 0, "shape": "p82GQvQ0VkJ/NK1CAABIQn40rUL//0dCYyaSQhYVREL/C45Ctm9GQqwTiEJszlFC"},
-    {"gif": "https://files.mors.technology/Mist-of-Hallucination-240g-50c-24a-46i-6h-5w-8r-T-ed9f7b.gif", "categories": ["CA", "RA"], "metrics": {"area": 24, "cycles": 50, "cost": 240}, "color": 2, "shape": "N587QpbWkUKANK1CAQBIQn80rUIAAEhCfTStQv//R0KnzYZC9DRWQg=="}
+    {"gif": "https://files.mors.technology/Mist-of-Hallucination-240g-50c-24a-46i-6h-5w-8r-T-ed9f7b.gif", "categories": ["CA", "RA", "FRA"], "metrics": {"area": 24, "cycles": 50, "cost": 240}, "color": 2, "shape": "N587QpbWkUKANK1CAQBIQn80rUIAAEhCfTStQv//R0KnzYZC9DRWQg=="}
   ]
 }

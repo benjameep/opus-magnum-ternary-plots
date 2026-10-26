@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/80g-328c-37a-55i-7bddb3d0.mp4", "categories": ["GC"], "metrics": {"area": 37, "cycles": 328, "cost": 80}, "color": 0, "shape": "9mFKQf2w6UAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDaFxEhBbVwVQQ=="},
+    {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/80g-328c-37a-55i-7bddb3d0.mp4", "categories": ["GC", "FGR"], "metrics": {"area": 37, "cycles": 328, "cost": 80}, "color": 0, "shape": "9mFKQf2w6UAAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDaFxEhBbVwVQQ=="},
     {"gif": "https://files.mors.technology/Life-Sensing-Potion-80g-340c-24a-57i-5h-4.5w-57r-5616f2.gif", "categories": ["GX"], "metrics": {"area": 24, "cycles": 340, "cost": 80}, "color": 1, "shape": "/VN9Qf18HkJ4jYBB0ludQYXESEFtXBVBq/BmNgAAyDadKwpASme6QV0zKEBWSMJB"},
     {"gif": "https://files.mors.technology/Life-Sensing-Potion-80g-623c-19a-104i-5h-4.5w-104r-02924b.gif", "categories": ["GA"], "metrics": {"area": 19, "cycles": 623, "cost": 80}, "color": 2, "shape": "AAAAAAAASDYAAAAAntgyQp0rCkBKZ7pBq/BmNgAAyDY="},
     {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/90g-375c-18a-63i-d3db3373.mp4", "categories": ["BG"], "metrics": {"area": 18, "cycles": 375, "cost": 90}, "color": 2, "shape": "XTMoQFZIwkF8fttAnYd9QlhpLUEsSmxCOMqJQWIbNEL9U31B/XweQg=="},
@@ -41,7 +41,7 @@
     {"gif": "https://files.mors.technology/Life-Sensing-Potion-440g-28c-60a-84i-10h-7.5w-4r-9a67ac.gif", "categories": ["CX"], "metrics": {"area": 60, "cycles": 28, "cost": 440}, "color": 0, "shape": "8PKaQs7FSkJKt5tCE9ROQkEtn0KgiVFCfzStQgAASEJ9NK1C/v9HQjxapEJpHkJCYcydQp66REI="},
     {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/440g-44c-39a-54i-T-9bcf84e1.mp4", "categories": [], "metrics": {"area": 39, "cycles": 44, "cost": 440}, "color": 4, "shape": "zGiJQlVVcUJ+yIpCrvlcQkXvbELfWmlCah5gQkwadEJ7i01CEKqMQg=="},
     {"gif": "https://i.imgur.com/EdJv77X.gif", "categories": [], "metrics": {"area": 48, "cycles": 33, "cost": 460}, "color": 1, "shape": "QS2fQqCJUUJKt5tCE9ROQqBvlEK3q1FCb7WSQhsNVEKUap5C/qVSQg=="},
-    {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/485g-34c-45a-94i-068bd62b.mp4", "categories": ["RA"], "metrics": {"area": 45, "cycles": 34, "cost": 485}, "color": 3, "shape": "zcqVQu8IY0KUap5C/qVSQm+1kkIbDVRCfsiKQq75XELMaIlCVVVxQg=="},
+    {"gif": "https://files.mors.technology/LIFE_SENSING_POTION/485g-34c-45a-94i-068bd62b.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 45, "cycles": 34, "cost": 485}, "color": 3, "shape": "zcqVQu8IY0KUap5C/qVSQm+1kkIbDVRCfsiKQq75XELMaIlCVVVxQg=="},
     {"gif": "https://files.mors.technology/Life-Sensing-Potion-655g-28c-51a-330i-8h-7.5w-4r-64e7d4.mp4", "categories": ["CA"], "metrics": {"area": 51, "cycles": 28, "cost": 655}, "color": 2, "shape": "zcqVQu8IY0KANK1CAQBIQn80rUIAAEhCQS2fQqCJUUKUap5C/qVSQg=="}
   ]
 }

@@ -13,7 +13,7 @@
   "solutions": [
     {"gif": "https://youtu.be/6tAi9xaKWjg", "categories": ["GC", "GI", "TG"], "metrics": {"area": 31469, "cycles": 12044, "cost": 60}, "color": 1, "shape": "4R3EP8F0Yj8AAAAAAAAAAAAAAAAAAEg2jCD+PkQhQj8="},
     {"gif": "https://www.youtube.com/watch?v=Vp2venFIj4A", "categories": ["GA", "GX"], "metrics": {"area": 14251, "cycles": 21829, "cost": 60}, "color": 2, "shape": "AAAAAAAASDYAAAAAi9PDP/5z3Dvoi8I/g7HvPA8Uvj8GIIk+b6eOP4wg/j5EIUI/"},
-    {"gif": "https://files.mors.technology/CRITELLIUM/70g-3585c-67a-599i-f1db7456.mp4", "categories": [], "metrics": {"area": 67, "cycles": 3585, "cost": 70}, "color": 0, "shape": "SlHTQSsCdEHhHcQ/wXRiP4wg/j5EIUI/BiCJPm+njj+ML1tBXwVkQibmhEHecT5C"},
+    {"gif": "https://files.mors.technology/CRITELLIUM/70g-3585c-67a-599i-f1db7456.mp4", "categories": ["FGR"], "metrics": {"area": 67, "cycles": 3585, "cost": 70}, "color": 0, "shape": "SlHTQSsCdEHhHcQ/wXRiP4wg/j5EIUI/BiCJPm+njj+ML1tBXwVkQibmhEHecT5C"},
     {"gif": "https://files.mors.technology/CRITELLIUM/70g-3615c-53a-604i-174f8818.mp4", "categories": [], "metrics": {"area": 53, "cycles": 3615, "cost": 70}, "color": 3, "shape": "jC9bQV8FZEIGIIk+b6eOP4Ox7zwPFL4/J3PxPwZ4v0JEaQpA5vy9Qg=="},
     {"gif": "https://files.mors.technology/CRITELLIUM/70g-3645c-52a-609i-6301bcb4.mp4", "categories": [], "metrics": {"area": 52, "cycles": 3645, "cost": 70}, "color": 1, "shape": "J3PxPwZ4v0KDse88DxS+P/5z3Dvoi8I/ecTdPhG7w0IcRIk/V6bDQrFt1z88kcBC"},
     {"gif": "https://files.mors.technology/CRITELLIUM/70g-4184c-48a-699i-4927f6f1.mp4", "categories": [], "metrics": {"area": 48, "cycles": 4184, "cost": 70}, "color": 3, "shape": "ecTdPhG7w0L+c9w76IvCPwAAAACL08M/AAAAAL5Hw0Kscxs+P1XEQg=="},

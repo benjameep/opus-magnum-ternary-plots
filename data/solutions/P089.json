@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Tonic-of-Hydration-40g-963c-48a-161i-8h-7w-161r-cbf0a0.mp4", "categories": ["GC"], "metrics": {"area": 48, "cycles": 963, "cost": 40}, "color": 1, "shape": "SNdgQd7PAUEAAAAAAAAAAAAAAAAAAEg2sAV6Qejhy0E="},
+    {"gif": "https://files.mors.technology/Tonic-of-Hydration-40g-963c-48a-161i-8h-7w-161r-cbf0a0.mp4", "categories": ["GC", "FGR"], "metrics": {"area": 48, "cycles": 963, "cost": 40}, "color": 1, "shape": "SNdgQd7PAUEAAAAAAAAAAAAAAAAAAEg2sAV6Qejhy0E="},
     {"gif": "https://files.mors.technology/Tonic-of-Hydration-40g-981c-46a-164i-8h-7w-164r-7db28b.mp4", "categories": ["GA", "GX"], "metrics": {"area": 46, "cycles": 981, "cost": 40}, "color": 2, "shape": "vsEeQQV9FUIH4oFBI1f6QbAFekHo4ctBAAAAAAAASDYAAAAA3NOQQcvpV0CHIelB"},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/60g-1405c-32a-235i-T-ad3b69bd.mp4", "categories": [], "metrics": {"area": 32, "cycles": 1405, "cost": 60}, "color": 3, "shape": "y+lXQIch6UEAAAAA3NOQQQAAAACm+XJC+YjEPzSAh0I="},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/70g-1135c-32a-190i-T-9ffdce69.mp4", "categories": [], "metrics": {"area": 32, "cycles": 1135, "cost": 70}, "color": 0, "shape": "vsEeQQV9FULL6VdAhyHpQfmIxD80gIdC9iPQP4eAj0KQIy5A7VKeQqq3i0AI4pBC"},
@@ -26,7 +26,7 @@
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/280g-260c-37a-877i-682a1a9a.mp4", "categories": ["BC"], "metrics": {"area": 37, "cycles": 260, "cost": 280}, "color": 3, "shape": "HOtpQj15hELvuWZCb+eBQvoRKEEfPLtCY/UmQWjzu0I="},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/335g-75c-76a-230i-6bf62553.mp4", "categories": [], "metrics": {"area": 76, "cycles": 75, "cost": 335}, "color": 1, "shape": "BTipQqZlQ0JAD41CruEiQgsybkKCYCxCDVJMQmPJUELvuWZCb+eBQhzraUI9eYRCVdmkQhqmUUKZuahC7ixJQk1fqUJkCUZC"},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/780g-59c-155a-580i-affd889a.mp4", "categories": [], "metrics": {"area": 155, "cycles": 59, "cost": 780}, "color": 2, "shape": "BTipQqZlQ0JNX6lCZAlGQq0Bq0LTHUZCOtmqQmZHRUI="},
-    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/855g-63c-100a-290i-970b4744.mp4", "categories": ["RA"], "metrics": {"area": 100, "cycles": 63, "cost": 855}, "color": 2, "shape": "mbmoQu4sSUJV2aRCGqZRQtw+qUJzkkxCfQepQpM4SkJc16hCTHJJQg=="},
+    {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/855g-63c-100a-290i-970b4744.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 100, "cycles": 63, "cost": 855}, "color": 2, "shape": "mbmoQu4sSUJV2aRCGqZRQtw+qUJzkkxCfQepQpM4SkJc16hCTHJJQg=="},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/875g-57c-178a-274i-43f0c0b4.mp4", "categories": ["CG"], "metrics": {"area": 178, "cycles": 57, "cost": 875}, "color": 3, "shape": "OtmqQmZHRUKtAatC0x1GQn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/920g-57c-131a-850i-21b886d1.mp4", "categories": [], "metrics": {"area": 131, "cycles": 57, "cost": 920}, "color": 0, "shape": "mbmoQu4sSUJc16hCTHJJQn00rUIDAEhCfzStQgAASEKtAatC0x1GQk1fqUJkCUZC"},
     {"gif": "https://files.mors.technology/TONIC_OF_HYDRATION/955g-57c-128a-810i-a4b3bf2c.mp4", "categories": [], "metrics": {"area": 128, "cycles": 57, "cost": 955}, "color": 3, "shape": "fjStQgAASEJc16hCTHJJQn0HqUKTOEpCfTStQgMASEI="},

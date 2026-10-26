@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Mist-of-Incapacitation-60g-166c-29a-28i-7h-5.5w-28r-38044b.gif", "categories": ["GC"], "metrics": {"area": 29, "cycles": 166, "cost": 60}, "color": 2, "shape": "ZAwyQbSXzUAAAAAAAAAAAAAAAAAAAEg2j+vjQPhg0EA="},
+    {"gif": "https://files.mors.technology/Mist-of-Incapacitation-60g-166c-29a-28i-7h-5.5w-28r-38044b.gif", "categories": ["GC", "FGR"], "metrics": {"area": 29, "cycles": 166, "cost": 60}, "color": 2, "shape": "ZAwyQbSXzUAAAAAAAAAAAAAAAAAAAEg2j+vjQPhg0EA="},
     {"gif": "https://files.mors.technology/Mist-of-Incapacitation-60g-219c-13a-37i-4h-3.5w-37r-aa207c.gif", "categories": ["GA", "GX", "BG"], "metrics": {"area": 13, "cycles": 219, "cost": 60}, "color": 0, "shape": "AAAAAAAASDYAAAAAAABIQouRlUAvUBtC7jrkQM8D1UCP6+NA+GDQQA=="},
     {"gif": "https://files.mors.technology/MIST_OF_INCAPACITATION/70g-89c-15a-29i-T-9b67439f.mp4", "categories": ["TG"], "metrics": {"area": 15, "cycles": 89, "cost": 70}, "color": 1, "shape": "LwGhQVtFlkFDXcVBcvh3QTnrwkGpEmFBZAwyQbSXzUCP6+NA+GDQQO465EDPA9VA"},
     {"gif": "https://files.mors.technology/MIST_OF_INCAPACITATION/70g-96c-13a-29i-T-941dfcf6.mp4", "categories": [], "metrics": {"area": 13, "cycles": 96, "cost": 70}, "color": 2, "shape": "LwGhQVtFlkHuOuRAzwPVQIuRlUAvUBtCh6EBQRmchkI="},

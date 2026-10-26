@@ -20,6 +20,6 @@
     {"gif": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/475g-169c-180a-371i-c3f7f7de.mp4", "categories": ["SUM", "OSUM"], "metrics": {"area": 180, "cycles": 169, "cost": 475}, "color": 1, "shape": "hEHSQVrIckGK0jtB8XG6QhsrnUKChFpCYBqgQsf7T0JJU6JC6W87Qg=="},
     {"gif": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/1135g-87c-449a-736i-50883026.mp4", "categories": [], "metrics": {"area": 449, "cycles": 87, "cost": 1135}, "color": 2, "shape": "YBqgQsf7T0IbK51CgoRaQlPvokLp21NC"},
     {"gif": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/1140g-58c-603a-794i-89067752.mp4", "categories": [], "metrics": {"area": 603, "cycles": 58, "cost": 1140}, "color": 0, "shape": "U++iQunbU0Ka+qxC20JIQiHwrEINsUdCSVOiQulvO0JgGqBCx/tPQg=="},
-    {"gif": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/1400g-57c-859a-832i-acfd3e62.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX"], "metrics": {"area": 859, "cycles": 57, "cost": 1400}, "color": 1, "shape": "IfCsQg2xR0Ka+qxC20JIQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/1400g-57c-859a-832i-acfd3e62.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 859, "cycles": 57, "cost": 1400}, "color": 1, "shape": "IfCsQg2xR0Ka+qxC20JIQoA0rUIAAEhC"}
   ]
 }
