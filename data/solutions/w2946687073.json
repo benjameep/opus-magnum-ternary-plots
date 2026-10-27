@@ -12,7 +12,7 @@
   "include_overlap": false,
   "solutions": [
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/60g-4014c-5264a-673i-T-77716870.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 5264, "cycles": 4014, "cost": 60}, "color": 1, "shape": "AAAAAAAAAAAAAAAAsbiBP+hsQkDOgOA/"},
-    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/70g-1726c-67a-291i-190767b4.mp4", "categories": [], "metrics": {"area": 67, "cycles": 1726, "cost": 70}, "color": 0, "shape": "N5gIQtG5nUHobEJAzoDgPwAAAACxuIE/AAAAAKBWnkKfl80/Rl6vQl7mbkDfhrBC0FwlQSw4n0I="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/70g-1726c-67a-291i-190767b4.mp4", "categories": ["FGR"], "metrics": {"area": 67, "cycles": 1726, "cost": 70}, "color": 0, "shape": "N5gIQtG5nUHobEJAzoDgPwAAAACxuIE/AAAAAKBWnkKfl80/Rl6vQl7mbkDfhrBC0FwlQSw4n0I="},
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/90g-2752c-39a-462i-086daf29.mp4", "categories": [], "metrics": {"area": 39, "cycles": 2752, "cost": 90}, "color": 1, "shape": "AAAAAKBWnkIAAAAAE9ytQtwsvTx/Ya9Clx+RPxOss0Kfl80/Rl6vQg=="},
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/110g-3141c-24a-524i-9d114d47.mp4", "categories": [], "metrics": {"area": 24, "cycles": 3141, "cost": 110}, "color": 0, "shape": "3Cy9PH9hr0KgKtY8jYzGQkTwwj7mwcNCSj4DP49JwkKoR4c/guK6QpcfkT8TrLNC"},
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/110g-8281c-23a-8329i-00a3feac.mp4", "categories": ["AG"], "metrics": {"area": 23, "cycles": 8281, "cost": 110}, "color": 3, "shape": "gDQtNgAAyEKgKtY8jYzGQtwsvTx/Ya9CAAAAABPcrUIAAAAAAADIQg=="},
@@ -29,7 +29,7 @@
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/510g-200c-79a-310i-2f601be7.mp4", "categories": [], "metrics": {"area": 79, "cycles": 200, "cost": 510}, "color": 1, "shape": "aq8RQr3xnUIPrG1CTQqBQgNeHkIQoplCNCsDQoUiokI="},
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/550g-103c-212a-1181i-f022462d.mp4", "categories": ["RG", "ORG", "ORX"], "metrics": {"area": 212, "cycles": 103, "cost": 550}, "color": 1, "shape": "fWOsQqgOR0KbnaNCVe08QuqVh0LD/2dClOJtQj75gEL4ZKRChzlQQn0KrELAeUdC"},
     {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/880g-90c-240a-1459i-T-bbe8cd9e.mp4", "categories": [], "metrics": {"area": 240, "cycles": 90, "cost": 880}, "color": 2, "shape": "fWOsQqgOR0J9CqxCwHlHQn9zrEIjIUdC"},
-    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/935g-88c-193a-663i-39efae1f.mp4", "categories": ["CG", "CI"], "metrics": {"area": 193, "cycles": 88, "cost": 935}, "color": 0, "shape": "gDStQgAASEJ/c6xCIyFHQn0KrELAeUdC+GSkQoc5UEKANK1CAQBIQg=="},
-    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/1045g-88c-131a-3236i-560b255a.mp4", "categories": ["CA", "CX", "OCX", "RA"], "metrics": {"area": 131, "cycles": 88, "cost": 1045}, "color": 2, "shape": "aq8RQr3xnUKANK1CAQBIQvhkpEKHOVBClOJtQj75gEIPrG1CTQqBQg=="}
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/935g-88c-193a-663i-39efae1f.mp4", "categories": ["CG"], "metrics": {"area": 193, "cycles": 88, "cost": 935}, "color": 0, "shape": "gDStQgAASEJ/c6xCIyFHQn0KrELAeUdC+GSkQoc5UEKANK1CAQBIQg=="},
+    {"gif": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/1045g-88c-131a-3236i-560b255a.mp4", "categories": ["CA", "CX", "OCX", "RA", "FRA"], "metrics": {"area": 131, "cycles": 88, "cost": 1045}, "color": 2, "shape": "aq8RQr3xnUKANK1CAQBIQvhkpEKHOVBClOJtQj75gEIPrG1CTQqBQg=="}
   ]
 }

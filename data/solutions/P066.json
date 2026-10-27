@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Resonant-Crystal-30g-904c-60a-151i-10h-8w-151r-T-2101bb.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 60, "cycles": 904, "cost": 30}, "color": 1, "shape": "q2DxQANci0AAAAAAAAAAAAAAAAAAAEg2q67rQM1r40A="},
+    {"gif": "https://files.mors.technology/Resonant-Crystal-30g-904c-60a-151i-10h-8w-151r-T-2101bb.mp4", "categories": ["GC", "OGC", "TG", "FGR"], "metrics": {"area": 60, "cycles": 904, "cost": 30}, "color": 1, "shape": "q2DxQANci0AAAAAAAAAAAAAAAAAAAEg2q67rQM1r40A="},
     {"gif": "https://files.mors.technology/Resonant-Crystal-30g-933c-50a-156i-8h-7.5w-156r-T-ddf132.mp4", "categories": ["GA", "GX"], "metrics": {"area": 50, "cycles": 933, "cost": 30}, "color": 2, "shape": "AAAAAAAASDYAAAAANQ/CQfgbZz43BstB7moJQa7VI0IpgxNBbXwSQquu60DNa+NA"},
     {"gif": "https://files.mors.technology/Resonant-Crystal-40g-1348c-41a-225i-7h-7w-225r-75a50a.mp4", "categories": [], "metrics": {"area": 41, "cycles": 1348, "cost": 40}, "color": 1, "shape": "AAAAADUPwkEAAAAAVOTTQfgbZz43BstB"},
     {"gif": "https://files.mors.technology/RESONANT_CRYSTAL/45g-1137c-37a-190i-e6169559.mp4", "categories": ["BG"], "metrics": {"area": 37, "cycles": 1137, "cost": 45}, "color": 0, "shape": "AAAAACx9OUJKNatAoeFiQh28vEDe7mFCIZoLQf13PELuaglBrtUjQvgbZz43BstBAAAAAFTk00E="},
@@ -31,6 +31,6 @@
     {"gif": "https://files.mors.technology/RESONANT_CRYSTAL/315g-88c-108a-127i-50a5dc5a.mp4", "categories": [], "metrics": {"area": 108, "cycles": 88, "cost": 315}, "color": 1, "shape": "BmekQujVPULnaaVCUPpCQqMzqEL8OEJC"},
     {"gif": "https://files.mors.technology/Resonant-Crystal-450g-78c-82a-336i-12h-10w-12.67r-035206.gif", "categories": ["CG"], "metrics": {"area": 82, "cycles": 78, "cost": 450}, "color": 0, "shape": "gDStQgAASEKjM6hC/DhCQudppUJQ+kJCwdGkQiX3Q0Lvb6JCqCJJQn00rUICAEhCgDStQgEASEI="},
     {"gif": "https://files.mors.technology/Resonant-Crystal-475g-78c-76a-344i-12h-9w-12.67r-d87643.gif", "categories": ["CX"], "metrics": {"area": 76, "cycles": 78, "cost": 475}, "color": 3, "shape": "fTStQgEASELvb6JCqCJJQiEJnkLE/E9CfTStQgIASEI="},
-    {"gif": "https://files.mors.technology/Resonant-Crystal-540g-78c-69a-338i-10h-9w-12.67r-99c17d.gif", "categories": ["CA", "RA"], "metrics": {"area": 69, "cycles": 78, "cost": 540}, "color": 2, "shape": "EJV4QpA9gEKANK1CAQBIQn00rUIBAEhCfTStQgEASEIhCZ5CxPxPQomBkEIY8F9C"}
+    {"gif": "https://files.mors.technology/Resonant-Crystal-540g-78c-69a-338i-10h-9w-12.67r-99c17d.gif", "categories": ["CA", "RA", "FRA"], "metrics": {"area": 69, "cycles": 78, "cost": 540}, "color": 2, "shape": "EJV4QpA9gEKANK1CAQBIQn00rUIBAEhCfTStQgEASEIhCZ5CxPxPQomBkEIY8F9C"}
   ]
 }
