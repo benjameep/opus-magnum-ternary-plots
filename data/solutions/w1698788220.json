@@ -12,7 +12,7 @@
   "include_overlap": false,
   "solutions": [
     {"gif": "https://files.mors.technology/Evil-Ore-60g-519c-127a-577i-13h-11.5w-96.17r-9015c2.mp4", "categories": ["GC", "OGC"], "metrics": {"area": 127, "cycles": 519, "cost": 60}, "color": 0, "shape": "7Q6AQXbeE0GANC02AADINavw5jUAAEg2q/BmNgAAljdtCPRAWPzGQQsNOUFdDtpBpcE9QYiI10E="},
-    {"gif": "https://files.mors.technology/EVIL_ORE/60g-565c-124a-189i-e4132146.mp4", "categories": [], "metrics": {"area": 124, "cycles": 565, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAABINqvw5jUAAEg2gDQtNgAAyDU="},
+    {"gif": "https://files.mors.technology/EVIL_ORE/60g-565c-124a-189i-e4132146.mp4", "categories": ["FGR"], "metrics": {"area": 124, "cycles": 565, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAAABINqvw5jUAAEg2gDQtNgAAyDU="},
     {"gif": "https://files.mors.technology/Evil-Ore-60g-711c-51a-756i-7h-8w-126r-89f21f.mp4", "categories": ["GX"], "metrics": {"area": 51, "cycles": 711, "cost": 60}, "color": 2, "shape": "q/BmNgAAljfSFp8/OOZjQkWx2kArhSZCbQj0QFj8xkE="},
     {"gif": "https://od.lk/s/MV8yMjkzNzYyMDVf/918_Evil%20Ore_GA_6T_60G_924C_46A_938I_17P.mp4", "categories": [], "metrics": {"area": 46, "cycles": 924, "cost": 60}, "color": 1, "shape": "AAAAAOCyiELSFp8/OOZjQqvwZjYAAJY3q/DmNQAASDYAAAAAAABINg=="},
     {"gif": "https://files.mors.technology/EVIL_ORE/80g-540c-59a-610i-a2d7392f.mp4", "categories": [], "metrics": {"area": 59, "cycles": 540, "cost": 80}, "color": 1, "shape": "Cw05QV0O2kFtCPRAWPzGQUWx2kArhSZCvinfQA7TJ0I="},
