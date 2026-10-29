@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/150g-749c-100a-125i-54852d87.mp4", "categories": ["GC", "GI"], "metrics": {"area": 100, "cycles": 749, "cost": 150}, "color": 0, "shape": "2DkcQulktEEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYaZA9CfUzWQRvuFEIV5MdB"},
+    {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/150g-749c-100a-125i-54852d87.mp4", "categories": ["GC", "GI", "FGR"], "metrics": {"area": 100, "cycles": 749, "cost": 150}, "color": 0, "shape": "2DkcQulktEEAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDYaZA9CfUzWQRvuFEIV5MdB"},
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/150g-807c-68a-135i-7836dcbc.mp4", "categories": [], "metrics": {"area": 68, "cycles": 807, "cost": 150}, "color": 2, "shape": "i6M7OAAAFjhyDwxCvYDwQRdCDEJtRO9BGmQPQn1M1kE="},
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/150g-819c-64a-139i-792237d0.mp4", "categories": ["GX"], "metrics": {"area": 64, "cycles": 819, "cost": 150}, "color": 1, "shape": "q/BmNgAAyDan1pRA30zWQd4ZBEKa5hVCcg8MQr2A8EGLozs4AAAWOA=="},
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/150g-2201c-39a-373i-d1b79c5a.mp4", "categories": ["GA", "WG"], "metrics": {"area": 39, "cycles": 2201, "cost": 150}, "color": 3, "shape": "AAAAAAAASDYAAAAAxjx9QqfWlEDfTNZBq/BmNgAAyDY="},
@@ -22,6 +22,6 @@
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/370g-126c-81a-93i-26922318.mp4", "categories": [], "metrics": {"area": 81, "cycles": 126, "cost": 370}, "color": 2, "shape": "HEWVQutOY0LoApVCwO9jQm5RlUITlWNC"},
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/470g-59c-115a-84i-T-b1d358d7.mp4", "categories": [], "metrics": {"area": 115, "cycles": 59, "cost": 470}, "color": 1, "shape": "blGVQhOVY0Js1qdCpjJOQuKjqUJgokVC43upQgW0Q0JjV41C+jQjQuP3jULriy5CHEWVQutOY0I="},
     {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/845g-38c-209a-214i-053d9616.mp4", "categories": ["RG", "ORG"], "metrics": {"area": 209, "cycles": 38, "cost": 845}, "color": 0, "shape": "43upQgW0Q0Lio6lCYKJFQrgKq0KMgEVC"},
-    {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/1000g-33c-181a-548i-fad2dc9b.mp4", "categories": ["CG", "CA", "CI", "CX", "OCX", "RA"], "metrics": {"area": 181, "cycles": 33, "cost": 1000}, "color": 2, "shape": "gDStQgAASEK4CqtCjIBFQuKjqUJgokVCbNanQqYyTkI="}
+    {"gif": "https://files.mors.technology/UNIVERSAL_OINTMENT/1000g-33c-181a-548i-fad2dc9b.mp4", "categories": ["CG", "CA", "CX", "OCX", "RA", "FRA"], "metrics": {"area": 181, "cycles": 33, "cost": 1000}, "color": 2, "shape": "gDStQgAASEK4CqtCjIBFQuKjqUJgokVCbNanQqYyTkI="}
   ]
 }

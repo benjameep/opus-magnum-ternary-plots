@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/160g-759c-65a-153i-bf2c4052.mp4", "categories": ["GC", "GX", "OGC"], "metrics": {"area": 65, "cycles": 759, "cost": 160}, "color": 2, "shape": "WK4OQv3ApEEAAAAAAAAAAAAAAAAAAEg2u5D8QYmbPUI="},
+    {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/160g-759c-65a-153i-bf2c4052.mp4", "categories": ["GC", "GX", "OGC", "FGR"], "metrics": {"area": 65, "cycles": 759, "cost": 160}, "color": 2, "shape": "WK4OQv3ApEEAAAAAAAAAAAAAAAAAAEg2u5D8QYmbPUI="},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/160g-808c-62a-161i-1518d038.mp4", "categories": ["GA"], "metrics": {"area": 62, "cycles": 808, "cost": 160}, "color": 1, "shape": "u5D8QYmbPUIAAAAAAABINgAAAACnCSZBql7ZQZtcaUIXffdBZfZaQg=="},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/170g-1298c-43a-241i-T-52187441.mp4", "categories": [], "metrics": {"area": 43, "cycles": 1298, "cost": 170}, "color": 3, "shape": "AAAAAKcJJkEAAAAAAICJQnKLzkHDKXdCql7ZQZtcaUI="},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/190g-1292c-41a-236i-4dcf078d.mp4", "categories": [], "metrics": {"area": 41, "cycles": 1292, "cost": 190}, "color": 0, "shape": "JtWCQa4dtUJyi85Bwyl3QgAAAAAAgIlCAAAAAMGmtULn5RZBIRy9Qg=="},
@@ -21,7 +21,7 @@
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/270g-149c-79a-106i-48bec7e3.mp4", "categories": [], "metrics": {"area": 79, "cycles": 149, "cost": 270}, "color": 3, "shape": "xyKYQlmgOkLDz3JCSpsqQk9BY0LUqE5CxiKYQlqgOkI="},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/290g-137c-106a-475i-6c8e0ee1.mp4", "categories": [], "metrics": {"area": 106, "cycles": 137, "cost": 290}, "color": 0, "shape": "0fWdQpFlNkLM655CGJ84QnFxoEKHQzlC"},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/360g-112c-69a-107i-0ccaa791.mp4", "categories": ["CG", "CX", "RG"], "metrics": {"area": 69, "cycles": 112, "cost": 360}, "color": 1, "shape": "wW9DQrfQW0IYdV5CTEduQoA0rUIBAEhCgDStQgAASEJxcaBCh0M5QszrnkIYnzhCxyKYQlmgOkLGIphCWaA6Qk9BY0LUqE5C"},
-    {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/375g-112c-68a-107i-969d7608.mp4", "categories": ["CA", "RA"], "metrics": {"area": 68, "cycles": 112, "cost": 375}, "color": 0, "shape": "dUZ0Qtx7gUKANK1CAQBIQhh1XkJMR25C"},
+    {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/375g-112c-68a-107i-969d7608.mp4", "categories": ["CA", "RA", "FRA"], "metrics": {"area": 68, "cycles": 112, "cost": 375}, "color": 0, "shape": "dUZ0Qtx7gUKANK1CAQBIQhh1XkJMR25C"},
     {"gif": "https://files.mors.technology/EXPERIMENTAL_CATALYST/380g-240c-53a-151i-e9e4acda.mp4", "categories": [], "metrics": {"area": 53, "cycles": 240, "cost": 380}, "color": 2, "shape": "JtWCQa4dtUJ1RnRC3HuBQhh1XkJMR25CwW9DQrfQW0IXffdBZfZaQqpe2UGbXGlCcovOQcMpd0I="}
   ]
 }

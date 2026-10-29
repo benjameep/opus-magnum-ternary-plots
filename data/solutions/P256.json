@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/LODESTONE/120g-1244c-56a-208i-727241bc.mp4", "categories": ["GC", "GI"], "metrics": {"area": 56, "cycles": 1244, "cost": 120}, "color": 0, "shape": "ndc6QTC/10AAAAAAAAAAAAAAAAAAAEg2gh8nQTpeakHO5ipBFC1rQQ=="},
+    {"gif": "https://files.mors.technology/LODESTONE/120g-1244c-56a-208i-727241bc.mp4", "categories": ["GC", "GI", "FGR"], "metrics": {"area": 56, "cycles": 1244, "cost": 120}, "color": 0, "shape": "ndc6QTC/10AAAAAAAAAAAAAAAAAAAEg2gh8nQTpeakHO5ipBFC1rQQ=="},
     {"gif": "https://files.mors.technology/LODESTONE/120g-1340c-44a-224i-0dfe6d0a.mp4", "categories": [], "metrics": {"area": 44, "cycles": 1340, "cost": 120}, "color": 3, "shape": "q/BmNgAAyDbSVhVBIYSHQYIfJ0E6XmpB"},
     {"gif": "https://files.mors.technology/LODESTONE/120g-1352c-43a-226i-a54d968f.mp4", "categories": ["GA", "GX"], "metrics": {"area": 43, "cycles": 1352, "cost": 120}, "color": 2, "shape": "AAAAAAAASDYAAAAA68bTQDdLEkGexotB0lYVQSGEh0Gr8GY2AADINg=="},
     {"gif": "https://files.mors.technology/LODESTONE/130g-1466c-27a-245i-ba40d49e.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 27, "cycles": 1466, "cost": 130}, "color": 0, "shape": "AAAAAOvG00AAAAAAAADIQooGu0BVQMFCnZ1BQXzhNEKseTZBYqTdQa2dLkHlorVBN0sSQZ7Gi0E="},
@@ -26,6 +26,6 @@
     {"gif": "https://files.mors.technology/LODESTONE/860g-44c-154a-232i-61a17335.mp4", "categories": ["CG", "RG", "ORG"], "metrics": {"area": 154, "cycles": 44, "cost": 860}, "color": 2, "shape": "766hQiKyOkIod6JCjYo/Qn80rUIAAEhCgDStQgEASEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/LODESTONE/890g-44c-136a-236i-f4d33731.mp4", "categories": [], "metrics": {"area": 136, "cycles": 44, "cost": 890}, "color": 3, "shape": "fTStQv7/R0Iod6JCjYo/QgGAokJ7yEFCezStQvz/R0I="},
     {"gif": "https://files.mors.technology/LODESTONE/960g-44c-112a-240i-07341ea5.mp4", "categories": ["CX", "OCX"], "metrics": {"area": 112, "cycles": 44, "cost": 960}, "color": 1, "shape": "ywOhQmloVEJ/NK1CAABIQn00rUL+/0dCezStQv3/R0IBgKJCe8hBQqw+okINt0JC"},
-    {"gif": "https://files.mors.technology/LODESTONE/1240g-44c-110a-308i-ae1c56e2.mp4", "categories": ["CA", "RA"], "metrics": {"area": 110, "cycles": 44, "cost": 1240}, "color": 0, "shape": "llGgQkLhVkKANK1CAQBIQn80rUIAAEhCywOhQmloVEI="}
+    {"gif": "https://files.mors.technology/LODESTONE/1240g-44c-110a-308i-ae1c56e2.mp4", "categories": ["CA", "RA", "FRA"], "metrics": {"area": 110, "cycles": 44, "cost": 1240}, "color": 0, "shape": "llGgQkLhVkKANK1CAQBIQn80rUIAAEhCywOhQmloVEI="}
   ]
 }
