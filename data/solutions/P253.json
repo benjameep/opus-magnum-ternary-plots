@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/CUPRITE/30g-687c-47a-115i-T-5afa82e0.mp4", "categories": ["GC", "OGC", "TG"], "metrics": {"area": 47, "cycles": 687, "cost": 30}, "color": 0, "shape": "u3ysQc0rR0EAAAAAAAAAAAAAAAAAAEg2dsWeNwCAbTi68CpBGaHhQVuTqUFMb7hBJRa4QRQrmkE="},
+    {"gif": "https://files.mors.technology/CUPRITE/30g-687c-47a-115i-T-5afa82e0.mp4", "categories": ["GC", "OGC", "TG", "FGR"], "metrics": {"area": 47, "cycles": 687, "cost": 30}, "color": 0, "shape": "u3ysQc0rR0EAAAAAAAAAAAAAAAAAAEg2dsWeNwCAbTi68CpBGaHhQVuTqUFMb7hBJRa4QRQrmkE="},
     {"gif": "https://files.mors.technology/CUPRITE/30g-891c-36a-149i-T-0b415a55.mp4", "categories": ["BG"], "metrics": {"area": 36, "cycles": 891, "cost": 30}, "color": 1, "shape": "q/BmNwAALzjhghtBnm78QbrwKkEZoeFBa1aQNwAASDg="},
     {"gif": "https://files.mors.technology/CUPRITE/30g-915c-35a-153i-T-a2c3454e.mp4", "categories": ["GA", "GX"], "metrics": {"area": 35, "cycles": 915, "cost": 30}, "color": 3, "shape": "AAAAAAAASDYAAAAADrZKQj8er0BRIylCCZUOQRaCC0LhghtBnm78QWtWkDcAAEg4"},
     {"gif": "https://files.mors.technology/CUPRITE/40g-569c-55a-95i-T-0150efd6.mp4", "categories": [], "metrics": {"area": 55, "cycles": 569, "cost": 40}, "color": 2, "shape": "u3ysQc0rR0ElFrhBFCuaQZA+0UFXnXFB"},
@@ -26,6 +26,6 @@
     {"gif": "https://files.mors.technology/CUPRITE/150g-75c-45a-48i-9622af95.mp4", "categories": [], "metrics": {"area": 45, "cycles": 75, "cost": 150}, "color": 2, "shape": "NOOoQrYDQ0LtIp1CDnI1QggykkJQECxCELmPQt9kNEI+Fo1CMUlRQt3ylkIq4E9C"},
     {"gif": "https://files.mors.technology/CUPRITE/160g-74c-44a-41i-T-f378810e.mp4", "categories": ["CG", "CA", "CX", "OCX", "TC"], "metrics": {"area": 44, "cycles": 74, "cost": 160}, "color": 0, "shape": "NOOoQrYDQ0Ld8pZCKuBPQqvfokKN+FBC8yGpQtSzTEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/CUPRITE/175g-77c-38a-57i-e30a66b6.mp4", "categories": [], "metrics": {"area": 38, "cycles": 77, "cost": 175}, "color": 1, "shape": "zqJ+QoCEdEKr36JCjfhQQt3ylkIq4E9CPhaNQjFJUUI="},
-    {"gif": "https://files.mors.technology/CUPRITE/245g-76c-36a-106i-3e1700ab.mp4", "categories": ["RA"], "metrics": {"area": 36, "cycles": 76, "cost": 245}, "color": 2, "shape": "53hdQgQRiELzIalC1LNMQqvfokKN+FBCzqJ+QoCEdEI="}
+    {"gif": "https://files.mors.technology/CUPRITE/245g-76c-36a-106i-3e1700ab.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 36, "cycles": 76, "cost": 245}, "color": 2, "shape": "53hdQgQRiELzIalC1LNMQqvfokKN+FBCzqJ+QoCEdEI="}
   ]
 }

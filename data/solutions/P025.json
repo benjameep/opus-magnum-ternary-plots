@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Water-Purifier-50g-322c-31a-54i-6h-5w-54r-0c8ad6.gif", "categories": ["GC"], "metrics": {"area": 31, "cycles": 322, "cost": 50}, "color": 0, "shape": "noEJQVTHnkAAAAAAAAAAAAAAAAAAAEg2X77zQGV+1UA="},
+    {"gif": "https://files.mors.technology/Water-Purifier-50g-322c-31a-54i-6h-5w-54r-0c8ad6.gif", "categories": ["GC", "FGR"], "metrics": {"area": 31, "cycles": 322, "cost": 50}, "color": 0, "shape": "noEJQVTHnkAAAAAAAAAAAAAAAAAAAEg2X77zQGV+1UA="},
     {"gif": "https://files.mors.technology/Water-Purifier-50g-344c-19a-58i-5h-5w-58r-f47bb9.gif", "categories": ["GX"], "metrics": {"area": 19, "cycles": 344, "cost": 50}, "color": 3, "shape": "X77zQGV+1UCr8GY2AADINqvwZjYAABY4q/BmNwAA4TgruY9AyRXzQcED6UBZuFRB"},
     {"gif": "https://files.mors.technology/Water-Purifier-50g-382c-18a-64i-4h-4.5w-64r-386f77.gif", "categories": [], "metrics": {"area": 18, "cycles": 382, "cost": 50}, "color": 2, "shape": "q/BmNgAAFjhUCnpA7+UPQiu5j0DJFfNBq/DmNgAASDg="},
     {"gif": "https://files.mors.technology/Water-Purifier-50g-435c-17a-73i-4h-4.5w-73r-1ca73b.gif", "categories": ["GA"], "metrics": {"area": 17, "cycles": 435, "cost": 50}, "color": 1, "shape": "AAAAAAAASDYAAAAAN5RnQqvwZjY1lGdCQfRbQL62LkJUCnpA7+UPQqvwZjYAAMg2"},
@@ -38,6 +38,6 @@
     {"gif": "https://files.mors.technology/Water-Purifier-165g-57c-19a-41i-5h-4.5w-9r-2aa5be.gif", "categories": [], "metrics": {"area": 19, "cycles": 57, "cost": 165}, "color": 1, "shape": "gvaOQq/rakK5wpdCK7JSQq9Jj0JcdE1CEEN5QinbUEKE9g5C7K6YQgyNHULahJpC"},
     {"gif": "https://files.mors.technology/Water-Purifier-180g-74c-17a-37i-5h-4.5w-12r-T-46eb8d.gif", "categories": [], "metrics": {"area": 17, "cycles": 74, "cost": 180}, "color": 3, "shape": "DMzDQTe9q0IMjR1C2oSaQoT2DkLsrphChPvrQbTznkKB++tBtPOeQg=="},
     {"gif": "https://files.mors.technology/Water-Purifier-200g-45c-33a-76i-7h-6w-7r-67a52d.gif", "categories": ["CG", "CX"], "metrics": {"area": 33, "cycles": 45, "cost": 200}, "color": 2, "shape": "gDStQgAASEKqnaNCZu08QnLnokI0AT1CEfSaQtRPT0KANK1CAQBIQg=="},
-    {"gif": "https://files.mors.technology/Water-Purifier-245g-45c-27a-81i-6h-5w-7r-5b106d.gif", "categories": ["CA", "RA"], "metrics": {"area": 27, "cycles": 45, "cost": 245}, "color": 3, "shape": "gvaOQq/rakKANK1CAQBIQhH0mkLUT09CucKXQiuyUkI="}
+    {"gif": "https://files.mors.technology/Water-Purifier-245g-45c-27a-81i-6h-5w-7r-5b106d.gif", "categories": ["CA", "RA", "FRA"], "metrics": {"area": 27, "cycles": 45, "cost": 245}, "color": 3, "shape": "gvaOQq/rakKANK1CAQBIQhH0mkLUT09CucKXQiuyUkI="}
   ]
 }
