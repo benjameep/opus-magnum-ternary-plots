@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Vaporous-Solvent-125g-472c-58a-89i-9h-7.5w-79r-bd5e63.gif", "categories": ["GC"], "metrics": {"area": 58, "cycles": 472, "cost": 125}, "color": 3, "shape": "6tqFQQaQGkEAAAAAAAAAAAAAAAAAAEg27ohVQW5UokE="},
+    {"gif": "https://files.mors.technology/Vaporous-Solvent-125g-472c-58a-89i-9h-7.5w-79r-bd5e63.gif", "categories": ["GC", "FGR"], "metrics": {"area": 58, "cycles": 472, "cost": 125}, "color": 3, "shape": "6tqFQQaQGkEAAAAAAAAAAAAAAAAAAEg27ohVQW5UokE="},
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/125g-664c-39a-117i-e6e75e8a.mp4", "categories": ["GX"], "metrics": {"area": 39, "cycles": 664, "cost": 125}, "color": 2, "shape": "q/BmNgAAyDZjkTNBPQNjQqGbikFJrm1CGNeBQURDJkLuiFVBblSiQQ=="},
     {"gif": "https://files.mors.technology/Vaporous-Solvent-125g-712c-38a-125i-6h-6.5w-119r-8442ef.mp4", "categories": ["GA"], "metrics": {"area": 38, "cycles": 712, "cost": 125}, "color": 0, "shape": "AAAAAAAASDYAAAAACU3TQfcWJ0FpL2NCY5EzQT0DY0Kr8GY2AADINg=="},
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/140g-904c-33a-157i-a34aca44.mp4", "categories": ["AG", "AC", "AX", "AI"], "metrics": {"area": 33, "cycles": 904, "cost": 140}, "color": 2, "shape": "AAAAAAlN00EAAAAAAADIQjVHqkAK28FC9xYnQWkvY0I="},
@@ -22,7 +22,7 @@
     {"gif": "https://files.mors.technology/Vaporous-Solvent-200g-97c-52a-72i-8h-7.5w-15r-T-2d2630.gif", "categories": ["SUM"], "metrics": {"area": 52, "cycles": 97, "cost": 200}, "color": 0, "shape": "GPgYQsh+wEEY14FBREMmQqGbikFJrm1Cb4m3QT2CrUIQ7IBCMCJ7Qt5clEIWWUpCcoSSQtaHRELOFIRCyzUmQg=="},
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/220g-83c-63a-60i-T-2dc7ba9f.mp4", "categories": [], "metrics": {"area": 63, "cycles": 83, "cost": 220}, "color": 3, "shape": "/ZaYQg4yMEL104RCY2AZQs4UhELLNSZCcoSSQtaHREI="},
     {"gif": "https://i.imgur.com/ZMJlh5z.gif", "categories": [], "metrics": {"area": 64, "cycles": 79, "cost": 240}, "color": 1, "shape": "/ZaYQg4yMEJyhJJC1odEQt5clEIWWUpCwVaoQiYMSkJrYqlCtNVEQhMoqEKjK0JC"},
-    {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/310g-80c-56a-160i-805d5fca.mp4", "categories": ["RA"], "metrics": {"area": 56, "cycles": 80, "cost": 310}, "color": 2, "shape": "EOyAQjAie0K4S6lCmoNMQo/mqELZDUtCwVaoQiYMSkLeXJRCFllKQg=="},
+    {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/310g-80c-56a-160i-805d5fca.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 56, "cycles": 80, "cost": 310}, "color": 2, "shape": "EOyAQjAie0K4S6lCmoNMQo/mqELZDUtCwVaoQiYMSkLeXJRCFllKQg=="},
     {"gif": "https://i.imgur.com/YRxTXAY.gif", "categories": ["CG"], "metrics": {"area": 100, "cycles": 75, "cost": 330}, "color": 2, "shape": "EyioQqMrQkJrYqlCtNVEQm/7qkJ7nUZCgDStQgEASEKANK1CAABIQg=="},
     {"gif": "https://files.mors.technology/Vaporous-Solvent-335g-76c-71a-180i-11h-9w-12r-ed0dbc.gif", "categories": [], "metrics": {"area": 71, "cycles": 76, "cost": 335}, "color": 0, "shape": "b/uqQnudRkJrYqlCtNVEQsFWqEImDEpCj+aoQtkNS0ITTKxC6qRIQuRXrEK5j0hCJKmrQjyNR0I="},
     {"gif": "https://files.mors.technology/VAPOROUS_SOLVENT/350g-75c-92a-146i-8b19ae8a.mp4", "categories": ["CX"], "metrics": {"area": 92, "cycles": 75, "cost": 350}, "color": 1, "shape": "JKmrQjyNR0J+NK1C//9HQm/7qkJ7nUZC"},
