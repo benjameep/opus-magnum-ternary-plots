@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Airship-Fuel-40g-172c-37a-29i-7h-6w-29r-T-6f8d7d.gif", "categories": ["GC", "TG"], "metrics": {"area": 37, "cycles": 172, "cost": 40}, "color": 2, "shape": "uSM3Qah400AAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDbPpyJBRm7tQA=="},
+    {"gif": "https://files.mors.technology/Airship-Fuel-40g-172c-37a-29i-7h-6w-29r-T-6f8d7d.gif", "categories": ["GC", "TG", "FGR"], "metrics": {"area": 37, "cycles": 172, "cost": 40}, "color": 2, "shape": "uSM3Qah400AAAAAAAAAAAAAAAAAAAEg2q/BmNgAAyDbPpyJBRm7tQA=="},
     {"gif": "https://files.mors.technology/Airship-Fuel-40g-184c-16a-31i-4h-4.5w-31r-T-69c4ba.gif", "categories": ["BG"], "metrics": {"area": 16, "cycles": 184, "cost": 40}, "color": 3, "shape": "q/BmNwAASDcn9h1BaXYhQc+nIkFGbu1A"},
     {"gif": "https://files.mors.technology/Airship-Fuel-40g-189c-13a-32i-4h-4w-32r-T-d60f2e.gif", "categories": ["GX"], "metrics": {"area": 13, "cycles": 189, "cost": 40}, "color": 1, "shape": "L1bHQCAObEJ4IRlBXB0UQif2HUFpdiFBq/BmNwAASDer8GY2AADINia2nEBj42ZC"},
     {"gif": "https://files.mors.technology/Airship-Fuel-40g-231c-12a-39i-4h-3.5w-39r-T-fd4b46.gif", "categories": ["GA"], "metrics": {"area": 12, "cycles": 231, "cost": 40}, "color": 0, "shape": "AAAAAAAASDYAAAAANkh7Qia2nEBj42ZCq/BmNgAAyDY="},
