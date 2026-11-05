@@ -3,7 +3,7 @@
   "name": "Resin Glue",
   "collection": "Journal CVIII",
   "group": "CVIII Issue XI",
-  "num_colors": 3,
+  "num_colors": 4,
   "metrics": [
     "area",
     "cycles",
@@ -20,13 +20,14 @@
     {"gif": "https://files.mors.technology/RESIN_GLUE/130g-130c-56a-43i-T-30614e28.mp4", "categories": ["SUM"], "metrics": {"area": 56, "cycles": 130, "cost": 130}, "color": 0, "shape": "G52QQkr8JkIsuRFCTkSoQci9VkD/3rlCGsElQLRWwkJ5QlVA8NHBQsszgUIa7UFC"},
     {"gif": "https://files.mors.technology/RESIN_GLUE/160g-102c-55a-40i-b55bd8c6.mp4", "categories": ["SUM4"], "metrics": {"area": 55, "cycles": 102, "cost": 160}, "color": 1, "shape": "zDOBQhftQUJ5QlVA8NHBQha+YkD/uMFCTEmDQesMtUIMBIxBXMqzQusq+0HK6KJCrRpcQgi5gELLM4FCGu1BQg=="},
     {"gif": "https://files.mors.technology/RESIN_GLUE/165g-96c-68a-37i-78b7701f.mp4", "categories": [], "metrics": {"area": 68, "cycles": 96, "cost": 165}, "color": 2, "shape": "GbaWQsUGLkIbnZBCSvwmQsszgUIY7UFCrRpcQgi5gEKDnoZCYeFgQg=="},
-    {"gif": "https://files.mors.technology/RESIN_GLUE/180g-85c-110a-9i-T-dea8fb44.mp4", "categories": ["TIC", "TIR", "FTI"], "metrics": {"area": 110, "cycles": 85, "cost": 180}, "color": 1, "shape": "GbaWQsUGLkKDnoZCYeFgQmyTnELa+0xCIpSmQjRZQEI="},
-    {"gif": "https://files.mors.technology/RESIN_GLUE/215g-80c-71a-57i-573b80ab.mp4", "categories": [], "metrics": {"area": 71, "cycles": 80, "cost": 215}, "color": 0, "shape": "bJOcQtr7TEKDnoZCYeFgQq0aXEIIuYBC6yr7QcrookL88SpCXmmVQh+3fkJoQXRC"},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/180g-85c-110a-9i-T-dea8fb44.mp4", "categories": ["TIC", "TIR", "FTI"], "metrics": {"area": 110, "cycles": 85, "cost": 180}, "color": 3, "shape": "GbaWQsUGLkKDnoZCYeFgQr5PmkIkCU9Cm/GlQomdP0I="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/215g-80c-71a-57i-573b80ab.mp4", "categories": [], "metrics": {"area": 71, "cycles": 80, "cost": 215}, "color": 0, "shape": "vk+aQiQJT0KDnoZCYeFgQq0aXEIIuYBC6yr7QcrookL88SpCXmmVQh+3fkJoQXRCqXmPQpWXXkI="},
     {"gif": "https://files.mors.technology/RESIN_GLUE/270g-255c-36a-127i-f1472a7f.mp4", "categories": [], "metrics": {"area": 36, "cycles": 255, "cost": 270}, "color": 2, "shape": "NaGgP9oMxkIWvmJA/7jBQnlCVUDw0cFCGsElQLRWwkI="},
     {"gif": "https://files.mors.technology/RESIN_GLUE/335g-154c-37a-106i-9436023a.mp4", "categories": ["BC", "BR"], "metrics": {"area": 37, "cycles": 154, "cost": 335}, "color": 0, "shape": "f/RkP6H3xkJMSYNB6wy1Qha+YkD/uMFCNaGgP9oMxkI="},
-    {"gif": "https://files.mors.technology/RESIN_GLUE/400g-42c-121a-54i-4f1c164d.mp4", "categories": ["RG"], "metrics": {"area": 121, "cycles": 42, "cost": 400}, "color": 2, "shape": "RPirQtiSRkIilKZCNFlAQmyTnELa+0xCH7d+QmhBdEIyeZxCkyZYQg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/380g-42c-151a-53i-T-eea58f53.mp4", "categories": ["TC"], "metrics": {"area": 151, "cycles": 42, "cost": 380}, "color": 1, "shape": "KDSsQv/XRkKb8aVCiZ0/Qr5PmkIkCU9CqXmPQpWXXkLqpqVCXb1NQg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/400g-42c-121a-54i-4f1c164d.mp4", "categories": [], "metrics": {"area": 121, "cycles": 42, "cost": 400}, "color": 2, "shape": "MnmcQpMmWELqpqVCXb1NQuempUJevU1CqXmPQpWXXkIft35CaEF0Qg=="},
     {"gif": "https://files.mors.technology/RESIN_GLUE/420g-42c-108a-56i-314db386.mp4", "categories": [], "metrics": {"area": 108, "cycles": 42, "cost": 420}, "color": 1, "shape": "MnmcQpMmWEIft35CaEF0QvzxKkJeaZVCzztcQumvh0I="},
-    {"gif": "https://files.mors.technology/RESIN_GLUE/485g-39c-111a-61i-6dc0dc58.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 111, "cycles": 39, "cost": 485}, "color": 0, "shape": "gDStQgAASEJE+KtC2JJGQjJ5nEKTJlhCzztcQumvh0JmooVCO7F1Qg=="},
+    {"gif": "https://files.mors.technology/RESIN_GLUE/485g-39c-111a-61i-6dc0dc58.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 111, "cycles": 39, "cost": 485}, "color": 0, "shape": "gDStQgAASEIoNKxC/9dGQuempUJevU1CMnmcQpMmWELPO1xC6a+HQmaihUI7sXVC"},
     {"gif": "https://files.mors.technology/RESIN_GLUE/710g-46c-76a-83i-8388d772.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 76, "cycles": 46, "cost": 710}, "color": 2, "shape": "DASMQVzKs0JmooVCO7F1Qs87XELpr4dC/PEqQl5plULrKvtByuiiQg=="}
   ]
 }
