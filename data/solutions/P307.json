@@ -3,7 +3,7 @@
   "name": "Mineral Oil",
   "collection": "Journal CVIII",
   "group": "CVIII Issue XI",
-  "num_colors": 4,
+  "num_colors": 3,
   "metrics": [
     "area",
     "cycles",
@@ -13,9 +13,10 @@
   "solutions": [
     {"gif": "https://files.mors.technology/MINERAL_OIL/70g-2044c-90a-341i-22db0db6.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "FGR"], "metrics": {"area": 90, "cycles": 2044, "cost": 70}, "color": 1, "shape": "HzzWQCsQH0IhsQxBf5WNQZMsBkFR7ppAAAAAAAAAAAAAAAAAOgOkQTeteUDcyg9C"},
     {"gif": "https://files.mors.technology/MINERAL_OIL/80g-1895c-93a-316i-T-1db15f65.mp4", "categories": ["TG"], "metrics": {"area": 93, "cycles": 1895, "cost": 80}, "color": 2, "shape": "kywGQVHumkAhsQxBf5WNQYsDIUE67LlA"},
-    {"gif": "https://files.mors.technology/MINERAL_OIL/120g-3265c-48a-545i-90c62825.mp4", "categories": ["AG", "AC", "AX", "AI", "BG", "BC", "OAC", "BR"], "metrics": {"area": 48, "cycles": 3265, "cost": 120}, "color": 2, "shape": "AAAAADoDpEEAAAAAAADIQv0gB0F4P75CfmX2QFkPnUI3rXlA3MoPQg=="},
-    {"gif": "https://files.mors.technology/MINERAL_OIL/125g-2328c-63a-389i-c7ebba1d.mp4", "categories": ["WG", "WC", "WR"], "metrics": {"area": 63, "cycles": 2328, "cost": 125}, "color": 3, "shape": "N615QNzKD0J+ZfZAWQ+dQh881kArEB9C"},
-    {"gif": "https://files.mors.technology/MINERAL_OIL/220g-194c-93a-144i-b862f66b.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 93, "cycles": 194, "cost": 220}, "color": 0, "shape": "FNKRQg9hKEKLAyFBOuy5QCGxDEF/lY1BHzzWQCsQH0J+ZfZAWQ+dQv0gB0F4P75C/ziLQlI9b0I="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/120g-3265c-48a-545i-90c62825.mp4", "categories": ["AG", "AC", "AX", "AI", "BG", "BC", "OAC", "BR"], "metrics": {"area": 48, "cycles": 3265, "cost": 120}, "color": 0, "shape": "AAAAADoDpEEAAAAAAADIQgFA50DNp79CxE7rQIhKlUI3rXlA3MoPQg=="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/125g-2328c-63a-389i-c7ebba1d.mp4", "categories": ["WG", "WC", "WR"], "metrics": {"area": 63, "cycles": 2328, "cost": 125}, "color": 2, "shape": "N615QNzKD0LETutAiEqVQqyF8EA/5o5CHzzWQCsQH0I="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/220g-194c-93a-144i-b862f66b.mp4", "categories": ["SUM", "SUM4"], "metrics": {"area": 93, "cycles": 194, "cost": 220}, "color": 0, "shape": "FNKRQg9hKEKLAyFBOuy5QCGxDEF/lY1BHzzWQCsQH0KshfBAP+aOQoTypEEgMbBC/ziLQlI9b0I="},
+    {"gif": "https://files.mors.technology/MINERAL_OIL/295g-430c-83a-86i-10647c4f.mp4", "categories": [], "metrics": {"area": 83, "cycles": 430, "cost": 295}, "color": 1, "shape": "hPKkQSAxsEKshfBAP+aOQsRO60CISpVCAUDnQM2nv0I="},
     {"gif": "https://files.mors.technology/MINERAL_OIL/460g-122c-133a-214i-T-d7c76d3f.mp4", "categories": [], "metrics": {"area": 133, "cycles": 122, "cost": 460}, "color": 1, "shape": "FNKRQg9hKEL/OItCUj1vQrWhqELrR01C3+6ZQiO/MUI="},
     {"gif": "https://files.mors.technology/MINERAL_OIL/470g-120c-143a-208i-T-66e7cfdd.mp4", "categories": ["OTI", "TIC", "TIR", "TC", "FTI"], "metrics": {"area": 143, "cycles": 120, "cost": 470}, "color": 0, "shape": "3+6ZQiO/MUK1oahC60dNQrRmq0I+FUpCbx6rQlCXRUI="},
     {"gif": "https://files.mors.technology/MINERAL_OIL/1805g-94c-478a-1580i-09b3fc02.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 478, "cycles": 94, "cost": 1805}, "color": 1, "shape": "bx6rQlCXRUK0ZqtCPhVKQoA0rUIAAEhC"}
