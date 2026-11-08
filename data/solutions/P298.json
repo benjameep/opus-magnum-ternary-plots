@@ -11,14 +11,15 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://i.imgur.com/7Ujpogg.gif", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 1037, "cycles": 1667, "cost": 50}, "color": 0, "shape": "AAAAAAAAAAAAAAAAT5BSQdx3uUCz7D5BH8klQMpuvz8="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/60g-929c-1306a-157i-ff1195fa.mp4", "categories": [], "metrics": {"area": 1306, "cycles": 929, "cost": 60}, "color": 1, "shape": "H8klQMpuvz/cd7lAs+w+QdBgoEE/cY9B5BznQd5uhUE="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/135g-856c-58a-124i-b6a715f9.mp4", "categories": ["AG", "AC", "AX", "AI", "WG"], "metrics": {"area": 58, "cycles": 856, "cost": 135}, "color": 2, "shape": "ZY4SQBZbxULQYKBBP3GPQdx3uUCz7D5BAAAAAE+QUkEAAAAAAADIQg=="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/245g-88c-74a-52i-b964b047.mp4", "categories": ["SUM"], "metrics": {"area": 74, "cycles": 88, "cost": 245}, "color": 0, "shape": "zEWOQkVIJELkHOdB3m6FQdBgoEE/cY9BZY4SQBZbxUL1gRFC3f6dQkvvYkKU/4BCMhmAQmK0Y0KFF4JCw0NeQg=="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/340g-41c-161a-95i-T-db0a790b.mp4", "categories": ["TC"], "metrics": {"area": 161, "cycles": 41, "cost": 340}, "color": 1, "shape": "zEWOQkVIJEKFF4JCw0NeQvCfrEK6TEhCswatQh3LR0I="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/370g-41c-141a-48i-9a20f316.mp4", "categories": [], "metrics": {"area": 141, "cycles": 41, "cost": 370}, "color": 2, "shape": "8J+sQrpMSEKFF4JCw0NeQjIZgEJitGNCFoysQnFnSEI="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/400g-41c-125a-51i-a372b6d8.mp4", "categories": [], "metrics": {"area": 125, "cycles": 41, "cost": 400}, "color": 1, "shape": "S+9iQpT/gELsJYhCKcpyQulFq0IaO0pCFoysQnFnSEIyGYBCYrRjQg=="},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/490g-52c-94a-60i-ef9ffa53.mp4", "categories": [], "metrics": {"area": 94, "cycles": 52, "cost": 490}, "color": 2, "shape": "9YERQt3+nULsJYhCKcpyQkvvYkKU/4BC"},
-    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/765g-40c-193a-251i-6ad6c0d5.mp4", "categories": ["CG", "CA", "CI", "CX"], "metrics": {"area": 193, "cycles": 40, "cost": 765}, "color": 0, "shape": "gDStQgAASEKzBq1CHctHQvCfrEK6TEhCFoysQnFnSELpRatCGjtKQg=="}
+    {"gif": "https://i.imgur.com/7Ujpogg.gif", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 1037, "cycles": 1667, "cost": 50}, "color": 0, "shape": "AAAAAAAAAAAAAAAABF1SQcJftEDTMDdBH8klQMpuvz8="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/60g-929c-1306a-157i-ff1195fa.mp4", "categories": [], "metrics": {"area": 1306, "cycles": 929, "cost": 60}, "color": 2, "shape": "H8klQMpuvz/CX7RA0zA3QdfYuEHcFYxB5BznQd5uhUE="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/135g-741c-53a-107i-ffe49f4e.mp4", "categories": ["AG", "AX", "AI"], "metrics": {"area": 53, "cycles": 741, "cost": 135}, "color": 1, "shape": "19i4QdwVjEHCX7RA0zA3QQAAAAAEXVJBAAAAAAAAyEKANC02AADIQnXE2UDlqKhC"},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/200g-520c-53a-136i-T-d0bcba85.mp4", "categories": ["AC"], "metrics": {"area": 53, "cycles": 520, "cost": 200}, "color": 2, "shape": "dcTZQOWoqEKANC02AADIQhiKpEANEMJC"},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/245g-88c-74a-52i-b964b047.mp4", "categories": ["SUM"], "metrics": {"area": 74, "cycles": 88, "cost": 245}, "color": 0, "shape": "zEWOQkVIJELkHOdB3m6FQdfYuEHcFYxBdcTZQOWoqEIYiqRADRDCQpwrEULKF55CfqViQqoWgUIE/n9Cm9djQoL/gUKTZF5C"},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/340g-41c-161a-95i-T-db0a790b.mp4", "categories": ["TC"], "metrics": {"area": 161, "cycles": 41, "cost": 340}, "color": 1, "shape": "zEWOQkVIJEKC/4FCk2ReQoOfrEI4TUhCswatQh3LR0I="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/370g-41c-141a-48i-9a20f316.mp4", "categories": [], "metrics": {"area": 141, "cycles": 41, "cost": 370}, "color": 2, "shape": "g5+sQjhNSEKC/4FCk2ReQgT+f0Kb12NCkousQgpoSEI="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/400g-41c-125a-51i-a372b6d8.mp4", "categories": [], "metrics": {"area": 125, "cycles": 41, "cost": 400}, "color": 1, "shape": "fqViQqoWgUISCIhCoOxyQvNDq0JePUpCkousQgpoSEIE/n9Cm9djQg=="},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/490g-52c-94a-60i-ef9ffa53.mp4", "categories": [], "metrics": {"area": 94, "cycles": 52, "cost": 490}, "color": 2, "shape": "nCsRQsoXnkISCIhCoOxyQn6lYkKqFoFC"},
+    {"gif": "https://files.mors.technology/MIRRORING_AMALGAM/765g-40c-193a-251i-6ad6c0d5.mp4", "categories": ["CG", "CA", "CX"], "metrics": {"area": 193, "cycles": 40, "cost": 765}, "color": 0, "shape": "gDStQgAASEKzBq1CHctHQoOfrEI4TUhCkousQgpoSELzQ6tCXj1KQg=="}
   ]
 }

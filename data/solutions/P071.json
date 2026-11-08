@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-115g-219c-35a-42i-7h-6.5w-37r-4fcba9.gif", "categories": ["GC"], "metrics": {"area": 35, "cycles": 219, "cost": 115}, "color": 2, "shape": "SAsKQUlmn0AAAAAAAAAAAAAAAAAAAEg2YJLpQH7RMkE="},
+    {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-115g-219c-35a-42i-7h-6.5w-37r-4fcba9.gif", "categories": ["GC", "FGR"], "metrics": {"area": 35, "cycles": 219, "cost": 115}, "color": 2, "shape": "SAsKQUlmn0AAAAAAAAAAAAAAAAAAAEg2YJLpQH7RMkE="},
     {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-115g-237c-30a-46i-6h-6.5w-40r-6dfc01.gif", "categories": ["GX"], "metrics": {"area": 30, "cycles": 237, "cost": 115}, "color": 1, "shape": "YJLpQH7RMkGr8GY2AADINqvwZjYAgIk4kww2PxJAE0E0veNA2qxnQQ=="},
     {"gif": "https://files.mors.technology/Synthesis-via-Alcohol-115g-377c-27a-66i-6h-6w-63r-94b80e.gif", "categories": [], "metrics": {"area": 27, "cycles": 377, "cost": 115}, "color": 3, "shape": "q/BmNgCAiThIbFU+615LQZMMNj8SQBNB"},
     {"gif": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/115g-605c-26a-104i-38e9d223.mp4", "categories": ["GA"], "metrics": {"area": 26, "cycles": 605, "cost": 115}, "color": 0, "shape": "AAAAAAAASDYAAAAAqkeQQUhsVT7rXktBq/BmNgAAyDY="},
