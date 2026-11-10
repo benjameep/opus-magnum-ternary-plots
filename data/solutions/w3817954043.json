@@ -11,8 +11,8 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/100g-2454c-125a-2732i-T-38017bd2.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC", "TG"], "metrics": {"area": 125, "cycles": 2454, "cost": 100}, "color": 2, "shape": "AAAAAAAAAAAAAAAAaRWGQT0ueUDRyDtB+1KxQI2UDEH2UOpAaduOQO0X7EACT4hA"},
-    {"gif": "https://solution.media.missing", "categories": ["FGR"], "metrics": {"area": 89, "cycles": 525, "cost": 135}, "color": 0, "shape": "7RfsQAJPiED2UOpAaduOQEQu8kC30otA"},
+    {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/100g-2454c-125a-2732i-T-38017bd2.mp4", "categories": ["GC", "GA", "GX", "OGC", "TG"], "metrics": {"area": 125, "cycles": 2454, "cost": 100}, "color": 2, "shape": "AAAAAAAAAAAAAAAAaRWGQT0ueUDRyDtB+1KxQI2UDEH2UOpAaduOQO0X7EACT4hA"},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 89, "cycles": 525, "cost": 135}, "color": 0, "shape": "7RfsQAJPiED2UOpAaduOQEQu8kC30otA"},
     {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/135g-900c-43a-163i-66b725a6.mp4", "categories": ["BG"], "metrics": {"area": 43, "cycles": 900, "cost": 135}, "color": 1, "shape": "KQ6tP4izikI9LnlA0cg7QQAAAABpFYZBAAAAABxxgUI="},
     {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 59, "cycles": 257, "cost": 140}, "color": 1, "shape": "ct4NQu7Qo0FELvJAt9KLQPZQ6kBp245A+1KxQI2UDEFeApVB3EPsQYP+40EJOupBrMkNQmK7pkE="},
     {"gif": "https://files.mors.technology/VAN_BERLO_S_ROTOR/140g-409c-43a-100i-T-827efa50.mp4", "categories": ["WG"], "metrics": {"area": 43, "cycles": 409, "cost": 140}, "color": 0, "shape": "SrBbQBjgmkIIAJlBARCWQl4ClUHcQ+xB+1KxQI2UDEE9LnlA0cg7QSkOrT+Is4pC20ASQO8NlkI="},
