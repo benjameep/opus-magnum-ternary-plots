@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/GRENADE_PELLET/120g-514c-47a-86i-62a6e38e.mp4", "categories": ["GC", "GI", "GX", "OGC", "FGR"], "metrics": {"area": 47, "cycles": 514, "cost": 120}, "color": 1, "shape": "vK4pQbruw0AAAAAAAAAAAAAAAAAAAEg2ebwEQDBliUENidxAav7oQeRlEkF848pB"},
+    {"gif": "https://files.mors.technology/GRENADE_PELLET/120g-514c-47a-86i-62a6e38e.mp4", "categories": ["GC", "GI", "GX", "FGR"], "metrics": {"area": 47, "cycles": 514, "cost": 120}, "color": 1, "shape": "vK4pQbruw0AAAAAAAAAAAAAAAAAAAEg2ebwEQDBliUENidxAav7oQeRlEkF848pB"},
     {"gif": "https://files.mors.technology/GRENADE_PELLET/120g-691c-40a-691i-87b80205.mp4", "categories": ["GA"], "metrics": {"area": 40, "cycles": 691, "cost": 120}, "color": 0, "shape": "ebwEQDBliUEAAAAAAABINgAAAAAKjYBB+xiLPqlUiEE="},
     {"gif": "https://files.mors.technology/GRENADE_PELLET/130g-674c-26a-113i-T-d4e921a9.mp4", "categories": ["BG", "TG"], "metrics": {"area": 26, "cycles": 674, "cost": 130}, "color": 2, "shape": "DYncQGr+6EF5vARAMGWJQfsYiz6pVIhBslCvPxrUq0I="},
     {"gif": "https://files.mors.technology/GRENADE_PELLET/130g-878c-25a-147i-T-651eeb3f.mp4", "categories": ["AG", "AI"], "metrics": {"area": 25, "cycles": 878, "cost": 130}, "color": 1, "shape": "gDQtNgAAyEII+2I/EH28QrJQrz8a1KtC+xiLPqlUiEEAAAAACo2AQQAAAAAAAMhC"},
