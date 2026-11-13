@@ -12,7 +12,7 @@
   "include_overlap": false,
   "solutions": [
     {"gif": "https://files.mors.technology/High-Gloss-Finish-110g-6035c-9306a-6083i-117h-102w-T-6a782c.mp4", "categories": ["GC", "GA", "GX", "OGC", "TG"], "metrics": {"area": 9306, "cycles": 6035, "cost": 110}, "color": 1, "shape": "kIQHQIZ7nD8AAAAAAAAAAAAAAADt+eU/Y1IgPKy75j8="},
-    {"gif": "https://files.mors.technology/HIGH_GLOSS_FINISH/145g-963c-82a-270i-79f2a225.mp4", "categories": [], "metrics": {"area": 82, "cycles": 963, "cost": 145}, "color": 2, "shape": "BQ1/QfFAE0GQhAdAhnucP2NSIDysu+Y/AVDyPmZgrkKeMbY/iqC/Qg=="},
+    {"gif": "https://files.mors.technology/HIGH_GLOSS_FINISH/145g-963c-82a-270i-79f2a225.mp4", "categories": ["FGR"], "metrics": {"area": 82, "cycles": 963, "cost": 145}, "color": 2, "shape": "BQ1/QfFAE0GQhAdAhnucP2NSIDysu+Y/AVDyPmZgrkKeMbY/iqC/Qg=="},
     {"gif": "https://files.mors.technology/High-Gloss-Finish-145g-6328c-37a-1067i-7h-6.5w-1055r-7e4fb3.mp4", "categories": [], "metrics": {"area": 37, "cycles": 6328, "cost": 145}, "color": 0, "shape": "950fPO2gxkJfpgM+FQrBQgFQ8j5mYK5CY1IgPKy75j8AAAAA7fnlPwAAAACeLsZC"},
     {"gif": "https://files.mors.technology/HIGH_GLOSS_FINISH/155g-802c-84a-232i-228f27ad.mp4", "categories": [], "metrics": {"area": 84, "cycles": 802, "cost": 155}, "color": 3, "shape": "8G8eQpTytkEFDX9B8UATQZ4xtj+KoL9Cd364P8IRwEJvOMdBt4RTQg=="},
     {"gif": "https://files.mors.technology/HIGH_GLOSS_FINISH/190g-2578c-37a-3838i-f092928b.mp4", "categories": ["BG", "BC"], "metrics": {"area": 37, "cycles": 2578, "cost": 190}, "color": 1, "shape": "rUoIPqjYx0IKjnw/YNzGQnd+uD/CEcBCnjG2P4qgv0IBUPI+ZmCuQl+mAz4VCsFC"},
