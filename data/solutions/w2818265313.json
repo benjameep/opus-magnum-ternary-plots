@@ -3,7 +3,7 @@
   "name": "Logistics",
   "collection": "Community",
   "group": "Best Of Weeklies 2",
-  "num_colors": 2,
+  "num_colors": 3,
   "metrics": [
     "area",
     "cycles",
@@ -11,7 +11,8 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/LOGISTICS/180g-228c-94a-783i-T-6c29df2c.mp4", "categories": ["GC_P", "GI_P", "GX_P", "TG_P"], "metrics": {"area": 94, "cycles": 228, "cost": 180}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAADIQoA0LUIAAJZCjUkbQnJPs0E="},
-    {"gif": "https://i.imgur.com/gGZhOKK.gif", "categories": ["CG_P", "CX_P", "SUM_P", "TC_P"], "metrics": {"area": 101, "cycles": 116, "cost": 310}, "color": 1, "shape": "jUkbQnJPs0GANC1CAACWQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/LOGISTICS/180g-228c-94a-783i-T-6c29df2c.mp4", "categories": ["GC_P", "GI_P", "GX_P", "TG_P"], "metrics": {"area": 94, "cycles": 228, "cost": 180}, "color": 0, "shape": "AAAAAAAAAAAAAAAAAADIQperKUI5BZdC/t8qQggnjkKpugxCAYCiQQ=="},
+    {"gif": "https://files.mors.technology/LOGISTICS/310g-116c-101a-90i-T-ee6dcb55.mp4", "categories": ["CG_P", "CI_P", "CX_P", "SUM_P", "TC_P"], "metrics": {"area": 101, "cycles": 116, "cost": 310}, "color": 1, "shape": "qboMQgGAokH+3ypCCCeOQtvyRUJu245CgDStQgAASEI="},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 100, "cycles": 128, "cost": 370}, "color": 2, "shape": "l6spQjkFl0Lb8kVCbtuOQv7fKkIIJ45C"}
   ]
 }
