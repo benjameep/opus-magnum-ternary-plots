@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Wheel-Representation-80g-434c-41a-291i-8h-7w-72.75r-0ee473.mp4", "categories": ["GC"], "metrics": {"area": 41, "cycles": 434, "cost": 80}, "color": 1, "shape": "PBbtQNXhiEAAAAAAAAAAAAAAAAAAAEg2q/DmNgAAyDdfXtdAGCiSQSTM5EChxlJB"},
+    {"gif": "https://files.mors.technology/Wheel-Representation-80g-434c-41a-291i-8h-7w-72.75r-0ee473.mp4", "categories": ["GC", "FGR"], "metrics": {"area": 41, "cycles": 434, "cost": 80}, "color": 1, "shape": "PBbtQNXhiEAAAAAAAAAAAAAAAAAAAEg2q/DmNgAAyDdfXtdAGCiSQSTM5EChxlJB"},
     {"gif": "https://files.mors.technology/Wheel-Representation-80g-463c-37a-311i-7h-6w-77.75r-88aac5.mp4", "categories": [], "metrics": {"area": 37, "cycles": 463, "cost": 80}, "color": 2, "shape": "X17XQBgokkGr8GY2AABIN6vwZjYAAMg3g2icQFjloEFo2NVAOrOcQQ=="},
     {"gif": "https://files.mors.technology/Wheel-Representation-80g-607c-25a-406i-6h-4.5w-101.5r-2c776e.mp4", "categories": ["GX"], "metrics": {"area": 25, "cycles": 607, "cost": 80}, "color": 3, "shape": "ipxCQCot5UGDaJxAWOWgQWtWEDcAAOE3q/DmNgAAyDer8GY2AADIN6vwZjYAAEg4"},
     {"gif": "https://files.mors.technology/Wheel-Representation-80g-667c-23a-443i-5h-4w-110.75r-0057e3.mp4", "categories": [], "metrics": {"area": 23, "cycles": 667, "cost": 80}, "color": 2, "shape": "ipxCQCot5UGr8GY2AABIOBIuSz9dyNxBmb4XQIpVBkI="},
