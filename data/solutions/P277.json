@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/100g-833c-47a-140i-3d0ba580.mp4", "categories": ["GC", "GX", "OGC", "FGR"], "metrics": {"area": 47, "cycles": 833, "cost": 100}, "color": 2, "shape": "6VujQXmhPEEAAAAAAAAAAAAAAAAAAEg2dXePQC9PPUEbMn1BsHDtQQ=="},
+    {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/100g-833c-47a-140i-3d0ba580.mp4", "categories": ["GC", "GX", "FGR"], "metrics": {"area": 47, "cycles": 833, "cost": 100}, "color": 2, "shape": "6VujQXmhPEEAAAAAAAAAAAAAAAAAAEg2dXePQC9PPUEbMn1BsHDtQQ=="},
     {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/100g-1411c-30a-237i-812929cc.mp4", "categories": ["GA"], "metrics": {"area": 30, "cycles": 1411, "cost": 100}, "color": 0, "shape": "AAAAAAAASDYAAAAARhcBQnV3j0AvTz1B"},
     {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/110g-1179c-28a-197i-07424ef6.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 28, "cycles": 1179, "cost": 110}, "color": 1, "shape": "AAAAAAAAyEKX40BBVRS6QpVskkGAzE9CGzJ9QbBw7UF1d49AL089QQAAAABGFwFC"},
     {"gif": "https://files.mors.technology/CALLIGRAPHER_S_INK/210g-186c-46a-115i-55ca3444.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 46, "cycles": 186, "cost": 210}, "color": 0, "shape": "ogWHQkxQcUI8FpVCDPxIQt3njUJ+vChCKCuCQkROFkLpW6NBeaE8QRsyfUGwcO1BlWySQYDMT0IqOYVCuBRxQg=="},
