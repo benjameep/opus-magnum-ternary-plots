@@ -11,7 +11,7 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/Precision-Machine-Oil-60g-191c-16a-32i-4h-4.5w-32r-8f5725.gif", "categories": ["GC", "BG"], "metrics": {"area": 16, "cycles": 191, "cost": 60}, "color": 1, "shape": "CPoLQZOhoUAAAAAAAAAAAAAAAAAAAEg2fpPWQPu8fUFIp9pAM1J7QWhWF0GD2N5A"},
+    {"gif": "https://files.mors.technology/Precision-Machine-Oil-60g-191c-16a-32i-4h-4.5w-32r-8f5725.gif", "categories": ["GC", "BG", "FGR"], "metrics": {"area": 16, "cycles": 191, "cost": 60}, "color": 1, "shape": "CPoLQZOhoUAAAAAAAAAAAAAAAAAAAEg2fpPWQPu8fUFIp9pAM1J7QWhWF0GD2N5A"},
     {"gif": "https://files.mors.technology/Precision-Machine-Oil-60g-245c-12a-41i-3h-3.5w-41r-a87426.gif", "categories": ["GA", "GX"], "metrics": {"area": 12, "cycles": 245, "cost": 60}, "color": 3, "shape": "AAAAAAAASDYAAAAA5DheQpGrh0AdMztCfpPWQPu8fUE="},
     {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/70g-94c-24a-32i-T-09484f7f.mp4", "categories": ["TG"], "metrics": {"area": 24, "cycles": 94, "cost": 70}, "color": 0, "shape": "hDu0QVMdUEEI+gtBk6GhQGhWF0GD2N5AI1CIQde4SEE="},
     {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/70g-106c-14a-34i-T-b2ab8bd8.mp4", "categories": [], "metrics": {"area": 14, "cycles": 106, "cost": 70}, "color": 2, "shape": "I1CIQde4SEFoVhdBg9jeQEin2kAzUntBfU1XQT1490E="},
@@ -29,7 +29,7 @@
     {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/160g-28c-26a-46i-T-1c37613b.mp4", "categories": [], "metrics": {"area": 26, "cycles": 28, "cost": 160}, "color": 1, "shape": "7RKnQpzrQEICWpJCBf4oQnW6gkLyuBxCWpeDQv48MEJtf4dCwPM9QqariUJ34kJC"},
     {"gif": "https://files.mors.technology/Precision-Machine-Oil-185g-27c-23a-54i-6h-5.5w-4r-1d0515.gif", "categories": ["CG"], "metrics": {"area": 23, "cycles": 27, "cost": 185}, "color": 2, "shape": "gDStQgAASELtEqdCnOtAQqariUJ34kJC8daJQqBJREKANK1CAQBIQg=="},
     {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/205g-27c-20a-48i-0a661a75.mp4", "categories": ["CX"], "metrics": {"area": 20, "cycles": 27, "cost": 205}, "color": 1, "shape": "/LSSQp3TXkJ/NK1CAABIQvHWiUKgSURCduuEQt5mYkI="},
-    {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/235g-29c-18a-52i-b6bc49fe.mp4", "categories": ["RA"], "metrics": {"area": 18, "cycles": 29, "cost": 235}, "color": 2, "shape": "BeSMQj1QbUL8tJJCndNeQnbrhELeZmJCcmlnQncyhUI="},
+    {"gif": "https://files.mors.technology/PRECISION_MACHINE_OIL/235g-29c-18a-52i-b6bc49fe.mp4", "categories": ["RA", "FRA"], "metrics": {"area": 18, "cycles": 29, "cost": 235}, "color": 2, "shape": "BeSMQj1QbUL8tJJCndNeQnbrhELeZmJCcmlnQncyhUI="},
     {"gif": "https://files.mors.technology/Precision-Machine-Oil-260g-27c-19a-168i-5h-5w-4r-d3d7cf.gif", "categories": ["CA"], "metrics": {"area": 19, "cycles": 27, "cost": 260}, "color": 0, "shape": "BeSMQj1QbUKANK1CAQBIQn80rUIAAEhC/LSSQp3TXkI="}
   ]
 }

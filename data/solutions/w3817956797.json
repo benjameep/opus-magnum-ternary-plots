@@ -3,7 +3,7 @@
   "name": "Faero Filament",
   "collection": "Community",
   "group": "Best Of Weeklies 2",
-  "num_colors": 3,
+  "num_colors": 4,
   "metrics": [
     "area",
     "cycles",
@@ -11,17 +11,19 @@
   ],
   "include_overlap": false,
   "solutions": [
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/170g-937c-57a-1861i-e0822d59.mp4", "categories": ["GC", "GA", "GI", "GX", "HG", "OGC"], "metrics": {"area": 57, "cycles": 937, "cost": 170}, "color": 2, "shape": "AAAAAAAAAAAAAAAA35aYQtxB+D52GIdCKXFnP4WfBT8="},
-    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 58, "cycles": 412, "cost": 180}, "color": 1, "shape": "2ntiQK/CAkApcWc/hZ8FP9xB+D52GIdCTqmjP1vLukLldxhAI2WvQg=="},
-    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 59, "cycles": 347, "cost": 185}, "color": 0, "shape": "WZQKQVcboUJiJwtBvyQKQc7wBkHn0JtA2ntiQK/CAkDldxhAI2WvQolsjUCV5cJCdtLxQCVGv0I="},
-    {"gif": "https://i.imgur.com/ypfrucU.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 55, "cycles": 714, "cost": 190}, "color": 0, "shape": "AAAAAAAAyEIaPKg/envGQk6poz9by7pC3EH4PnYYh0IAAAAA35aYQg=="},
-    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 58, "cycles": 379, "cost": 195}, "color": 2, "shape": "iWyNQJXlwkLldxhAI2WvQk6poz9by7pCGjyoP3p7xkI="},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/210g-223c-67a-144i-3728e41d.mp4", "categories": [], "metrics": {"area": 67, "cycles": 223, "cost": 210}, "color": 2, "shape": "lFufQb/Hq0JiJwtBvyQKQVmUCkFXG6FCpfohQWhPvELdBpRBWaKyQg=="},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/210g-275c-63a-162i-9d91a388.mp4", "categories": ["HC", "HR"], "metrics": {"area": 63, "cycles": 275, "cost": 210}, "color": 1, "shape": "WZQKQVcboUJ20vFAJUa/QqX6IUFoT7xC"},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/230g-116c-86a-116i-5367283f.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 86, "cycles": 116, "cost": 230}, "color": 1, "shape": "x2t9QgxQEkLO8AZB59CbQGInC0G/JApBlFufQb/Hq0KpYKRBFoKsQscXW0LbwIhCTpldQqkHiEI="},
-    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 76, "cycles": 166, "cost": 320}, "color": 0, "shape": "lFufQb/Hq0LdBpRBWaKyQuhjpkHP+69CqWCkQRaCrEI="},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/330g-117c-85a-106i-38103f3f.mp4", "categories": [], "metrics": {"area": 85, "cycles": 117, "cost": 330}, "color": 2, "shape": "6GOmQc/7r0LHF1tC28CIQqlgpEEWgqxC"},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/540g-53c-151a-103i-1c44a30d.mp4", "categories": ["RG", "RA", "RI", "ORG", "ORX"], "metrics": {"area": 151, "cycles": 53, "cost": 540}, "color": 0, "shape": "x2t9QgxQEkJOmV1CqQeIQrW0n0JnlldCyk6pQvF/Q0I="},
-    {"gif": "https://files.mors.technology/FAERO_FILAMENT/1795g-37c-261a-406i-312ebfa9.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 261, "cycles": 37, "cost": 1795}, "color": 1, "shape": "yk6pQvF/Q0K1tJ9CZ5ZXQoA0rUIAAEhC"}
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/60g-1356c-1381a-1356i-339144a0.mp4", "categories": ["GC", "GA", "GI", "GX", "OGC"], "metrics": {"area": 1381, "cycles": 1356, "cost": 60}, "color": 2, "shape": "AAAAAAAAAAAAAAAAkg6/QBOwlj9ZMsVAVUqWQL6NpkBtie5AJLiJQA=="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/170g-937c-57a-1861i-e0822d59.mp4", "categories": ["HG"], "metrics": {"area": 57, "cycles": 937, "cost": 170}, "color": 3, "shape": "E7CWP1kyxUAAAAAAkg6/QAAAAADk27BC/duwPsI0pkI="},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 58, "cycles": 412, "cost": 180}, "color": 1, "shape": "/duwPsI0pkJ6IEU/9fbBQrqHvj9WVbxCVUqWQL6NpkATsJY/WTLFQA=="},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 59, "cycles": 347, "cost": 185}, "color": 0, "shape": "C70yQa5jzkBtie5AJLiJQFVKlkC+jaZAuoe+P1ZVvEK1GCdANvzEQpggkUBfw8JCHEW3QPR3s0LvtC9BfrVjQQ=="},
+    {"gif": "https://i.imgur.com/ypfrucU.mp4", "categories": ["AG", "AC", "AX", "AI", "OAC"], "metrics": {"area": 55, "cycles": 714, "cost": 190}, "color": 0, "shape": "eiBFP/X2wUL927A+wjSmQgAAAADk27BCAAAAAAAAyEKUv0M/+B3HQg=="},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 58, "cycles": 379, "cost": 195}, "color": 2, "shape": "tRgnQDb8xEK6h74/VlW8QnogRT/19sFClL9DP/gdx0I="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/210g-223c-67a-144i-3728e41d.mp4", "categories": [], "metrics": {"area": 67, "cycles": 223, "cost": 210}, "color": 2, "shape": "T4FPQaaMtkLvtC9BfrVjQRxFt0D0d7NCVvrEQGXkwELFFjxBBW26Qg=="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/210g-275c-63a-162i-9d91a388.mp4", "categories": ["HC", "HR"], "metrics": {"area": 63, "cycles": 275, "cost": 210}, "color": 1, "shape": "HEW3QPR3s0KYIJFAX8PCQlb6xEBl5MBC"},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/230g-116c-86a-116i-5367283f.mp4", "categories": ["SUM", "SUM4", "OSUM", "OSUM4"], "metrics": {"area": 86, "cycles": 116, "cost": 230}, "color": 1, "shape": "/3MvQt5ZlUKIE4NCc+otQoqMI0Kg2bxBC70yQa5jzkDvtC9BfrVjQU+BT0GmjLZC+cNVQfHJtkInvyxC4CGWQg=="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/290g-65c-622a-81i-57886137.mp4", "categories": ["RG", "RI", "ORG", "ORX"], "metrics": {"area": 622, "cycles": 65, "cost": 290}, "color": 2, "shape": "iowjQqDZvEGIE4NCc+otQirrokJJHzxC"},
+    {"gif": "https://solution.media.missing", "categories": [], "metrics": {"area": 76, "cycles": 166, "cost": 320}, "color": 0, "shape": "rw1WQVKNuEL5w1VB8cm2Qk+BT0GmjLZCxRY8QQVtukI="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/330g-117c-85a-106i-38103f3f.mp4", "categories": [], "metrics": {"area": 85, "cycles": 117, "cost": 330}, "color": 2, "shape": "rw1WQVKNuEInvyxC4CGWQvnDVUHxybZC"},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/540g-53c-151a-103i-1c44a30d.mp4", "categories": ["RA"], "metrics": {"area": 151, "cycles": 53, "cost": 540}, "color": 0, "shape": "LlmqQouzREIq66JCSR88QogTg0Jz6i1C/3MvQt5ZlULkG5dCsYNhQg=="},
+    {"gif": "https://files.mors.technology/FAERO_FILAMENT/1795g-37c-261a-406i-312ebfa9.mp4", "categories": ["CG", "CA", "CX", "OCX"], "metrics": {"area": 261, "cycles": 37, "cost": 1795}, "color": 1, "shape": "LlmqQouzRELkG5dCsYNhQoA0rUIAAEhC"}
   ]
 }
